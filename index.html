@@ -1,0 +1,1215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TickBorne Research — AI-Powered Research Tracker for Lyme, Bartonella & Babesia</title>
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-base: #fafaf9;
+            --bg-card: #ffffff;
+            --bg-elevated: #f5f5f4;
+            --bg-dark: #1c1917;
+            --accent-primary: #059669;
+            --accent-primary-light: #d1fae5;
+            --accent-lyme: #059669;
+            --accent-lyme-light: #d1fae5;
+            --accent-bartonella: #db2777;
+            --accent-bartonella-light: #fce7f3;
+            --accent-babesia: #2563eb;
+            --accent-babesia-light: #dbeafe;
+            --accent-podcast: #d97706;
+            --accent-podcast-light: #fef3c7;
+            --text-primary: #1c1917;
+            --text-secondary: #57534e;
+            --text-muted: #a8a29e;
+            --border: #e7e5e4;
+            --border-dark: #d6d3d1;
+            --shadow-sm: 0 1px 2px rgba(0,0,0,0.05);
+            --shadow-md: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -2px rgba(0,0,0,0.1);
+            --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -4px rgba(0,0,0,0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--bg-base);
+            color: var(--text-primary);
+            line-height: 1.6;
+            font-size: 15px;
+        }
+
+        .container {
+            max-width: 1140px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        /* Navigation */
+        nav {
+            background: var(--bg-card);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .nav-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 64px;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            text-decoration: none;
+            color: var(--text-primary);
+        }
+
+        .logo-mark {
+            width: 36px;
+            height: 36px;
+            background: var(--accent-primary);
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: 600;
+            font-size: 14px;
+        }
+
+        .logo-text {
+            font-family: 'Newsreader', serif;
+            font-size: 1.25rem;
+            font-weight: 500;
+        }
+
+        .nav-links {
+            display: flex;
+            align-items: center;
+            gap: 32px;
+        }
+
+        .nav-links a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 500;
+            transition: color 0.15s;
+        }
+
+        .nav-links a:hover {
+            color: var(--text-primary);
+        }
+
+        .nav-actions {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .btn {
+            padding: 8px 16px;
+            border-radius: 6px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.15s;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            border: none;
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: var(--text-secondary);
+        }
+
+        .btn-secondary:hover {
+            color: var(--text-primary);
+            background: var(--bg-elevated);
+        }
+
+        .btn-primary {
+            background: var(--accent-primary);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #047857;
+        }
+
+        /* Hero */
+        .hero {
+            padding: 80px 0 64px;
+            text-align: center;
+            background: linear-gradient(180deg, var(--bg-card) 0%, var(--bg-base) 100%);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 6px 12px 6px 8px;
+            background: var(--accent-primary-light);
+            color: var(--accent-primary);
+            border-radius: 100px;
+            font-size: 13px;
+            font-weight: 500;
+            margin-bottom: 24px;
+        }
+
+        .hero-badge-dot {
+            width: 8px;
+            height: 8px;
+            background: var(--accent-primary);
+            border-radius: 50%;
+            animation: pulse-dot 2s infinite;
+        }
+
+        @keyframes pulse-dot {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        .hero h1 {
+            font-family: 'Newsreader', serif;
+            font-size: 3.25rem;
+            font-weight: 500;
+            line-height: 1.15;
+            margin-bottom: 20px;
+            letter-spacing: -0.02em;
+            max-width: 720px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .hero h1 em {
+            font-style: italic;
+            color: var(--accent-primary);
+        }
+
+        .hero-subtitle {
+            font-size: 1.125rem;
+            color: var(--text-secondary);
+            max-width: 560px;
+            margin: 0 auto 32px;
+            line-height: 1.7;
+        }
+
+        .hero-cta {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            margin-bottom: 48px;
+        }
+
+        .btn-large {
+            padding: 12px 24px;
+            font-size: 15px;
+        }
+
+        .hero-stats {
+            display: flex;
+            justify-content: center;
+            gap: 48px;
+        }
+
+        .hero-stat {
+            text-align: center;
+        }
+
+        .hero-stat-value {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 1.75rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .hero-stat-label {
+            font-size: 13px;
+            color: var(--text-muted);
+            margin-top: 4px;
+        }
+
+        /* Main Content */
+        .main-content {
+            display: grid;
+            grid-template-columns: 240px 1fr;
+            gap: 48px;
+            padding: 48px 0;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            position: sticky;
+            top: 88px;
+            height: fit-content;
+        }
+
+        .sidebar-section {
+            margin-bottom: 32px;
+        }
+
+        .sidebar-title {
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-muted);
+            margin-bottom: 12px;
+        }
+
+        .sidebar-nav {
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+        }
+
+        .sidebar-link {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 10px 12px;
+            border-radius: 8px;
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.15s;
+        }
+
+        .sidebar-link:hover {
+            background: var(--bg-elevated);
+            color: var(--text-primary);
+        }
+
+        .sidebar-link.active {
+            background: var(--bg-card);
+            color: var(--text-primary);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .sidebar-link-icon {
+            width: 20px;
+            height: 20px;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 10px;
+        }
+
+        .icon-all { background: var(--bg-elevated); }
+        .icon-lyme { background: var(--accent-lyme-light); color: var(--accent-lyme); }
+        .icon-bartonella { background: var(--accent-bartonella-light); color: var(--accent-bartonella); }
+        .icon-babesia { background: var(--accent-babesia-light); color: var(--accent-babesia); }
+        .icon-podcast { background: var(--accent-podcast-light); color: var(--accent-podcast); }
+
+        .sidebar-link-count {
+            margin-left: auto;
+            font-size: 12px;
+            color: var(--text-muted);
+            font-family: 'IBM Plex Mono', monospace;
+        }
+
+        /* Pro Upgrade Card */
+        .upgrade-card {
+            background: linear-gradient(135deg, var(--bg-dark) 0%, #292524 100%);
+            border-radius: 12px;
+            padding: 20px;
+            color: white;
+        }
+
+        .upgrade-card h4 {
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+
+        .upgrade-card p {
+            font-size: 13px;
+            color: #a8a29e;
+            margin-bottom: 16px;
+            line-height: 1.5;
+        }
+
+        .upgrade-card .btn {
+            width: 100%;
+            justify-content: center;
+            background: white;
+            color: var(--text-primary);
+        }
+
+        .upgrade-card .btn:hover {
+            background: var(--bg-elevated);
+        }
+
+        /* Feed */
+        .feed {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .feed-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+
+        .feed-title {
+            font-family: 'Newsreader', serif;
+            font-size: 1.5rem;
+            font-weight: 500;
+        }
+
+        .feed-filters {
+            display: flex;
+            gap: 8px;
+        }
+
+        .filter-btn {
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 13px;
+            font-weight: 500;
+            background: transparent;
+            color: var(--text-secondary);
+            border: 1px solid var(--border);
+            cursor: pointer;
+            transition: all 0.15s;
+        }
+
+        .filter-btn:hover, .filter-btn.active {
+            background: var(--bg-card);
+            border-color: var(--border-dark);
+            color: var(--text-primary);
+        }
+
+        /* Paper Card */
+        .paper-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 24px;
+            transition: all 0.2s;
+        }
+
+        .paper-card:hover {
+            border-color: var(--border-dark);
+            box-shadow: var(--shadow-md);
+        }
+
+        .paper-header {
+            display: flex;
+            align-items: flex-start;
+            gap: 16px;
+            margin-bottom: 16px;
+        }
+
+        .paper-indicator {
+            width: 4px;
+            height: 100%;
+            min-height: 80px;
+            border-radius: 2px;
+            flex-shrink: 0;
+        }
+
+        .indicator-lyme { background: var(--accent-lyme); }
+        .indicator-bartonella { background: var(--accent-bartonella); }
+        .indicator-babesia { background: var(--accent-babesia); }
+
+        .paper-content {
+            flex: 1;
+        }
+
+        .paper-meta {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 10px;
+            flex-wrap: wrap;
+        }
+
+        .paper-tag {
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+        }
+
+        .tag-lyme { background: var(--accent-lyme-light); color: var(--accent-lyme); }
+        .tag-bartonella { background: var(--accent-bartonella-light); color: var(--accent-bartonella); }
+        .tag-babesia { background: var(--accent-babesia-light); color: var(--accent-babesia); }
+
+        .paper-type {
+            font-size: 12px;
+            color: var(--text-muted);
+            padding: 4px 8px;
+            background: var(--bg-elevated);
+            border-radius: 4px;
+        }
+
+        .paper-date {
+            font-size: 12px;
+            color: var(--text-muted);
+            margin-left: auto;
+        }
+
+        .paper-title {
+            font-family: 'Newsreader', serif;
+            font-size: 1.25rem;
+            font-weight: 500;
+            line-height: 1.4;
+            margin-bottom: 12px;
+            color: var(--text-primary);
+        }
+
+        .paper-title a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        .paper-title a:hover {
+            color: var(--accent-primary);
+        }
+
+        /* AI Summary Section */
+        .ai-summary {
+            background: var(--bg-elevated);
+            border-radius: 8px;
+            padding: 16px;
+            margin-bottom: 16px;
+        }
+
+        .ai-summary-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 10px;
+        }
+
+        .ai-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            padding: 3px 8px;
+            background: linear-gradient(135deg, #8b5cf6 0%, #6366f1 100%);
+            color: white;
+            border-radius: 4px;
+            font-size: 10px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+        }
+
+        .ai-summary-label {
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+
+        .ai-summary-text {
+            font-size: 14px;
+            color: var(--text-secondary);
+            line-height: 1.7;
+        }
+
+        .ai-summary-text strong {
+            color: var(--text-primary);
+            font-weight: 600;
+        }
+
+        /* Key Stats */
+        .key-stats {
+            display: flex;
+            gap: 16px;
+            margin-bottom: 16px;
+            flex-wrap: wrap;
+        }
+
+        .stat-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 12px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            font-size: 13px;
+        }
+
+        .stat-pill-icon {
+            color: var(--accent-primary);
+        }
+
+        .stat-pill-value {
+            font-weight: 600;
+            font-family: 'IBM Plex Mono', monospace;
+        }
+
+        .stat-pill-label {
+            color: var(--text-secondary);
+        }
+
+        .paper-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 16px;
+            border-top: 1px solid var(--border);
+        }
+
+        .paper-source {
+            font-size: 13px;
+            color: var(--text-muted);
+        }
+
+        .paper-source a {
+            color: var(--text-secondary);
+            text-decoration: none;
+        }
+
+        .paper-source a:hover {
+            color: var(--accent-primary);
+        }
+
+        .paper-actions {
+            display: flex;
+            gap: 8px;
+        }
+
+        .action-btn {
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 500;
+            background: transparent;
+            color: var(--text-secondary);
+            border: 1px solid var(--border);
+            cursor: pointer;
+            transition: all 0.15s;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .action-btn:hover {
+            background: var(--bg-elevated);
+            border-color: var(--border-dark);
+            color: var(--text-primary);
+        }
+
+        /* Locked Content (for free users) */
+        .locked-content {
+            position: relative;
+        }
+
+        .locked-overlay {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(180deg, transparent 0%, var(--bg-card) 60%);
+            display: flex;
+            align-items: flex-end;
+            justify-content: center;
+            padding-bottom: 24px;
+            border-radius: 8px;
+        }
+
+        .unlock-prompt {
+            text-align: center;
+            padding: 16px 24px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            box-shadow: var(--shadow-lg);
+        }
+
+        .unlock-prompt p {
+            font-size: 13px;
+            color: var(--text-secondary);
+            margin-bottom: 12px;
+        }
+
+        /* Podcast Card */
+        .podcast-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 16px;
+        }
+
+        .podcast-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            transition: all 0.2s;
+        }
+
+        .podcast-card:hover {
+            border-color: var(--border-dark);
+            box-shadow: var(--shadow-md);
+        }
+
+        .podcast-thumb {
+            height: 120px;
+            background: linear-gradient(135deg, var(--bg-elevated) 0%, var(--bg-dark) 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+
+        .podcast-play {
+            width: 48px;
+            height: 48px;
+            background: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-primary);
+            font-size: 16px;
+            box-shadow: var(--shadow-md);
+            transition: transform 0.15s;
+        }
+
+        .podcast-card:hover .podcast-play {
+            transform: scale(1.1);
+        }
+
+        .podcast-body {
+            padding: 16px;
+        }
+
+        .podcast-show {
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+            color: var(--accent-podcast);
+            margin-bottom: 6px;
+        }
+
+        .podcast-title {
+            font-size: 14px;
+            font-weight: 600;
+            line-height: 1.4;
+            margin-bottom: 8px;
+        }
+
+        .podcast-guest {
+            font-size: 13px;
+            color: var(--text-secondary);
+            margin-bottom: 12px;
+        }
+
+        .podcast-meta {
+            display: flex;
+            gap: 12px;
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+
+        /* CTA Section */
+        .cta-section {
+            background: var(--bg-dark);
+            color: white;
+            padding: 80px 0;
+            margin-top: 64px;
+        }
+
+        .cta-content {
+            text-align: center;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .cta-content h2 {
+            font-family: 'Newsreader', serif;
+            font-size: 2.5rem;
+            font-weight: 500;
+            margin-bottom: 16px;
+        }
+
+        .cta-content p {
+            font-size: 1.125rem;
+            color: #a8a29e;
+            margin-bottom: 32px;
+            line-height: 1.7;
+        }
+
+        .cta-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+        }
+
+        .btn-white {
+            background: white;
+            color: var(--text-primary);
+        }
+
+        .btn-white:hover {
+            background: var(--bg-elevated);
+        }
+
+        .btn-outline-white {
+            background: transparent;
+            color: white;
+            border: 1px solid rgba(255,255,255,0.3);
+        }
+
+        .btn-outline-white:hover {
+            background: rgba(255,255,255,0.1);
+            border-color: rgba(255,255,255,0.5);
+        }
+
+        /* Footer */
+        footer {
+            background: var(--bg-card);
+            border-top: 1px solid var(--border);
+            padding: 48px 0;
+        }
+
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .footer-left {
+            display: flex;
+            align-items: center;
+            gap: 24px;
+        }
+
+        .footer-text {
+            font-size: 13px;
+            color: var(--text-muted);
+        }
+
+        .footer-links {
+            display: flex;
+            gap: 20px;
+        }
+
+        .footer-links a {
+            font-size: 13px;
+            color: var(--text-secondary);
+            text-decoration: none;
+        }
+
+        .footer-links a:hover {
+            color: var(--text-primary);
+        }
+
+        /* Responsive */
+        @media (max-width: 900px) {
+            .main-content {
+                grid-template-columns: 1fr;
+            }
+
+            .sidebar {
+                position: static;
+                display: flex;
+                gap: 16px;
+                overflow-x: auto;
+                padding-bottom: 16px;
+            }
+
+            .sidebar-section {
+                margin-bottom: 0;
+            }
+
+            .sidebar-nav {
+                flex-direction: row;
+            }
+
+            .upgrade-card {
+                display: none;
+            }
+
+            .hero h1 {
+                font-size: 2.25rem;
+            }
+
+            .podcast-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .nav-links {
+                display: none;
+            }
+
+            .hero-stats {
+                flex-direction: column;
+                gap: 24px;
+            }
+
+            .hero-cta {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .key-stats {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="container">
+            <div class="nav-content">
+                <a href="#" class="logo">
+                    <div class="logo-mark">TB</div>
+                    <span class="logo-text">TickBorne Research</span>
+                </a>
+                <div class="nav-links">
+                    <a href="#">Research</a>
+                    <a href="#">Podcasts</a>
+                    <a href="#">Pricing</a>
+                    <a href="#">About</a>
+                </div>
+                <div class="nav-actions">
+                    <a href="#" class="btn btn-secondary">Sign In</a>
+                    <a href="#" class="btn btn-primary">Start Free →</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div class="container">
+            <div class="hero-badge">
+                <span class="hero-badge-dot"></span>
+                Updated 2 hours ago
+            </div>
+            <h1>Tick-borne disease research, <em>translated for humans</em></h1>
+            <p class="hero-subtitle">AI-powered summaries of the latest Lyme, Bartonella, and Babesia research. No more decoding medical jargon — we translate the science so you can focus on healing.</p>
+            <div class="hero-cta">
+                <a href="#" class="btn btn-primary btn-large">Browse Research Free →</a>
+                <a href="#" class="btn btn-secondary btn-large">See Pricing</a>
+            </div>
+            <div class="hero-stats">
+                <div class="hero-stat">
+                    <div class="hero-stat-value">3,241</div>
+                    <div class="hero-stat-label">Papers indexed</div>
+                </div>
+                <div class="hero-stat">
+                    <div class="hero-stat-value">156</div>
+                    <div class="hero-stat-label">Added this month</div>
+                </div>
+                <div class="hero-stat">
+                    <div class="hero-stat-value">94</div>
+                    <div class="hero-stat-label">Expert podcasts</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="container">
+        <div class="main-content">
+            <aside class="sidebar">
+                <div class="sidebar-section">
+                    <div class="sidebar-title">Browse</div>
+                    <nav class="sidebar-nav">
+                        <a href="#" class="sidebar-link active">
+                            <span class="sidebar-link-icon icon-all">📚</span>
+                            All Research
+                            <span class="sidebar-link-count">3.2k</span>
+                        </a>
+                        <a href="#" class="sidebar-link">
+                            <span class="sidebar-link-icon icon-lyme">L</span>
+                            Lyme Disease
+                            <span class="sidebar-link-count">1.8k</span>
+                        </a>
+                        <a href="#" class="sidebar-link">
+                            <span class="sidebar-link-icon icon-bartonella">B</span>
+                            Bartonella
+                            <span class="sidebar-link-count">847</span>
+                        </a>
+                        <a href="#" class="sidebar-link">
+                            <span class="sidebar-link-icon icon-babesia">B</span>
+                            Babesia
+                            <span class="sidebar-link-count">612</span>
+                        </a>
+                        <a href="#" class="sidebar-link">
+                            <span class="sidebar-link-icon icon-podcast">🎙</span>
+                            Expert Podcasts
+                            <span class="sidebar-link-count">94</span>
+                        </a>
+                    </nav>
+                </div>
+
+                <div class="sidebar-section">
+                    <div class="sidebar-title">Topics</div>
+                    <nav class="sidebar-nav">
+                        <a href="#" class="sidebar-link">Diagnosis</a>
+                        <a href="#" class="sidebar-link">Treatment Protocols</a>
+                        <a href="#" class="sidebar-link">Persistent Infection</a>
+                        <a href="#" class="sidebar-link">Co-infections</a>
+                        <a href="#" class="sidebar-link">Neurological</a>
+                    </nav>
+                </div>
+
+                <div class="upgrade-card">
+                    <h4>Upgrade to Pro</h4>
+                    <p>Get real-time updates, email alerts, and full AI analysis on every paper.</p>
+                    <a href="#" class="btn">Try Pro Free for 7 Days</a>
+                </div>
+            </aside>
+
+            <main class="feed">
+                <div class="feed-header">
+                    <h2 class="feed-title">Latest Research</h2>
+                    <div class="feed-filters">
+                        <button class="filter-btn active">All</button>
+                        <button class="filter-btn">Clinical Trials</button>
+                        <button class="filter-btn">Treatment</button>
+                        <button class="filter-btn">Diagnosis</button>
+                    </div>
+                </div>
+
+                <!-- Paper 1 - Full access -->
+                <article class="paper-card">
+                    <div class="paper-header">
+                        <div class="paper-indicator indicator-lyme"></div>
+                        <div class="paper-content">
+                            <div class="paper-meta">
+                                <span class="paper-tag tag-lyme">Lyme</span>
+                                <span class="paper-type">Randomized Controlled Trial</span>
+                                <span class="paper-date">Dec 28, 2025</span>
+                            </div>
+                            <h3 class="paper-title">
+                                <a href="#">Extended doxycycline therapy shows 23% improvement in post-treatment Lyme disease syndrome symptoms at 6-month follow-up</a>
+                            </h3>
+                            
+                            <div class="ai-summary">
+                                <div class="ai-summary-header">
+                                    <span class="ai-badge">✨ AI</span>
+                                    <span class="ai-summary-label">Plain-English Summary</span>
+                                </div>
+                                <p class="ai-summary-text">
+                                    <strong>What they found:</strong> Patients with lingering Lyme symptoms who took an additional 8 weeks of doxycycline showed meaningful improvement compared to placebo. <strong>The key insight:</strong> Those who started treatment within 12 months of their initial diagnosis saw the best results, suggesting earlier intervention matters. <strong>Limitations:</strong> The study couldn't determine whether benefits persist after stopping antibiotics.
+                                </p>
+                            </div>
+
+                            <div class="key-stats">
+                                <div class="stat-pill">
+                                    <span class="stat-pill-icon">📊</span>
+                                    <span class="stat-pill-value">312</span>
+                                    <span class="stat-pill-label">patients</span>
+                                </div>
+                                <div class="stat-pill">
+                                    <span class="stat-pill-icon">📈</span>
+                                    <span class="stat-pill-value">23%</span>
+                                    <span class="stat-pill-label">improvement vs placebo</span>
+                                </div>
+                                <div class="stat-pill">
+                                    <span class="stat-pill-icon">⏱</span>
+                                    <span class="stat-pill-value">8 weeks</span>
+                                    <span class="stat-pill-label">treatment duration</span>
+                                </div>
+                            </div>
+
+                            <div class="paper-footer">
+                                <div class="paper-source">
+                                    Fallon BA, et al. · <a href="#">JAMA Internal Medicine</a> · <a href="#">PubMed</a>
+                                </div>
+                                <div class="paper-actions">
+                                    <button class="action-btn">🔖 Save</button>
+                                    <button class="action-btn">📤 Share</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+
+                <!-- Paper 2 - Bartonella -->
+                <article class="paper-card">
+                    <div class="paper-header">
+                        <div class="paper-indicator indicator-bartonella"></div>
+                        <div class="paper-content">
+                            <div class="paper-meta">
+                                <span class="paper-tag tag-bartonella">Bartonella</span>
+                                <span class="paper-type">Research Article</span>
+                                <span class="paper-date">Dec 26, 2025</span>
+                            </div>
+                            <h3 class="paper-title">
+                                <a href="#">Novel PCR diagnostic identifies Bartonella in 34% of patients previously diagnosed with seronegative rheumatoid arthritis</a>
+                            </h3>
+                            
+                            <div class="ai-summary">
+                                <div class="ai-summary-header">
+                                    <span class="ai-badge">✨ AI</span>
+                                    <span class="ai-summary-label">Plain-English Summary</span>
+                                </div>
+                                <p class="ai-summary-text">
+                                    <strong>What they found:</strong> Using a more sensitive DNA test, researchers discovered that 1 in 3 patients diagnosed with a specific type of rheumatoid arthritis actually had Bartonella infection. <strong>Why it matters:</strong> 72% of these misdiagnosed patients improved with antibiotic treatment — suggesting many autoimmune diagnoses may actually be treatable infections. <strong>For patients:</strong> If you have seronegative RA that isn't responding to standard treatment, Bartonella testing may be worth discussing with your doctor.
+                                </p>
+                            </div>
+
+                            <div class="key-stats">
+                                <div class="stat-pill">
+                                    <span class="stat-pill-icon">🔬</span>
+                                    <span class="stat-pill-value">34%</span>
+                                    <span class="stat-pill-label">tested positive</span>
+                                </div>
+                                <div class="stat-pill">
+                                    <span class="stat-pill-icon">💊</span>
+                                    <span class="stat-pill-value">72%</span>
+                                    <span class="stat-pill-label">improved with antibiotics</span>
+                                </div>
+                            </div>
+
+                            <div class="paper-footer">
+                                <div class="paper-source">
+                                    Breitschwerdt EB, et al. · <a href="#">Clinical Infectious Diseases</a>
+                                </div>
+                                <div class="paper-actions">
+                                    <button class="action-btn">🔖 Save</button>
+                                    <button class="action-btn">📤 Share</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+
+                <!-- Paper 3 - Babesia with Pro Lock -->
+                <article class="paper-card">
+                    <div class="paper-header">
+                        <div class="paper-indicator indicator-babesia"></div>
+                        <div class="paper-content">
+                            <div class="paper-meta">
+                                <span class="paper-tag tag-babesia">Babesia</span>
+                                <span class="paper-type">Cohort Study</span>
+                                <span class="paper-date">Dec 24, 2025</span>
+                            </div>
+                            <h3 class="paper-title">
+                                <a href="#">Atovaquone-azithromycin combination demonstrates 89% clearance rate in chronic Babesia microti infection</a>
+                            </h3>
+                            
+                            <div class="ai-summary locked-content">
+                                <div class="ai-summary-header">
+                                    <span class="ai-badge">✨ AI</span>
+                                    <span class="ai-summary-label">Plain-English Summary</span>
+                                </div>
+                                <p class="ai-summary-text" style="filter: blur(4px);">
+                                    <strong>What they found:</strong> The standard atovaquone-azithromycin combination successfully cleared chronic babesiosis in 89% of patients after 10 weeks. <strong>Key insight:</strong> Patients who also had Lyme disease needed an average of 4 extra weeks to clear the parasite...
+                                </p>
+                                <div class="locked-overlay">
+                                    <div class="unlock-prompt">
+                                        <p>Upgrade to Pro to read full AI analysis</p>
+                                        <a href="#" class="btn btn-primary">Unlock with Pro →</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="paper-footer">
+                                <div class="paper-source">
+                                    Krause PJ, et al. · <a href="#">New England Journal of Medicine</a>
+                                </div>
+                                <div class="paper-actions">
+                                    <button class="action-btn">🔖 Save</button>
+                                    <button class="action-btn">📤 Share</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+
+                <!-- Podcast Section -->
+                <div class="feed-header" style="margin-top: 48px;">
+                    <h2 class="feed-title">Recent Expert Podcasts</h2>
+                    <a href="#" class="btn btn-secondary">View All →</a>
+                </div>
+
+                <div class="podcast-grid">
+                    <article class="podcast-card">
+                        <div class="podcast-thumb">
+                            <div class="podcast-play">▶</div>
+                        </div>
+                        <div class="podcast-body">
+                            <div class="podcast-show">Tick Boot Camp</div>
+                            <h4 class="podcast-title">Dr. Richard Horowitz on MSIDS and Multi-Drug Protocols</h4>
+                            <p class="podcast-guest">Richard Horowitz, MD — Author, "Why Can't I Get Better?"</p>
+                            <div class="podcast-meta">
+                                <span>1h 23m</span>
+                                <span>Dec 18, 2025</span>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="podcast-card">
+                        <div class="podcast-thumb">
+                            <div class="podcast-play">▶</div>
+                        </div>
+                        <div class="podcast-body">
+                            <div class="podcast-show">Huberman Lab</div>
+                            <h4 class="podcast-title">Tick-Borne Infections: Diagnosis & the Immune System</h4>
+                            <p class="podcast-guest">Paul Auwaerter, MD — Johns Hopkins</p>
+                            <div class="podcast-meta">
+                                <span>2h 47m</span>
+                                <span>Dec 12, 2025</span>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <section class="cta-section">
+        <div class="container">
+            <div class="cta-content">
+                <h2>Stay ahead of the research</h2>
+                <p>Get AI-powered summaries of new tick-borne disease research delivered to your inbox. No jargon, just actionable insights.</p>
+                <div class="cta-buttons">
+                    <a href="#" class="btn btn-white btn-large">Start Free Trial →</a>
+                    <a href="#" class="btn btn-outline-white btn-large">See Pricing</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-left">
+                    <a href="#" class="logo">
+                        <div class="logo-mark">TB</div>
+                        <span class="logo-text">TickBorne Research</span>
+                    </a>
+                    <span class="footer-text">Updated daily from PubMed</span>
+                </div>
+                <div class="footer-links">
+                    <a href="#">About</a>
+                    <a href="#">API</a>
+                    <a href="#">Privacy</a>
+                    <a href="#">Contact</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
