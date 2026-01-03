@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -31,753 +32,630 @@
             --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -4px rgba(0,0,0,0.1);
         }
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+```
+    * { margin: 0; padding: 0; box-sizing: border-box; }
 
-        body {
-            font-family: 'Inter', -apple-system, sans-serif;
-            background: var(--bg-base);
-            color: var(--text-primary);
-            line-height: 1.6;
-            font-size: 15px;
-        }
+    body {
+        font-family: 'Inter', -apple-system, sans-serif;
+        background: var(--bg-base);
+        color: var(--text-primary);
+        line-height: 1.6;
+        font-size: 15px;
+    }
 
-        .container {
-            max-width: 1140px;
-            margin: 0 auto;
-            padding: 0 24px;
-        }
+    .container { max-width: 1140px; margin: 0 auto; padding: 0 24px; }
 
-        /* Navigation */
-        nav {
-            background: var(--bg-card);
-            border-bottom: 1px solid var(--border);
-            position: sticky;
-            top: 0;
-            z-index: 100;
-        }
+    /* Navigation */
+    nav {
+        background: var(--bg-card);
+        border-bottom: 1px solid var(--border);
+        position: sticky;
+        top: 0;
+        z-index: 100;
+    }
 
-        .nav-content {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            height: 64px;
-        }
+    .nav-content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 64px;
+    }
 
-        .logo {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            text-decoration: none;
-            color: var(--text-primary);
-        }
+    .logo {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        text-decoration: none;
+        color: var(--text-primary);
+    }
 
-        .logo-mark {
-            width: 36px;
-            height: 36px;
-            background: var(--accent-primary);
-            border-radius: 8px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: white;
-            font-weight: 600;
-            font-size: 14px;
-        }
+    .logo-mark {
+        width: 36px;
+        height: 36px;
+        background: var(--accent-primary);
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        font-weight: 600;
+        font-size: 14px;
+    }
 
-        .logo-text {
-            font-family: 'Newsreader', serif;
-            font-size: 1.25rem;
-            font-weight: 500;
-        }
+    .logo-text {
+        font-family: 'Newsreader', serif;
+        font-size: 1.25rem;
+        font-weight: 500;
+    }
 
-        .nav-links {
-            display: flex;
-            align-items: center;
-            gap: 32px;
-        }
+    .nav-tabs {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
 
-        .nav-links a {
-            color: var(--text-secondary);
-            text-decoration: none;
-            font-size: 14px;
-            font-weight: 500;
-            transition: color 0.15s;
-        }
+    .nav-tab {
+        padding: 8px 16px;
+        border-radius: 6px;
+        font-size: 14px;
+        font-weight: 500;
+        color: var(--text-secondary);
+        text-decoration: none;
+        cursor: pointer;
+        transition: all 0.15s;
+        border: none;
+        background: none;
+    }
 
-        .nav-links a:hover {
-            color: var(--text-primary);
-        }
+    .nav-tab:hover {
+        color: var(--text-primary);
+        background: var(--bg-elevated);
+    }
 
-        .nav-actions {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
+    .nav-tab.active {
+        color: var(--text-primary);
+        background: var(--bg-elevated);
+    }
 
-        .btn {
-            padding: 8px 16px;
-            border-radius: 6px;
-            font-size: 14px;
-            font-weight: 500;
-            cursor: pointer;
-            transition: all 0.15s;
-            text-decoration: none;
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            border: none;
-        }
+    /* Hero */
+    .hero {
+        padding: 80px 0 64px;
+        text-align: center;
+        background: linear-gradient(180deg, var(--bg-card) 0%, var(--bg-base) 100%);
+        border-bottom: 1px solid var(--border);
+    }
 
-        .btn-secondary {
-            background: transparent;
-            color: var(--text-secondary);
-        }
+    .hero-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 6px 12px 6px 8px;
+        background: var(--accent-primary-light);
+        color: var(--accent-primary);
+        border-radius: 100px;
+        font-size: 13px;
+        font-weight: 500;
+        margin-bottom: 24px;
+    }
 
-        .btn-secondary:hover {
-            color: var(--text-primary);
-            background: var(--bg-elevated);
-        }
+    .hero-badge-dot {
+        width: 8px;
+        height: 8px;
+        background: var(--accent-primary);
+        border-radius: 50%;
+        animation: pulse-dot 2s infinite;
+    }
 
-        .btn-primary {
-            background: var(--accent-primary);
-            color: white;
-        }
+    @keyframes pulse-dot {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.5; }
+    }
 
-        .btn-primary:hover {
-            background: #047857;
-        }
+    .hero h1 {
+        font-family: 'Newsreader', serif;
+        font-size: 3.25rem;
+        font-weight: 500;
+        line-height: 1.15;
+        margin-bottom: 20px;
+        letter-spacing: -0.02em;
+        max-width: 720px;
+        margin-left: auto;
+        margin-right: auto;
+    }
 
-        /* Hero */
-        .hero {
-            padding: 80px 0 64px;
-            text-align: center;
-            background: linear-gradient(180deg, var(--bg-card) 0%, var(--bg-base) 100%);
-            border-bottom: 1px solid var(--border);
-        }
+    .hero h1 em {
+        font-style: italic;
+        color: var(--accent-primary);
+    }
 
-        .hero-badge {
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            padding: 6px 12px 6px 8px;
-            background: var(--accent-primary-light);
-            color: var(--accent-primary);
-            border-radius: 100px;
-            font-size: 13px;
-            font-weight: 500;
-            margin-bottom: 24px;
-        }
+    .hero-subtitle {
+        font-size: 1.125rem;
+        color: var(--text-secondary);
+        max-width: 560px;
+        margin: 0 auto 32px;
+        line-height: 1.7;
+    }
 
-        .hero-badge-dot {
-            width: 8px;
-            height: 8px;
-            background: var(--accent-primary);
-            border-radius: 50%;
-            animation: pulse-dot 2s infinite;
-        }
+    .hero-stats {
+        display: flex;
+        justify-content: center;
+        gap: 48px;
+    }
 
-        @keyframes pulse-dot {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.5; }
-        }
+    .hero-stat { text-align: center; }
 
-        .hero h1 {
-            font-family: 'Newsreader', serif;
-            font-size: 3.25rem;
-            font-weight: 500;
-            line-height: 1.15;
-            margin-bottom: 20px;
-            letter-spacing: -0.02em;
-            max-width: 720px;
-            margin-left: auto;
-            margin-right: auto;
-        }
+    .hero-stat-value {
+        font-family: 'IBM Plex Mono', monospace;
+        font-size: 1.75rem;
+        font-weight: 600;
+        color: var(--text-primary);
+    }
 
-        .hero h1 em {
-            font-style: italic;
-            color: var(--accent-primary);
-        }
+    .hero-stat-label {
+        font-size: 13px;
+        color: var(--text-muted);
+        margin-top: 4px;
+    }
 
-        .hero-subtitle {
-            font-size: 1.125rem;
-            color: var(--text-secondary);
-            max-width: 560px;
-            margin: 0 auto 32px;
-            line-height: 1.7;
-        }
+    /* Main Content */
+    .main-content {
+        display: grid;
+        grid-template-columns: 240px 1fr;
+        gap: 48px;
+        padding: 48px 0;
+    }
 
-        .hero-cta {
-            display: flex;
-            justify-content: center;
-            gap: 12px;
-            margin-bottom: 48px;
-        }
+    /* Sidebar */
+    .sidebar {
+        position: sticky;
+        top: 88px;
+        height: fit-content;
+    }
 
-        .btn-large {
-            padding: 12px 24px;
-            font-size: 15px;
-        }
+    .sidebar-section { margin-bottom: 32px; }
 
-        .hero-stats {
-            display: flex;
-            justify-content: center;
-            gap: 48px;
-        }
+    .sidebar-title {
+        font-size: 11px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: var(--text-muted);
+        margin-bottom: 12px;
+    }
 
-        .hero-stat {
-            text-align: center;
-        }
+    .sidebar-nav {
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+    }
 
-        .hero-stat-value {
-            font-family: 'IBM Plex Mono', monospace;
-            font-size: 1.75rem;
-            font-weight: 600;
-            color: var(--text-primary);
-        }
+    .sidebar-link {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 10px 12px;
+        border-radius: 8px;
+        color: var(--text-secondary);
+        text-decoration: none;
+        font-size: 14px;
+        font-weight: 500;
+        transition: all 0.15s;
+        cursor: pointer;
+        border: none;
+        background: none;
+        width: 100%;
+        text-align: left;
+    }
 
-        .hero-stat-label {
-            font-size: 13px;
-            color: var(--text-muted);
-            margin-top: 4px;
-        }
+    .sidebar-link:hover {
+        background: var(--bg-elevated);
+        color: var(--text-primary);
+    }
 
-        /* Main Content */
-        .main-content {
-            display: grid;
-            grid-template-columns: 240px 1fr;
-            gap: 48px;
-            padding: 48px 0;
-        }
+    .sidebar-link.active {
+        background: var(--bg-card);
+        color: var(--text-primary);
+        box-shadow: var(--shadow-sm);
+    }
 
-        /* Sidebar */
+    .sidebar-link-icon {
+        width: 20px;
+        height: 20px;
+        border-radius: 4px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 10px;
+    }
+
+    .icon-all { background: var(--bg-elevated); }
+    .icon-lyme { background: var(--accent-lyme-light); color: var(--accent-lyme); }
+    .icon-bartonella { background: var(--accent-bartonella-light); color: var(--accent-bartonella); }
+    .icon-babesia { background: var(--accent-babesia-light); color: var(--accent-babesia); }
+
+    .sidebar-link-count {
+        margin-left: auto;
+        font-size: 12px;
+        color: var(--text-muted);
+        font-family: 'IBM Plex Mono', monospace;
+    }
+
+    /* Feed */
+    .feed {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .feed-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 8px;
+    }
+
+    .feed-title {
+        font-family: 'Newsreader', serif;
+        font-size: 1.5rem;
+        font-weight: 500;
+    }
+
+    /* Paper Card */
+    .paper-card {
+        background: var(--bg-card);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 24px;
+        transition: all 0.2s;
+    }
+
+    .paper-card:hover {
+        border-color: var(--border-dark);
+        box-shadow: var(--shadow-md);
+    }
+
+    .paper-header {
+        display: flex;
+        align-items: flex-start;
+        gap: 16px;
+    }
+
+    .paper-indicator {
+        width: 4px;
+        min-height: 80px;
+        border-radius: 2px;
+        flex-shrink: 0;
+    }
+
+    .indicator-lyme { background: var(--accent-lyme); }
+    .indicator-bartonella { background: var(--accent-bartonella); }
+    .indicator-babesia { background: var(--accent-babesia); }
+
+    .paper-content { flex: 1; }
+
+    .paper-meta {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        margin-bottom: 10px;
+        flex-wrap: wrap;
+    }
+
+    .paper-tag {
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-size: 11px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+    }
+
+    .tag-lyme { background: var(--accent-lyme-light); color: var(--accent-lyme); }
+    .tag-bartonella { background: var(--accent-bartonella-light); color: var(--accent-bartonella); }
+    .tag-babesia { background: var(--accent-babesia-light); color: var(--accent-babesia); }
+
+    .paper-type {
+        font-size: 12px;
+        color: var(--text-muted);
+        padding: 4px 8px;
+        background: var(--bg-elevated);
+        border-radius: 4px;
+    }
+
+    .paper-date {
+        font-size: 12px;
+        color: var(--text-muted);
+        margin-left: auto;
+    }
+
+    .paper-title {
+        font-family: 'Newsreader', serif;
+        font-size: 1.25rem;
+        font-weight: 500;
+        line-height: 1.4;
+        margin-bottom: 12px;
+        color: var(--text-primary);
+    }
+
+    .paper-title a {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    .paper-title a:hover { color: var(--accent-primary); }
+
+    /* AI Summary */
+    .ai-summary {
+        background: var(--bg-elevated);
+        border-radius: 8px;
+        padding: 16px;
+        margin-bottom: 16px;
+    }
+
+    .ai-summary-header {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin-bottom: 10px;
+    }
+
+    .ai-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+        padding: 3px 8px;
+        background: linear-gradient(135deg, #8b5cf6 0%, #6366f1 100%);
+        color: white;
+        border-radius: 4px;
+        font-size: 10px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+    }
+
+    .ai-summary-label {
+        font-size: 12px;
+        color: var(--text-muted);
+    }
+
+    .ai-summary-text {
+        font-size: 14px;
+        color: var(--text-secondary);
+        line-height: 1.7;
+    }
+
+    .ai-summary-text strong {
+        color: var(--text-primary);
+        font-weight: 600;
+    }
+
+    .paper-footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-top: 16px;
+        border-top: 1px solid var(--border);
+    }
+
+    .paper-source {
+        font-size: 13px;
+        color: var(--text-muted);
+    }
+
+    .paper-source a {
+        color: var(--text-secondary);
+        text-decoration: none;
+    }
+
+    .paper-source a:hover { color: var(--accent-primary); }
+
+    .paper-actions { display: flex; gap: 8px; }
+
+    .action-btn {
+        padding: 6px 12px;
+        border-radius: 6px;
+        font-size: 12px;
+        font-weight: 500;
+        background: transparent;
+        color: var(--text-secondary);
+        border: 1px solid var(--border);
+        cursor: pointer;
+        transition: all 0.15s;
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+        text-decoration: none;
+    }
+
+    .action-btn:hover {
+        background: var(--bg-elevated);
+        border-color: var(--border-dark);
+        color: var(--text-primary);
+    }
+
+    /* Podcast Card */
+    .podcast-card {
+        background: var(--bg-card);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 24px;
+        transition: all 0.2s;
+    }
+
+    .podcast-card:hover {
+        border-color: var(--border-dark);
+        box-shadow: var(--shadow-md);
+    }
+
+    .podcast-header {
+        display: flex;
+        align-items: flex-start;
+        gap: 16px;
+    }
+
+    .podcast-indicator {
+        width: 4px;
+        min-height: 80px;
+        border-radius: 2px;
+        flex-shrink: 0;
+        background: var(--accent-podcast);
+    }
+
+    .podcast-content { flex: 1; }
+
+    .podcast-meta {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        margin-bottom: 10px;
+        flex-wrap: wrap;
+    }
+
+    .podcast-show {
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-size: 11px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+        background: var(--accent-podcast-light);
+        color: var(--accent-podcast);
+    }
+
+    .podcast-date {
+        font-size: 12px;
+        color: var(--text-muted);
+        margin-left: auto;
+    }
+
+    .podcast-title {
+        font-family: 'Newsreader', serif;
+        font-size: 1.25rem;
+        font-weight: 500;
+        line-height: 1.4;
+        margin-bottom: 8px;
+        color: var(--text-primary);
+    }
+
+    .podcast-title a {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    .podcast-title a:hover { color: var(--accent-podcast); }
+
+    .podcast-guest {
+        font-size: 14px;
+        color: var(--text-secondary);
+        margin-bottom: 12px;
+    }
+
+    .podcast-footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-top: 16px;
+        border-top: 1px solid var(--border);
+    }
+
+    .podcast-duration {
+        font-size: 13px;
+        color: var(--text-muted);
+    }
+
+    /* Loading */
+    .loading {
+        text-align: center;
+        padding: 48px;
+        color: var(--text-muted);
+    }
+
+    .loading-spinner {
+        width: 32px;
+        height: 32px;
+        border: 3px solid var(--border);
+        border-top-color: var(--accent-primary);
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+        margin: 0 auto 16px;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* Page sections */
+    .page-section { display: none; }
+    .page-section.active { display: block; }
+
+    /* Footer */
+    footer {
+        background: var(--bg-card);
+        border-top: 1px solid var(--border);
+        padding: 48px 0;
+        margin-top: 64px;
+    }
+
+    .footer-content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .footer-left {
+        display: flex;
+        align-items: center;
+        gap: 24px;
+    }
+
+    .footer-text {
+        font-size: 13px;
+        color: var(--text-muted);
+    }
+
+    /* Responsive */
+    @media (max-width: 900px) {
+        .main-content { grid-template-columns: 1fr; }
         .sidebar {
-            position: sticky;
-            top: 88px;
-            height: fit-content;
-        }
-
-        .sidebar-section {
-            margin-bottom: 32px;
-        }
-
-        .sidebar-title {
-            font-size: 11px;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-            color: var(--text-muted);
-            margin-bottom: 12px;
-        }
-
-        .sidebar-nav {
+            position: static;
             display: flex;
-            flex-direction: column;
-            gap: 2px;
-        }
-
-        .sidebar-link {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            padding: 10px 12px;
-            border-radius: 8px;
-            color: var(--text-secondary);
-            text-decoration: none;
-            font-size: 14px;
-            font-weight: 500;
-            transition: all 0.15s;
-            cursor: pointer;
-        }
-
-        .sidebar-link:hover {
-            background: var(--bg-elevated);
-            color: var(--text-primary);
-        }
-
-        .sidebar-link.active {
-            background: var(--bg-card);
-            color: var(--text-primary);
-            box-shadow: var(--shadow-sm);
-        }
-
-        .sidebar-link-icon {
-            width: 20px;
-            height: 20px;
-            border-radius: 4px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 10px;
-        }
-
-        .icon-all { background: var(--bg-elevated); }
-        .icon-lyme { background: var(--accent-lyme-light); color: var(--accent-lyme); }
-        .icon-bartonella { background: var(--accent-bartonella-light); color: var(--accent-bartonella); }
-        .icon-babesia { background: var(--accent-babesia-light); color: var(--accent-babesia); }
-        .icon-podcast { background: var(--accent-podcast-light); color: var(--accent-podcast); }
-
-        .sidebar-link-count {
-            margin-left: auto;
-            font-size: 12px;
-            color: var(--text-muted);
-            font-family: 'IBM Plex Mono', monospace;
-        }
-
-        /* Pro Upgrade Card */
-        .upgrade-card {
-            background: linear-gradient(135deg, var(--bg-dark) 0%, #292524 100%);
-            border-radius: 12px;
-            padding: 20px;
-            color: white;
-        }
-
-        .upgrade-card h4 {
-            font-size: 14px;
-            font-weight: 600;
-            margin-bottom: 8px;
-        }
-
-        .upgrade-card p {
-            font-size: 13px;
-            color: #a8a29e;
-            margin-bottom: 16px;
-            line-height: 1.5;
-        }
-
-        .upgrade-card .btn {
-            width: 100%;
-            justify-content: center;
-            background: white;
-            color: var(--text-primary);
-        }
-
-        .upgrade-card .btn:hover {
-            background: var(--bg-elevated);
-        }
-
-        /* Feed */
-        .feed {
-            display: flex;
-            flex-direction: column;
             gap: 16px;
+            overflow-x: auto;
+            padding-bottom: 16px;
         }
+        .sidebar-section { margin-bottom: 0; }
+        .sidebar-nav { flex-direction: row; }
+        .hero h1 { font-size: 2.25rem; }
+    }
 
-        .feed-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 8px;
-        }
+    @media (max-width: 600px) {
+        .nav-tabs { display: none; }
+        .hero-stats { flex-direction: column; gap: 24px; }
+        .paper-meta { flex-direction: column; align-items: flex-start; gap: 8px; }
+        .paper-date { margin-left: 0; }
+    }
+</style>
+```
 
-        .feed-title {
-            font-family: 'Newsreader', serif;
-            font-size: 1.5rem;
-            font-weight: 500;
-        }
-
-        .feed-filters {
-            display: flex;
-            gap: 8px;
-        }
-
-        .filter-btn {
-            padding: 6px 12px;
-            border-radius: 6px;
-            font-size: 13px;
-            font-weight: 500;
-            background: transparent;
-            color: var(--text-secondary);
-            border: 1px solid var(--border);
-            cursor: pointer;
-            transition: all 0.15s;
-        }
-
-        .filter-btn:hover, .filter-btn.active {
-            background: var(--bg-card);
-            border-color: var(--border-dark);
-            color: var(--text-primary);
-        }
-
-        /* Paper Card */
-        .paper-card {
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            padding: 24px;
-            transition: all 0.2s;
-        }
-
-        .paper-card:hover {
-            border-color: var(--border-dark);
-            box-shadow: var(--shadow-md);
-        }
-
-        .paper-header {
-            display: flex;
-            align-items: flex-start;
-            gap: 16px;
-        }
-
-        .paper-indicator {
-            width: 4px;
-            min-height: 80px;
-            border-radius: 2px;
-            flex-shrink: 0;
-        }
-
-        .indicator-lyme { background: var(--accent-lyme); }
-        .indicator-bartonella { background: var(--accent-bartonella); }
-        .indicator-babesia { background: var(--accent-babesia); }
-
-        .paper-content {
-            flex: 1;
-        }
-
-        .paper-meta {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-            margin-bottom: 10px;
-            flex-wrap: wrap;
-        }
-
-        .paper-tag {
-            padding: 4px 8px;
-            border-radius: 4px;
-            font-size: 11px;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.03em;
-        }
-
-        .tag-lyme { background: var(--accent-lyme-light); color: var(--accent-lyme); }
-        .tag-bartonella { background: var(--accent-bartonella-light); color: var(--accent-bartonella); }
-        .tag-babesia { background: var(--accent-babesia-light); color: var(--accent-babesia); }
-
-        .paper-type {
-            font-size: 12px;
-            color: var(--text-muted);
-            padding: 4px 8px;
-            background: var(--bg-elevated);
-            border-radius: 4px;
-        }
-
-        .paper-date {
-            font-size: 12px;
-            color: var(--text-muted);
-            margin-left: auto;
-        }
-
-        .paper-title {
-            font-family: 'Newsreader', serif;
-            font-size: 1.25rem;
-            font-weight: 500;
-            line-height: 1.4;
-            margin-bottom: 12px;
-            color: var(--text-primary);
-        }
-
-        .paper-title a {
-            color: inherit;
-            text-decoration: none;
-        }
-
-        .paper-title a:hover {
-            color: var(--accent-primary);
-        }
-
-        /* AI Summary Section */
-        .ai-summary {
-            background: var(--bg-elevated);
-            border-radius: 8px;
-            padding: 16px;
-            margin-bottom: 16px;
-        }
-
-        .ai-summary-header {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            margin-bottom: 10px;
-        }
-
-        .ai-badge {
-            display: inline-flex;
-            align-items: center;
-            gap: 4px;
-            padding: 3px 8px;
-            background: linear-gradient(135deg, #8b5cf6 0%, #6366f1 100%);
-            color: white;
-            border-radius: 4px;
-            font-size: 10px;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.03em;
-        }
-
-        .ai-summary-label {
-            font-size: 12px;
-            color: var(--text-muted);
-        }
-
-        .ai-summary-text {
-            font-size: 14px;
-            color: var(--text-secondary);
-            line-height: 1.7;
-        }
-
-        .ai-summary-text strong {
-            color: var(--text-primary);
-            font-weight: 600;
-        }
-
-        .paper-footer {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding-top: 16px;
-            border-top: 1px solid var(--border);
-        }
-
-        .paper-source {
-            font-size: 13px;
-            color: var(--text-muted);
-        }
-
-        .paper-source a {
-            color: var(--text-secondary);
-            text-decoration: none;
-        }
-
-        .paper-source a:hover {
-            color: var(--accent-primary);
-        }
-
-        .paper-actions {
-            display: flex;
-            gap: 8px;
-        }
-
-        .action-btn {
-            padding: 6px 12px;
-            border-radius: 6px;
-            font-size: 12px;
-            font-weight: 500;
-            background: transparent;
-            color: var(--text-secondary);
-            border: 1px solid var(--border);
-            cursor: pointer;
-            transition: all 0.15s;
-            display: inline-flex;
-            align-items: center;
-            gap: 4px;
-        }
-
-        .action-btn:hover {
-            background: var(--bg-elevated);
-            border-color: var(--border-dark);
-            color: var(--text-primary);
-        }
-
-        /* Loading State */
-        .loading {
-            text-align: center;
-            padding: 48px;
-            color: var(--text-muted);
-        }
-
-        .loading-spinner {
-            width: 32px;
-            height: 32px;
-            border: 3px solid var(--border);
-            border-top-color: var(--accent-primary);
-            border-radius: 50%;
-            animation: spin 1s linear infinite;
-            margin: 0 auto 16px;
-        }
-
-        @keyframes spin {
-            to { transform: rotate(360deg); }
-        }
-
-        /* CTA Section */
-        .cta-section {
-            background: var(--bg-dark);
-            color: white;
-            padding: 80px 0;
-            margin-top: 64px;
-        }
-
-        .cta-content {
-            text-align: center;
-            max-width: 600px;
-            margin: 0 auto;
-        }
-
-        .cta-content h2 {
-            font-family: 'Newsreader', serif;
-            font-size: 2.5rem;
-            font-weight: 500;
-            margin-bottom: 16px;
-        }
-
-        .cta-content p {
-            font-size: 1.125rem;
-            color: #a8a29e;
-            margin-bottom: 32px;
-            line-height: 1.7;
-        }
-
-        .cta-buttons {
-            display: flex;
-            justify-content: center;
-            gap: 12px;
-        }
-
-        .btn-white {
-            background: white;
-            color: var(--text-primary);
-        }
-
-        .btn-white:hover {
-            background: var(--bg-elevated);
-        }
-
-        .btn-outline-white {
-            background: transparent;
-            color: white;
-            border: 1px solid rgba(255,255,255,0.3);
-        }
-
-        .btn-outline-white:hover {
-            background: rgba(255,255,255,0.1);
-            border-color: rgba(255,255,255,0.5);
-        }
-
-        /* Footer */
-        footer {
-            background: var(--bg-card);
-            border-top: 1px solid var(--border);
-            padding: 48px 0;
-        }
-
-        .footer-content {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .footer-left {
-            display: flex;
-            align-items: center;
-            gap: 24px;
-        }
-
-        .footer-text {
-            font-size: 13px;
-            color: var(--text-muted);
-        }
-
-        .footer-links {
-            display: flex;
-            gap: 20px;
-        }
-
-        .footer-links a {
-            font-size: 13px;
-            color: var(--text-secondary);
-            text-decoration: none;
-        }
-
-        .footer-links a:hover {
-            color: var(--text-primary);
-        }
-
-        /* Responsive */
-        @media (max-width: 900px) {
-            .main-content {
-                grid-template-columns: 1fr;
-            }
-
-            .sidebar {
-                position: static;
-                display: flex;
-                gap: 16px;
-                overflow-x: auto;
-                padding-bottom: 16px;
-            }
-
-            .sidebar-section {
-                margin-bottom: 0;
-            }
-
-            .sidebar-nav {
-                flex-direction: row;
-            }
-
-            .upgrade-card {
-                display: none;
-            }
-
-            .hero h1 {
-                font-size: 2.25rem;
-            }
-        }
-
-        @media (max-width: 600px) {
-            .nav-links {
-                display: none;
-            }
-
-            .hero-stats {
-                flex-direction: column;
-                gap: 24px;
-            }
-
-            .hero-cta {
-                flex-direction: column;
-                align-items: center;
-            }
-
-            .feed-filters {
-                display: none;
-            }
-
-            .paper-meta {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 8px;
-            }
-
-            .paper-date {
-                margin-left: 0;
-            }
-        }
-    </style>
 </head>
 <body>
     <nav>
         <div class="container">
             <div class="nav-content">
-                <a href="#" class="logo">
+                <a href="#" class="logo" onclick="showSection('research'); return false;">
                     <div class="logo-mark">TB</div>
                     <span class="logo-text">TickBorne Research</span>
                 </a>
-                <div class="nav-links">
-                    <a href="#">Research</a>
-                    <a href="#">About</a>
+                <div class="nav-tabs">
+                    <button class="nav-tab active" data-section="research">Research</button>
+                    <button class="nav-tab" data-section="podcasts">Podcasts</button>
                 </div>
-                <div class="nav-actions">
-                    <a href="https://github.com/jstrubel/tickborne-research" class="btn btn-secondary" target="_blank">GitHub</a>
-                </div>
+                <div style="width: 100px;"></div>
             </div>
         </div>
     </nav>
 
+```
+<!-- RESEARCH SECTION -->
+<div id="section-research" class="page-section active">
     <section class="hero">
         <div class="container">
             <div class="hero-badge">
@@ -793,15 +671,15 @@
                 </div>
                 <div class="hero-stat">
                     <div class="hero-stat-value" id="lyme-count">—</div>
-                    <div class="hero-stat-label">Lyme papers</div>
+                    <div class="hero-stat-label">Lyme</div>
                 </div>
                 <div class="hero-stat">
                     <div class="hero-stat-value" id="bartonella-count">—</div>
-                    <div class="hero-stat-label">Bartonella papers</div>
+                    <div class="hero-stat-label">Bartonella</div>
                 </div>
                 <div class="hero-stat">
                     <div class="hero-stat-value" id="babesia-count">—</div>
-                    <div class="hero-stat-label">Babesia papers</div>
+                    <div class="hero-stat-label">Babesia</div>
                 </div>
             </div>
         </div>
@@ -811,35 +689,29 @@
         <div class="main-content">
             <aside class="sidebar">
                 <div class="sidebar-section">
-                    <div class="sidebar-title">Browse</div>
-                    <nav class="sidebar-nav">
-                        <a class="sidebar-link active" data-filter="all">
+                    <div class="sidebar-title">Filter by Pathogen</div>
+                    <nav class="sidebar-nav" id="filter-nav">
+                        <button class="sidebar-link active" data-filter="all">
                             <span class="sidebar-link-icon icon-all">📚</span>
                             All Research
                             <span class="sidebar-link-count" id="count-all">—</span>
-                        </a>
-                        <a class="sidebar-link" data-filter="lyme">
+                        </button>
+                        <button class="sidebar-link" data-filter="lyme">
                             <span class="sidebar-link-icon icon-lyme">L</span>
                             Lyme Disease
                             <span class="sidebar-link-count" id="count-lyme">—</span>
-                        </a>
-                        <a class="sidebar-link" data-filter="bartonella">
+                        </button>
+                        <button class="sidebar-link" data-filter="bartonella">
                             <span class="sidebar-link-icon icon-bartonella">B</span>
                             Bartonella
                             <span class="sidebar-link-count" id="count-bartonella">—</span>
-                        </a>
-                        <a class="sidebar-link" data-filter="babesia">
+                        </button>
+                        <button class="sidebar-link" data-filter="babesia">
                             <span class="sidebar-link-icon icon-babesia">B</span>
                             Babesia
                             <span class="sidebar-link-count" id="count-babesia">—</span>
-                        </a>
+                        </button>
                     </nav>
-                </div>
-
-                <div class="upgrade-card">
-                    <h4>Open Source</h4>
-                    <p>This project is free and open source. Contribute on GitHub or suggest features.</p>
-                    <a href="https://github.com/jstrubel/tickborne-research" class="btn" target="_blank">View on GitHub</a>
                 </div>
             </aside>
 
@@ -847,7 +719,6 @@
                 <div class="feed-header">
                     <h2 class="feed-title">Latest Research</h2>
                 </div>
-
                 <div id="papers-container">
                     <div class="loading">
                         <div class="loading-spinner"></div>
@@ -857,221 +728,344 @@
             </main>
         </div>
     </div>
+</div>
 
-    <section class="cta-section">
+<!-- PODCASTS SECTION -->
+<div id="section-podcasts" class="page-section">
+    <section class="hero" style="padding: 60px 0 48px;">
         <div class="container">
-            <div class="cta-content">
-                <h2>Built by patients, for patients</h2>
-                <p>This is an open-source project to make tick-borne disease research more accessible. New papers are fetched daily from PubMed and summarized using AI.</p>
-                <div class="cta-buttons">
-                    <a href="https://github.com/jstrubel/tickborne-research" class="btn btn-white btn-large" target="_blank">Contribute on GitHub</a>
-                </div>
-            </div>
+            <h1 style="font-size: 2.5rem;">Expert Podcasts</h1>
+            <p class="hero-subtitle">Curated conversations with leading Lyme-literate physicians and researchers.</p>
         </div>
     </section>
 
-    <footer>
-        <div class="container">
-            <div class="footer-content">
-                <div class="footer-left">
-                    <a href="#" class="logo">
-                        <div class="logo-mark">TB</div>
-                        <span class="logo-text">TickBorne Research</span>
-                    </a>
-                    <span class="footer-text">Updated daily from PubMed</span>
+    <div class="container">
+        <div class="main-content" style="grid-template-columns: 1fr;">
+            <main class="feed">
+                <div id="podcasts-container">
+                    <!-- Podcasts will be rendered here -->
                 </div>
-                <div class="footer-links">
-                    <a href="https://github.com/jstrubel/tickborne-research" target="_blank">GitHub</a>
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/" target="_blank">PubMed</a>
-                </div>
+            </main>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <div class="container">
+        <div class="footer-content">
+            <div class="footer-left">
+                <a href="#" class="logo">
+                    <div class="logo-mark">TB</div>
+                    <span class="logo-text">TickBorne Research</span>
+                </a>
+                <span class="footer-text">Updated daily from PubMed</span>
             </div>
         </div>
-    </footer>
+    </div>
+</footer>
 
-    <script>
-        // Global state
-        let allPapers = [];
-        let currentFilter = 'all';
-
-        // Fetch and render papers
-        async function init() {
-            try {
-                const response = await fetch('data/papers.json');
-                const data = await response.json();
-                allPapers = data.papers;
-
-                // Update stats
-                updateStats(data);
-
-                // Render papers
-                renderPapers(allPapers);
-
-                // Setup filters
-                setupFilters();
-
-            } catch (error) {
-                console.error('Error loading papers:', error);
-                document.getElementById('papers-container').innerHTML = `
-                    <div class="loading">
-                        <p>Error loading papers. Please try again later.</p>
-                    </div>
-                `;
+<script>
+    // ===================
+    // PODCAST DATA (Manual curation)
+    // ===================
+    const PODCASTS = [
+        {
+            id: 1,
+            show: "Tick Boot Camp",
+            title: "Dr. Joseph Burrascano on the Evolution of Lyme Treatment",
+            guest: "Joseph Burrascano, MD — Pioneer of Lyme treatment protocols",
+            date: "Nov 2025",
+            duration: "1h 45m",
+            url: "https://www.youtube.com/watch?v=example1",
+            summary: {
+                topics: "Dr. Burrascano discusses his decades of experience treating tick-borne diseases, the evolution of treatment protocols, and why standard short-course antibiotics often fail.",
+                keyTakeaways: "Persistent infection is real in many patients. Treatment duration should be guided by clinical response, not arbitrary timelines. Co-infections must be addressed.",
+                forPatients: "If you're not improving with standard treatment, seeking a Lyme-literate physician who understands persistent infection may be crucial."
+            }
+        },
+        {
+            id: 2,
+            show: "Tick Boot Camp", 
+            title: "Dr. Mozayeni on Bartonella: The Stealth Pathogen",
+            guest: "Dr. Bijan Mozayeni — Bartonella researcher and clinician",
+            date: "Oct 2025",
+            duration: "1h 32m",
+            url: "https://www.youtube.com/watch?v=example2",
+            summary: {
+                topics: "Deep dive into Bartonella infections, why they're underdiagnosed, the connection to psychiatric symptoms, and current treatment approaches.",
+                keyTakeaways: "Bartonella can cause a wide range of symptoms including anxiety, rage, and neurological issues. Standard testing misses most cases. Combination antibiotics are often needed.",
+                forPatients: "If you have unexplained psychiatric symptoms, skin findings (striae), or lymph node issues alongside other tick-borne disease symptoms, Bartonella should be considered."
+            }
+        },
+        {
+            id: 3,
+            show: "Better Health Guy",
+            title: "Dr. Richard Horowitz on MSIDS and Multi-System Treatment",
+            guest: "Richard Horowitz, MD — Author of 'Why Can't I Get Better?'",
+            date: "Sep 2025",
+            duration: "2h 10m",
+            url: "https://www.youtube.com/watch?v=example3",
+            summary: {
+                topics: "Dr. Horowitz explains his MSIDS (Multiple Systemic Infectious Disease Syndrome) model and 16-point differential diagnosis map for complex chronic illness.",
+                keyTakeaways: "Chronic Lyme is often multi-factorial. Addressing inflammation, detox, hormones, and mitochondrial function alongside infections improves outcomes.",
+                forPatients: "A comprehensive approach that looks beyond just the infection often leads to better results than antibiotics alone."
+            }
+        },
+        {
+            id: 4,
+            show: "Tick Boot Camp",
+            title: "Understanding Babesia with Dr. Peter Krause",
+            guest: "Peter Krause, MD — Yale, leading Babesia researcher",
+            date: "Aug 2025",
+            duration: "1h 18m",
+            url: "https://www.youtube.com/watch?v=example4",
+            summary: {
+                topics: "The biology of Babesia parasites, why co-infection with Lyme worsens outcomes, current treatment protocols, and emerging therapies.",
+                keyTakeaways: "Babesia is a malaria-like parasite that can persist despite treatment. Night sweats, air hunger, and fatigue are hallmark symptoms. Atovaquone plus azithromycin is first-line treatment.",
+                forPatients: "If you have Lyme and aren't improving, or have prominent sweats and shortness of breath, testing for Babesia is important."
+            }
+        },
+        {
+            id: 5,
+            show: "Heal Podcast",
+            title: "Mold, Lyme, and the Cell Danger Response",
+            guest: "Dr. Neil Nathan — Author of 'Toxic'",
+            date: "Jul 2025",
+            duration: "1h 28m",
+            url: "https://www.youtube.com/watch?v=example5",
+            summary: {
+                topics: "How mold illness and tick-borne infections interact, the cell danger response theory, and why sensitive patients need gentle treatment approaches.",
+                keyTakeaways: "Many Lyme patients also have mold toxicity. The cell danger response can keep patients stuck. Treating in the right order matters.",
+                forPatients: "If you react badly to everything and can't tolerate treatments, addressing mold and calming the nervous system may need to come first."
             }
         }
+    ];
 
-        function updateStats(data) {
-            // Update last updated time
-            const date = new Date(data.generatedAt);
-            const timeAgo = getTimeAgo(date);
-            document.getElementById('last-updated').textContent = `Updated ${timeAgo}`;
+    // ===================
+    // STATE
+    // ===================
+    let allPapers = [];
+    let currentFilter = 'all';
 
-            // Count by pathogen
-            const counts = { lyme: 0, bartonella: 0, babesia: 0 };
-            data.papers.forEach(p => {
-                if (counts[p.pathogen] !== undefined) counts[p.pathogen]++;
+    // ===================
+    // INITIALIZATION
+    // ===================
+    async function init() {
+        setupNavTabs();
+        setupFilters();
+        await loadPapers();
+        renderPodcasts();
+    }
+
+    // ===================
+    // NAVIGATION
+    // ===================
+    function setupNavTabs() {
+        document.querySelectorAll('.nav-tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                const section = tab.dataset.section;
+                showSection(section);
             });
+        });
+    }
 
-            document.getElementById('total-papers').textContent = data.totalPapers;
-            document.getElementById('lyme-count').textContent = counts.lyme;
-            document.getElementById('bartonella-count').textContent = counts.bartonella;
-            document.getElementById('babesia-count').textContent = counts.babesia;
+    function showSection(sectionName) {
+        // Update nav tabs
+        document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+        document.querySelector(`.nav-tab[data-section="${sectionName}"]`)?.classList.add('active');
 
-            // Sidebar counts
-            document.getElementById('count-all').textContent = data.totalPapers;
-            document.getElementById('count-lyme').textContent = counts.lyme;
-            document.getElementById('count-bartonella').textContent = counts.bartonella;
-            document.getElementById('count-babesia').textContent = counts.babesia;
+        // Show/hide sections
+        document.querySelectorAll('.page-section').forEach(s => s.classList.remove('active'));
+        document.getElementById(`section-${sectionName}`)?.classList.add('active');
+    }
+
+    // ===================
+    // PAPERS
+    // ===================
+    async function loadPapers() {
+        try {
+            const response = await fetch('data/papers.json');
+            const data = await response.json();
+            allPapers = data.papers;
+            updateStats(data);
+            renderPapers(allPapers);
+        } catch (error) {
+            console.error('Error loading papers:', error);
+            document.getElementById('papers-container').innerHTML = `
+                <div class="loading"><p>Error loading papers. Please try again later.</p></div>
+            `;
         }
+    }
 
-        function getTimeAgo(date) {
-            const seconds = Math.floor((new Date() - date) / 1000);
-            const intervals = [
-                { label: 'year', seconds: 31536000 },
-                { label: 'month', seconds: 2592000 },
-                { label: 'day', seconds: 86400 },
-                { label: 'hour', seconds: 3600 },
-                { label: 'minute', seconds: 60 },
-            ];
+    function updateStats(data) {
+        const date = new Date(data.generatedAt);
+        document.getElementById('last-updated').textContent = `Updated ${getTimeAgo(date)}`;
 
-            for (const interval of intervals) {
-                const count = Math.floor(seconds / interval.seconds);
-                if (count >= 1) {
-                    return `${count} ${interval.label}${count > 1 ? 's' : ''} ago`;
-                }
-            }
-            return 'just now';
+        const counts = { lyme: 0, bartonella: 0, babesia: 0 };
+        data.papers.forEach(p => {
+            if (counts[p.pathogen] !== undefined) counts[p.pathogen]++;
+        });
+
+        document.getElementById('total-papers').textContent = data.totalPapers;
+        document.getElementById('lyme-count').textContent = counts.lyme;
+        document.getElementById('bartonella-count').textContent = counts.bartonella;
+        document.getElementById('babesia-count').textContent = counts.babesia;
+        document.getElementById('count-all').textContent = data.totalPapers;
+        document.getElementById('count-lyme').textContent = counts.lyme;
+        document.getElementById('count-bartonella').textContent = counts.bartonella;
+        document.getElementById('count-babesia').textContent = counts.babesia;
+    }
+
+    function getTimeAgo(date) {
+        const seconds = Math.floor((new Date() - date) / 1000);
+        const intervals = [
+            { label: 'year', seconds: 31536000 },
+            { label: 'month', seconds: 2592000 },
+            { label: 'day', seconds: 86400 },
+            { label: 'hour', seconds: 3600 },
+            { label: 'minute', seconds: 60 },
+        ];
+        for (const interval of intervals) {
+            const count = Math.floor(seconds / interval.seconds);
+            if (count >= 1) return `${count} ${interval.label}${count > 1 ? 's' : ''} ago`;
         }
+        return 'just now';
+    }
 
-        function renderPapers(papers) {
-            const container = document.getElementById('papers-container');
+    function setupFilters() {
+        document.getElementById('filter-nav').addEventListener('click', (e) => {
+            const btn = e.target.closest('.sidebar-link');
+            if (!btn) return;
 
-            if (papers.length === 0) {
-                container.innerHTML = `
-                    <div class="loading">
-                        <p>No papers found for this filter.</p>
-                    </div>
-                `;
-                return;
-            }
+            document.querySelectorAll('#filter-nav .sidebar-link').forEach(l => l.classList.remove('active'));
+            btn.classList.add('active');
 
-            container.innerHTML = papers.map(paper => createPaperCard(paper)).join('');
+            const filter = btn.dataset.filter;
+            currentFilter = filter;
+            const filtered = filter === 'all' ? allPapers : allPapers.filter(p => p.pathogen === filter);
+            renderPapers(filtered);
+        });
+    }
+
+    function renderPapers(papers) {
+        const container = document.getElementById('papers-container');
+        if (papers.length === 0) {
+            container.innerHTML = `<div class="loading"><p>No papers found.</p></div>`;
+            return;
         }
+        container.innerHTML = papers.map(paper => createPaperCard(paper)).join('');
+    }
 
-        function createPaperCard(paper) {
-            const pathogen = paper.pathogen || 'lyme';
-            const summary = paper.aiSummary || {};
+    function createPaperCard(paper) {
+        const pathogen = paper.pathogen || 'lyme';
+        const summary = paper.aiSummary || {};
 
-            // Build summary text
-            let summaryHtml = '';
-            if (summary.whatTheyFound) {
-                summaryHtml += `<strong>What they found:</strong> ${escapeHtml(summary.whatTheyFound)} `;
-            }
-            if (summary.whyItMatters) {
-                summaryHtml += `<strong>Why it matters:</strong> ${escapeHtml(summary.whyItMatters)} `;
-            }
-            if (summary.limitations) {
-                summaryHtml += `<strong>Limitations:</strong> ${escapeHtml(summary.limitations)}`;
-            }
+        let summaryHtml = '';
+        if (summary.whatTheyFound) summaryHtml += `<strong>What they found:</strong> ${escapeHtml(summary.whatTheyFound)} `;
+        if (summary.whyItMatters) summaryHtml += `<strong>Why it matters:</strong> ${escapeHtml(summary.whyItMatters)} `;
+        if (summary.limitations) summaryHtml += `<strong>Limitations:</strong> ${escapeHtml(summary.limitations)}`;
+        if (!summaryHtml) summaryHtml = '<em>AI summary not available.</em>';
 
-            // Fallback if no summary
-            if (!summaryHtml) {
-                summaryHtml = '<em>AI summary not available for this paper.</em>';
-            }
-
-            return `
-                <article class="paper-card">
-                    <div class="paper-header">
-                        <div class="paper-indicator indicator-${pathogen}"></div>
-                        <div class="paper-content">
-                            <div class="paper-meta">
-                                <span class="paper-tag tag-${pathogen}">${capitalize(pathogen)}</span>
-                                <span class="paper-type">${escapeHtml(paper.articleType || 'Research Article')}</span>
-                                <span class="paper-date">${escapeHtml(paper.publicationDate || '')}</span>
+        return `
+            <article class="paper-card">
+                <div class="paper-header">
+                    <div class="paper-indicator indicator-${pathogen}"></div>
+                    <div class="paper-content">
+                        <div class="paper-meta">
+                            <span class="paper-tag tag-${pathogen}">${capitalize(pathogen)}</span>
+                            <span class="paper-type">${escapeHtml(paper.articleType || 'Research Article')}</span>
+                            <span class="paper-date">${escapeHtml(paper.publicationDate || '')}</span>
+                        </div>
+                        <h3 class="paper-title">
+                            <a href="${escapeHtml(paper.pubmedUrl)}" target="_blank">${escapeHtml(paper.title)}</a>
+                        </h3>
+                        <div class="ai-summary">
+                            <div class="ai-summary-header">
+                                <span class="ai-badge">✨ AI</span>
+                                <span class="ai-summary-label">Plain-English Summary</span>
                             </div>
-                            <h3 class="paper-title">
-                                <a href="${escapeHtml(paper.pubmedUrl)}" target="_blank">${escapeHtml(paper.title)}</a>
-                            </h3>
-
-                            <div class="ai-summary">
-                                <div class="ai-summary-header">
-                                    <span class="ai-badge">✨ AI</span>
-                                    <span class="ai-summary-label">Plain-English Summary</span>
-                                </div>
-                                <p class="ai-summary-text">${summaryHtml}</p>
+                            <p class="ai-summary-text">${summaryHtml}</p>
+                        </div>
+                        <div class="paper-footer">
+                            <div class="paper-source">
+                                ${escapeHtml(paper.authors?.slice(0, 2).join(', ') || 'Unknown')}${paper.authors?.length > 2 ? ', et al.' : ''} · 
+                                ${escapeHtml(paper.journal || 'Journal')}
                             </div>
-
-                            <div class="paper-footer">
-                                <div class="paper-source">
-                                    ${escapeHtml(paper.authors?.slice(0, 2).join(', ') || 'Unknown')}${paper.authors?.length > 2 ? ', et al.' : ''} · 
-                                    <a href="${escapeHtml(paper.pubmedUrl)}" target="_blank">${escapeHtml(paper.journal || 'Journal')}</a>
-                                </div>
-                                <div class="paper-actions">
-                                    <a href="${escapeHtml(paper.pubmedUrl)}" target="_blank" class="action-btn">📄 PubMed</a>
-                                </div>
+                            <div class="paper-actions">
+                                <a href="${escapeHtml(paper.pubmedUrl)}" target="_blank" class="action-btn">📄 PubMed</a>
                             </div>
                         </div>
                     </div>
-                </article>
-            `;
-        }
+                </div>
+            </article>
+        `;
+    }
 
-        function setupFilters() {
-            const filterLinks = document.querySelectorAll('.sidebar-link[data-filter]');
+    // ===================
+    // PODCASTS
+    // ===================
+    function renderPodcasts() {
+        const container = document.getElementById('podcasts-container');
+        container.innerHTML = PODCASTS.map(podcast => createPodcastCard(podcast)).join('');
+    }
 
-            filterLinks.forEach(link => {
-                link.addEventListener('click', (e) => {
-                    e.preventDefault();
+    function createPodcastCard(podcast) {
+        return `
+            <article class="podcast-card" style="margin-bottom: 16px;">
+                <div class="podcast-header">
+                    <div class="podcast-indicator"></div>
+                    <div class="podcast-content">
+                        <div class="podcast-meta">
+                            <span class="podcast-show">${escapeHtml(podcast.show)}</span>
+                            <span class="podcast-date">${escapeHtml(podcast.date)}</span>
+                        </div>
+                        <h3 class="podcast-title">
+                            <a href="${escapeHtml(podcast.url)}" target="_blank">${escapeHtml(podcast.title)}</a>
+                        </h3>
+                        <p class="podcast-guest">${escapeHtml(podcast.guest)}</p>
+                        <div class="ai-summary">
+                            <div class="ai-summary-header">
+                                <span class="ai-badge">✨ AI</span>
+                                <span class="ai-summary-label">Episode Summary</span>
+                            </div>
+                            <p class="ai-summary-text">
+                                <strong>Topics covered:</strong> ${escapeHtml(podcast.summary.topics)}<br><br>
+                                <strong>Key takeaways:</strong> ${escapeHtml(podcast.summary.keyTakeaways)}<br><br>
+                                <strong>For patients:</strong> ${escapeHtml(podcast.summary.forPatients)}
+                            </p>
+                        </div>
+                        <div class="podcast-footer">
+                            <div class="podcast-duration">🎧 ${escapeHtml(podcast.duration)}</div>
+                            <div class="paper-actions">
+                                <a href="${escapeHtml(podcast.url)}" target="_blank" class="action-btn">▶️ Listen</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+        `;
+    }
 
-                    // Update active state
-                    filterLinks.forEach(l => l.classList.remove('active'));
-                    link.classList.add('active');
+    // ===================
+    // UTILITIES
+    // ===================
+    function escapeHtml(text) {
+        if (!text) return '';
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+    }
 
-                    // Filter papers
-                    const filter = link.dataset.filter;
-                    currentFilter = filter;
+    function capitalize(str) {
+        return str.charAt(0).toUpperCase() + str.slice(1);
+    }
 
-                    const filtered = filter === 'all' 
-                        ? allPapers 
-                        : allPapers.filter(p => p.pathogen === filter);
+    // ===================
+    // START
+    // ===================
+    init();
+</script>
+```
 
-                    renderPapers(filtered);
-                });
-            });
-        }
-
-        function escapeHtml(text) {
-            if (!text) return '';
-            const div = document.createElement('div');
-            div.textContent = text;
-            return div.innerHTML;
-        }
-
-        function capitalize(str) {
-            return str.charAt(0).toUpperCase() + str.slice(1);
-        }
-
-        // Initialize on page load
-        init();
-    </script>
 </body>
 </html>
