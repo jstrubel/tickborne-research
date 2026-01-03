@@ -748,6 +748,612 @@
         opacity: 0.5;
     }
 
+    /* =================== */
+    /* LEARN SECTION STYLES */
+    /* =================== */
+    .learn-layout {
+        display: grid;
+        grid-template-columns: 200px 1fr;
+        gap: 64px;
+        padding: 48px 0 96px;
+    }
+
+    .learn-toc {
+        position: relative;
+    }
+
+    .toc-sticky {
+        position: sticky;
+        top: 96px;
+    }
+
+    .toc-nav {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+    }
+
+    .toc-link {
+        padding: 8px 12px;
+        border-radius: var(--radius-sm);
+        font-size: 13px;
+        color: var(--text-secondary);
+        text-decoration: none;
+        transition: all 0.2s ease;
+        border-left: 2px solid transparent;
+    }
+
+    .toc-link:hover {
+        color: var(--text-primary);
+        background: var(--bg-tertiary);
+    }
+
+    .toc-link.active {
+        color: var(--accent-green);
+        border-left-color: var(--accent-green);
+        background: var(--accent-green-light);
+    }
+
+    .learn-content {
+        max-width: 720px;
+    }
+
+    .learn-section {
+        margin-bottom: 64px;
+        padding-bottom: 64px;
+        border-bottom: 1px solid var(--border-light);
+    }
+
+    .learn-section:last-child {
+        border-bottom: none;
+        margin-bottom: 0;
+    }
+
+    .section-heading {
+        font-family: 'Fraunces', serif;
+        font-size: 1.75rem;
+        font-weight: 500;
+        color: var(--text-primary);
+        margin-bottom: 20px;
+        letter-spacing: -0.02em;
+    }
+
+    .subsection-heading {
+        font-family: 'Fraunces', serif;
+        font-size: 1.25rem;
+        font-weight: 500;
+        color: var(--text-primary);
+        margin: 32px 0 16px;
+        letter-spacing: -0.01em;
+    }
+
+    .learn-content p {
+        color: var(--text-secondary);
+        line-height: 1.75;
+        margin-bottom: 16px;
+    }
+
+    .learn-content p:last-child {
+        margin-bottom: 0;
+    }
+
+    /* Info Cards */
+    .info-card {
+        background: var(--bg-secondary);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-lg);
+        padding: 24px;
+        margin: 24px 0;
+    }
+
+    .info-card.compact {
+        padding: 20px;
+    }
+
+    .info-card.warning {
+        background: #FFFBEB;
+        border-color: #FDE68A;
+    }
+
+    .info-card-header {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        margin-bottom: 12px;
+    }
+
+    .info-card-icon {
+        width: 36px;
+        height: 36px;
+        border-radius: var(--radius-sm);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .info-card-icon svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    .info-card-icon.blue {
+        background: var(--babesia-bg);
+        color: var(--babesia);
+    }
+
+    .info-card-icon.green {
+        background: var(--lyme-bg);
+        color: var(--lyme);
+    }
+
+    .info-card-icon.orange {
+        background: #FEF3C7;
+        color: #B45309;
+    }
+
+    .info-card h3 {
+        font-size: 1rem;
+        font-weight: 600;
+        color: var(--text-primary);
+    }
+
+    .info-card h4 {
+        font-size: 0.95rem;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 8px;
+    }
+
+    .info-card p {
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+
+    .grid-2 {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;
+        margin: 24px 0;
+    }
+
+    /* Tick Grid */
+    .tick-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;
+        margin: 24px 0;
+    }
+
+    .tick-card {
+        background: var(--bg-secondary);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-md);
+        padding: 20px;
+    }
+
+    .tick-name {
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 2px;
+    }
+
+    .tick-scientific {
+        font-size: 13px;
+        font-style: italic;
+        color: var(--text-muted);
+        margin-bottom: 12px;
+    }
+
+    .tick-card p {
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+
+    /* Pathogen Cards */
+    .pathogen-card {
+        background: var(--bg-secondary);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-lg);
+        overflow: hidden;
+        margin: 24px 0;
+    }
+
+    .pathogen-header {
+        padding: 24px;
+        border-bottom: 1px solid var(--border-light);
+    }
+
+    .pathogen-card.lyme .pathogen-header {
+        background: linear-gradient(135deg, var(--lyme-bg) 0%, #F0FAF3 100%);
+    }
+
+    .pathogen-card.bartonella .pathogen-header {
+        background: linear-gradient(135deg, var(--bartonella-bg) 0%, #FFF8F4 100%);
+    }
+
+    .pathogen-card.babesia .pathogen-header {
+        background: linear-gradient(135deg, var(--babesia-bg) 0%, #F4F8FF 100%);
+    }
+
+    .pathogen-badge {
+        display: inline-block;
+        padding: 4px 10px;
+        border-radius: 100px;
+        font-size: 11px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        margin-bottom: 12px;
+    }
+
+    .pathogen-badge.lyme { background: var(--lyme); color: white; }
+    .pathogen-badge.bartonella { background: var(--bartonella); color: white; }
+    .pathogen-badge.babesia { background: var(--babesia); color: white; }
+
+    .pathogen-header h3 {
+        font-family: 'Fraunces', serif;
+        font-size: 1.5rem;
+        font-weight: 500;
+        color: var(--text-primary);
+        margin-bottom: 4px;
+    }
+
+    .pathogen-scientific {
+        font-size: 14px;
+        font-style: italic;
+        color: var(--text-muted);
+    }
+
+    .pathogen-body {
+        padding: 24px;
+    }
+
+    .pathogen-body p {
+        margin-bottom: 16px;
+    }
+
+    .pathogen-details {
+        background: var(--bg-tertiary);
+        border-radius: var(--radius-md);
+        padding: 16px;
+    }
+
+    .detail-item {
+        font-size: 14px;
+        color: var(--text-secondary);
+        margin-bottom: 12px;
+    }
+
+    .detail-item:last-child {
+        margin-bottom: 0;
+    }
+
+    .detail-item strong {
+        color: var(--text-primary);
+    }
+
+    /* Mini Pathogen Cards */
+    .other-pathogens-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 16px;
+        margin: 16px 0;
+    }
+
+    .mini-pathogen-card {
+        background: var(--bg-secondary);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-md);
+        padding: 16px;
+    }
+
+    .mini-pathogen-card h4 {
+        font-size: 14px;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 2px;
+    }
+
+    .mini-scientific {
+        font-size: 12px;
+        font-style: italic;
+        color: var(--text-muted);
+        margin-bottom: 10px;
+    }
+
+    .mini-pathogen-card p {
+        font-size: 13px;
+        margin-bottom: 0;
+    }
+
+    /* Symptoms Grid */
+    .symptoms-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 16px;
+        margin: 24px 0;
+    }
+
+    .symptom-category {
+        background: var(--bg-secondary);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-md);
+        padding: 20px;
+    }
+
+    .symptom-category-header {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 12px;
+    }
+
+    .symptom-category-header svg {
+        width: 20px;
+        height: 20px;
+        color: var(--accent-green);
+    }
+
+    .symptom-category h4 {
+        font-size: 14px;
+        font-weight: 600;
+        color: var(--text-primary);
+    }
+
+    .symptom-category ul {
+        list-style: none;
+    }
+
+    .symptom-category li {
+        font-size: 13px;
+        color: var(--text-secondary);
+        padding: 4px 0;
+        padding-left: 16px;
+        position: relative;
+    }
+
+    .symptom-category li::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 11px;
+        width: 4px;
+        height: 4px;
+        border-radius: 50%;
+        background: var(--text-light);
+    }
+
+    /* Test List */
+    .test-list {
+        margin: 16px 0;
+    }
+
+    .test-item {
+        padding: 16px 0;
+        border-bottom: 1px solid var(--border-light);
+    }
+
+    .test-item:last-child {
+        border-bottom: none;
+    }
+
+    .test-name {
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 4px;
+    }
+
+    .test-desc {
+        font-size: 14px;
+        color: var(--text-secondary);
+    }
+
+    /* Treatment Comparison */
+    .treatment-comparison {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 24px;
+        margin: 24px 0;
+    }
+
+    .treatment-col {
+        background: var(--bg-secondary);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-lg);
+        padding: 24px;
+    }
+
+    .treatment-col h3 {
+        font-family: 'Fraunces', serif;
+        font-size: 1.1rem;
+        font-weight: 500;
+        color: var(--text-primary);
+        margin-bottom: 16px;
+        padding-bottom: 12px;
+        border-bottom: 1px solid var(--border-light);
+    }
+
+    .treatment-col ul {
+        list-style: none;
+    }
+
+    .treatment-col li {
+        font-size: 14px;
+        color: var(--text-secondary);
+        padding: 8px 0;
+        padding-left: 20px;
+        position: relative;
+    }
+
+    .treatment-col li::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 14px;
+        width: 6px;
+        height: 6px;
+        border-radius: 50%;
+        background: var(--accent-green);
+    }
+
+    /* Resource Grid */
+    .resource-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;
+        margin: 16px 0 32px;
+    }
+
+    .resource-grid.small {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    .resource-card {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        background: var(--bg-secondary);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-md);
+        padding: 20px;
+        text-decoration: none;
+        transition: all 0.2s ease;
+    }
+
+    .resource-card:hover {
+        border-color: var(--accent-green);
+        box-shadow: var(--shadow-sm);
+    }
+
+    .resource-card.mini {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+    }
+
+    .resource-icon {
+        width: 44px;
+        height: 44px;
+        border-radius: var(--radius-md);
+        background: var(--accent-green-light);
+        color: var(--accent-green);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+    }
+
+    .resource-icon svg {
+        width: 22px;
+        height: 22px;
+    }
+
+    .resource-text {
+        flex: 1;
+    }
+
+    .resource-text h4 {
+        font-size: 15px;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 4px;
+    }
+
+    .resource-text p {
+        font-size: 13px;
+        color: var(--text-muted);
+        margin-bottom: 0;
+    }
+
+    .resource-arrow {
+        width: 20px;
+        height: 20px;
+        color: var(--text-light);
+        flex-shrink: 0;
+        transition: transform 0.2s ease;
+    }
+
+    .resource-card:hover .resource-arrow {
+        transform: translateX(4px);
+        color: var(--accent-green);
+    }
+
+    /* Book List */
+    .book-list {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;
+        margin: 16px 0;
+    }
+
+    .book-item {
+        background: var(--bg-secondary);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-md);
+        padding: 20px;
+    }
+
+    .book-title {
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 2px;
+    }
+
+    .book-author {
+        font-size: 13px;
+        color: var(--accent-green);
+        margin-bottom: 10px;
+    }
+
+    .book-item p {
+        font-size: 13px;
+        margin-bottom: 0;
+    }
+
+    /* Learn Section Responsive */
+    @media (max-width: 1000px) {
+        .learn-layout {
+            grid-template-columns: 1fr;
+            gap: 32px;
+        }
+
+        .learn-toc {
+            display: none;
+        }
+
+        .other-pathogens-grid,
+        .symptoms-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+
+        .resource-grid.small {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+
+    @media (max-width: 700px) {
+        .grid-2,
+        .tick-grid,
+        .treatment-comparison,
+        .resource-grid,
+        .book-list {
+            grid-template-columns: 1fr;
+        }
+
+        .other-pathogens-grid,
+        .symptoms-grid {
+            grid-template-columns: 1fr;
+        }
+
+        .resource-grid.small {
+            grid-template-columns: 1fr;
+        }
+
+        .section-heading {
+            font-size: 1.5rem;
+        }
+    }
+
     /* Responsive */
     @media (max-width: 900px) {
         .main-layout {
@@ -847,6 +1453,7 @@
                 </a>
                 <div class="nav-links">
                     <button class="nav-link active" data-section="research">Research</button>
+                    <button class="nav-link" data-section="learn">Learn</button>
                     <button class="nav-link" data-section="podcasts">Podcasts</button>
                 </div>
                 <div class="nav-right">
@@ -948,6 +1555,559 @@
                         <p>Loading papers...</p>
                     </div>
                 </div>
+            </main>
+        </div>
+    </div>
+</div>
+
+<!-- LEARN SECTION -->
+<div id="section-learn" class="page-section">
+    <section class="hero" style="padding: 64px 0 48px;">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-eyebrow">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/>
+                        <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>
+                    </svg>
+                    Educational Overview
+                </div>
+                <h1>Understanding <span class="highlight">Tick-Borne Infections</span></h1>
+                <p class="hero-description">A comprehensive guide to vector-borne diseases — what they are, how you get them, and what to do about it.</p>
+            </div>
+        </div>
+    </section>
+
+    <div class="container">
+        <div class="learn-layout">
+            <!-- Table of Contents -->
+            <aside class="learn-toc">
+                <div class="toc-sticky">
+                    <div class="sidebar-title">On This Page</div>
+                    <nav class="toc-nav">
+                        <a href="#what-are-tbds" class="toc-link active">What Are Tick-Borne Diseases?</a>
+                        <a href="#transmission" class="toc-link">How You Get Infected</a>
+                        <a href="#pathogens" class="toc-link">The Pathogens</a>
+                        <a href="#symptoms" class="toc-link">Common Symptoms</a>
+                        <a href="#diagnosis" class="toc-link">Diagnosis Challenges</a>
+                        <a href="#treatment" class="toc-link">Treatment Overview</a>
+                        <a href="#resources" class="toc-link">Resources & Next Steps</a>
+                    </nav>
+                </div>
+            </aside>
+
+            <!-- Main Content -->
+            <main class="learn-content">
+                <!-- What Are TBDs -->
+                <section id="what-are-tbds" class="learn-section">
+                    <h2 class="section-heading">What Are Tick-Borne Diseases?</h2>
+                    <p>Tick-borne diseases (TBDs) are infections transmitted to humans and animals through the bite of infected ticks. These tiny arachnids can carry a variety of bacteria, parasites, and viruses that cause illness ranging from mild to severe.</p>
+                    <p>The term <strong>"vector-borne"</strong> refers to any disease transmitted by a living organism (the vector) — in this case, ticks. While mosquitoes transmit malaria and Zika, ticks are responsible for Lyme disease, Bartonella, Babesiosis, and many others.</p>
+                    
+                    <div class="info-card">
+                        <div class="info-card-header">
+                            <div class="info-card-icon blue">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="M12 16v-4"/>
+                                    <path d="M12 8h.01"/>
+                                </svg>
+                            </div>
+                            <h3>Why This Matters</h3>
+                        </div>
+                        <p>Tick-borne infections are among the fastest-growing infectious disease categories in the United States and Europe. The CDC estimates over 476,000 Americans are diagnosed with Lyme disease annually, and many experts believe the true number is significantly higher due to underreporting and diagnostic challenges.</p>
+                    </div>
+                </section>
+
+                <!-- Transmission -->
+                <section id="transmission" class="learn-section">
+                    <h2 class="section-heading">How You Get Infected</h2>
+                    <p>Infection occurs when an infected tick attaches to your skin and feeds on your blood. During feeding, pathogens in the tick's saliva or gut can transfer into your bloodstream.</p>
+                    
+                    <div class="grid-2">
+                        <div class="info-card compact">
+                            <h4>Tick Attachment Time</h4>
+                            <p>The risk of transmission increases the longer a tick remains attached. For Lyme disease, the traditional guideline suggested 36-48 hours, but recent research shows transmission can occur much faster — sometimes within hours.</p>
+                        </div>
+                        <div class="info-card compact">
+                            <h4>Not Just Ticks</h4>
+                            <p>While ticks are the primary vector, some pathogens (like Bartonella) can also be transmitted through flea bites, cat scratches, and potentially other biting insects. Blood transfusions can transmit Babesia.</p>
+                        </div>
+                    </div>
+
+                    <h3 class="subsection-heading">Common Tick Species</h3>
+                    <div class="tick-grid">
+                        <div class="tick-card">
+                            <div class="tick-name">Black-legged Tick</div>
+                            <div class="tick-scientific">Ixodes scapularis</div>
+                            <p>Also called the "deer tick." Primary vector for Lyme disease, Anaplasmosis, Babesiosis, and Powassan virus in the Eastern and Midwestern US.</p>
+                        </div>
+                        <div class="tick-card">
+                            <div class="tick-name">Western Black-legged Tick</div>
+                            <div class="tick-scientific">Ixodes pacificus</div>
+                            <p>Found along the Pacific coast. Transmits Lyme disease and Anaplasmosis in Western states.</p>
+                        </div>
+                        <div class="tick-card">
+                            <div class="tick-name">Lone Star Tick</div>
+                            <div class="tick-scientific">Amblyomma americanum</div>
+                            <p>Aggressive biter found in the Southeast. Transmits Ehrlichiosis and can trigger Alpha-gal syndrome (red meat allergy).</p>
+                        </div>
+                        <div class="tick-card">
+                            <div class="tick-name">American Dog Tick</div>
+                            <div class="tick-scientific">Dermacentor variabilis</div>
+                            <p>Widespread across the US. Primary vector for Rocky Mountain Spotted Fever and Tularemia.</p>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Pathogens -->
+                <section id="pathogens" class="learn-section">
+                    <h2 class="section-heading">The Pathogens</h2>
+                    <p>Ticks can carry multiple pathogens simultaneously, which is why co-infections are common and can complicate both diagnosis and treatment.</p>
+
+                    <!-- Lyme -->
+                    <div class="pathogen-card lyme">
+                        <div class="pathogen-header">
+                            <div class="pathogen-badge lyme">Bacteria</div>
+                            <h3>Lyme Disease</h3>
+                            <p class="pathogen-scientific">Borrelia burgdorferi (US), B. garinii, B. afzelii (Europe)</p>
+                        </div>
+                        <div class="pathogen-body">
+                            <p>The most common tick-borne illness in North America and Europe. Caused by spiral-shaped bacteria (spirochetes) that can disseminate throughout the body, affecting joints, the nervous system, and heart.</p>
+                            <div class="pathogen-details">
+                                <div class="detail-item">
+                                    <strong>Key symptoms:</strong> Erythema migrans (bull's-eye rash) in ~70% of cases, fatigue, joint pain, neurological symptoms, brain fog
+                                </div>
+                                <div class="detail-item">
+                                    <strong>Standard treatment:</strong> Doxycycline, amoxicillin, or cefuroxime for 2-4 weeks (acute); longer courses may be needed for disseminated or chronic cases
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Bartonella -->
+                    <div class="pathogen-card bartonella">
+                        <div class="pathogen-header">
+                            <div class="pathogen-badge bartonella">Bacteria</div>
+                            <h3>Bartonella</h3>
+                            <p class="pathogen-scientific">B. henselae, B. quintana, B. bacilliformis, and others</p>
+                        </div>
+                        <div class="pathogen-body">
+                            <p>Often called "cat scratch disease" but increasingly recognized as a significant tick-borne pathogen. Known for its neuropsychiatric manifestations and ability to infect blood vessel linings (endothelial cells).</p>
+                            <div class="pathogen-details">
+                                <div class="detail-item">
+                                    <strong>Key symptoms:</strong> Stretch mark-like skin striae, swollen lymph nodes, anxiety, rage/irritability, neurological issues, subcutaneous nodules
+                                </div>
+                                <div class="detail-item">
+                                    <strong>Standard treatment:</strong> Combination antibiotics often required — azithromycin, rifampin, doxycycline; fluoroquinolones for resistant cases
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Babesia -->
+                    <div class="pathogen-card babesia">
+                        <div class="pathogen-header">
+                            <div class="pathogen-badge babesia">Parasite</div>
+                            <h3>Babesiosis</h3>
+                            <p class="pathogen-scientific">Babesia microti (US), B. duncani, B. divergens (Europe)</p>
+                        </div>
+                        <div class="pathogen-body">
+                            <p>A malaria-like parasitic infection that invades and destroys red blood cells. Can range from asymptomatic to life-threatening, especially in immunocompromised individuals or those without a spleen.</p>
+                            <div class="pathogen-details">
+                                <div class="detail-item">
+                                    <strong>Key symptoms:</strong> Night sweats, air hunger/sighing, fatigue, chills, hemolytic anemia, dark urine
+                                </div>
+                                <div class="detail-item">
+                                    <strong>Standard treatment:</strong> Atovaquone + azithromycin (mild-moderate); clindamycin + quinine (severe); exchange transfusion for critical cases
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Other Pathogens -->
+                    <h3 class="subsection-heading">Other Tick-Borne Pathogens</h3>
+                    <div class="other-pathogens-grid">
+                        <div class="mini-pathogen-card">
+                            <h4>Anaplasmosis</h4>
+                            <p class="mini-scientific">Anaplasma phagocytophilum</p>
+                            <p>Infects white blood cells. Causes fever, headache, muscle pain. Treated with doxycycline.</p>
+                        </div>
+                        <div class="mini-pathogen-card">
+                            <h4>Ehrlichiosis</h4>
+                            <p class="mini-scientific">Ehrlichia chaffeensis</p>
+                            <p>Similar to Anaplasmosis. More common in southeastern US. Can be severe if untreated.</p>
+                        </div>
+                        <div class="mini-pathogen-card">
+                            <h4>Rocky Mountain Spotted Fever</h4>
+                            <p class="mini-scientific">Rickettsia rickettsii</p>
+                            <p>Potentially fatal if not treated early. Characteristic spotted rash. Requires immediate doxycycline.</p>
+                        </div>
+                        <div class="mini-pathogen-card">
+                            <h4>Powassan Virus</h4>
+                            <p class="mini-scientific">Flavivirus</p>
+                            <p>Rare but serious viral infection. Can cause encephalitis. No specific treatment; supportive care only.</p>
+                        </div>
+                        <div class="mini-pathogen-card">
+                            <h4>Tick-Borne Relapsing Fever</h4>
+                            <p class="mini-scientific">Borrelia hermsii, B. miyamotoi</p>
+                            <p>Related to Lyme but distinct. Causes recurring fevers. Treated with doxycycline or penicillin.</p>
+                        </div>
+                        <div class="mini-pathogen-card">
+                            <h4>Tularemia</h4>
+                            <p class="mini-scientific">Francisella tularensis</p>
+                            <p>Also known as "rabbit fever." Can be transmitted through tick bites, handling animals, or inhalation.</p>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Symptoms -->
+                <section id="symptoms" class="learn-section">
+                    <h2 class="section-heading">Common Symptoms</h2>
+                    <p>Tick-borne infections can affect virtually every organ system. Symptoms often overlap between different infections, making diagnosis challenging.</p>
+
+                    <div class="symptoms-grid">
+                        <div class="symptom-category">
+                            <div class="symptom-category-header">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+                                </svg>
+                                <h4>General / Systemic</h4>
+                            </div>
+                            <ul>
+                                <li>Fatigue (often profound)</li>
+                                <li>Fever, chills, sweats</li>
+                                <li>Flu-like symptoms</li>
+                                <li>Unexplained weight changes</li>
+                            </ul>
+                        </div>
+                        <div class="symptom-category">
+                            <div class="symptom-category-header">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="M8 14s1.5 2 4 2 4-2 4-2"/>
+                                    <line x1="9" y1="9" x2="9.01" y2="9"/>
+                                    <line x1="15" y1="9" x2="15.01" y2="9"/>
+                                </svg>
+                                <h4>Neurological</h4>
+                            </div>
+                            <ul>
+                                <li>Brain fog, cognitive issues</li>
+                                <li>Headaches, migraines</li>
+                                <li>Numbness, tingling</li>
+                                <li>Bell's palsy (facial drooping)</li>
+                                <li>Memory problems</li>
+                            </ul>
+                        </div>
+                        <div class="symptom-category">
+                            <div class="symptom-category-header">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+                                </svg>
+                                <h4>Psychiatric</h4>
+                            </div>
+                            <ul>
+                                <li>Anxiety, panic attacks</li>
+                                <li>Depression</li>
+                                <li>Irritability, rage</li>
+                                <li>Sleep disturbances</li>
+                                <li>Depersonalization</li>
+                            </ul>
+                        </div>
+                        <div class="symptom-category">
+                            <div class="symptom-category-header">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M18 8h1a4 4 0 0 1 0 8h-1"/>
+                                    <path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"/>
+                                    <line x1="6" y1="1" x2="6" y2="4"/>
+                                    <line x1="10" y1="1" x2="10" y2="4"/>
+                                    <line x1="14" y1="1" x2="14" y2="4"/>
+                                </svg>
+                                <h4>Musculoskeletal</h4>
+                            </div>
+                            <ul>
+                                <li>Joint pain (migratory)</li>
+                                <li>Muscle aches</li>
+                                <li>Neck stiffness</li>
+                                <li>Swelling</li>
+                            </ul>
+                        </div>
+                        <div class="symptom-category">
+                            <div class="symptom-category-header">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+                                </svg>
+                                <h4>Cardiovascular</h4>
+                            </div>
+                            <ul>
+                                <li>Heart palpitations</li>
+                                <li>Chest pain</li>
+                                <li>Shortness of breath</li>
+                                <li>POTS symptoms</li>
+                            </ul>
+                        </div>
+                        <div class="symptom-category">
+                            <div class="symptom-category-header">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="12" cy="12" r="4"/>
+                                    <path d="M12 2v2"/>
+                                    <path d="M12 20v2"/>
+                                    <path d="m4.93 4.93 1.41 1.41"/>
+                                    <path d="m17.66 17.66 1.41 1.41"/>
+                                    <path d="M2 12h2"/>
+                                    <path d="M20 12h2"/>
+                                    <path d="m6.34 17.66-1.41 1.41"/>
+                                    <path d="m19.07 4.93-1.41 1.41"/>
+                                </svg>
+                                <h4>Other</h4>
+                            </div>
+                            <ul>
+                                <li>Light/sound sensitivity</li>
+                                <li>Vision changes</li>
+                                <li>Rashes (various types)</li>
+                                <li>GI symptoms</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="info-card warning">
+                        <div class="info-card-header">
+                            <div class="info-card-icon orange">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/>
+                                    <line x1="12" y1="9" x2="12" y2="13"/>
+                                    <line x1="12" y1="17" x2="12.01" y2="17"/>
+                                </svg>
+                            </div>
+                            <h3>Important Note</h3>
+                        </div>
+                        <p>Many patients with tick-borne infections never recall a tick bite or develop the characteristic bull's-eye rash. If you have unexplained symptoms — especially a combination of fatigue, cognitive issues, and pain — and spend time outdoors, tick-borne infections should be considered.</p>
+                    </div>
+                </section>
+
+                <!-- Diagnosis -->
+                <section id="diagnosis" class="learn-section">
+                    <h2 class="section-heading">Diagnosis Challenges</h2>
+                    <p>Diagnosing tick-borne infections is notoriously difficult. Standard testing has significant limitations, and many patients go years without answers.</p>
+
+                    <h3 class="subsection-heading">Why Diagnosis Is Difficult</h3>
+                    <div class="grid-2">
+                        <div class="info-card compact">
+                            <h4>Test Sensitivity Issues</h4>
+                            <p>The standard two-tier Lyme test (ELISA + Western Blot) may miss up to 50% of cases, especially in early or late-stage disease. Tests measure antibody response, not the infection itself.</p>
+                        </div>
+                        <div class="info-card compact">
+                            <h4>Timing Matters</h4>
+                            <p>Antibodies take 4-6 weeks to develop. Testing too early yields false negatives. But waiting means the infection can disseminate.</p>
+                        </div>
+                        <div class="info-card compact">
+                            <h4>Co-Infections Complicate</h4>
+                            <p>Patients often have multiple tick-borne infections simultaneously. Each requires different testing, and one can mask or alter the presentation of another.</p>
+                        </div>
+                        <div class="info-card compact">
+                            <h4>No Gold Standard</h4>
+                            <p>Unlike strep throat, there's no simple, definitive test. Diagnosis often requires clinical judgment plus specialty testing.</p>
+                        </div>
+                    </div>
+
+                    <h3 class="subsection-heading">Testing Options</h3>
+                    <div class="test-list">
+                        <div class="test-item">
+                            <div class="test-name">Standard Two-Tier Testing</div>
+                            <div class="test-desc">ELISA screening followed by Western Blot confirmation. CDC-recommended but has sensitivity limitations.</div>
+                        </div>
+                        <div class="test-item">
+                            <div class="test-name">Specialty Labs (IGeneX, Vibrant, etc.)</div>
+                            <div class="test-desc">More sensitive testing panels that check for more antibody bands and additional species. Not universally accepted by mainstream medicine.</div>
+                        </div>
+                        <div class="test-item">
+                            <div class="test-name">PCR Testing</div>
+                            <div class="test-desc">Detects pathogen DNA directly. Highly specific but can miss infections if bacteria aren't circulating in blood.</div>
+                        </div>
+                        <div class="test-item">
+                            <div class="test-name">Blood Smear (Babesia)</div>
+                            <div class="test-desc">Microscopic examination can visualize Babesia parasites in red blood cells, though sensitivity is low.</div>
+                        </div>
+                        <div class="test-item">
+                            <div class="test-name">Clinical Diagnosis</div>
+                            <div class="test-desc">Lyme-literate physicians (LLMDs) often diagnose based on clinical presentation combined with test results, not test results alone.</div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Treatment -->
+                <section id="treatment" class="learn-section">
+                    <h2 class="section-heading">Treatment Overview</h2>
+                    <p>Treatment approaches vary significantly depending on whether you're seeing a conventional infectious disease doctor or a Lyme-literate physician. Here's an overview of both perspectives.</p>
+
+                    <div class="treatment-comparison">
+                        <div class="treatment-col">
+                            <h3>Conventional Approach</h3>
+                            <ul>
+                                <li>2-4 weeks of oral antibiotics for early Lyme</li>
+                                <li>IV antibiotics for neurological involvement</li>
+                                <li>Does not recognize chronic/persistent infection</li>
+                                <li>Lingering symptoms attributed to "post-treatment Lyme disease syndrome" (PTLDS)</li>
+                                <li>Limited co-infection testing</li>
+                            </ul>
+                        </div>
+                        <div class="treatment-col">
+                            <h3>ILADS / Lyme-Literate Approach</h3>
+                            <ul>
+                                <li>Treatment duration guided by clinical response</li>
+                                <li>Combination antibiotic protocols</li>
+                                <li>Recognizes persistent infection as possibility</li>
+                                <li>Aggressive co-infection testing and treatment</li>
+                                <li>Addresses biofilms, immune dysfunction, detox</li>
+                                <li>Integrative approaches (herbs, lifestyle, supplements)</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="info-card">
+                        <div class="info-card-header">
+                            <div class="info-card-icon green">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+                                </svg>
+                            </div>
+                            <h3>Important Disclaimer</h3>
+                        </div>
+                        <p>This information is educational and not medical advice. Treatment decisions should be made with a qualified healthcare provider who understands your individual situation. If you suspect you have a tick-borne infection, seek evaluation from a physician experienced in these conditions.</p>
+                    </div>
+                </section>
+
+                <!-- Resources -->
+                <section id="resources" class="learn-section">
+                    <h2 class="section-heading">Resources & Next Steps</h2>
+                    <p>Finding reliable information and appropriate care can be overwhelming. Here are trusted resources to help you navigate.</p>
+
+                    <h3 class="subsection-heading">Finding a Doctor</h3>
+                    <div class="resource-grid">
+                        <a href="https://www.ilads.org/patient-care/provider-search/" target="_blank" class="resource-card">
+                            <div class="resource-icon">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
+                                    <circle cx="8.5" cy="7" r="4"/>
+                                    <line x1="20" y1="8" x2="20" y2="14"/>
+                                    <line x1="23" y1="11" x2="17" y2="11"/>
+                                </svg>
+                            </div>
+                            <div class="resource-text">
+                                <h4>ILADS Provider Search</h4>
+                                <p>Find Lyme-literate physicians trained in ILADS guidelines</p>
+                            </div>
+                            <svg class="resource-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <line x1="5" y1="12" x2="19" y2="12"/>
+                                <polyline points="12 5 19 12 12 19"/>
+                            </svg>
+                        </a>
+                        <a href="https://www.lymedisease.org/find-lyme-literate-doctor/" target="_blank" class="resource-card">
+                            <div class="resource-icon">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="11" cy="11" r="8"/>
+                                    <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+                                </svg>
+                            </div>
+                            <div class="resource-text">
+                                <h4>LymeDisease.org Directory</h4>
+                                <p>Patient-recommended physician referrals</p>
+                            </div>
+                            <svg class="resource-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <line x1="5" y1="12" x2="19" y2="12"/>
+                                <polyline points="12 5 19 12 12 19"/>
+                            </svg>
+                        </a>
+                    </div>
+
+                    <h3 class="subsection-heading">Organizations & Education</h3>
+                    <div class="resource-grid">
+                        <a href="https://www.ilads.org/" target="_blank" class="resource-card">
+                            <div class="resource-text">
+                                <h4>ILADS</h4>
+                                <p>International Lyme and Associated Diseases Society — medical education and treatment guidelines</p>
+                            </div>
+                            <svg class="resource-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <line x1="5" y1="12" x2="19" y2="12"/>
+                                <polyline points="12 5 19 12 12 19"/>
+                            </svg>
+                        </a>
+                        <a href="https://www.lymedisease.org/" target="_blank" class="resource-card">
+                            <div class="resource-text">
+                                <h4>LymeDisease.org</h4>
+                                <p>Patient advocacy, research updates, and MyLymeData patient registry</p>
+                            </div>
+                            <svg class="resource-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <line x1="5" y1="12" x2="19" y2="12"/>
+                                <polyline points="12 5 19 12 12 19"/>
+                            </svg>
+                        </a>
+                        <a href="https://globallymealliance.org/" target="_blank" class="resource-card">
+                            <div class="resource-text">
+                                <h4>Global Lyme Alliance</h4>
+                                <p>Funding research for better diagnostics and treatments</p>
+                            </div>
+                            <svg class="resource-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <line x1="5" y1="12" x2="19" y2="12"/>
+                                <polyline points="12 5 19 12 12 19"/>
+                            </svg>
+                        </a>
+                        <a href="https://www.cdc.gov/ticks/" target="_blank" class="resource-card">
+                            <div class="resource-text">
+                                <h4>CDC Tick Information</h4>
+                                <p>Official prevention guidelines and tick identification</p>
+                            </div>
+                            <svg class="resource-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <line x1="5" y1="12" x2="19" y2="12"/>
+                                <polyline points="12 5 19 12 12 19"/>
+                            </svg>
+                        </a>
+                    </div>
+
+                    <h3 class="subsection-heading">Testing Labs</h3>
+                    <div class="resource-grid small">
+                        <a href="https://igenex.com/" target="_blank" class="resource-card mini">
+                            <h4>IGeneX</h4>
+                            <p>Specialty Lyme and tick-borne disease testing</p>
+                        </a>
+                        <a href="https://www.vibrant-wellness.com/" target="_blank" class="resource-card mini">
+                            <h4>Vibrant Wellness</h4>
+                            <p>Tickborne panel and co-infection testing</p>
+                        </a>
+                        <a href="https://www.mdlab.com/" target="_blank" class="resource-card mini">
+                            <h4>Medical Diagnostic Labs</h4>
+                            <p>Advanced testing including culture</p>
+                        </a>
+                        <a href="https://galaxydx.com/" target="_blank" class="resource-card mini">
+                            <h4>Galaxy Diagnostics</h4>
+                            <p>Specialized Bartonella testing</p>
+                        </a>
+                    </div>
+
+                    <h3 class="subsection-heading">Books Worth Reading</h3>
+                    <div class="book-list">
+                        <div class="book-item">
+                            <div class="book-title">"Why Can't I Get Better?"</div>
+                            <div class="book-author">Dr. Richard Horowitz</div>
+                            <p>Comprehensive guide to MSIDS and multi-system treatment approach</p>
+                        </div>
+                        <div class="book-item">
+                            <div class="book-title">"Toxic"</div>
+                            <div class="book-author">Dr. Neil Nathan</div>
+                            <p>Healing patients with mold, Lyme, and multiple chemical sensitivities</p>
+                        </div>
+                        <div class="book-item">
+                            <div class="book-title">"New Paradigms in Lyme Disease Treatment"</div>
+                            <div class="book-author">Connie Strasheim</div>
+                            <p>10 top doctors reveal healing strategies that work</p>
+                        </div>
+                        <div class="book-item">
+                            <div class="book-title">"Bitten"</div>
+                            <div class="book-author">Kris Newby</div>
+                            <p>Investigation into the origins of Lyme disease</p>
+                        </div>
+                    </div>
+                </section>
             </main>
         </div>
     </div>
@@ -1087,8 +2247,54 @@
     async function init() {
         setupNavTabs();
         setupFilters();
+        setupTocScroll();
         await loadPapers();
         renderPodcasts();
+    }
+
+    // ===================
+    // TABLE OF CONTENTS SCROLL TRACKING
+    // ===================
+    function setupTocScroll() {
+        const tocLinks = document.querySelectorAll('.toc-link');
+        const sections = document.querySelectorAll('.learn-section');
+        
+        if (sections.length === 0) return;
+
+        const observerOptions = {
+            rootMargin: '-100px 0px -70% 0px',
+            threshold: 0
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const id = entry.target.getAttribute('id');
+                    tocLinks.forEach(link => {
+                        link.classList.remove('active');
+                        if (link.getAttribute('href') === `#${id}`) {
+                            link.classList.add('active');
+                        }
+                    });
+                }
+            });
+        }, observerOptions);
+
+        sections.forEach(section => observer.observe(section));
+
+        // Smooth scroll for TOC links
+        tocLinks.forEach(link => {
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                const targetId = link.getAttribute('href').substring(1);
+                const target = document.getElementById(targetId);
+                if (target) {
+                    const offset = 100;
+                    const targetPosition = target.getBoundingClientRect().top + window.pageYOffset - offset;
+                    window.scrollTo({ top: targetPosition, behavior: 'smooth' });
+                }
+            });
+        });
     }
 
     // ===================
