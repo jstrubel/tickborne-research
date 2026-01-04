@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-01-03T06:17:31.838Z",
-  "totalPapers": 29,
+  "generatedAt": "2026-01-04T06:17:58.233Z",
+  "totalPapers": 30,
   "papers": [
     {
       "pmid": "41422730",
@@ -18,12 +18,12 @@
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
-        "whatTheyFound": "Researchers tested 345 urban rodents (rats and mice) across Spain and found that 8.1% carried disease-causing germs like Leishmania and Bartonella that can spread to humans through insect bites.",
-        "whyItMatters": "These findings show that common city rodents may help spread serious diseases to pets and people in urban areas, highlighting the need for better pest control and disease monitoring programs.",
-        "limitations": "The study only looked at three types of germs, so rodents may carry other important diseases not tested for.",
-        "raw": "**What they found:** Researchers tested 345 urban rodents (rats and mice) across Spain and found that 8.1% carried disease-causing germs like Leishmania and Bartonella that can spread to humans through insect bites.\n\n**Why it matters:** These findings show that common city rodents may help spread serious diseases to pets and people in urban areas, highlighting the need for better pest control and disease monitoring programs.\n\n**Limitations:** The study only looked at three types of germs, so rodents may carry other important diseases not tested for."
+        "whatTheyFound": "Researchers tested 345 urban rodents (rats and mice) across Spain and found that 8% carried disease-causing germs like Leishmania and Bartonella that can spread to humans through insect bites.",
+        "whyItMatters": "These findings show that common city rodents can harbor diseases that affect both animals and people, highlighting the need for better monitoring and control of urban rodent populations to protect public health.",
+        "limitations": "The study only looked at three specific types of germs, so other important diseases carried by urban rodents may have been missed.",
+        "raw": "**What they found:** Researchers tested 345 urban rodents (rats and mice) across Spain and found that 8% carried disease-causing germs like Leishmania and Bartonella that can spread to humans through insect bites.\n\n**Why it matters:** These findings show that common city rodents can harbor diseases that affect both animals and people, highlighting the need for better monitoring and control of urban rodent populations to protect public health.\n\n**Limitations:** The study only looked at three specific types of germs, so other important diseases carried by urban rodents may have been missed."
       },
-      "fetchedAt": "2026-01-03T06:16:44.731Z"
+      "fetchedAt": "2026-01-04T06:17:10.158Z"
     },
     {
       "pmid": "41481600",
@@ -41,12 +41,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "Researchers discovered that blocking the interaction between two specific proteins (BB0323 and BB0238) in Lyme disease bacteria can kill the germs and reduce infection in mice.",
-        "whyItMatters": "This offers a completely new way to treat Lyme disease by targeting how the bacteria's own proteins work together, rather than using traditional antibiotics.",
-        "limitations": "The treatment was only tested in mice, so we don't yet know if it will work safely and effectively in humans.",
-        "raw": "**What they found:** Researchers discovered that blocking the interaction between two specific proteins (BB0323 and BB0238) in Lyme disease bacteria can kill the germs and reduce infection in mice.\n\n**Why it matters:** This offers a completely new way to treat Lyme disease by targeting how the bacteria's own proteins work together, rather than using traditional antibiotics.\n\n**Limitations:** The treatment was only tested in mice, so we don't yet know if it will work safely and effectively in humans."
+        "whatTheyFound": "Researchers discovered that disrupting a specific protein interaction in Lyme disease bacteria can kill the germs. They tested over 62,000 compounds and found three that successfully block this interaction, with one showing promise in infected mice.",
+        "whyItMatters": "This opens up a completely new way to treat Lyme disease by targeting how the bacteria's own proteins work together, rather than using traditional antibiotics. This could lead to better treatments for patients with complicated Lyme infections.",
+        "limitations": "The study was only tested in mice, so human trials are still needed.",
+        "raw": "**What they found:** Researchers discovered that disrupting a specific protein interaction in Lyme disease bacteria can kill the germs. They tested over 62,000 compounds and found three that successfully block this interaction, with one showing promise in infected mice.\n\n**Why it matters:** This opens up a completely new way to treat Lyme disease by targeting how the bacteria's own proteins work together, rather than using traditional antibiotics. This could lead to better treatments for patients with complicated Lyme infections.\n\n**Limitations:** The study was only tested in mice, so human trials are still needed."
       },
-      "fetchedAt": "2026-01-03T06:15:24.738Z"
+      "fetchedAt": "2026-01-04T06:15:40.785Z"
     },
     {
       "pmid": "41480807",
@@ -63,12 +63,35 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "Researchers discovered that BosR, a protein in Lyme disease bacteria, controls many more genes than previously thought and helps the bacteria survive in both ticks and infected animals like humans.",
-        "whyItMatters": "Understanding how BosR works could lead to new treatments for Lyme disease, since this protein is essential for the bacteria to establish infections and move between ticks and people.",
-        "limitations": "The study may not fully capture how BosR works because it can control genes in multiple ways that weren't completely measured.",
-        "raw": "**What they found:** Researchers discovered that BosR, a protein in Lyme disease bacteria, controls many more genes than previously thought and helps the bacteria survive in both ticks and infected animals like humans.\n\n**Why it matters:** Understanding how BosR works could lead to new treatments for Lyme disease, since this protein is essential for the bacteria to establish infections and move between ticks and people.\n\n**Limitations:** The study may not fully capture how BosR works because it can control genes in multiple ways that weren't completely measured."
+        "whatTheyFound": "Scientists discovered that BosR, a protein in Lyme disease bacteria, controls many more genes than previously thought and helps the bacteria survive in both ticks and animals like humans.",
+        "whyItMatters": "Understanding how this protein works could lead to better treatments for Lyme disease, since it's crucial for the bacteria's ability to jump between ticks and humans and cause infection.",
+        "limitations": "The study may not fully account for all the ways BosR works, since it can control genes through multiple complex mechanisms.",
+        "raw": "**What they found:** Scientists discovered that BosR, a protein in Lyme disease bacteria, controls many more genes than previously thought and helps the bacteria survive in both ticks and animals like humans.\n\n**Why it matters:** Understanding how this protein works could lead to better treatments for Lyme disease, since it's crucial for the bacteria's ability to jump between ticks and humans and cause infection.\n\n**Limitations:** The study may not fully account for all the ways BosR works, since it can control genes through multiple complex mechanisms."
       },
-      "fetchedAt": "2026-01-03T06:15:30.185Z"
+      "fetchedAt": "2026-01-04T06:15:46.430Z"
+    },
+    {
+      "pmid": "41483516",
+      "title": "Tetracycline-induced alterations of gut microbiota and metabolism exacerbate imidacloprid susceptibility in honey bees (Apis mellifera).",
+      "abstract": "The honey bee (Apis mellifera) plays a vital role in global pollination, yet its health is increasingly threatened by multiple environmental stressors. Among these, the molecular interactions between gut microbiota disruption and pesticide exposure remains insufficiently understood. Here, we showed that tetracycline-induced gut microbiota dysbiosis significantly increased bee susceptibility to imidacloprid, leading to premature mortality. Microbiota-depleted bees also exhibited higher mortality under imidacloprid stress, confirming the protective role of a stable gut community. Taxonomic and functional analysis revealed pronounced shifts in bacterial composition, notably the reduction of Gilliamella and Bartonella and the enrichment of Lactobacillus and Commensalibacter, accompanied by broad perturbations in amino acid and carbohydrate metabolism in dysbiotic bees exposed to imidacloprid. Key metabolites with antioxidant and protective functions, including alanyl-glutamine, serotonin, and shikimic acid, were markedly reduced in the gut microbiota dysbiosis-imidacloprid group and correlated with changes in core bacterial taxa. Consistently, immune, detoxification, and nutritional genes were downregulated in bees with disturbed microbiota, indicating weakened antioxidant defense and metabolic capacity. Notably, dietary supplementation with alanyl-glutamine mitigated imidacloprid-induced mortality in honey bees, suggesting that restoring microbiota-derived metabolic functions could enhance host resilience towards imidacloprid toxicity. These findings provide direct evidence that gut microbiota integrity is critical for mitigating imidacloprid stress, and that disturbances in microbial balance heighten honey bee vulnerability to imidacloprid. This work underscores the ecological risk of combined antibiotic-pesticide exposure and emphasizes the microbiome's role as a key mediator of pollinator resilience.",
+      "authors": [
+        "Li Z",
+        "Li J",
+        "Shen J"
+      ],
+      "journal": "Journal of hazardous materials",
+      "publicationDate": "Dec 30, 2025",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41483516/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "Honey bees treated with the antibiotic tetracycline became much more vulnerable to a common pesticide (imidacloprid) and died sooner. The antibiotic disrupted their gut bacteria, which normally help protect against pesticide toxicity.",
+        "whyItMatters": "This shows that combining antibiotics and pesticides creates a double threat to bee health, which could worsen the ongoing decline of these crucial pollinators.",
+        "limitations": "This study was done in laboratory conditions, so real-world effects may differ.",
+        "raw": "**What they found:** Honey bees treated with the antibiotic tetracycline became much more vulnerable to a common pesticide (imidacloprid) and died sooner. The antibiotic disrupted their gut bacteria, which normally help protect against pesticide toxicity.\n\n**Why it matters:** This shows that combining antibiotics and pesticides creates a double threat to bee health, which could worsen the ongoing decline of these crucial pollinators.\n\n**Limitations:** This study was done in laboratory conditions, so real-world effects may differ."
+      },
+      "fetchedAt": "2026-01-04T06:16:37.790Z"
     },
     {
       "pmid": "41426016",
@@ -91,7 +114,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-01-03T06:16:39.386Z"
+      "fetchedAt": "2026-01-04T06:17:04.299Z"
     },
     {
       "pmid": "41469448",
@@ -109,12 +132,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "Researchers analyzed 44 years of data and found that tick-borne diseases affect livestock across Uganda, with Theileria parva being the most common parasite, infecting about 29% of cattle nationally.",
-        "whyItMatters": "These diseases significantly harm Uganda's livestock industry, which provides over 17% of the country's agricultural income, so understanding where and how often they occur helps farmers and officials plan better disease control.",
-        "limitations": "Most studies focused on cattle and only covered 24 of Uganda's 146 districts, leaving major knowledge gaps about disease patterns elsewhere.",
-        "raw": "**What they found:** Researchers analyzed 44 years of data and found that tick-borne diseases affect livestock across Uganda, with Theileria parva being the most common parasite, infecting about 29% of cattle nationally.\n\n**Why it matters:** These diseases significantly harm Uganda's livestock industry, which provides over 17% of the country's agricultural income, so understanding where and how often they occur helps farmers and officials plan better disease control.\n\n**Limitations:** Most studies focused on cattle and only covered 24 of Uganda's 146 districts, leaving major knowledge gaps about disease patterns elsewhere."
+        "whatTheyFound": "Researchers analyzed 44 years of data and found that Theileria parva, a tick-borne parasite, infects about 29% of cattle in Uganda on average. Most studies focused on cattle in Uganda's main livestock regions, with very little research on goats and sheep.",
+        "whyItMatters": "This information helps identify where tick-borne diseases are most common in Uganda's livestock, which is crucial since these animals provide income and food for many families and contribute significantly to the country's agriculture.",
+        "limitations": "Data was missing from most districts and there was very limited information about tick-borne diseases in goats and sheep.",
+        "raw": "**What they found:** Researchers analyzed 44 years of data and found that Theileria parva, a tick-borne parasite, infects about 29% of cattle in Uganda on average. Most studies focused on cattle in Uganda's main livestock regions, with very little research on goats and sheep.\n\n**Why it matters:** This information helps identify where tick-borne diseases are most common in Uganda's livestock, which is crucial since these animals provide income and food for many families and contribute significantly to the country's agriculture.\n\n**Limitations:** Data was missing from most districts and there was very limited information about tick-borne diseases in goats and sheep."
       },
-      "fetchedAt": "2026-01-03T06:17:07.961Z"
+      "fetchedAt": "2026-01-04T06:17:34.630Z"
     },
     {
       "pmid": "41460915",
@@ -132,12 +155,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "The Lyme disease bacteria can't make their own fats and cholesterol, so they steal these essential building blocks from their hosts (humans, animals, and ticks). The bacteria's outer coating changes depending on what fats are available in their environment.",
-        "whyItMatters": "This discovery could lead to new diagnostic tests or vaccines for Lyme disease, since the bacteria's stolen fats trigger immune responses that doctors could detect or prevent.",
-        "limitations": "The study was done in laboratory conditions, so results may differ in real infections.",
-        "raw": "**What they found:** The Lyme disease bacteria can't make their own fats and cholesterol, so they steal these essential building blocks from their hosts (humans, animals, and ticks). The bacteria's outer coating changes depending on what fats are available in their environment.\n\n**Why it matters:** This discovery could lead to new diagnostic tests or vaccines for Lyme disease, since the bacteria's stolen fats trigger immune responses that doctors could detect or prevent.\n\n**Limitations:** The study was done in laboratory conditions, so results may differ in real infections."
+        "whatTheyFound": "The Lyme disease bacteria (Borrelia burgdorferi) steals fats and other lipids from its hosts rather than making its own, and these stolen lipids change the bacteria's outer coating and affect proteins linked to causing disease.",
+        "whyItMatters": "This discovery could lead to new diagnostic tests or vaccines for Lyme disease by targeting these bacterial components that come from the host.",
+        "limitations": "The study was done in laboratory conditions, so results may differ in actual infections.",
+        "raw": "**What they found:** The Lyme disease bacteria (Borrelia burgdorferi) steals fats and other lipids from its hosts rather than making its own, and these stolen lipids change the bacteria's outer coating and affect proteins linked to causing disease.\n\n**Why it matters:** This discovery could lead to new diagnostic tests or vaccines for Lyme disease by targeting these bacterial components that come from the host.\n\n**Limitations:** The study was done in laboratory conditions, so results may differ in actual infections."
       },
-      "fetchedAt": "2026-01-03T06:15:46.307Z"
+      "fetchedAt": "2026-01-04T06:16:03.416Z"
     },
     {
       "pmid": "41461301",
@@ -155,12 +178,12 @@
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
-        "whatTheyFound": "Researchers tested ticks from stray cats in Jerusalem and found that 31% carried Rickettsia massiliae bacteria, while 3.3% carried Bartonella bacteria (including types that can infect humans).",
-        "whyItMatters": "These disease-causing bacteria can spread from ticks to humans, creating health risks in a busy tourist area where people frequently encounter stray cats.",
+        "whatTheyFound": "Researchers tested ticks from stray cats in Jerusalem and found that 31% carried Rickettsia bacteria and 3.3% carried Bartonella bacteria, both of which can cause illness in humans.",
+        "whyItMatters": "This shows that ticks in a heavily populated tourist area carry disease-causing germs that can spread from animals to people, creating health risks for residents and visitors.",
         "limitations": "The study only looked at ticks from stray cats, so it may not represent all tick-borne disease risks in the area.",
-        "raw": "**What they found:** Researchers tested ticks from stray cats in Jerusalem and found that 31% carried Rickettsia massiliae bacteria, while 3.3% carried Bartonella bacteria (including types that can infect humans).\n\n**Why it matters:** These disease-causing bacteria can spread from ticks to humans, creating health risks in a busy tourist area where people frequently encounter stray cats.\n\n**Limitations:** The study only looked at ticks from stray cats, so it may not represent all tick-borne disease risks in the area."
+        "raw": "**What they found:** Researchers tested ticks from stray cats in Jerusalem and found that 31% carried Rickettsia bacteria and 3.3% carried Bartonella bacteria, both of which can cause illness in humans.\n\n**Why it matters:** This shows that ticks in a heavily populated tourist area carry disease-causing germs that can spread from animals to people, creating health risks for residents and visitors.\n\n**Limitations:** The study only looked at ticks from stray cats, so it may not represent all tick-borne disease risks in the area."
       },
-      "fetchedAt": "2026-01-03T06:16:33.970Z"
+      "fetchedAt": "2026-01-04T06:16:58.239Z"
     },
     {
       "pmid": "41449532",
@@ -178,12 +201,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "Researchers sequenced the complete genome of a Lyme disease bacteria strain found in South Korean ticks for the first time. This Korean strain is closely related to Japanese strains but has some unique genetic features.",
-        "whyItMatters": "Understanding the genetic makeup of local Lyme disease bacteria helps doctors and scientists track how the disease spreads and evolves across East Asia, which could improve diagnosis and treatment.",
-        "limitations": "One important gene that's normally present was missing, possibly lost during laboratory cultivation.",
-        "raw": "**What they found:** Researchers sequenced the complete genome of a Lyme disease bacteria strain found in South Korean ticks for the first time. This Korean strain is closely related to Japanese strains but has some unique genetic features.\n\n**Why it matters:** Understanding the genetic makeup of local Lyme disease bacteria helps doctors and scientists track how the disease spreads and evolves across East Asia, which could improve diagnosis and treatment.\n\n**Limitations:** One important gene that's normally present was missing, possibly lost during laboratory cultivation."
+        "whatTheyFound": "Scientists sequenced the complete genome of a Lyme disease bacteria (Borrelia bavariensis) found in South Korean ticks for the first time. The Korean strain is closely related to Japanese strains but has some unique genetic features.",
+        "whyItMatters": "This helps doctors and researchers better understand how Lyme disease bacteria spread and evolve across East Asia, which could improve diagnosis and treatment in the region.",
+        "limitations": "One important disease-causing gene was missing, possibly lost during laboratory growing conditions.",
+        "raw": "**What they found:** Scientists sequenced the complete genome of a Lyme disease bacteria (Borrelia bavariensis) found in South Korean ticks for the first time. The Korean strain is closely related to Japanese strains but has some unique genetic features.\n\n**Why it matters:** This helps doctors and researchers better understand how Lyme disease bacteria spread and evolve across East Asia, which could improve diagnosis and treatment in the region.\n\n**Limitations:** One important disease-causing gene was missing, possibly lost during laboratory growing conditions."
       },
-      "fetchedAt": "2026-01-03T06:15:55.667Z"
+      "fetchedAt": "2026-01-04T06:16:13.302Z"
     },
     {
       "pmid": "41452032",
@@ -201,12 +224,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "Medical experts developed new guidelines for healthy blood donors who test positive for Babesia (a tick-borne parasite). They recommend monitoring these donors with follow-up testing rather than automatically treating them with antibiotics.",
-        "whyItMatters": "This gives doctors clear guidance on handling positive Babesia tests in healthy people, avoiding unnecessary antibiotic treatment since most infections clear up on their own in healthy adults.",
-        "limitations": "The guidance is based on expert opinion and survey responses rather than large clinical studies.",
-        "raw": "**What they found:** Medical experts developed new guidelines for healthy blood donors who test positive for Babesia (a tick-borne parasite). They recommend monitoring these donors with follow-up testing rather than automatically treating them with antibiotics.\n\n**Why it matters:** This gives doctors clear guidance on handling positive Babesia tests in healthy people, avoiding unnecessary antibiotic treatment since most infections clear up on their own in healthy adults.\n\n**Limitations:** The guidance is based on expert opinion and survey responses rather than large clinical studies."
+        "whatTheyFound": "A panel of medical experts developed new guidelines for handling blood donors who test positive for Babesia (a tick-borne parasite) but have no symptoms. They recommend monitoring these donors rather than automatically treating them with antibiotics.",
+        "whyItMatters": "This gives doctors clear guidance on managing a common situation, since blood screening now catches many symptom-free Babesia infections that typically clear up on their own in healthy people.",
+        "limitations": "The recommendations are based on expert opinion and survey responses rather than clinical trial data.",
+        "raw": "**What they found:** A panel of medical experts developed new guidelines for handling blood donors who test positive for Babesia (a tick-borne parasite) but have no symptoms. They recommend monitoring these donors rather than automatically treating them with antibiotics.\n\n**Why it matters:** This gives doctors clear guidance on managing a common situation, since blood screening now catches many symptom-free Babesia infections that typically clear up on their own in healthy people.\n\n**Limitations:** The recommendations are based on expert opinion and survey responses rather than clinical trial data."
       },
-      "fetchedAt": "2026-01-03T06:17:18.759Z"
+      "fetchedAt": "2026-01-04T06:17:45.798Z"
     },
     {
       "pmid": "41447449",
@@ -228,7 +251,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-01-03T06:17:19.258Z"
+      "fetchedAt": "2026-01-04T06:17:46.298Z"
     },
     {
       "pmid": "41441897",
@@ -251,7 +274,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-01-03T06:17:19.759Z"
+      "fetchedAt": "2026-01-04T06:17:46.798Z"
     },
     {
       "pmid": "41436604",
@@ -269,12 +292,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "Researchers identified a protein (BB0401) that helps Lyme disease bacteria obtain essential nutrients, and discovered that when starved of these nutrients, the bacteria cannot properly adapt to survive the stress.",
-        "whyItMatters": "This reveals a potential weakness in Lyme bacteria that could lead to new treatment approaches, since blocking their ability to get nutrients might kill them more effectively than current antibiotics.",
-        "limitations": "The study was done in laboratory conditions, so results may differ in real-world infections in humans.",
-        "raw": "**What they found:** Researchers identified a protein (BB0401) that helps Lyme disease bacteria obtain essential nutrients, and discovered that when starved of these nutrients, the bacteria cannot properly adapt to survive the stress.\n\n**Why it matters:** This reveals a potential weakness in Lyme bacteria that could lead to new treatment approaches, since blocking their ability to get nutrients might kill them more effectively than current antibiotics.\n\n**Limitations:** The study was done in laboratory conditions, so results may differ in real-world infections in humans."
+        "whatTheyFound": "Researchers discovered that Lyme disease bacteria need specific transport systems to get amino acids (protein building blocks) to survive in mice, but not when living in tick guts for long periods. When starved of amino acids, these bacteria cannot properly adjust their metabolism to cope with the stress.",
+        "whyItMatters": "This helps explain how Lyme bacteria survive in different environments during their life cycle and reveals a potential weakness that could be targeted for new treatments.",
+        "limitations": "The study was conducted in laboratory conditions and may not fully reflect how the bacteria behave in natural settings.",
+        "raw": "**What they found:** Researchers discovered that Lyme disease bacteria need specific transport systems to get amino acids (protein building blocks) to survive in mice, but not when living in tick guts for long periods. When starved of amino acids, these bacteria cannot properly adjust their metabolism to cope with the stress.\n\n**Why it matters:** This helps explain how Lyme bacteria survive in different environments during their life cycle and reveals a potential weakness that could be targeted for new treatments.\n\n**Limitations:** The study was conducted in laboratory conditions and may not fully reflect how the bacteria behave in natural settings."
       },
-      "fetchedAt": "2026-01-03T06:16:05.870Z"
+      "fetchedAt": "2026-01-04T06:16:26.238Z"
     },
     {
       "pmid": "41472591",
@@ -292,12 +315,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "Researchers discovered that B. microti (a tick-borne parasite that causes babesiosis) can infect liver cells in addition to blood cells, causing severe liver damage and blood clots in liver vessels.",
-        "whyItMatters": "This shows babesiosis may be more serious than previously thought, potentially causing liver problems beyond the typical blood-related symptoms patients experience.",
-        "limitations": "This study was done in rats and lab-grown cells, so the findings may not directly apply to human infections.",
-        "raw": "**What they found:** Researchers discovered that B. microti (a tick-borne parasite that causes babesiosis) can infect liver cells in addition to blood cells, causing severe liver damage and blood clots in liver vessels.\n\n**Why it matters:** This shows babesiosis may be more serious than previously thought, potentially causing liver problems beyond the typical blood-related symptoms patients experience.\n\n**Limitations:** This study was done in rats and lab-grown cells, so the findings may not directly apply to human infections."
+        "whatTheyFound": "Researchers discovered that B. microti (a parasite that causes babesiosis) can invade liver cells, not just red blood cells as previously thought. The parasite caused severe damage to liver cells and blood clots in liver blood vessels.",
+        "whyItMatters": "This explains why some babesiosis patients develop liver problems and suggests doctors should monitor liver function during treatment. It shows the infection can be more widespread in the body than originally understood.",
+        "limitations": "This study was conducted only in rats, so the findings may not directly apply to human babesiosis cases.",
+        "raw": "**What they found:** Researchers discovered that B. microti (a parasite that causes babesiosis) can invade liver cells, not just red blood cells as previously thought. The parasite caused severe damage to liver cells and blood clots in liver blood vessels.\n\n**Why it matters:** This explains why some babesiosis patients develop liver problems and suggests doctors should monitor liver function during treatment. It shows the infection can be more widespread in the body than originally understood.\n\n**Limitations:** This study was conducted only in rats, so the findings may not directly apply to human babesiosis cases."
       },
-      "fetchedAt": "2026-01-03T06:16:52.164Z"
+      "fetchedAt": "2026-01-04T06:17:17.722Z"
     },
     {
       "pmid": "41417336",
@@ -315,12 +338,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "Researchers tested 181 dogs in Brazil and found that 72% were infected with at least one tick-borne parasite, with many dogs (28%) having multiple infections at the same time.",
-        "whyItMatters": "These findings highlight how common tick-borne diseases are in dogs in this region, and multiple infections can make symptoms worse and treatment more difficult for veterinarians.",
-        "limitations": "This study only looked at dogs that were already suspected of having these infections based on symptoms or blood test abnormalities.",
-        "raw": "**What they found:** Researchers tested 181 dogs in Brazil and found that 72% were infected with at least one tick-borne parasite, with many dogs (28%) having multiple infections at the same time.\n\n**Why it matters:** These findings highlight how common tick-borne diseases are in dogs in this region, and multiple infections can make symptoms worse and treatment more difficult for veterinarians.\n\n**Limitations:** This study only looked at dogs that were already suspected of having these infections based on symptoms or blood test abnormalities."
+        "whatTheyFound": "Researchers tested 181 dogs in Brazil and found that 72% were infected with at least one tick-borne disease, with 28% having multiple infections at the same time. The most common infection was Ehrlichia canis (42% of dogs).",
+        "whyItMatters": "Multiple tick-borne infections in the same dog can make symptoms worse and treatment harder, highlighting the need for better tick prevention and testing in areas where these diseases are common.",
+        "limitations": "The study only looked at dogs that already showed signs of illness, so infection rates in healthy dogs remain unknown.",
+        "raw": "**What they found:** Researchers tested 181 dogs in Brazil and found that 72% were infected with at least one tick-borne disease, with 28% having multiple infections at the same time. The most common infection was Ehrlichia canis (42% of dogs).\n\n**Why it matters:** Multiple tick-borne infections in the same dog can make symptoms worse and treatment harder, highlighting the need for better tick prevention and testing in areas where these diseases are common.\n\n**Limitations:** The study only looked at dogs that already showed signs of illness, so infection rates in healthy dogs remain unknown."
       },
-      "fetchedAt": "2026-01-03T06:17:30.837Z"
+      "fetchedAt": "2026-01-04T06:17:57.233Z"
     },
     {
       "pmid": "41465719",
@@ -338,12 +361,12 @@
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
-        "whatTheyFound": "Researchers tested fleas from stray cats in Malaysia and found that 86% carried Bartonella bacteria, which causes cat-scratch disease in humans. This is one of the highest infection rates found anywhere in the world.",
-        "whyItMatters": "Stray cats with infected fleas pose a significant health risk to people in urban areas who might get scratched or bitten. Better flea control and stray cat management programs are needed to protect public health.",
+        "whatTheyFound": "Researchers tested fleas from stray cats in Malaysia and found that 86% carried Bartonella bacteria, which causes cat-scratch disease in humans. This infection rate is among the highest reported worldwide.",
+        "whyItMatters": "Stray cats with infected fleas pose a significant health risk to people in urban areas who might get scratched or bitten. This highlights the need for better flea control and stray animal management programs.",
         "limitations": "The study only looked at one urban area in Malaysia, so results may not apply to other locations.",
-        "raw": "**What they found:** Researchers tested fleas from stray cats in Malaysia and found that 86% carried Bartonella bacteria, which causes cat-scratch disease in humans. This is one of the highest infection rates found anywhere in the world.\n\n**Why it matters:** Stray cats with infected fleas pose a significant health risk to people in urban areas who might get scratched or bitten. Better flea control and stray cat management programs are needed to protect public health.\n\n**Limitations:** The study only looked at one urban area in Malaysia, so results may not apply to other locations."
+        "raw": "**What they found:** Researchers tested fleas from stray cats in Malaysia and found that 86% carried Bartonella bacteria, which causes cat-scratch disease in humans. This infection rate is among the highest reported worldwide.\n\n**Why it matters:** Stray cats with infected fleas pose a significant health risk to people in urban areas who might get scratched or bitten. This highlights the need for better flea control and stray animal management programs.\n\n**Limitations:** The study only looked at one urban area in Malaysia, so results may not apply to other locations."
       },
-      "fetchedAt": "2026-01-03T06:16:29.139Z"
+      "fetchedAt": "2026-01-04T06:16:53.439Z"
     },
     {
       "pmid": "41427080",
@@ -361,12 +384,12 @@
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
-        "whatTheyFound": "Doctors diagnosed a 77-year-old man with a heart infection caused by Bartonella bacteria (likely from cat exposure) only after heart valve surgery, since standard blood tests kept coming back negative.",
-        "whyItMatters": "Bartonella infections can be hard to detect with routine tests, leading to delayed treatment and unnecessary medications that weaken the immune system.",
-        "limitations": "This reports on just one patient's case.",
-        "raw": "**What they found:** Doctors diagnosed a 77-year-old man with a heart infection caused by Bartonella bacteria (likely from cat exposure) only after heart valve surgery, since standard blood tests kept coming back negative.\n\n**Why it matters:** Bartonella infections can be hard to detect with routine tests, leading to delayed treatment and unnecessary medications that weaken the immune system.\n\n**Limitations:** This reports on just one patient's case."
+        "whatTheyFound": "Doctors identified a rare bacterial infection (Bartonella) causing heart valve disease in a 77-year-old man, likely caught from cat exposure. The bacteria was only detected after heart surgery, not through standard blood tests.",
+        "whyItMatters": "This infection is hard to diagnose because blood tests often miss it, leading to delayed treatment and potentially dangerous misdiagnosis as an autoimmune disease requiring the wrong medications.",
+        "limitations": "This is just one case study, so the findings may not apply broadly to other patients.",
+        "raw": "**What they found:** Doctors identified a rare bacterial infection (Bartonella) causing heart valve disease in a 77-year-old man, likely caught from cat exposure. The bacteria was only detected after heart surgery, not through standard blood tests.\n\n**Why it matters:** This infection is hard to diagnose because blood tests often miss it, leading to delayed treatment and potentially dangerous misdiagnosis as an autoimmune disease requiring the wrong medications.\n\n**Limitations:** This is just one case study, so the findings may not apply broadly to other patients."
       },
-      "fetchedAt": "2026-01-03T06:16:38.886Z"
+      "fetchedAt": "2026-01-04T06:17:03.799Z"
     },
     {
       "pmid": "41411160",
@@ -387,7 +410,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-01-03T06:16:45.231Z"
+      "fetchedAt": "2026-01-04T06:17:10.658Z"
     },
     {
       "pmid": "41441042",
@@ -405,12 +428,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "Researchers developed a computer model that can diagnose Long COVID by analyzing chemical changes in the body, successfully distinguishing it from similar conditions like chronic fatigue syndrome and Lyme disease. However, the model couldn't tell the difference between Long COVID and fibromyalgia.",
-        "whyItMatters": "This could lead to faster, more accurate diagnosis of Long COVID instead of the current lengthy process of ruling out other diseases, potentially helping patients get treatment sooner.",
-        "limitations": "The model cannot distinguish Long COVID from fibromyalgia, suggesting these conditions may be very similar biochemically.",
-        "raw": "**What they found:** Researchers developed a computer model that can diagnose Long COVID by analyzing chemical changes in the body, successfully distinguishing it from similar conditions like chronic fatigue syndrome and Lyme disease. However, the model couldn't tell the difference between Long COVID and fibromyalgia.\n\n**Why it matters:** This could lead to faster, more accurate diagnosis of Long COVID instead of the current lengthy process of ruling out other diseases, potentially helping patients get treatment sooner.\n\n**Limitations:** The model cannot distinguish Long COVID from fibromyalgia, suggesting these conditions may be very similar biochemically."
+        "whatTheyFound": "Researchers developed a computer model that can distinguish Long COVID from similar conditions like Lyme disease and chronic fatigue syndrome by analyzing chemical markers in the body. The model worked well for most conditions but couldn't tell the difference between Long COVID and fibromyalgia.",
+        "whyItMatters": "This could lead to faster, more accurate diagnosis of Long COVID instead of the current lengthy process of ruling out other diseases. Earlier diagnosis means patients could get appropriate treatment sooner.",
+        "limitations": "The model cannot distinguish Long COVID from fibromyalgia, suggesting these conditions may be very similar or overlapping.",
+        "raw": "**What they found:** Researchers developed a computer model that can distinguish Long COVID from similar conditions like Lyme disease and chronic fatigue syndrome by analyzing chemical markers in the body. The model worked well for most conditions but couldn't tell the difference between Long COVID and fibromyalgia.\n\n**Why it matters:** This could lead to faster, more accurate diagnosis of Long COVID instead of the current lengthy process of ruling out other diseases. Earlier diagnosis means patients could get appropriate treatment sooner.\n\n**Limitations:** The model cannot distinguish Long COVID from fibromyalgia, suggesting these conditions may be very similar or overlapping."
       },
-      "fetchedAt": "2026-01-03T06:16:00.283Z"
+      "fetchedAt": "2026-01-04T06:16:19.131Z"
     },
     {
       "pmid": "41405366",
@@ -433,7 +456,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-01-03T06:16:45.732Z"
+      "fetchedAt": "2026-01-04T06:17:11.158Z"
     },
     {
       "pmid": "41463922",
@@ -451,12 +474,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "A 5-month-old Miniature Schnauzer developed severe, ongoing anemia after a tick-borne infection. Genetic testing revealed the puppy had a rare inherited condition called pyruvate kinase deficiency, which destroys red blood cells.",
-        "whyItMatters": "This shows that some dogs may have hidden genetic blood disorders that only become apparent after infections like tick-borne diseases. It helps veterinarians understand why some patients don't respond to standard treatments.",
-        "limitations": "This is just one case in one breed, so we don't know how common this genetic condition might be in other dogs.",
-        "raw": "**What they found:** A 5-month-old Miniature Schnauzer developed severe, ongoing anemia after a tick-borne infection. Genetic testing revealed the puppy had a rare inherited condition called pyruvate kinase deficiency, which destroys red blood cells.\n\n**Why it matters:** This shows that some dogs may have hidden genetic blood disorders that only become apparent after infections like tick-borne diseases. It helps veterinarians understand why some patients don't respond to standard treatments.\n\n**Limitations:** This is just one case in one breed, so we don't know how common this genetic condition might be in other dogs."
+        "whatTheyFound": "A 5-month-old Miniature Schnauzer with severe anemia after tick-borne infections had a genetic mutation that prevented her body from making a key enzyme (pyruvate kinase) needed for healthy red blood cells. This genetic defect caused her red blood cells to break down continuously.",
+        "whyItMatters": "This shows that genetic testing may help diagnose dogs with persistent anemia that doesn't respond to standard treatments, potentially leading to better care plans for similar cases.",
+        "limitations": "This is just one case in one dog breed, so more research is needed.",
+        "raw": "**What they found:** A 5-month-old Miniature Schnauzer with severe anemia after tick-borne infections had a genetic mutation that prevented her body from making a key enzyme (pyruvate kinase) needed for healthy red blood cells. This genetic defect caused her red blood cells to break down continuously.\n\n**Why it matters:** This shows that genetic testing may help diagnose dogs with persistent anemia that doesn't respond to standard treatments, potentially leading to better care plans for similar cases.\n\n**Limitations:** This is just one case in one dog breed, so more research is needed."
       },
-      "fetchedAt": "2026-01-03T06:17:13.543Z"
+      "fetchedAt": "2026-01-04T06:17:40.172Z"
     },
     {
       "pmid": "41476790",
@@ -474,12 +497,12 @@
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
-        "whatTheyFound": "A compound called ETO extracted from a medicinal mushroom significantly shrank tumors in mice by 60-76%. The treatment worked by changing gut bacteria (increasing good bacteria, decreasing harmful ones) and altering body chemistry.",
-        "whyItMatters": "This mushroom compound could potentially offer a gentler cancer treatment option that causes less liver and kidney damage than current chemotherapy drugs.",
-        "limitations": "This was only tested in mice, so we don't know if it would work safely or effectively in humans.",
-        "raw": "**What they found:** A compound called ETO extracted from a medicinal mushroom significantly shrank tumors in mice by 60-76%. The treatment worked by changing gut bacteria (increasing good bacteria, decreasing harmful ones) and altering body chemistry.\n\n**Why it matters:** This mushroom compound could potentially offer a gentler cancer treatment option that causes less liver and kidney damage than current chemotherapy drugs.\n\n**Limitations:** This was only tested in mice, so we don't know if it would work safely or effectively in humans."
+        "whatTheyFound": "A compound called ETO from a medicinal mushroom reduced tumors by 60-76% in mice with liver cancer. ETO also improved gut bacteria balance by increasing helpful bacteria and reducing harmful ones.",
+        "whyItMatters": "This mushroom compound may offer a gentler cancer treatment option that causes less liver and kidney damage than standard chemotherapy while working through the gut-cancer connection.",
+        "limitations": "This study was only done in mice, so we don't know if it would work the same way in humans.",
+        "raw": "**What they found:** A compound called ETO from a medicinal mushroom reduced tumors by 60-76% in mice with liver cancer. ETO also improved gut bacteria balance by increasing helpful bacteria and reducing harmful ones.\n\n**Why it matters:** This mushroom compound may offer a gentler cancer treatment option that causes less liver and kidney damage than standard chemotherapy while working through the gut-cancer connection.\n\n**Limitations:** This study was only done in mice, so we don't know if it would work the same way in humans."
       },
-      "fetchedAt": "2026-01-03T06:16:18.873Z"
+      "fetchedAt": "2026-01-04T06:16:43.129Z"
     },
     {
       "pmid": "41471226",
@@ -497,12 +520,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "Researchers tested 259 dogs in Nigeria and found that nearly 60% carried tick-borne germs like Ehrlichia and Babesia, with about 41% showing signs of past infections through blood tests.",
-        "whyItMatters": "This shows tick-borne diseases are very common in Nigerian dogs, helping veterinarians know what to watch for and treat. Certain dog breeds and older dogs appear more at risk.",
+        "whatTheyFound": "Researchers studied 259 dogs in Nigeria and found that nearly 60% carried tick-borne germs, with the most common being Ehrlichia and Babesia. They identified two main tick species affecting dogs and discovered that older dogs and certain breeds were more likely to be infected.",
+        "whyItMatters": "This shows tick-borne diseases are very common in Nigerian dogs, which could help veterinarians better diagnose and treat these infections. The findings also suggest some dog breeds may be more vulnerable than others.",
         "limitations": "The study only looked at dogs in Nigeria, so results may not apply to other countries or regions.",
-        "raw": "**What they found:** Researchers tested 259 dogs in Nigeria and found that nearly 60% carried tick-borne germs like Ehrlichia and Babesia, with about 41% showing signs of past infections through blood tests.\n\n**Why it matters:** This shows tick-borne diseases are very common in Nigerian dogs, helping veterinarians know what to watch for and treat. Certain dog breeds and older dogs appear more at risk.\n\n**Limitations:** The study only looked at dogs in Nigeria, so results may not apply to other countries or regions."
+        "raw": "**What they found:** Researchers studied 259 dogs in Nigeria and found that nearly 60% carried tick-borne germs, with the most common being Ehrlichia and Babesia. They identified two main tick species affecting dogs and discovered that older dogs and certain breeds were more likely to be infected.\n\n**Why it matters:** This shows tick-borne diseases are very common in Nigerian dogs, which could help veterinarians better diagnose and treat these infections. The findings also suggest some dog breeds may be more vulnerable than others.\n\n**Limitations:** The study only looked at dogs in Nigeria, so results may not apply to other countries or regions."
       },
-      "fetchedAt": "2026-01-03T06:16:57.092Z"
+      "fetchedAt": "2026-01-04T06:17:23.049Z"
     },
     {
       "pmid": "41427440",
@@ -520,12 +543,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "Patients with post-treatment Lyme disease commonly experience problems with their autonomic nervous system (which controls automatic body functions like heart rate and blood pressure). About 4% showed abnormal heart rate increases when standing up.",
-        "whyItMatters": "This helps doctors recognize that ongoing symptoms after Lyme treatment may include autonomic problems, not just the typical fatigue and joint pain. Patients who used steroids or antibiotics after Lyme disease were more likely to have these heart rate issues.",
-        "limitations": "The study only looked at a small group of patients, so more research is needed to confirm these findings.",
-        "raw": "**What they found:** Patients with post-treatment Lyme disease commonly experience problems with their autonomic nervous system (which controls automatic body functions like heart rate and blood pressure). About 4% showed abnormal heart rate increases when standing up.\n\n**Why it matters:** This helps doctors recognize that ongoing symptoms after Lyme treatment may include autonomic problems, not just the typical fatigue and joint pain. Patients who used steroids or antibiotics after Lyme disease were more likely to have these heart rate issues.\n\n**Limitations:** The study only looked at a small group of patients, so more research is needed to confirm these findings."
+        "whatTheyFound": "Researchers studied 210 patients with post-treatment Lyme disease and found that while autonomic symptoms (like blood pressure and heart rate problems) were common, only 4% had abnormal heart rate responses when standing up.",
+        "whyItMatters": "This helps doctors understand that patients may experience real autonomic symptoms after Lyme treatment, and a simple standing test can identify those who might need different care approaches.",
+        "limitations": "The study only looked at one specific test, so other autonomic problems might be more common than detected.",
+        "raw": "**What they found:** Researchers studied 210 patients with post-treatment Lyme disease and found that while autonomic symptoms (like blood pressure and heart rate problems) were common, only 4% had abnormal heart rate responses when standing up.\n\n**Why it matters:** This helps doctors understand that patients may experience real autonomic symptoms after Lyme treatment, and a simple standing test can identify those who might need different care approaches.\n\n**Limitations:** The study only looked at one specific test, so other autonomic problems might be more common than detected."
       },
-      "fetchedAt": "2026-01-03T06:16:12.604Z"
+      "fetchedAt": "2026-01-04T06:16:31.808Z"
     },
     {
       "pmid": "41471195",
@@ -543,12 +566,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "Researchers tested ticks in three Bulgarian regions and found that 23-52% carried Lyme disease bacteria, with the highest rates in northern Bulgaria (Pleven region). Two main types of Lyme bacteria were identified, with one type being more common than the other.",
-        "whyItMatters": "This shows Lyme disease risk varies significantly by location in Bulgaria, helping people understand their local risk when spending time outdoors in parks and popular hiking areas.",
-        "limitations": "Controlling tick populations may reduce Lyme disease risk but won't completely prevent it.",
-        "raw": "**What they found:** Researchers tested ticks in three Bulgarian regions and found that 23-52% carried Lyme disease bacteria, with the highest rates in northern Bulgaria (Pleven region). Two main types of Lyme bacteria were identified, with one type being more common than the other.\n\n**Why it matters:** This shows Lyme disease risk varies significantly by location in Bulgaria, helping people understand their local risk when spending time outdoors in parks and popular hiking areas.\n\n**Limitations:** Controlling tick populations may reduce Lyme disease risk but won't completely prevent it."
+        "whatTheyFound": "Researchers tested ticks from three regions in Bulgaria and found that 23-52% carried the bacteria that causes Lyme disease, with the highest rates in northern Bulgaria (Pleven region).",
+        "whyItMatters": "This shows Lyme disease risk varies significantly by location in Bulgaria, helping people understand their local risk when hiking or spending time in parks and trails.",
+        "limitations": "The study only looked at three specific regions, so the findings may not apply to all areas of Bulgaria.",
+        "raw": "**What they found:** Researchers tested ticks from three regions in Bulgaria and found that 23-52% carried the bacteria that causes Lyme disease, with the highest rates in northern Bulgaria (Pleven region).\n\n**Why it matters:** This shows Lyme disease risk varies significantly by location in Bulgaria, helping people understand their local risk when hiking or spending time in parks and trails.\n\n**Limitations:** The study only looked at three specific regions, so the findings may not apply to all areas of Bulgaria."
       },
-      "fetchedAt": "2026-01-03T06:15:40.973Z"
+      "fetchedAt": "2026-01-04T06:15:57.928Z"
     },
     {
       "pmid": "41450978",
@@ -566,12 +589,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "Lyme disease patients who recovered fully showed much higher early brain activity (especially in areas controlling thinking and attention) compared to those who developed persistent symptoms after treatment.",
-        "whyItMatters": "This suggests doctors might eventually use brain scans to predict which Lyme patients are more likely to develop long-term symptoms, helping guide treatment decisions.",
-        "limitations": "The study only included 20 patients, so these findings need confirmation in larger groups before being used clinically.",
-        "raw": "**What they found:** Lyme disease patients who recovered fully showed much higher early brain activity (especially in areas controlling thinking and attention) compared to those who developed persistent symptoms after treatment.\n\n**Why it matters:** This suggests doctors might eventually use brain scans to predict which Lyme patients are more likely to develop long-term symptoms, helping guide treatment decisions.\n\n**Limitations:** The study only included 20 patients, so these findings need confirmation in larger groups before being used clinically."
+        "whatTheyFound": "Lyme disease patients who recovered fully showed much higher early brain activity (especially in white matter areas) right after treatment, while those who developed persistent symptoms showed little brain activity changes from the start.",
+        "whyItMatters": "This suggests that measuring brain activity early in Lyme disease could help doctors predict which patients are more likely to develop long-term symptoms and may need different treatment approaches.",
+        "limitations": "The study was small with only 20 Lyme patients total.",
+        "raw": "**What they found:** Lyme disease patients who recovered fully showed much higher early brain activity (especially in white matter areas) right after treatment, while those who developed persistent symptoms showed little brain activity changes from the start.\n\n**Why it matters:** This suggests that measuring brain activity early in Lyme disease could help doctors predict which patients are more likely to develop long-term symptoms and may need different treatment approaches.\n\n**Limitations:** The study was small with only 20 Lyme patients total."
       },
-      "fetchedAt": "2026-01-03T06:15:50.812Z"
+      "fetchedAt": "2026-01-04T06:16:08.566Z"
     },
     {
       "pmid": "41473482",
@@ -589,12 +612,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "Doctors successfully treated an 11-year-old girl who developed swollen optic nerves (the nerves that connect the eyes to the brain) from Lyme disease. Treatment with the antibiotic doxycycline followed by a steroid medication resolved the eye swelling and vision problems.",
-        "whyItMatters": "This shows that Lyme disease can affect the eyes and brain, causing vision problems and headaches. Early recognition and proper treatment can prevent permanent eye damage.",
-        "limitations": "This is just one patient's case, so we need more studies to know if this treatment works for all children with similar symptoms.",
-        "raw": "**What they found:** Doctors successfully treated an 11-year-old girl who developed swollen optic nerves (the nerves that connect the eyes to the brain) from Lyme disease. Treatment with the antibiotic doxycycline followed by a steroid medication resolved the eye swelling and vision problems.\n\n**Why it matters:** This shows that Lyme disease can affect the eyes and brain, causing vision problems and headaches. Early recognition and proper treatment can prevent permanent eye damage.\n\n**Limitations:** This is just one patient's case, so we need more studies to know if this treatment works for all children with similar symptoms."
+        "whatTheyFound": "Doctors successfully treated an 11-year-old girl who developed swollen optic nerves (the nerves that carry vision signals) from Lyme disease affecting her nervous system. Treatment with the antibiotic doxycycline plus a steroid medication resolved her symptoms.",
+        "whyItMatters": "This shows that Lyme disease can affect vision by causing nerve swelling, and that combining antibiotics with steroids may help when antibiotics alone don't fully clear the eye problems.",
+        "limitations": "This is just one patient's case, so we can't be sure this treatment approach works for everyone with similar symptoms.",
+        "raw": "**What they found:** Doctors successfully treated an 11-year-old girl who developed swollen optic nerves (the nerves that carry vision signals) from Lyme disease affecting her nervous system. Treatment with the antibiotic doxycycline plus a steroid medication resolved her symptoms.\n\n**Why it matters:** This shows that Lyme disease can affect vision by causing nerve swelling, and that combining antibiotics with steroids may help when antibiotics alone don't fully clear the eye problems.\n\n**Limitations:** This is just one patient's case, so we can't be sure this treatment approach works for everyone with similar symptoms."
       },
-      "fetchedAt": "2026-01-03T06:15:35.723Z"
+      "fetchedAt": "2026-01-04T06:15:52.613Z"
     },
     {
       "pmid": "41437958",
@@ -612,12 +635,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "Researchers tested whether a protein called ApoA-1 could be used as a marker to detect inflammation in dogs with tick-borne blood infections (babesiosis and hemoplasmosis). ApoA-1 levels didn't change enough between sick and healthy dogs to be useful for diagnosis.",
-        "whyItMatters": "Veterinarians need reliable blood tests to quickly diagnose these serious tick-borne diseases in dogs. This study shows ApoA-1 isn't a good marker, so vets should rely on other tests like C-reactive protein instead.",
-        "limitations": "The study only looked at dogs, so results may not apply to humans with similar tick-borne infections.",
-        "raw": "**What they found:** Researchers tested whether a protein called ApoA-1 could be used as a marker to detect inflammation in dogs with tick-borne blood infections (babesiosis and hemoplasmosis). ApoA-1 levels didn't change enough between sick and healthy dogs to be useful for diagnosis.\n\n**Why it matters:** Veterinarians need reliable blood tests to quickly diagnose these serious tick-borne diseases in dogs. This study shows ApoA-1 isn't a good marker, so vets should rely on other tests like C-reactive protein instead.\n\n**Limitations:** The study only looked at dogs, so results may not apply to humans with similar tick-borne infections."
+        "whatTheyFound": "Researchers tested a protein called ApoA-1 to see if it could help diagnose acute tick-borne infections in dogs, but found it wasn't a reliable marker compared to other blood tests.",
+        "whyItMatters": "Veterinarians need reliable blood tests to quickly diagnose serious tick-borne diseases like babesiosis in dogs, so they can start treatment promptly.",
+        "limitations": "The study only looked at dogs, so results may not apply to tick-borne diseases in humans or other animals.",
+        "raw": "**What they found:** Researchers tested a protein called ApoA-1 to see if it could help diagnose acute tick-borne infections in dogs, but found it wasn't a reliable marker compared to other blood tests.\n\n**Why it matters:** Veterinarians need reliable blood tests to quickly diagnose serious tick-borne diseases like babesiosis in dogs, so they can start treatment promptly.\n\n**Limitations:** The study only looked at dogs, so results may not apply to tick-borne diseases in humans or other animals."
       },
-      "fetchedAt": "2026-01-03T06:17:25.337Z"
+      "fetchedAt": "2026-01-04T06:17:52.181Z"
     },
     {
       "pmid": "41471167",
@@ -635,12 +658,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "Researchers found that nearly half of stray dogs in Moldova's capital city carry ticks, and about 1 in 4 of those ticks contain disease-causing germs like those that cause Lyme disease and babesiosis.",
-        "whyItMatters": "Since people and pets use the same urban parks where these infected stray dogs roam, there's a risk of tick-borne diseases spreading to humans and domestic animals.",
-        "limitations": "The study only looked at one city over two years, so the findings may not apply to other locations or time periods.",
-        "raw": "**What they found:** Researchers found that nearly half of stray dogs in Moldova's capital city carry ticks, and about 1 in 4 of those ticks contain disease-causing germs like those that cause Lyme disease and babesiosis.\n\n**Why it matters:** Since people and pets use the same urban parks where these infected stray dogs roam, there's a risk of tick-borne diseases spreading to humans and domestic animals.\n\n**Limitations:** The study only looked at one city over two years, so the findings may not apply to other locations or time periods."
+        "whatTheyFound": "Researchers studied ticks on stray dogs in Moldova's capital and found that nearly half the dogs had ticks, with about 1 in 4 ticks carrying disease-causing germs like those that cause Lyme disease and other infections.",
+        "whyItMatters": "Since stray dogs roam urban parks where people walk and play, these infected ticks could easily jump to humans and pets, creating a public health risk in the city.",
+        "limitations": "The study only looked at one city during a specific time period.",
+        "raw": "**What they found:** Researchers studied ticks on stray dogs in Moldova's capital and found that nearly half the dogs had ticks, with about 1 in 4 ticks carrying disease-causing germs like those that cause Lyme disease and other infections.\n\n**Why it matters:** Since stray dogs roam urban parks where people walk and play, these infected ticks could easily jump to humans and pets, creating a public health risk in the city.\n\n**Limitations:** The study only looked at one city during a specific time period."
       },
-      "fetchedAt": "2026-01-03T06:17:02.703Z"
+      "fetchedAt": "2026-01-04T06:17:28.705Z"
     },
     {
       "pmid": "41473857",
@@ -659,11 +682,11 @@
       "pathogenColor": "#db2777",
       "aiSummary": {
         "whatTheyFound": "Doctors treated a kidney transplant patient who developed purple skin bumps caused by a rare bacterial infection called bacillary angiomatosis, which is spread by cats and mainly affects people with weakened immune systems.",
-        "whyItMatters": "Early recognition and antibiotic treatment can cure this infection and prevent serious complications in transplant patients and others with compromised immunity who may be at higher risk.",
-        "limitations": "This reports on just one patient case, so broader treatment patterns aren't established.",
-        "raw": "**What they found:** Doctors treated a kidney transplant patient who developed purple skin bumps caused by a rare bacterial infection called bacillary angiomatosis, which is spread by cats and mainly affects people with weakened immune systems.\n\n**Why it matters:** Early recognition and antibiotic treatment can cure this infection and prevent serious complications in transplant patients and others with compromised immunity who may be at higher risk.\n\n**Limitations:** This reports on just one patient case, so broader treatment patterns aren't established."
+        "whyItMatters": "Early recognition and antibiotic treatment can cure this infection and prevent serious complications in transplant patients and others with compromised immunity.",
+        "limitations": "This report describes only one patient's experience.",
+        "raw": "**What they found:** Doctors treated a kidney transplant patient who developed purple skin bumps caused by a rare bacterial infection called bacillary angiomatosis, which is spread by cats and mainly affects people with weakened immune systems.\n\n**Why it matters:** Early recognition and antibiotic treatment can cure this infection and prevent serious complications in transplant patients and others with compromised immunity.\n\n**Limitations:** This report describes only one patient's experience."
       },
-      "fetchedAt": "2026-01-03T06:16:23.933Z"
+      "fetchedAt": "2026-01-04T06:16:48.014Z"
     }
   ]
 }
