@@ -663,6 +663,75 @@
         margin-bottom: 16px;
     }
 
+    /* Podcast Filters */
+    .podcast-filters {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-bottom: 12px;
+    }
+
+    .podcast-filter-btn {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 10px 18px;
+        border-radius: 100px;
+        background: var(--bg-secondary);
+        border: 1px solid var(--border);
+        cursor: pointer;
+        font-size: 14px;
+        font-weight: 500;
+        color: var(--text-secondary);
+        font-family: inherit;
+        transition: all 0.2s ease;
+    }
+
+    .podcast-filter-btn:hover {
+        border-color: var(--accent-green);
+    }
+
+    .podcast-filter-btn.active {
+        background: var(--accent-green);
+        border-color: var(--accent-green);
+        color: white;
+    }
+
+    .filter-dot {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+    }
+
+    .filter-dot.lyme { background: var(--lyme); }
+    .filter-dot.bartonella { background: var(--bartonella); }
+    .filter-dot.babesia { background: var(--babesia); }
+
+    .podcast-filter-btn.active .filter-dot {
+        background: white;
+    }
+
+    .podcast-count {
+        font-size: 14px;
+        color: var(--text-muted);
+        margin-bottom: 24px;
+    }
+
+    @media (max-width: 600px) {
+        .podcast-filters {
+            overflow-x: auto;
+            flex-wrap: nowrap;
+            padding-bottom: 8px;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        .podcast-filter-btn {
+            flex-shrink: 0;
+            padding: 8px 14px;
+            font-size: 13px;
+        }
+    }
+
     .podcast-footer {
         display: flex;
         justify-content: space-between;
@@ -2498,6 +2567,23 @@
     </section>
 
     <div class="container">
+        <div class="podcast-filters">
+            <button class="podcast-filter-btn active" data-filter="all">All Episodes</button>
+            <button class="podcast-filter-btn" data-filter="lyme">
+                <span class="filter-dot lyme"></span>
+                Lyme
+            </button>
+            <button class="podcast-filter-btn" data-filter="bartonella">
+                <span class="filter-dot bartonella"></span>
+                Bartonella
+            </button>
+            <button class="podcast-filter-btn" data-filter="babesia">
+                <span class="filter-dot babesia"></span>
+                Babesia
+            </button>
+        </div>
+        <div class="podcast-count" id="podcast-count">12 episodes</div>
+        
         <div class="main-layout" style="grid-template-columns: 1fr;">
             <main class="feed">
                 <div class="papers-grid" id="podcasts-container">
@@ -2724,6 +2810,7 @@
     let allPapers = [];
     let currentFilter = 'all';
     let searchQuery = '';
+    let podcastFilter = 'all';
 
     // ===================
     // INITIALIZATION
@@ -2732,6 +2819,7 @@
         setupNavTabs();
         setupFilters();
         setupSearch();
+        setupPodcastFilters();
         setupTocScroll();
         await loadPapers();
         renderPodcasts();
@@ -2788,9 +2876,11 @@
         // Apply search filter
         if (searchQuery) {
             filtered = filtered.filter(p => {
-                const titleMatch = p.title.toLowerCase().includes(searchQuery);
-                const summaryMatch = p.ai_summary?.toLowerCase().includes(searchQuery);
-                const authorsMatch = p.authors?.toLowerCase().includes(searchQuery);
+                const titleMatch = p.title?.toLowerCase().includes(searchQuery);
+                const summaryMatch = p.aiSummary?.whatTheyFound?.toLowerCase().includes(searchQuery) ||
+                                    p.aiSummary?.whyItMatters?.toLowerCase().includes(searchQuery) ||
+                                    p.aiSummary?.limitations?.toLowerCase().includes(searchQuery);
+                const authorsMatch = p.authors?.join(' ').toLowerCase().includes(searchQuery);
                 const journalMatch = p.journal?.toLowerCase().includes(searchQuery);
                 return titleMatch || summaryMatch || authorsMatch || journalMatch;
             });
@@ -3061,9 +3151,41 @@
     // ===================
     // PODCASTS
     // ===================
+    function setupPodcastFilters() {
+        document.querySelectorAll('.podcast-filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.podcast-filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                podcastFilter = btn.dataset.filter;
+                renderPodcasts();
+            });
+        });
+    }
+
     function renderPodcasts() {
         const container = document.getElementById('podcasts-container');
-        container.innerHTML = PODCASTS.map(podcast => createPodcastCard(podcast)).join('');
+        
+        let filtered = PODCASTS;
+        if (podcastFilter !== 'all') {
+            filtered = PODCASTS.filter(p => p.pathogens && p.pathogens.includes(podcastFilter));
+        }
+        
+        // Update count
+        const countEl = document.getElementById('podcast-count');
+        if (countEl) {
+            countEl.textContent = `${filtered.length} episode${filtered.length !== 1 ? 's' : ''}`;
+        }
+        
+        if (filtered.length === 0) {
+            container.innerHTML = `
+                <div class="empty-state">
+                    <p>No episodes found for this filter.</p>
+                </div>
+            `;
+            return;
+        }
+        
+        container.innerHTML = filtered.map(podcast => createPodcastCard(podcast)).join('');
     }
 
     function createPodcastCard(podcast) {
