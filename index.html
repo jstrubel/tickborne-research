@@ -1000,6 +1000,182 @@
         margin-bottom: 0;
     }
 
+    /* Chart Container */
+    .chart-container {
+        background: white;
+        border: 1px solid var(--border);
+        border-radius: var(--radius-lg);
+        padding: 28px;
+        margin: 32px 0;
+    }
+
+    .chart-title {
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 4px;
+    }
+
+    .chart-subtitle {
+        font-size: 13px;
+        color: var(--text-muted);
+        margin-bottom: 24px;
+    }
+
+    .bar-chart {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .bar-row {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+    }
+
+    .bar-label {
+        width: 50px;
+        font-size: 13px;
+        font-weight: 500;
+        color: var(--text-secondary);
+        text-align: right;
+    }
+
+    .bar-wrapper {
+        flex: 1;
+        display: flex;
+        align-items: center;
+        gap: 12px;
+    }
+
+    .bar {
+        height: 28px;
+        border-radius: 4px;
+        min-width: 30px;
+        transition: width 0.5s ease;
+    }
+
+    .bar-value {
+        font-size: 14px;
+        font-weight: 600;
+        color: var(--text-primary);
+        white-space: nowrap;
+    }
+
+    .chart-note {
+        font-size: 12px;
+        color: var(--text-muted);
+        margin-top: 16px;
+        font-style: italic;
+    }
+
+    /* Co-infection Visual */
+    .coinfection-visual {
+        display: grid;
+        grid-template-columns: 220px 1fr;
+        gap: 32px;
+        background: white;
+        border: 1px solid var(--border);
+        border-radius: var(--radius-lg);
+        padding: 28px;
+        margin: 32px 0;
+        align-items: center;
+    }
+
+    .coinfection-diagram {
+        position: relative;
+    }
+
+    .venn-diagram {
+        width: 200px;
+        height: 200px;
+    }
+
+    .venn-labels {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 8px;
+        padding: 0 10px;
+    }
+
+    .venn-label {
+        font-size: 11px;
+        font-weight: 600;
+        padding: 3px 8px;
+        border-radius: 4px;
+    }
+
+    .venn-label.lyme {
+        background: var(--lyme-bg);
+        color: var(--lyme);
+    }
+
+    .venn-label.bartonella {
+        background: var(--bartonella-bg);
+        color: var(--bartonella);
+    }
+
+    .venn-label.babesia {
+        background: var(--babesia-bg);
+        color: var(--babesia);
+    }
+
+    .coinfection-stats h4 {
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 12px;
+    }
+
+    .coinfection-stats p {
+        font-size: 14px;
+        color: var(--text-secondary);
+        margin-bottom: 16px;
+        line-height: 1.6;
+    }
+
+    .coinfection-stats ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .coinfection-stats li {
+        font-size: 14px;
+        color: var(--text-secondary);
+        padding: 6px 0;
+        padding-left: 20px;
+        position: relative;
+    }
+
+    .coinfection-stats li::before {
+        content: "→";
+        position: absolute;
+        left: 0;
+        color: var(--accent-green);
+    }
+
+    @media (max-width: 600px) {
+        .coinfection-visual {
+            grid-template-columns: 1fr;
+            text-align: center;
+        }
+
+        .coinfection-diagram {
+            justify-self: center;
+        }
+
+        .bar-label {
+            width: 40px;
+            font-size: 12px;
+        }
+
+        .bar-value {
+            font-size: 12px;
+        }
+    }
+
     .grid-2 {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -2059,6 +2235,43 @@
                         </div>
                         <p>Tick-borne infections are among the fastest-growing infectious disease categories in the United States and Europe. The CDC estimates over 476,000 Americans are diagnosed with Lyme disease annually, and many experts believe the true number is significantly higher due to underreporting and diagnostic challenges.</p>
                     </div>
+
+                    <!-- Lyme Disease Growth Chart -->
+                    <div class="chart-container">
+                        <h4 class="chart-title">Lyme Disease Cases Are Rising</h4>
+                        <p class="chart-subtitle">Estimated annual U.S. cases (CDC data)</p>
+                        <div class="bar-chart">
+                            <div class="bar-row">
+                                <span class="bar-label">2000</span>
+                                <div class="bar-wrapper">
+                                    <div class="bar" style="width: 8%; background: linear-gradient(90deg, #4A7C59, #6B9B7A);"></div>
+                                    <span class="bar-value">~30K</span>
+                                </div>
+                            </div>
+                            <div class="bar-row">
+                                <span class="bar-label">2010</span>
+                                <div class="bar-wrapper">
+                                    <div class="bar" style="width: 20%; background: linear-gradient(90deg, #4A7C59, #6B9B7A);"></div>
+                                    <span class="bar-value">~95K</span>
+                                </div>
+                            </div>
+                            <div class="bar-row">
+                                <span class="bar-label">2019</span>
+                                <div class="bar-wrapper">
+                                    <div class="bar" style="width: 60%; background: linear-gradient(90deg, #4A7C59, #6B9B7A);"></div>
+                                    <span class="bar-value">~300K</span>
+                                </div>
+                            </div>
+                            <div class="bar-row">
+                                <span class="bar-label">2024</span>
+                                <div class="bar-wrapper">
+                                    <div class="bar" style="width: 100%; background: linear-gradient(90deg, #D97706, #F59E0B);"></div>
+                                    <span class="bar-value">~476K</span>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="chart-note">Many experts believe true case counts are 5-10x higher due to underreporting and diagnostic challenges.</p>
+                    </div>
                 </section>
 
                 <!-- Transmission -->
@@ -2106,6 +2319,37 @@
                 <section id="pathogens" class="learn-section">
                     <h2 class="section-heading">The Pathogens</h2>
                     <p>Ticks can carry multiple pathogens simultaneously, which is why co-infections are common and can complicate both diagnosis and treatment.</p>
+
+                    <!-- Co-infection Visual -->
+                    <div class="coinfection-visual">
+                        <div class="coinfection-diagram">
+                            <svg viewBox="0 0 200 200" class="venn-diagram">
+                                <!-- Lyme circle -->
+                                <circle cx="85" cy="80" r="55" fill="rgba(74, 124, 89, 0.3)" stroke="#4A7C59" stroke-width="2"/>
+                                <!-- Bartonella circle -->
+                                <circle cx="115" cy="80" r="55" fill="rgba(220, 38, 38, 0.2)" stroke="#DC2626" stroke-width="2"/>
+                                <!-- Babesia circle -->
+                                <circle cx="100" cy="115" r="55" fill="rgba(37, 99, 235, 0.2)" stroke="#2563EB" stroke-width="2"/>
+                                <!-- Center overlap -->
+                                <text x="100" y="95" text-anchor="middle" fill="#1a1a1a" font-size="18" font-weight="600">50%+</text>
+                            </svg>
+                            <div class="venn-labels">
+                                <span class="venn-label lyme">Lyme</span>
+                                <span class="venn-label bartonella">Bartonella</span>
+                                <span class="venn-label babesia">Babesia</span>
+                            </div>
+                        </div>
+                        <div class="coinfection-stats">
+                            <h4>Co-Infection Rates</h4>
+                            <p>Studies show that <strong>50% or more</strong> of chronic Lyme patients have at least one co-infection. This matters because:</p>
+                            <ul>
+                                <li>Each pathogen requires different treatment</li>
+                                <li>Co-infections can worsen symptoms</li>
+                                <li>Standard Lyme tests don't detect co-infections</li>
+                                <li>Treating only Lyme may leave you sick</li>
+                            </ul>
+                        </div>
+                    </div>
 
                     <!-- Lyme -->
                     <div class="pathogen-card lyme">
@@ -2557,7 +2801,7 @@
 
 <!-- PODCASTS SECTION -->
 <div id="section-podcasts" class="page-section">
-    <section class="hero" style="padding: 64px 0 48px;">
+    <section class="hero" style="padding: 64px 0 24px;">
         <div class="container">
             <div class="hero-content">
                 <h1>Expert Podcasts</h1>
@@ -2567,7 +2811,7 @@
     </section>
 
     <div class="container">
-        <div class="podcast-filters">
+        <div class="podcast-filters" style="margin-top: 24px;">
             <button class="podcast-filter-btn active" data-filter="all">All Episodes</button>
             <button class="podcast-filter-btn" data-filter="lyme">
                 <span class="filter-dot lyme"></span>
@@ -2585,7 +2829,7 @@
         <div class="podcast-count" id="podcast-count">12 episodes</div>
         
         <div class="main-layout" style="grid-template-columns: 1fr;">
-            <main class="feed">
+            <main class="feed" style="padding-top: 0;">
                 <div class="papers-grid" id="podcasts-container">
                     <!-- Podcasts rendered here -->
                 </div>
@@ -2619,22 +2863,23 @@
 
 <script>
     // ===================
-    // PODCAST DATA
+    // PODCAST DATA (ordered newest to oldest)
     // ===================
     const PODCASTS = [
         {
             id: 1,
             show: "Tick Boot Camp",
-            title: "Dr. Bill Rawls: Immune-First Strategy for Chronic Lyme",
-            guest: "Bill Rawls, MD — Author and Integrative Physician",
-            date: "Nov 2025",
-            duration: "1h 05m",
-            url: "https://podcast.tickbootcamp.com/episode/8ca0f291/dr-bill-rawls-on-chronic-lyme-herbs-gut-health-and-stepwise-recovery-at-project-lab-coat-new-york-fashion-week",
-            pathogens: ["lyme", "bartonella", "babesia"],
+            title: "Dr. Betsy Bradshaw: How the Immune System Remembers and Shapes Alzheimer's",
+            guest: "Betsy Bradshaw, PhD — Infection and Neurodegeneration Researcher",
+            date: "Jan 2026",
+            sortDate: "2026-01",
+            duration: "50m",
+            url: "https://podcast.tickbootcamp.com/episode/6800a3cb/when-infections-leave-a-mark-how-the-immune-system-remembers-and-shapes-alzheimer-s-dr-betsy-bradshaw",
+            pathogens: ["lyme", "bartonella"],
             summary: {
-                topics: "Why antibiotics often fall short in chronic cases, the PARM healing framework (prehabilitation, assist immune system, rehabilitation, maintenance), gut protection, and how AI can speed research.",
-                keyTakeaways: "Stealth microbes like Borrelia, Bartonella, and Babesia hide in tissues, making quick-fix antibiotics ineffective. A gradual, system-calming approach helps patients tolerate protocols without crashing.",
-                forPatients: "Start with foundation work—gut health, inflammation reduction—before aggressive antimicrobials to avoid flare-ups."
+                topics: "How infections leave lasting marks on the immune system that may contribute to Alzheimer's development. The connection between chronic infection and neurodegeneration.",
+                keyTakeaways: "The immune system 'remembers' past infections in ways that can shape future disease. Understanding this memory could lead to prevention strategies.",
+                forPatients: "This cutting-edge research explores why some people develop cognitive issues after infection—and what might be done to prevent it."
             }
         },
         {
@@ -2643,6 +2888,7 @@
             title: "Geoff Dow on Babesiosis: Malaria Parallels and New Clinical Trials",
             guest: "Geoff Dow, PhD — CEO, 60 Degrees Pharmaceuticals",
             date: "Dec 2025",
+            sortDate: "2025-12-15",
             duration: "58m",
             url: "https://podcast.tickbootcamp.com/episode/e8443cf3/geoff-dow-on-babesiosis-malaria-parallels-tafenoquine-arakoda-and-new-clinical-trials-for-chronic-tick-borne-disease",
             pathogens: ["babesia"],
@@ -2655,84 +2901,10 @@
         {
             id: 3,
             show: "Tick Boot Camp",
-            title: "Col. Nicole Malachowski: IACI and the National Academies Report",
-            guest: "Nicole Malachowski, USAF (Ret.) — First Female Thunderbird Pilot",
-            date: "Nov 2025",
-            duration: "42m",
-            url: "https://podcast.tickbootcamp.com/episode/4b48f082/nyfw-project-lab-coat-col-nicole-malachowski-on-lyme-iaci-and-the-national-academies-report-on-chronic-lyme-disease",
-            pathogens: ["lyme"],
-            summary: {
-                topics: "Why the term Lyme IACI matters. The National Academies report as the first U.S. government recognition of chronic Lyme. Collaboration with long COVID and ME/CFS communities.",
-                keyTakeaways: "Federal recognition of Lyme IACI marks a turning point. AI and machine learning can unlock insights from existing patient data. Linking Lyme with other post-infection syndromes strengthens advocacy.",
-                forPatients: "This episode provides validation—major institutions now officially acknowledge what patients have known for years."
-            }
-        },
-        {
-            id: 4,
-            show: "Tick Boot Camp",
-            title: "Z3LLA: Performing Through Chronic Illness",
-            guest: "Julia 'Juj' Seeley & Kiana Tebyani — DJ Duo Z3LLA",
-            date: "Dec 2025",
-            duration: "1h 18m",
-            url: "https://podcast.tickbootcamp.com/episode/2a46e237/z3lla-using-lyme-disease-to-redefine-resilience-in-the-music-industry",
-            pathogens: ["lyme", "bartonella", "babesia"],
-            summary: {
-                topics: "DJ Juj's diagnosis with Lyme, Bartonella, Babesia, mold toxicity, POTS, SIBO, and catamenial epilepsy. Performing through flare-ups, collapsing backstage, and building a music career while chronically ill.",
-                keyTakeaways: "Healing isn't linear. Consistency with herbs, detox, and mindset matters. Addressing inflammation and mold toxicity is often the missing step in long-term recovery.",
-                forPatients: "This inspiring story shows chronic illness doesn't have to stop you from achieving goals, though it requires adaptation and self-compassion."
-            }
-        },
-        {
-            id: 5,
-            show: "Tick Boot Camp",
-            title: "Dr. Myriah Hinchey: Inside the LymeBytes Symposium 2025",
-            guest: "Myriah Hinchey, ND — Founder of LymeBytes",
-            date: "Oct 2025",
-            duration: "1h 10m",
-            url: "https://podcast.tickbootcamp.com/episode/0005372c/dr-myriah-hinchey-inside-the-lymebytes-symposium-2025-fast-tracking-healing-for-lyme-and-chronic-illness",
-            pathogens: ["lyme", "bartonella", "babesia"],
-            summary: {
-                topics: "The 2025 LymeBytes Symposium for Lyme, mold illness, PANS/PANDAS, and Long COVID. Immersive learning, community building, and direct access to clinicians and specialty labs.",
-                keyTakeaways: "Concentrated exposure to experts helps discover the next best step faster. Chronic cases need specialized testing and coordinated care to get unstuck.",
-                forPatients: "Herbal protocols combined with gut healing and immune support offer a gentler path that many patients tolerate better than antibiotics alone."
-            }
-        },
-        {
-            id: 6,
-            show: "Tick Boot Camp",
-            title: "Yuri Kim: Measuring Brain Fog in Chronic Illness (MIT MAESTRO Study)",
-            guest: "Yuri Kim, RN — Lead Clinical Research Nurse, MIT",
-            date: "Oct 2025",
-            duration: "48m",
-            url: "https://podcast.tickbootcamp.com/episode/5c9c8d18/measuring-brain-fog-in-infection-associated-chronic-illnesses-iaci-an-interview-with-mit-researcher-yuri-kim",
-            pathogens: ["lyme"],
-            summary: {
-                topics: "The MIT MAESTRO Study combining patient narratives with objective neurocognitive and biomarker data. EEG, eye-tracking, and cognitive testing to measure brain fog objectively.",
-                keyTakeaways: "Brain fog isn't just a symptom—it's interconnected with multiple systems. Validating invisible symptoms is vital to patient care and research progress.",
-                forPatients: "Research is finally creating objective ways to measure what you've been experiencing, providing validation and paving the way for better treatments."
-            }
-        },
-        {
-            id: 7,
-            show: "Tick Boot Camp",
-            title: "Dr. Brian Balin: How Microbes May Trigger Alzheimer's",
-            guest: "Brian J. Balin, PhD — Director, Center for Chronic Disorders of Aging (PCOM)",
-            date: "Oct 2025",
-            duration: "52m",
-            url: "https://podcast.tickbootcamp.com/episode/a82b0470/how-microbes-like-lyme-may-trigger-alzheimer-s-and-cognitive-decline-dr-brian-balin-pcom-",
-            pathogens: ["lyme", "bartonella", "babesia"],
-            summary: {
-                topics: "How Borrelia, Bartonella, and Babesia were detected in Alzheimer's brain tissue. Evidence that microbes can enter the brain and initiate chronic inflammation and plaque formation.",
-                keyTakeaways: "Infection is part of the exposome—environmental insults that shape health over a lifetime. Recognizing infection's role is key to understanding and preventing Alzheimer's.",
-                forPatients: "This research provides hope that understanding the infection connection could lead to new diagnostics and treatments for cognitive decline."
-            }
-        },
-        {
-            id: 8,
-            show: "Tick Boot Camp",
             title: "Nicole Bell: Polymicrobial Drivers of Cognitive Decline",
             guest: "Nicole Bell — CEO, Galaxy Diagnostics",
             date: "Dec 2025",
+            sortDate: "2025-12-10",
             duration: "52m",
             url: "https://podcast.tickbootcamp.com/episode/9f38b291/when-the-brain-pathobiome-becomes-personal-polymicrobial-drivers-of-cognitive-decline-nicole-bell",
             pathogens: ["lyme", "bartonella", "babesia"],
@@ -2743,11 +2915,12 @@
             }
         },
         {
-            id: 9,
+            id: 4,
             show: "Tick Boot Camp",
             title: "Dr. Janice Bush: How Bartonella Hijacks the Brain's Immune System",
             guest: "Janice Bush, DVM, PhD Candidate — NC State University",
             date: "Dec 2025",
+            sortDate: "2025-12-05",
             duration: "45m",
             url: "https://podcast.tickbootcamp.com/episode/4ebdbdf1/how-bartonella-hijacks-the-brain-s-immune-system-linking-infection-and-neurodegeneration-dr-janice-bush",
             pathogens: ["bartonella"],
@@ -2758,18 +2931,99 @@
             }
         },
         {
+            id: 5,
+            show: "Tick Boot Camp",
+            title: "Z3LLA: Performing Through Chronic Illness",
+            guest: "Julia 'Juj' Seeley & Kiana Tebyani — DJ Duo Z3LLA",
+            date: "Dec 2025",
+            sortDate: "2025-12-01",
+            duration: "1h 18m",
+            url: "https://podcast.tickbootcamp.com/episode/2a46e237/z3lla-using-lyme-disease-to-redefine-resilience-in-the-music-industry",
+            pathogens: ["lyme", "bartonella", "babesia"],
+            summary: {
+                topics: "DJ Juj's diagnosis with Lyme, Bartonella, Babesia, mold toxicity, POTS, SIBO, and catamenial epilepsy. Performing through flare-ups, collapsing backstage, and building a music career while chronically ill.",
+                keyTakeaways: "Healing isn't linear. Consistency with herbs, detox, and mindset matters. Addressing inflammation and mold toxicity is often the missing step in long-term recovery.",
+                forPatients: "This inspiring story shows chronic illness doesn't have to stop you from achieving goals, though it requires adaptation and self-compassion."
+            }
+        },
+        {
+            id: 6,
+            show: "Tick Boot Camp",
+            title: "Dr. Bill Rawls: Immune-First Strategy for Chronic Lyme",
+            guest: "Bill Rawls, MD — Author and Integrative Physician",
+            date: "Nov 2025",
+            sortDate: "2025-11-20",
+            duration: "1h 05m",
+            url: "https://podcast.tickbootcamp.com/episode/8ca0f291/dr-bill-rawls-on-chronic-lyme-herbs-gut-health-and-stepwise-recovery-at-project-lab-coat-new-york-fashion-week",
+            pathogens: ["lyme", "bartonella", "babesia"],
+            summary: {
+                topics: "Why antibiotics often fall short in chronic cases, the PARM healing framework (prehabilitation, assist immune system, rehabilitation, maintenance), gut protection, and how AI can speed research.",
+                keyTakeaways: "Stealth microbes like Borrelia, Bartonella, and Babesia hide in tissues, making quick-fix antibiotics ineffective. A gradual, system-calming approach helps patients tolerate protocols without crashing.",
+                forPatients: "Start with foundation work—gut health, inflammation reduction—before aggressive antimicrobials to avoid flare-ups."
+            }
+        },
+        {
+            id: 7,
+            show: "Tick Boot Camp",
+            title: "Col. Nicole Malachowski: IACI and the National Academies Report",
+            guest: "Nicole Malachowski, USAF (Ret.) — First Female Thunderbird Pilot",
+            date: "Nov 2025",
+            sortDate: "2025-11-10",
+            duration: "42m",
+            url: "https://podcast.tickbootcamp.com/episode/4b48f082/nyfw-project-lab-coat-col-nicole-malachowski-on-lyme-iaci-and-the-national-academies-report-on-chronic-lyme-disease",
+            pathogens: ["lyme"],
+            summary: {
+                topics: "Why the term Lyme IACI matters. The National Academies report as the first U.S. government recognition of chronic Lyme. Collaboration with long COVID and ME/CFS communities.",
+                keyTakeaways: "Federal recognition of Lyme IACI marks a turning point. AI and machine learning can unlock insights from existing patient data. Linking Lyme with other post-infection syndromes strengthens advocacy.",
+                forPatients: "This episode provides validation—major institutions now officially acknowledge what patients have known for years."
+            }
+        },
+        {
+            id: 8,
+            show: "Tick Boot Camp",
+            title: "Dr. Myriah Hinchey: Inside the LymeBytes Symposium 2025",
+            guest: "Myriah Hinchey, ND — Founder of LymeBytes",
+            date: "Oct 2025",
+            sortDate: "2025-10-20",
+            duration: "1h 10m",
+            url: "https://podcast.tickbootcamp.com/episode/0005372c/dr-myriah-hinchey-inside-the-lymebytes-symposium-2025-fast-tracking-healing-for-lyme-and-chronic-illness",
+            pathogens: ["lyme", "bartonella", "babesia"],
+            summary: {
+                topics: "The 2025 LymeBytes Symposium for Lyme, mold illness, PANS/PANDAS, and Long COVID. Immersive learning, community building, and direct access to clinicians and specialty labs.",
+                keyTakeaways: "Concentrated exposure to experts helps discover the next best step faster. Chronic cases need specialized testing and coordinated care to get unstuck.",
+                forPatients: "Herbal protocols combined with gut healing and immune support offer a gentler path that many patients tolerate better than antibiotics alone."
+            }
+        },
+        {
+            id: 9,
+            show: "Tick Boot Camp",
+            title: "Yuri Kim: Measuring Brain Fog in Chronic Illness (MIT MAESTRO Study)",
+            guest: "Yuri Kim, RN — Lead Clinical Research Nurse, MIT",
+            date: "Oct 2025",
+            sortDate: "2025-10-10",
+            duration: "48m",
+            url: "https://podcast.tickbootcamp.com/episode/5c9c8d18/measuring-brain-fog-in-infection-associated-chronic-illnesses-iaci-an-interview-with-mit-researcher-yuri-kim",
+            pathogens: ["lyme"],
+            summary: {
+                topics: "The MIT MAESTRO Study combining patient narratives with objective neurocognitive and biomarker data. EEG, eye-tracking, and cognitive testing to measure brain fog objectively.",
+                keyTakeaways: "Brain fog isn't just a symptom—it's interconnected with multiple systems. Validating invisible symptoms is vital to patient care and research progress.",
+                forPatients: "Research is finally creating objective ways to measure what you've been experiencing, providing validation and paving the way for better treatments."
+            }
+        },
+        {
             id: 10,
             show: "Tick Boot Camp",
-            title: "Dr. Betsy Bradshaw: How the Immune System Remembers and Shapes Alzheimer's",
-            guest: "Betsy Bradshaw, PhD — Infection and Neurodegeneration Researcher",
-            date: "Jan 2026",
-            duration: "50m",
-            url: "https://podcast.tickbootcamp.com/episode/6800a3cb/when-infections-leave-a-mark-how-the-immune-system-remembers-and-shapes-alzheimer-s-dr-betsy-bradshaw",
-            pathogens: ["lyme", "bartonella"],
+            title: "Dr. Brian Balin: How Microbes May Trigger Alzheimer's",
+            guest: "Brian J. Balin, PhD — Director, Center for Chronic Disorders of Aging (PCOM)",
+            date: "Oct 2025",
+            sortDate: "2025-10-05",
+            duration: "52m",
+            url: "https://podcast.tickbootcamp.com/episode/a82b0470/how-microbes-like-lyme-may-trigger-alzheimer-s-and-cognitive-decline-dr-brian-balin-pcom-",
+            pathogens: ["lyme", "bartonella", "babesia"],
             summary: {
-                topics: "How infections leave lasting marks on the immune system that may contribute to Alzheimer's development. The connection between chronic infection and neurodegeneration.",
-                keyTakeaways: "The immune system 'remembers' past infections in ways that can shape future disease. Understanding this memory could lead to prevention strategies.",
-                forPatients: "This cutting-edge research explores why some people develop cognitive issues after infection—and what might be done to prevent it."
+                topics: "How Borrelia, Bartonella, and Babesia were detected in Alzheimer's brain tissue. Evidence that microbes can enter the brain and initiate chronic inflammation and plaque formation.",
+                keyTakeaways: "Infection is part of the exposome—environmental insults that shape health over a lifetime. Recognizing infection's role is key to understanding and preventing Alzheimer's.",
+                forPatients: "This research provides hope that understanding the infection connection could lead to new diagnostics and treatments for cognitive decline."
             }
         },
         {
@@ -2778,6 +3032,7 @@
             title: "Revolutionizing Lyme Treatment with Dr. Richard Horowitz",
             guest: "Richard Horowitz, MD — Author of 'Why Can't I Get Better?'",
             date: "Dec 2024",
+            sortDate: "2024-12",
             duration: "1h 03m",
             url: "https://integrative-lyme-solutions-with-dr-karlfeldt.castos.com/episodes/unveiling-hope-revolutionizing-lyme-treatment-with-dr-richard-horowitz",
             pathogens: ["lyme", "bartonella", "babesia"],
@@ -2793,6 +3048,7 @@
             title: "Case Studies in Complex Lyme Disease",
             guest: "Daniel Cameron, MD, MPH — Nationally recognized Lyme expert",
             date: "2024",
+            sortDate: "2024-01",
             duration: "45m",
             url: "https://danielcameronmd.com/inside-lyme-podcast-dr-daniel-cameron/",
             pathogens: ["lyme"],
