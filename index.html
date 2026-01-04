@@ -1179,55 +1179,142 @@
     /* =================== */
     /* SYMPTOM CHECKER STYLES */
     /* =================== */
+    
+    /* Dark hero for symptom checker */
+    .symptom-hero {
+        background: linear-gradient(135deg, #1a2e1a 0%, #2d4a2d 50%, #1e3a1e 100%);
+        padding: 80px 0 60px;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .symptom-hero::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+        opacity: 0.5;
+    }
+
+    .symptom-hero .hero-content {
+        position: relative;
+        z-index: 1;
+    }
+
+    .symptom-hero h1 {
+        color: white;
+        font-size: 2.5rem;
+        margin-bottom: 16px;
+    }
+
+    .symptom-hero .hero-description {
+        color: rgba(255,255,255,0.8);
+        max-width: 600px;
+    }
+
+    .symptom-hero-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        background: rgba(255,255,255,0.1);
+        border: 1px solid rgba(255,255,255,0.2);
+        border-radius: 100px;
+        padding: 8px 16px;
+        font-size: 13px;
+        color: rgba(255,255,255,0.9);
+        margin-bottom: 20px;
+    }
+
+    .symptom-hero-badge svg {
+        width: 16px;
+        height: 16px;
+    }
+
     .symptom-checker-layout {
         display: grid;
-        grid-template-columns: 1fr 400px;
+        grid-template-columns: 1fr 420px;
         gap: 32px;
-        padding: 24px 0 64px;
+        padding: 32px 0 64px;
+        margin-top: -40px;
+        position: relative;
+        z-index: 2;
     }
 
     .symptom-selection {
         background: white;
-        border: 1px solid var(--border);
+        border: none;
         border-radius: var(--radius-lg);
-        padding: 24px;
+        padding: 28px;
+        box-shadow: 0 4px 24px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.04);
+    }
+
+    .symptom-selection-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 24px;
+        padding-bottom: 20px;
+        border-bottom: 1px solid var(--border-light);
     }
 
     .symptom-selection h3 {
-        font-size: 1.1rem;
-        font-weight: 600;
+        font-size: 1.25rem;
+        font-weight: 700;
         color: var(--text-primary);
-        margin-bottom: 4px;
+        margin-bottom: 6px;
     }
 
     .symptom-instructions {
         font-size: 14px;
         color: var(--text-muted);
-        margin-bottom: 24px;
+        margin: 0;
+    }
+
+    .symptom-counter {
+        background: linear-gradient(135deg, var(--accent-green), #4A7C59);
+        color: white;
+        padding: 8px 16px;
+        border-radius: var(--radius-sm);
+        font-size: 13px;
+        font-weight: 600;
+        white-space: nowrap;
     }
 
     .symptom-group {
-        margin-bottom: 24px;
+        margin-bottom: 28px;
+        padding-bottom: 24px;
         border-bottom: 1px solid var(--border-light);
-        padding-bottom: 20px;
     }
 
     .symptom-group:last-of-type {
         border-bottom: none;
-        margin-bottom: 16px;
+        margin-bottom: 20px;
     }
 
     .symptom-group-header {
         display: flex;
         align-items: center;
-        gap: 10px;
-        font-size: 14px;
-        font-weight: 600;
+        gap: 12px;
+        font-size: 15px;
+        font-weight: 700;
         color: var(--text-primary);
-        margin-bottom: 12px;
+        margin-bottom: 16px;
     }
 
-    .symptom-group-header svg {
+    .symptom-group-icon {
+        width: 36px;
+        height: 36px;
+        background: linear-gradient(135deg, #E8F5E9, #C8E6C9);
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .symptom-group-icon svg {
         width: 18px;
         height: 18px;
         color: var(--accent-green);
@@ -1236,26 +1323,28 @@
     .symptom-options {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        gap: 8px;
+        gap: 10px;
     }
 
     .symptom-checkbox {
         display: flex;
-        align-items: center;
-        gap: 10px;
-        padding: 10px 12px;
+        align-items: flex-start;
+        gap: 12px;
+        padding: 14px 16px;
         background: var(--bg-secondary);
-        border: 1px solid var(--border-light);
-        border-radius: var(--radius-sm);
+        border: 2px solid transparent;
+        border-radius: 12px;
         cursor: pointer;
         font-size: 13px;
         color: var(--text-secondary);
         transition: all 0.2s ease;
+        position: relative;
     }
 
     .symptom-checkbox:hover {
         border-color: var(--accent-green);
-        background: var(--bg-tertiary);
+        background: #F0F9F1;
+        transform: translateY(-1px);
     }
 
     .symptom-checkbox input {
@@ -1263,20 +1352,22 @@
     }
 
     .symptom-checkbox .checkmark {
-        width: 18px;
-        height: 18px;
-        border: 2px solid var(--border);
-        border-radius: 4px;
+        width: 20px;
+        height: 20px;
+        border: 2px solid #CBD5E1;
+        border-radius: 6px;
         display: flex;
         align-items: center;
         justify-content: center;
         flex-shrink: 0;
         transition: all 0.2s ease;
+        margin-top: 1px;
     }
 
     .symptom-checkbox input:checked + .checkmark {
-        background: var(--accent-green);
+        background: linear-gradient(135deg, var(--accent-green), #4A7C59);
         border-color: var(--accent-green);
+        box-shadow: 0 2px 4px rgba(74, 124, 89, 0.3);
     }
 
     .symptom-checkbox input:checked + .checkmark::after {
@@ -1286,8 +1377,79 @@
         font-weight: bold;
     }
 
-    .symptom-checkbox input:checked ~ * {
+    .symptom-checkbox input:checked ~ .symptom-text {
         color: var(--text-primary);
+        font-weight: 500;
+    }
+
+    .symptom-text {
+        flex: 1;
+        line-height: 1.4;
+    }
+
+    .symptom-name {
+        display: block;
+    }
+
+    .symptom-info {
+        width: 16px;
+        height: 16px;
+        background: none;
+        border: none;
+        color: #94A3B8;
+        cursor: help;
+        padding: 0;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 4px;
+        vertical-align: middle;
+        position: relative;
+    }
+
+    .symptom-info:hover {
+        color: var(--accent-green);
+    }
+
+    .symptom-info svg {
+        width: 14px;
+        height: 14px;
+    }
+
+    .symptom-tooltip {
+        position: absolute;
+        bottom: calc(100% + 8px);
+        left: 50%;
+        transform: translateX(-50%);
+        background: #1E293B;
+        color: white;
+        padding: 10px 14px;
+        border-radius: 8px;
+        font-size: 12px;
+        line-height: 1.5;
+        width: 220px;
+        text-align: left;
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.2s ease;
+        z-index: 100;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+        font-weight: 400;
+    }
+
+    .symptom-tooltip::after {
+        content: "";
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        transform: translateX(-50%);
+        border: 6px solid transparent;
+        border-top-color: #1E293B;
+    }
+
+    .symptom-info:hover .symptom-tooltip {
+        opacity: 1;
+        visibility: visible;
     }
 
     .clear-symptoms-btn {
@@ -1296,11 +1458,12 @@
         justify-content: center;
         gap: 8px;
         width: 100%;
-        padding: 12px;
-        background: var(--bg-secondary);
-        border: 1px solid var(--border);
-        border-radius: var(--radius-sm);
+        padding: 14px;
+        background: white;
+        border: 2px solid var(--border);
+        border-radius: 12px;
         font-size: 14px;
+        font-weight: 600;
         color: var(--text-muted);
         cursor: pointer;
         transition: all 0.2s ease;
@@ -1309,6 +1472,7 @@
     .clear-symptoms-btn:hover {
         border-color: #DC2626;
         color: #DC2626;
+        background: #FEF2F2;
     }
 
     .clear-symptoms-btn svg {
@@ -1319,21 +1483,22 @@
     /* Results Panel */
     .symptom-results {
         position: sticky;
-        top: 88px;
+        top: 80px;
         height: fit-content;
     }
 
     .results-card {
         background: white;
-        border: 1px solid var(--border);
+        border: none;
         border-radius: var(--radius-lg);
-        padding: 24px;
+        padding: 28px;
         margin-bottom: 16px;
+        box-shadow: 0 4px 24px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.04);
     }
 
     .results-card h3 {
-        font-size: 1.1rem;
-        font-weight: 600;
+        font-size: 1.25rem;
+        font-weight: 700;
         color: var(--text-primary);
         margin-bottom: 4px;
     }
@@ -1341,53 +1506,67 @@
     .results-subtitle {
         font-size: 13px;
         color: var(--text-muted);
-        margin-bottom: 20px;
+        margin-bottom: 24px;
     }
 
     .results-placeholder {
         text-align: center;
-        padding: 40px 20px;
+        padding: 48px 20px;
         color: var(--text-muted);
+        background: var(--bg-secondary);
+        border-radius: 12px;
     }
 
     .results-placeholder svg {
-        width: 48px;
-        height: 48px;
-        opacity: 0.3;
-        margin-bottom: 12px;
+        width: 56px;
+        height: 56px;
+        opacity: 0.2;
+        margin-bottom: 16px;
     }
 
     .results-placeholder p {
         font-size: 14px;
+        max-width: 200px;
+        margin: 0 auto;
+        line-height: 1.5;
     }
 
     .result-item {
-        margin-bottom: 20px;
+        margin-bottom: 24px;
+        padding: 20px;
+        background: var(--bg-secondary);
+        border-radius: 12px;
+        transition: all 0.3s ease;
     }
 
     .result-item:last-child {
         margin-bottom: 0;
     }
 
+    .result-item.highlighted {
+        background: linear-gradient(135deg, #FEF3C7, #FDE68A);
+        box-shadow: 0 2px 8px rgba(251, 191, 36, 0.2);
+    }
+
     .result-header {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        margin-bottom: 8px;
+        margin-bottom: 12px;
     }
 
     .result-name {
         display: flex;
         align-items: center;
-        gap: 8px;
-        font-size: 14px;
-        font-weight: 600;
+        gap: 10px;
+        font-size: 15px;
+        font-weight: 700;
         color: var(--text-primary);
     }
 
     .result-dot {
-        width: 10px;
-        height: 10px;
+        width: 12px;
+        height: 12px;
         border-radius: 50%;
     }
 
@@ -1396,22 +1575,22 @@
     .result-dot.babesia { background: var(--babesia); }
 
     .result-score {
-        font-size: 16px;
-        font-weight: 700;
+        font-size: 24px;
+        font-weight: 800;
         color: var(--text-primary);
     }
 
     .result-bar-bg {
-        height: 8px;
-        background: var(--bg-tertiary);
-        border-radius: 4px;
+        height: 10px;
+        background: rgba(0,0,0,0.1);
+        border-radius: 5px;
         overflow: hidden;
     }
 
     .result-bar {
         height: 100%;
-        border-radius: 4px;
-        transition: width 0.4s ease;
+        border-radius: 5px;
+        transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1);
     }
 
     .result-bar.lyme { background: linear-gradient(90deg, var(--lyme), #6B9B7A); }
@@ -1419,51 +1598,55 @@
     .result-bar.babesia { background: linear-gradient(90deg, var(--babesia), #3B82F6); }
 
     .result-note {
-        font-size: 12px;
-        color: var(--text-muted);
-        margin-top: 6px;
-        font-style: italic;
+        font-size: 13px;
+        color: var(--text-secondary);
+        margin-top: 10px;
+        line-height: 1.4;
     }
 
     .matching-symptoms {
-        margin-top: 20px;
+        margin-top: 24px;
         padding-top: 20px;
         border-top: 1px solid var(--border-light);
     }
 
     .matching-symptoms h4 {
         font-size: 13px;
-        font-weight: 600;
+        font-weight: 700;
         color: var(--text-secondary);
-        margin-bottom: 10px;
+        margin-bottom: 12px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
     }
 
     .matching-tag {
         display: inline-block;
-        padding: 4px 10px;
-        background: var(--bg-tertiary);
+        padding: 6px 12px;
+        background: white;
+        border: 1px solid var(--border);
         border-radius: 100px;
         font-size: 12px;
         color: var(--text-secondary);
-        margin: 2px;
+        margin: 3px;
     }
 
     .disclaimer-card {
         display: flex;
         gap: 16px;
-        background: #FFFBEB;
-        border: 1px solid #FDE68A;
+        background: linear-gradient(135deg, #FFFBEB, #FEF3C7);
+        border: none;
         border-radius: var(--radius-lg);
         padding: 20px;
         margin-bottom: 16px;
+        box-shadow: 0 2px 8px rgba(251, 191, 36, 0.15);
     }
 
     .disclaimer-icon {
         flex-shrink: 0;
-        width: 40px;
-        height: 40px;
-        background: #FEF3C7;
-        border-radius: var(--radius-sm);
+        width: 44px;
+        height: 44px;
+        background: #FDE68A;
+        border-radius: 12px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -1471,15 +1654,15 @@
     }
 
     .disclaimer-icon svg {
-        width: 20px;
-        height: 20px;
+        width: 22px;
+        height: 22px;
     }
 
     .disclaimer-text strong {
         font-size: 14px;
         color: #92400E;
         display: block;
-        margin-bottom: 4px;
+        margin-bottom: 6px;
     }
 
     .disclaimer-text p {
@@ -1490,17 +1673,18 @@
     }
 
     .next-steps-card {
-        background: var(--bg-tertiary);
-        border: 1px solid var(--border);
+        background: white;
+        border: none;
         border-radius: var(--radius-lg);
-        padding: 20px;
+        padding: 24px;
+        box-shadow: 0 4px 24px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.04);
     }
 
     .next-steps-card h4 {
-        font-size: 14px;
-        font-weight: 600;
+        font-size: 15px;
+        font-weight: 700;
         color: var(--text-primary);
-        margin-bottom: 12px;
+        margin-bottom: 16px;
     }
 
     .next-steps-card ul {
@@ -1512,9 +1696,14 @@
     .next-steps-card li {
         font-size: 13px;
         color: var(--text-secondary);
-        padding: 6px 0;
-        padding-left: 20px;
+        padding: 10px 0;
+        padding-left: 28px;
         position: relative;
+        border-bottom: 1px solid var(--border-light);
+    }
+
+    .next-steps-card li:last-child {
+        border-bottom: none;
     }
 
     .next-steps-card li::before {
@@ -1522,20 +1711,154 @@
         position: absolute;
         left: 0;
         color: var(--accent-green);
+        font-weight: bold;
     }
 
     .next-steps-card a {
         color: var(--accent-green);
         text-decoration: none;
+        font-weight: 600;
     }
 
     .next-steps-card a:hover {
         text-decoration: underline;
     }
 
+    /* Email Capture Modal */
+    .email-gate {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0,0,0,0.6);
+        backdrop-filter: blur(4px);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 1000;
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.3s ease;
+    }
+
+    .email-gate.active {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .email-gate-content {
+        background: white;
+        border-radius: 20px;
+        padding: 40px;
+        max-width: 440px;
+        width: 90%;
+        text-align: center;
+        transform: translateY(20px);
+        transition: transform 0.3s ease;
+        box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    }
+
+    .email-gate.active .email-gate-content {
+        transform: translateY(0);
+    }
+
+    .email-gate-icon {
+        width: 72px;
+        height: 72px;
+        background: linear-gradient(135deg, #E8F5E9, #C8E6C9);
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto 24px;
+    }
+
+    .email-gate-icon svg {
+        width: 36px;
+        height: 36px;
+        color: var(--accent-green);
+    }
+
+    .email-gate h3 {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: var(--text-primary);
+        margin-bottom: 12px;
+    }
+
+    .email-gate p {
+        font-size: 14px;
+        color: var(--text-secondary);
+        margin-bottom: 28px;
+        line-height: 1.6;
+    }
+
+    .email-gate-form {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .email-gate-input {
+        width: 100%;
+        padding: 16px 20px;
+        border: 2px solid var(--border);
+        border-radius: 12px;
+        font-size: 15px;
+        transition: all 0.2s ease;
+        box-sizing: border-box;
+    }
+
+    .email-gate-input:focus {
+        outline: none;
+        border-color: var(--accent-green);
+        box-shadow: 0 0 0 3px rgba(74, 124, 89, 0.1);
+    }
+
+    .email-gate-submit {
+        width: 100%;
+        padding: 16px 20px;
+        background: linear-gradient(135deg, var(--accent-green), #4A7C59);
+        border: none;
+        border-radius: 12px;
+        color: white;
+        font-size: 15px;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.2s ease;
+    }
+
+    .email-gate-submit:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(74, 124, 89, 0.3);
+    }
+
+    .email-gate-skip {
+        background: none;
+        border: none;
+        color: var(--text-muted);
+        font-size: 13px;
+        cursor: pointer;
+        margin-top: 16px;
+        padding: 8px;
+    }
+
+    .email-gate-skip:hover {
+        color: var(--text-secondary);
+        text-decoration: underline;
+    }
+
+    .email-gate-privacy {
+        font-size: 11px;
+        color: var(--text-muted);
+        margin-top: 16px;
+    }
+
     @media (max-width: 900px) {
         .symptom-checker-layout {
             grid-template-columns: 1fr;
+            margin-top: -30px;
         }
 
         .symptom-results {
@@ -1544,6 +1867,15 @@
 
         .symptom-options {
             grid-template-columns: 1fr;
+        }
+
+        .symptom-hero h1 {
+            font-size: 2rem;
+        }
+
+        .symptom-selection-header {
+            flex-direction: column;
+            gap: 16px;
         }
     }
 
@@ -4311,11 +4643,33 @@
     // ===================
     // SYMPTOM CHECKER
     // ===================
+    let emailCaptured = localStorage.getItem('tickborne_email') ? true : false;
+    let firstResultShown = false;
+
     function setupSymptomChecker() {
         const checkboxes = document.querySelectorAll('.symptom-checkbox input');
         checkboxes.forEach(checkbox => {
-            checkbox.addEventListener('change', calculateSymptomScores);
+            checkbox.addEventListener('change', function() {
+                updateSymptomCounter();
+                calculateSymptomScores();
+            });
         });
+        
+        // Prevent tooltip button from triggering checkbox
+        document.querySelectorAll('.symptom-info').forEach(btn => {
+            btn.addEventListener('click', function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+            });
+        });
+    }
+
+    function updateSymptomCounter() {
+        const count = document.querySelectorAll('.symptom-checkbox input:checked').length;
+        const counter = document.getElementById('symptom-counter');
+        if (counter) {
+            counter.textContent = count + ' selected';
+        }
     }
 
     function calculateSymptomScores() {
@@ -4326,7 +4680,14 @@
         if (checkboxes.length === 0) {
             placeholder.style.display = 'block';
             content.style.display = 'none';
+            firstResultShown = false;
             return;
+        }
+        
+        // Show email gate on first result if not captured
+        if (!firstResultShown && !emailCaptured && checkboxes.length >= 3) {
+            showEmailGate();
+            firstResultShown = true;
         }
         
         placeholder.style.display = 'none';
@@ -4343,40 +4704,36 @@
             bartonellaScore += parseInt(cb.dataset.bartonella) || 0;
             babesiaScore += parseInt(cb.dataset.babesia) || 0;
             
-            const label = cb.closest('.symptom-checkbox').textContent.trim();
+            const textEl = cb.closest('.symptom-checkbox').querySelector('.symptom-text');
+            const nameEl = textEl ? textEl.querySelector('.symptom-name') : null;
+            const label = nameEl ? nameEl.textContent.trim() : textEl ? textEl.textContent.trim() : 'Unknown';
             selectedSymptoms.push(label);
         });
         
         // Calculate total points from selected symptoms
         const totalSelected = lymeScore + bartonellaScore + babesiaScore;
         
-        // Convert to relative percentages (which infection do YOUR symptoms point to most?)
+        // Convert to relative percentages
         let lymePercent = 0, bartonellaPercent = 0, babesiaPercent = 0;
         
         if (totalSelected > 0) {
-            // Relative scoring - shows which infection your symptoms lean toward
             lymePercent = Math.round((lymeScore / totalSelected) * 100);
             bartonellaPercent = Math.round((bartonellaScore / totalSelected) * 100);
             babesiaPercent = Math.round((babesiaScore / totalSelected) * 100);
         }
         
-        // Also calculate an "absolute" confidence based on # of high-weight symptoms
+        // Determine highest score for highlighting
+        const maxPercent = Math.max(lymePercent, bartonellaPercent, babesiaPercent);
+        
+        // Calculate strength levels
         const lymeStrength = getStrengthLevel(lymeScore, checkboxes.length);
         const bartonellaStrength = getStrengthLevel(bartonellaScore, checkboxes.length);
         const babesiaStrength = getStrengthLevel(babesiaScore, checkboxes.length);
         
         // Update UI
-        document.getElementById('lyme-score').textContent = lymePercent + '%';
-        document.getElementById('lyme-bar').style.width = lymePercent + '%';
-        document.getElementById('lyme-note').textContent = getLikelihoodNote(lymePercent, lymeStrength, 'Lyme');
-        
-        document.getElementById('bartonella-score').textContent = bartonellaPercent + '%';
-        document.getElementById('bartonella-bar').style.width = bartonellaPercent + '%';
-        document.getElementById('bartonella-note').textContent = getLikelihoodNote(bartonellaPercent, bartonellaStrength, 'Bartonella');
-        
-        document.getElementById('babesia-score').textContent = babesiaPercent + '%';
-        document.getElementById('babesia-bar').style.width = babesiaPercent + '%';
-        document.getElementById('babesia-note').textContent = getLikelihoodNote(babesiaPercent, babesiaStrength, 'Babesia');
+        updateResultItem('lyme', lymePercent, lymeStrength, lymePercent === maxPercent && lymePercent > 33);
+        updateResultItem('bartonella', bartonellaPercent, bartonellaStrength, bartonellaPercent === maxPercent && bartonellaPercent > 33);
+        updateResultItem('babesia', babesiaPercent, babesiaStrength, babesiaPercent === maxPercent && babesiaPercent > 33);
         
         // Show matching symptoms
         const matchingDiv = document.getElementById('matching-symptoms');
@@ -4385,6 +4742,21 @@
                 <h4>Selected Symptoms (${selectedSymptoms.length})</h4>
                 ${selectedSymptoms.map(s => `<span class="matching-tag">${s}</span>`).join('')}
             `;
+        }
+    }
+
+    function updateResultItem(infection, percent, strength, isHighest) {
+        document.getElementById(`${infection}-score`).textContent = percent + '%';
+        document.getElementById(`${infection}-bar`).style.width = percent + '%';
+        document.getElementById(`${infection}-note`).textContent = getLikelihoodNote(percent, strength, infection.charAt(0).toUpperCase() + infection.slice(1));
+        
+        const resultItem = document.getElementById(`${infection}-result`);
+        if (resultItem) {
+            if (isHighest) {
+                resultItem.classList.add('highlighted');
+            } else {
+                resultItem.classList.remove('highlighted');
+            }
         }
     }
 
@@ -4413,7 +4785,32 @@
         document.querySelectorAll('.symptom-checkbox input').forEach(cb => {
             cb.checked = false;
         });
+        updateSymptomCounter();
         calculateSymptomScores();
+    }
+
+    function showEmailGate() {
+        document.getElementById('email-gate').classList.add('active');
+    }
+
+    function hideEmailGate() {
+        document.getElementById('email-gate').classList.remove('active');
+    }
+
+    function submitEmail(e) {
+        e.preventDefault();
+        const email = document.getElementById('email-input').value;
+        if (email) {
+            // In production, send to your email service
+            console.log('Email captured:', email);
+            localStorage.setItem('tickborne_email', email);
+            emailCaptured = true;
+        }
+        hideEmailGate();
+    }
+
+    function skipEmailGate() {
+        hideEmailGate();
     }
 
     // ===================
