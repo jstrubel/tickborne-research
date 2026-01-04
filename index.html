@@ -1325,6 +1325,149 @@
         margin-bottom: 0;
     }
 
+    /* Mobile Menu Button */
+    .mobile-menu-btn {
+        display: none;
+        padding: 8px;
+        background: var(--bg-tertiary);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-sm);
+        cursor: pointer;
+        margin-left: 8px;
+    }
+
+    .mobile-menu-btn svg {
+        width: 20px;
+        height: 20px;
+        color: var(--text-secondary);
+        display: block;
+    }
+
+    .mobile-nav-dropdown {
+        display: none;
+        position: fixed;
+        top: 72px;
+        left: 0;
+        right: 0;
+        background: var(--bg-secondary);
+        border-bottom: 1px solid var(--border);
+        padding: 8px 16px;
+        z-index: 99;
+        box-shadow: var(--shadow-md);
+    }
+
+    .mobile-nav-dropdown.open {
+        display: block;
+    }
+
+    .mobile-nav-item {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        width: 100%;
+        padding: 14px 16px;
+        background: none;
+        border: none;
+        border-radius: var(--radius-md);
+        font-size: 15px;
+        font-weight: 500;
+        color: var(--text-secondary);
+        cursor: pointer;
+        font-family: inherit;
+        text-align: left;
+    }
+
+    .mobile-nav-item:hover {
+        background: var(--bg-tertiary);
+    }
+
+    .mobile-nav-item.active {
+        background: var(--accent-green-light);
+        color: var(--accent-green);
+    }
+
+    .mobile-nav-item svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    /* Search Bar */
+    .search-container {
+        margin-bottom: 20px;
+    }
+
+    .search-wrapper {
+        position: relative;
+    }
+
+    .search-input {
+        width: 100%;
+        padding: 14px 16px 14px 48px;
+        border: 1px solid var(--border);
+        border-radius: var(--radius-md);
+        font-size: 15px;
+        font-family: inherit;
+        background: var(--bg-secondary);
+        color: var(--text-primary);
+        transition: all 0.2s ease;
+    }
+
+    .search-input:focus {
+        outline: none;
+        border-color: var(--accent-green);
+        box-shadow: 0 0 0 3px rgba(45, 125, 70, 0.1);
+    }
+
+    .search-input::placeholder {
+        color: var(--text-light);
+    }
+
+    .search-icon {
+        position: absolute;
+        left: 16px;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 20px;
+        height: 20px;
+        color: var(--text-muted);
+        pointer-events: none;
+    }
+
+    .search-clear {
+        position: absolute;
+        right: 12px;
+        top: 50%;
+        transform: translateY(-50%);
+        padding: 4px;
+        background: var(--bg-tertiary);
+        border: none;
+        border-radius: 50%;
+        cursor: pointer;
+        display: none;
+    }
+
+    .search-clear.visible {
+        display: block;
+    }
+
+    .search-clear svg {
+        width: 16px;
+        height: 16px;
+        color: var(--text-muted);
+        display: block;
+    }
+
+    .search-results-info {
+        font-size: 13px;
+        color: var(--text-muted);
+        margin-top: 8px;
+        display: none;
+    }
+
+    .search-results-info.visible {
+        display: block;
+    }
+
     /* Mobile Filter Pills */
     .mobile-filters {
         display: none;
@@ -1468,6 +1611,29 @@
             display: none;
         }
 
+        .mobile-menu-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .mobile-nav-dropdown {
+            top: 56px;
+        }
+
+        .nav-content {
+            height: 56px;
+        }
+
+        .logo-text {
+            font-size: 1rem;
+        }
+
+        .badge-live {
+            font-size: 10px;
+            padding: 4px 8px;
+        }
+
         .hero {
             padding: 40px 0 32px;
         }
@@ -1490,7 +1656,7 @@
         }
 
         .mobile-filters {
-            top: 72px;
+            top: 56px;
             padding: 10px 0;
         }
 
@@ -1585,10 +1751,42 @@
                 </div>
                 <div class="nav-right">
                     <span class="badge-live" id="last-updated">Loading...</span>
+                    <button class="mobile-menu-btn" id="mobile-menu-btn" onclick="toggleMobileNav()">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="3" y1="12" x2="21" y2="12"/>
+                            <line x1="3" y1="6" x2="21" y2="6"/>
+                            <line x1="3" y1="18" x2="21" y2="18"/>
+                        </svg>
+                    </button>
                 </div>
             </div>
         </div>
     </nav>
+
+    <!-- Mobile Navigation Dropdown -->
+    <div class="mobile-nav-dropdown" id="mobile-nav-dropdown">
+        <button class="mobile-nav-item active" data-section="research">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+                <polyline points="14 2 14 8 20 8"/>
+            </svg>
+            Research
+        </button>
+        <button class="mobile-nav-item" data-section="learn">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/>
+                <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>
+            </svg>
+            Learn
+        </button>
+        <button class="mobile-nav-item" data-section="podcasts">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/>
+                <path d="M19 10v2a7 7 0 0 1-14 0v-2"/>
+            </svg>
+            Podcasts
+        </button>
+    </div>
 
 
 <!-- RESEARCH SECTION -->
@@ -1698,6 +1896,25 @@
                 <div class="feed-header">
                     <h2 class="feed-title">Latest Research</h2>
                 </div>
+                
+                <!-- Search Bar -->
+                <div class="search-container">
+                    <div class="search-wrapper">
+                        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="11" cy="11" r="8"/>
+                            <path d="M21 21l-4.35-4.35"/>
+                        </svg>
+                        <input type="text" class="search-input" id="search-input" placeholder="Search papers by title, author, or keyword...">
+                        <button class="search-clear" id="search-clear" onclick="clearSearch()">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <line x1="18" y1="6" x2="6" y2="18"/>
+                                <line x1="6" y1="6" x2="18" y2="18"/>
+                            </svg>
+                        </button>
+                    </div>
+                    <div class="search-results-info" id="search-results-info"></div>
+                </div>
+
                 <div class="papers-grid" id="papers-container">
                     <div class="loading">
                         <div class="loading-spinner"></div>
@@ -2314,72 +2531,170 @@
     const PODCASTS = [
         {
             id: 1,
-            show: "Tick Boot Camp",
-            title: "Dr. Joseph Burrascano on the Evolution of Lyme Treatment",
-            guest: "Joseph Burrascano, MD — Pioneer of Lyme treatment protocols",
-            date: "Nov 2025",
-            duration: "1h 45m",
-            url: "https://www.youtube.com/watch?v=example1",
+            show: "Integrative Lyme Solutions",
+            title: "Revolutionizing Lyme Treatment with Dr. Richard Horowitz",
+            guest: "Richard Horowitz, MD — Author of 'Why Can't I Get Better?'",
+            date: "Dec 2024",
+            duration: "1h 03m",
+            url: "https://integrative-lyme-solutions-with-dr-karlfeldt.castos.com/episodes/unveiling-hope-revolutionizing-lyme-treatment-with-dr-richard-horowitz",
             summary: {
-                topics: "Dr. Burrascano discusses his decades of experience treating tick-borne diseases, the evolution of treatment protocols, and why standard short-course antibiotics often fail.",
-                keyTakeaways: "Persistent infection is real in many patients. Treatment duration should be guided by clinical response, not arbitrary timelines. Co-infections must be addressed.",
-                forPatients: "If you're not improving with standard treatment, seeking a Lyme-literate physician who understands persistent infection may be crucial."
+                topics: "Dr. Horowitz shares his journey to becoming a renowned Lyme specialist, discusses his 16-point MSIDS model for treating chronic illness, and introduces advanced treatment protocols for Lyme, Babesia, and Bartonella.",
+                keyTakeaways: "The MSIDS model addresses 16 overlapping factors that keep patients ill. Climate change is expanding tick populations. Multiple health factors must be addressed simultaneously for recovery.",
+                forPatients: "If standard treatment isn't working, a comprehensive approach addressing inflammation, detox, hormones, and co-infections may be needed."
             }
         },
         {
             id: 2,
             show: "Tick Boot Camp",
-            title: "Dr. Mozayeni on Bartonella: The Stealth Pathogen",
-            guest: "Dr. Bijan Mozayeni — Bartonella researcher and clinician",
-            date: "Oct 2025",
-            duration: "1h 32m",
-            url: "https://www.youtube.com/watch?v=example2",
+            title: "Dr. Richard Horowitz: Solving Chronic Illness with the MSIDS Model",
+            guest: "Richard Horowitz, MD — ILADS Conference Live Recording",
+            date: "Apr 2025",
+            duration: "1h 15m",
+            url: "https://podcast.tickbootcamp.com/episode/2867f9cb/live-from-ilads-dr-richard-horowitz-solving-chronic-illness-with-the-msids-model",
             summary: {
-                topics: "Deep dive into Bartonella infections, why they're underdiagnosed, the connection to psychiatric symptoms, and current treatment approaches.",
-                keyTakeaways: "Bartonella can cause a wide range of symptoms including anxiety, rage, and neurological issues. Standard testing misses most cases. Combination antibiotics are often needed.",
-                forPatients: "If you have unexplained psychiatric symptoms, skin findings (striae), or lymph node issues alongside other tick-borne disease symptoms, Bartonella should be considered."
+                topics: "Dr. Horowitz's upcoming book on chronic illness, the 6 key drivers of inflammation, AI in Lyme research, environmental toxins, and the growing prevalence of Bartonella.",
+                keyTakeaways: "Bartonella is increasingly found in Lyme patients. AI is shaping diagnostics and treatment. Detoxification is critical for recovery. Clinical trials are needed to validate treatments.",
+                forPatients: "A 'One Health' approach addressing infections, toxins, and immune function together offers the best path forward."
             }
         },
         {
             id: 3,
-            show: "Better Health Guy",
-            title: "Dr. Richard Horowitz on MSIDS and Multi-System Treatment",
-            guest: "Richard Horowitz, MD — Author of 'Why Can't I Get Better?'",
-            date: "Sep 2025",
-            duration: "2h 10m",
-            url: "https://www.youtube.com/watch?v=example3",
+            show: "Tick Boot Camp",
+            title: "Geoff Dow on Babesiosis: Malaria Parallels and New Clinical Trials",
+            guest: "Geoff Dow, PhD — CEO, 60 Degrees Pharmaceuticals",
+            date: "Dec 2025",
+            duration: "58m",
+            url: "https://podcast.tickbootcamp.com/",
             summary: {
-                topics: "Dr. Horowitz explains his MSIDS (Multiple Systemic Infectious Disease Syndrome) model and 16-point differential diagnosis map for complex chronic illness.",
-                keyTakeaways: "Chronic Lyme is often multi-factorial. Addressing inflammation, detox, hormones, and mitochondrial function alongside infections improves outcomes.",
-                forPatients: "A comprehensive approach that looks beyond just the infection often leads to better results than antibiotics alone."
+                topics: "Why tafenoquine (Arakoda), FDA-approved for malaria, is being studied for Babesia. Co-infections complicate care. Upcoming Mount Sinai trial for chronic babesiosis focused on fatigue outcomes.",
+                keyTakeaways: "Babesia parallels malaria in many ways. FDA-approved blood donor screening plus specialized PCRs improve diagnostics. Chronic illness needs different clinical approaches than acute infection.",
+                forPatients: "If you have chronic fatigue, air hunger, or anemia alongside Lyme, Babesia testing through specialized labs like Galaxy Diagnostics may reveal underlying infection."
             }
         },
         {
             id: 4,
             show: "Tick Boot Camp",
-            title: "Understanding Babesia with Dr. Peter Krause",
-            guest: "Peter Krause, MD — Yale, leading Babesia researcher",
-            date: "Aug 2025",
-            duration: "1h 18m",
-            url: "https://www.youtube.com/watch?v=example4",
+            title: "Dr. Bill Rawls: Immune-First Strategy for Chronic Lyme",
+            guest: "Bill Rawls, MD — Author and Integrative Physician",
+            date: "Nov 2025",
+            duration: "1h 05m",
+            url: "https://podcast.tickbootcamp.com/",
             summary: {
-                topics: "The biology of Babesia parasites, why co-infection with Lyme worsens outcomes, current treatment protocols, and emerging therapies.",
-                keyTakeaways: "Babesia is a malaria-like parasite that can persist despite treatment. Night sweats, air hunger, and fatigue are hallmark symptoms. Atovaquone plus azithromycin is first-line treatment.",
-                forPatients: "If you have Lyme and aren't improving, or have prominent sweats and shortness of breath, testing for Babesia is important."
+                topics: "Why antibiotics often fall short in chronic cases, the PARM healing framework (prehabilitation, assist immune system, rehabilitation, maintenance), gut protection, and how AI can speed research.",
+                keyTakeaways: "Stealth microbes like Borrelia, Bartonella, and Babesia hide in tissues, making quick-fix antibiotics ineffective. A gradual, system-calming approach helps patients tolerate protocols without crashing.",
+                forPatients: "Start with foundation work—gut health, inflammation reduction—before aggressive antimicrobials to avoid flare-ups."
             }
         },
         {
             id: 5,
-            show: "Heal Podcast",
-            title: "Mold, Lyme, and the Cell Danger Response",
-            guest: "Dr. Neil Nathan — Author of 'Toxic'",
-            date: "Jul 2025",
-            duration: "1h 28m",
-            url: "https://www.youtube.com/watch?v=example5",
+            show: "Tick Boot Camp",
+            title: "Dr. Myriah Hinchey: From Patient to Practitioner",
+            guest: "Myriah Hinchey, ND — Founder of LymeBytes",
+            date: "Oct 2025",
+            duration: "1h 22m",
+            url: "https://podcast.tickbootcamp.com/",
             summary: {
-                topics: "How mold illness and tick-borne infections interact, the cell danger response theory, and why sensitive patients need gentle treatment approaches.",
-                keyTakeaways: "Many Lyme patients also have mold toxicity. The cell danger response can keep patients stuck. Treating in the right order matters.",
-                forPatients: "If you react badly to everything and can't tolerate treatments, addressing mold and calming the nervous system may need to come first."
+                topics: "Dr. Hinchey's personal battle with Lyme, Babesia, and Bartonella. Her journey from misdiagnosed childhood infections to founding Tao Center for Vitality and LymeCore Botanicals.",
+                keyTakeaways: "Most chronic Lyme sufferers can heal. Focus on terrain, immune modulation, gut health, and targeted herbal antimicrobials. Recovery is possible with the right approach.",
+                forPatients: "Herbal protocols combined with gut healing and immune support offer a gentler path that many patients tolerate better than antibiotics alone."
+            }
+        },
+        {
+            id: 6,
+            show: "Tick Boot Camp",
+            title: "Nicole Bell: Polymicrobial Drivers of Cognitive Decline",
+            guest: "Nicole Bell — CEO, Galaxy Diagnostics",
+            date: "Dec 2025",
+            duration: "52m",
+            url: "https://tickbootcamp.com/episode-601-when-the-brain-pathobiome-becomes-personal-polymicrobial-drivers-of-cognitive-decline-nicole-bell/",
+            summary: {
+                topics: "Nicole's late husband Russ's misdiagnosed tick-borne illness. New findings: Borrelia, Chlamydia pneumoniae, and Babesia found in brain tissue. The connection between infections and Alzheimer's-like decline.",
+                keyTakeaways: "Standard neurology workups can miss complex pathobiome infections. Direct detection methods are crucial. Heavy metals plus infections may converge to drive neuroinflammation.",
+                forPatients: "If experiencing cognitive decline with tick-borne illness history, comprehensive pathogen testing including Bartonella and Babesia alongside Lyme is essential."
+            }
+        },
+        {
+            id: 7,
+            show: "Tick Boot Camp",
+            title: "Dr. Ed Breitschwerdt: The Science of Bartonella",
+            guest: "Ed Breitschwerdt, DVM — NC State, Leading Bartonella Researcher",
+            date: "Nov 2024",
+            duration: "1h 35m",
+            url: "https://podcast.tickbootcamp.com/",
+            summary: {
+                topics: "Diagnostic advancements for Bartonella, overlooked transmission routes beyond cat scratches, and the crucial need for holistic approaches in managing chronic infections.",
+                keyTakeaways: "Bartonella is far more prevalent than previously thought. Multiple species cause human disease. Traditional testing methods miss most cases.",
+                forPatients: "Specialty testing through labs like Galaxy Diagnostics using enrichment culture and PCR significantly improves Bartonella detection rates."
+            }
+        },
+        {
+            id: 8,
+            show: "Tick Boot Camp",
+            title: "Dr. Leona Gilbert: Revolutionizing Tick-Borne Disease Diagnostics",
+            guest: "Leona Gilbert, PhD — CEO of Tezted",
+            date: "Oct 2024",
+            duration: "1h 10m",
+            url: "https://podcasts.apple.com/us/podcast/tick-boot-camp/id1438332528",
+            summary: {
+                topics: "Why current Lyme tests miss co-infections. The development of TickPlex Plus screening for multiple Borrelia strains, Bartonella, Babesia, and other microbes simultaneously.",
+                keyTakeaways: "The 'one germ, one disease' approach is outdated. Polymicrobial infections are common. Assessing immune function alongside pathogen testing gives a fuller picture.",
+                forPatients: "Comprehensive panels that test for multiple pathogens at once can reveal co-infections that explain why standard Lyme treatment isn't working."
+            }
+        },
+        {
+            id: 9,
+            show: "Inside Lyme Podcast",
+            title: "Case Studies in Complex Lyme Disease",
+            guest: "Daniel Cameron, MD, MPH — Nationally recognized Lyme expert",
+            date: "2024",
+            duration: "45m",
+            url: "https://danielcameronmd.com/inside-lyme-podcast-dr-daniel-cameron/",
+            summary: {
+                topics: "Dr. Cameron discusses actual patient cases and their treatments, inspiring empathy and hope for those searching for a cure for Lyme disease.",
+                keyTakeaways: "Each patient presents uniquely. Clinical judgment matters as much as test results. Many patients improve with persistent, individualized treatment.",
+                forPatients: "Finding a physician experienced in complex Lyme who will listen to your story and adjust treatment based on response is crucial."
+            }
+        },
+        {
+            id: 10,
+            show: "Love, Hope, Lyme",
+            title: "Supporting Loved Ones with Chronic Lyme",
+            guest: "Richard Horowitz, MD — Inaugural Episode",
+            date: "Jun 2023",
+            duration: "48m",
+            url: "https://www.lymedisease.org/inaugural-love-hope-lyme-podcast-features-dr-richard-horowitz/",
+            summary: {
+                topics: "How to support someone with Lyme disease. Understanding the roller coaster of good and bad days. Why patients often see 10-30+ doctors before diagnosis.",
+                keyTakeaways: "Lyme patients aren't imagining symptoms—it's a real, difficult disease. Compassion and patience are essential. Solutions do exist with the right approach.",
+                forPatients: "Help your family understand that healing takes time and support. Share this episode with loved ones who want to understand your journey."
+            }
+        },
+        {
+            id: 11,
+            show: "Tick Boot Camp",
+            title: "Z3LLA: Performing Through Chronic Illness",
+            guest: "Julia 'Juj' Seeley & Kiana Tebyani — DJ Duo Z3LLA",
+            date: "Dec 2025",
+            duration: "1h 18m",
+            url: "https://podcasts.apple.com/us/podcast/tick-boot-camp/id1438332528",
+            summary: {
+                topics: "DJ Juj's diagnosis with Lyme, Bartonella, Babesia, mold toxicity, POTS, SIBO, and catamenial epilepsy. Performing through flare-ups, collapsing backstage, and building a music career while chronically ill.",
+                keyTakeaways: "Healing isn't linear. Consistency with herbs, detox, and mindset matters. You can pursue dreams while managing invisible illness—it just takes boundaries and support.",
+                forPatients: "This inspiring story shows chronic illness doesn't have to stop you from achieving goals, though it requires adaptation and self-compassion."
+            }
+        },
+        {
+            id: 12,
+            show: "Tick Boot Camp",
+            title: "Col. Nicole Malachowski: IACI and the National Academies Report",
+            guest: "Nicole Malachowski, USAF (Ret.) — First Female Thunderbird Pilot",
+            date: "Nov 2025",
+            duration: "55m",
+            url: "https://podcast.tickbootcamp.com/",
+            summary: {
+                topics: "Col. Malachowski served on the National Academies committee authoring the landmark report on infection-associated chronic illness (IACI). Her personal Lyme journey and advocacy work.",
+                keyTakeaways: "The medical establishment is slowly recognizing chronic Lyme as real. Patient advocacy at the highest levels is making a difference. The science is catching up to patient experience.",
+                forPatients: "This episode provides validation and hope—major institutions are now acknowledging what patients have known for years."
             }
         }
     ];
@@ -2389,6 +2704,7 @@
     // ===================
     let allPapers = [];
     let currentFilter = 'all';
+    let searchQuery = '';
 
     // ===================
     // INITIALIZATION
@@ -2396,9 +2712,81 @@
     async function init() {
         setupNavTabs();
         setupFilters();
+        setupSearch();
         setupTocScroll();
         await loadPapers();
         renderPodcasts();
+    }
+
+    // ===================
+    // MOBILE NAVIGATION
+    // ===================
+    function toggleMobileNav() {
+        const dropdown = document.getElementById('mobile-nav-dropdown');
+        dropdown.classList.toggle('open');
+    }
+
+    function closeMobileNav() {
+        document.getElementById('mobile-nav-dropdown').classList.remove('open');
+    }
+
+    // ===================
+    // SEARCH FUNCTIONALITY
+    // ===================
+    function setupSearch() {
+        const searchInput = document.getElementById('search-input');
+        const searchClear = document.getElementById('search-clear');
+        
+        if (!searchInput) return;
+        
+        searchInput.addEventListener('input', (e) => {
+            searchQuery = e.target.value.toLowerCase().trim();
+            searchClear.classList.toggle('visible', searchQuery.length > 0);
+            filterAndRenderPapers();
+        });
+    }
+
+    function clearSearch() {
+        const searchInput = document.getElementById('search-input');
+        const searchClear = document.getElementById('search-clear');
+        const searchResultsInfo = document.getElementById('search-results-info');
+        
+        searchInput.value = '';
+        searchQuery = '';
+        searchClear.classList.remove('visible');
+        searchResultsInfo.classList.remove('visible');
+        filterAndRenderPapers();
+    }
+
+    function filterAndRenderPapers() {
+        let filtered = allPapers;
+        
+        // Apply pathogen filter
+        if (currentFilter !== 'all') {
+            filtered = filtered.filter(p => p.pathogen === currentFilter);
+        }
+        
+        // Apply search filter
+        if (searchQuery) {
+            filtered = filtered.filter(p => {
+                const titleMatch = p.title.toLowerCase().includes(searchQuery);
+                const summaryMatch = p.ai_summary?.toLowerCase().includes(searchQuery);
+                const authorsMatch = p.authors?.toLowerCase().includes(searchQuery);
+                const journalMatch = p.journal?.toLowerCase().includes(searchQuery);
+                return titleMatch || summaryMatch || authorsMatch || journalMatch;
+            });
+        }
+        
+        // Update search results info
+        const searchResultsInfo = document.getElementById('search-results-info');
+        if (searchQuery) {
+            searchResultsInfo.textContent = `Found ${filtered.length} paper${filtered.length !== 1 ? 's' : ''} matching "${searchQuery}"`;
+            searchResultsInfo.classList.add('visible');
+        } else {
+            searchResultsInfo.classList.remove('visible');
+        }
+        
+        renderPapers(filtered);
     }
 
     // ===================
@@ -2450,19 +2838,39 @@
     // NAVIGATION
     // ===================
     function setupNavTabs() {
+        // Desktop nav links
         document.querySelectorAll('.nav-link').forEach(tab => {
             tab.addEventListener('click', () => {
                 const section = tab.dataset.section;
                 showSection(section);
             });
         });
+
+        // Mobile nav items
+        document.querySelectorAll('.mobile-nav-item').forEach(item => {
+            item.addEventListener('click', () => {
+                const section = item.dataset.section;
+                showSection(section);
+                closeMobileNav();
+            });
+        });
     }
 
     function showSection(sectionName) {
+        // Update desktop nav
         document.querySelectorAll('.nav-link').forEach(t => t.classList.remove('active'));
         document.querySelector(`.nav-link[data-section="${sectionName}"]`)?.classList.add('active');
+        
+        // Update mobile nav
+        document.querySelectorAll('.mobile-nav-item').forEach(t => t.classList.remove('active'));
+        document.querySelector(`.mobile-nav-item[data-section="${sectionName}"]`)?.classList.add('active');
+        
+        // Show section
         document.querySelectorAll('.page-section').forEach(s => s.classList.remove('active'));
         document.getElementById(`section-${sectionName}`)?.classList.add('active');
+        
+        // Scroll to top
+        window.scrollTo(0, 0);
     }
 
     // ===================
@@ -2541,8 +2949,7 @@
             });
 
             currentFilter = filter;
-            const filtered = filter === 'all' ? allPapers : allPapers.filter(p => p.pathogen === filter);
-            renderPapers(filtered);
+            filterAndRenderPapers();
         });
 
         // Mobile filter pills
@@ -2560,8 +2967,7 @@
             });
 
             currentFilter = filter;
-            const filtered = filter === 'all' ? allPapers : allPapers.filter(p => p.pathogen === filter);
-            renderPapers(filtered);
+            filterAndRenderPapers();
         });
     }
 
