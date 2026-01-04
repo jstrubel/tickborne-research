@@ -10,30 +10,32 @@
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg-primary: #FAFCFA;
-            --bg-secondary: #FFFFFF;
-            --bg-tertiary: #F5F7F5;
-            --bg-accent: #EDF4ED;
+            --bg-primary: #EFF5EF;
+            --bg-secondary: #FAFCFA;
+            --bg-tertiary: #E4EDE4;
+            --bg-accent: #D8E8D8;
 
-```
         --text-primary: #1A2E1A;
-        --text-secondary: #4A5D4A;
-        --text-muted: #7A8A7A;
-        --text-light: #9BA99B;
+        --text-secondary: #3D5A3D;
+        --text-muted: #5A7A5A;
+        --text-light: #7A9A7A;
         
         --accent-green: #2D7D46;
-        --accent-green-light: #E8F5EC;
+        --accent-green-light: #C8E6D0;
         --accent-green-dark: #1D5C32;
         
         --lyme: #2D7D46;
-        --lyme-bg: #E8F5EC;
+        --lyme-bg: #D4EDDB;
+        --lyme-border: #A8D5B5;
         --bartonella: #C2410C;
-        --bartonella-bg: #FFF7ED;
+        --bartonella-bg: #FFEDD5;
+        --bartonella-border: #FDBA74;
         --babesia: #1D4ED8;
-        --babesia-bg: #EFF6FF;
+        --babesia-bg: #DBEAFE;
+        --babesia-border: #93C5FD;
         
-        --border: #E5EBE5;
-        --border-light: #EDF1ED;
+        --border: #C8DCC8;
+        --border-light: #D8E8D8;
         
         --shadow-xs: 0 1px 2px rgba(26, 46, 26, 0.04);
         --shadow-sm: 0 2px 4px rgba(26, 46, 26, 0.06);
@@ -200,9 +202,21 @@
 
     /* Hero Section */
     .hero {
-        padding: 80px 0 64px;
-        background: var(--bg-secondary);
-        border-bottom: 1px solid var(--border-light);
+        padding: 60px 0 48px;
+        background: linear-gradient(180deg, var(--bg-secondary) 0%, var(--bg-tertiary) 100%);
+        border-bottom: 1px solid var(--border);
+        position: relative;
+    }
+    
+    .hero::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 40%;
+        height: 100%;
+        background: radial-gradient(ellipse at 100% 0%, rgba(45, 125, 70, 0.08) 0%, transparent 70%);
+        pointer-events: none;
     }
 
     .hero-content {
@@ -349,9 +363,9 @@
     }
 
     .filter-icon.all { background: var(--bg-tertiary); color: var(--text-secondary); }
-    .filter-icon.lyme { background: var(--lyme-bg); color: var(--lyme); }
-    .filter-icon.bartonella { background: var(--bartonella-bg); color: var(--bartonella); }
-    .filter-icon.babesia { background: var(--babesia-bg); color: var(--babesia); }
+    .filter-icon.lyme { background: var(--lyme-bg); color: var(--lyme); border: 1px solid var(--lyme-border); }
+    .filter-icon.bartonella { background: var(--bartonella-bg); color: var(--bartonella); border: 1px solid var(--bartonella-border); }
+    .filter-icon.babesia { background: var(--babesia-bg); color: var(--babesia); border: 1px solid var(--babesia-border); }
 
     .filter-text {
         flex: 1;
@@ -405,7 +419,7 @@
     }
 
     .paper-card:hover {
-        border-color: var(--border);
+        border-color: var(--accent-green);
         box-shadow: var(--shadow-md);
         transform: translateY(-2px);
     }
@@ -427,9 +441,9 @@
         letter-spacing: 0.04em;
     }
 
-    .tag-lyme { background: var(--lyme-bg); color: var(--lyme); }
-    .tag-bartonella { background: var(--bartonella-bg); color: var(--bartonella); }
-    .tag-babesia { background: var(--babesia-bg); color: var(--babesia); }
+    .tag-lyme { background: var(--lyme-bg); color: var(--lyme); border: 1px solid var(--lyme-border); }
+    .tag-bartonella { background: var(--bartonella-bg); color: var(--bartonella); border: 1px solid var(--bartonella-border); }
+    .tag-babesia { background: var(--babesia-bg); color: var(--babesia); border: 1px solid var(--babesia-border); }
 
     .paper-type {
         font-size: 12px;
@@ -463,7 +477,8 @@
 
     /* AI Summary */
     .ai-summary {
-        background: var(--bg-tertiary);
+        background: linear-gradient(135deg, var(--bg-tertiary) 0%, var(--bg-accent) 100%);
+        border: 1px solid var(--border);
         border-radius: var(--radius-md);
         padding: 20px;
         margin-bottom: 20px;
@@ -504,6 +519,8 @@
         font-size: 14px;
         color: var(--text-secondary);
         line-height: 1.7;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
     }
 
     .ai-text strong {
@@ -524,9 +541,7 @@
         font-size: 13px;
         color: var(--text-muted);
         max-width: 60%;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        white-space: nowrap;
+        line-height: 1.4;
     }
 
     .paper-link {
@@ -696,8 +711,8 @@
 
     /* Footer */
     footer {
-        background: var(--bg-secondary);
-        border-top: 1px solid var(--border-light);
+        background: linear-gradient(180deg, var(--bg-tertiary) 0%, var(--bg-accent) 100%);
+        border-top: 1px solid var(--border);
         padding: 48px 0;
     }
 
@@ -1310,6 +1325,75 @@
         margin-bottom: 0;
     }
 
+    /* Mobile Filter Pills */
+    .mobile-filters {
+        display: none;
+        padding: 12px 0;
+        background: var(--bg-primary);
+        position: sticky;
+        top: 72px;
+        z-index: 50;
+        border-bottom: 1px solid var(--border);
+    }
+
+    .filter-pills {
+        display: flex;
+        gap: 8px;
+        overflow-x: auto;
+        padding: 4px 24px;
+        margin: 0 -24px;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+    }
+
+    .filter-pills::-webkit-scrollbar {
+        display: none;
+    }
+
+    .filter-pill {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 10px 16px;
+        border-radius: 100px;
+        background: var(--bg-secondary);
+        border: 1px solid var(--border);
+        cursor: pointer;
+        transition: all 0.2s ease;
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 14px;
+        font-weight: 500;
+        color: var(--text-secondary);
+        font-family: inherit;
+    }
+
+    .filter-pill:active {
+        transform: scale(0.98);
+    }
+
+    .filter-pill.active {
+        background: var(--accent-green);
+        border-color: var(--accent-green);
+        color: white;
+    }
+
+    .pill-dot {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background: var(--text-muted);
+    }
+
+    .pill-dot.lyme { background: var(--lyme); }
+    .pill-dot.bartonella { background: var(--bartonella); }
+    .pill-dot.babesia { background: var(--babesia); }
+
+    .filter-pill.active .pill-dot {
+        background: white;
+    }
+
     /* Learn Section Responsive */
     @media (max-width: 1000px) {
         .learn-layout {
@@ -1358,83 +1442,126 @@
     @media (max-width: 900px) {
         .main-layout {
             grid-template-columns: 1fr;
-            gap: 32px;
+            gap: 0;
         }
 
         .sidebar {
-            position: static;
-        }
-
-        .filter-list {
-            flex-direction: row;
-            gap: 8px;
-            overflow-x: auto;
-            padding-bottom: 8px;
-        }
-
-        .filter-btn {
-            flex-shrink: 0;
-            padding: 10px 14px;
-        }
-
-        .filter-count {
             display: none;
         }
 
+        .mobile-filters {
+            display: block;
+        }
+
         .stats-row {
-            gap: 32px;
+            gap: 16px;
             flex-wrap: wrap;
         }
     }
 
     @media (max-width: 600px) {
+        .container {
+            padding: 0 16px;
+        }
+
         .nav-links {
             display: none;
         }
 
         .hero {
-            padding: 48px 0;
+            padding: 40px 0 32px;
         }
 
         .hero h1 {
-            font-size: 1.875rem;
+            font-size: 1.625rem;
+            line-height: 1.25;
+        }
+
+        .hero-description {
+            font-size: 0.95rem;
         }
 
         .stats-row {
-            gap: 24px;
+            gap: 12px;
         }
 
         .stat-value {
-            font-size: 1.5rem;
+            font-size: 1.375rem;
+        }
+
+        .mobile-filters {
+            top: 72px;
+            padding: 10px 0;
+        }
+
+        .filter-pills {
+            padding: 4px 16px;
+            margin: 0 -16px;
+            gap: 6px;
+        }
+
+        .filter-pill {
+            padding: 8px 14px;
+            font-size: 13px;
+        }
+
+        .paper-card {
+            padding: 16px;
         }
 
         .paper-meta {
-            flex-direction: column;
-            align-items: flex-start;
-            gap: 8px;
+            flex-wrap: wrap;
+            gap: 6px;
         }
 
         .paper-date {
             margin-left: 0;
+            width: 100%;
+            margin-top: 4px;
+        }
+
+        .paper-title {
+            font-size: 1.05rem;
+            line-height: 1.35;
+        }
+
+        .ai-summary {
+            padding: 14px;
+        }
+
+        .ai-text {
+            font-size: 13px;
+            line-height: 1.6;
         }
 
         .paper-footer {
             flex-direction: column;
             gap: 12px;
-            align-items: flex-start;
+            align-items: stretch;
         }
 
         .paper-source {
             max-width: 100%;
         }
 
+        .paper-link {
+            justify-content: center;
+            padding: 12px 16px;
+        }
+
         .footer-content {
             flex-direction: column;
-            gap: 24px;
+            gap: 16px;
+            text-align: center;
+        }
+
+        .footer-left {
+            flex-direction: column;
+            gap: 8px;
         }
     }
 </style>
-```
+
 
 </head>
 <body>
@@ -1463,7 +1590,7 @@
         </div>
     </nav>
 
-```
+
 <!-- RESEARCH SECTION -->
 <div id="section-research" class="page-section active">
     <section class="hero">
@@ -1499,6 +1626,28 @@
             </div>
         </div>
     </section>
+
+    <!-- Mobile Filter Pills -->
+    <div class="mobile-filters">
+        <div class="filter-pills" id="mobile-filter-nav">
+            <button class="filter-pill active" data-filter="all">
+                <span class="pill-dot"></span>
+                All Research
+            </button>
+            <button class="filter-pill" data-filter="lyme">
+                <span class="pill-dot lyme"></span>
+                Lyme
+            </button>
+            <button class="filter-pill" data-filter="bartonella">
+                <span class="pill-dot bartonella"></span>
+                Bartonella
+            </button>
+            <button class="filter-pill" data-filter="babesia">
+                <span class="pill-dot babesia"></span>
+                Babesia
+            </button>
+        </div>
+    </div>
 
     <div class="container">
         <div class="main-layout">
@@ -2377,6 +2526,7 @@
     }
 
     function setupFilters() {
+        // Desktop filter buttons
         document.getElementById('filter-nav').addEventListener('click', (e) => {
             const btn = e.target.closest('.filter-btn');
             if (!btn) return;
@@ -2384,7 +2534,31 @@
             document.querySelectorAll('#filter-nav .filter-btn').forEach(l => l.classList.remove('active'));
             btn.classList.add('active');
 
+            // Sync mobile filters
             const filter = btn.dataset.filter;
+            document.querySelectorAll('#mobile-filter-nav .filter-pill').forEach(p => {
+                p.classList.toggle('active', p.dataset.filter === filter);
+            });
+
+            currentFilter = filter;
+            const filtered = filter === 'all' ? allPapers : allPapers.filter(p => p.pathogen === filter);
+            renderPapers(filtered);
+        });
+
+        // Mobile filter pills
+        document.getElementById('mobile-filter-nav').addEventListener('click', (e) => {
+            const pill = e.target.closest('.filter-pill');
+            if (!pill) return;
+
+            document.querySelectorAll('#mobile-filter-nav .filter-pill').forEach(p => p.classList.remove('active'));
+            pill.classList.add('active');
+
+            // Sync desktop filters
+            const filter = pill.dataset.filter;
+            document.querySelectorAll('#filter-nav .filter-btn').forEach(b => {
+                b.classList.toggle('active', b.dataset.filter === filter);
+            });
+
             currentFilter = filter;
             const filtered = filter === 'all' ? allPapers : allPapers.filter(p => p.pathogen === filter);
             renderPapers(filtered);
@@ -2531,7 +2705,7 @@
     // ===================
     init();
 </script>
-```
+
 
 </body>
 </html>
