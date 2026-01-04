@@ -1176,6 +1176,377 @@
         }
     }
 
+    /* =================== */
+    /* SYMPTOM CHECKER STYLES */
+    /* =================== */
+    .symptom-checker-layout {
+        display: grid;
+        grid-template-columns: 1fr 400px;
+        gap: 32px;
+        padding: 24px 0 64px;
+    }
+
+    .symptom-selection {
+        background: white;
+        border: 1px solid var(--border);
+        border-radius: var(--radius-lg);
+        padding: 24px;
+    }
+
+    .symptom-selection h3 {
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 4px;
+    }
+
+    .symptom-instructions {
+        font-size: 14px;
+        color: var(--text-muted);
+        margin-bottom: 24px;
+    }
+
+    .symptom-group {
+        margin-bottom: 24px;
+        border-bottom: 1px solid var(--border-light);
+        padding-bottom: 20px;
+    }
+
+    .symptom-group:last-of-type {
+        border-bottom: none;
+        margin-bottom: 16px;
+    }
+
+    .symptom-group-header {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-size: 14px;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 12px;
+    }
+
+    .symptom-group-header svg {
+        width: 18px;
+        height: 18px;
+        color: var(--accent-green);
+    }
+
+    .symptom-options {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+    }
+
+    .symptom-checkbox {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 10px 12px;
+        background: var(--bg-secondary);
+        border: 1px solid var(--border-light);
+        border-radius: var(--radius-sm);
+        cursor: pointer;
+        font-size: 13px;
+        color: var(--text-secondary);
+        transition: all 0.2s ease;
+    }
+
+    .symptom-checkbox:hover {
+        border-color: var(--accent-green);
+        background: var(--bg-tertiary);
+    }
+
+    .symptom-checkbox input {
+        display: none;
+    }
+
+    .symptom-checkbox .checkmark {
+        width: 18px;
+        height: 18px;
+        border: 2px solid var(--border);
+        border-radius: 4px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+        transition: all 0.2s ease;
+    }
+
+    .symptom-checkbox input:checked + .checkmark {
+        background: var(--accent-green);
+        border-color: var(--accent-green);
+    }
+
+    .symptom-checkbox input:checked + .checkmark::after {
+        content: "✓";
+        color: white;
+        font-size: 12px;
+        font-weight: bold;
+    }
+
+    .symptom-checkbox input:checked ~ * {
+        color: var(--text-primary);
+    }
+
+    .clear-symptoms-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        width: 100%;
+        padding: 12px;
+        background: var(--bg-secondary);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-sm);
+        font-size: 14px;
+        color: var(--text-muted);
+        cursor: pointer;
+        transition: all 0.2s ease;
+    }
+
+    .clear-symptoms-btn:hover {
+        border-color: #DC2626;
+        color: #DC2626;
+    }
+
+    .clear-symptoms-btn svg {
+        width: 16px;
+        height: 16px;
+    }
+
+    /* Results Panel */
+    .symptom-results {
+        position: sticky;
+        top: 88px;
+        height: fit-content;
+    }
+
+    .results-card {
+        background: white;
+        border: 1px solid var(--border);
+        border-radius: var(--radius-lg);
+        padding: 24px;
+        margin-bottom: 16px;
+    }
+
+    .results-card h3 {
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 4px;
+    }
+
+    .results-subtitle {
+        font-size: 13px;
+        color: var(--text-muted);
+        margin-bottom: 20px;
+    }
+
+    .results-placeholder {
+        text-align: center;
+        padding: 40px 20px;
+        color: var(--text-muted);
+    }
+
+    .results-placeholder svg {
+        width: 48px;
+        height: 48px;
+        opacity: 0.3;
+        margin-bottom: 12px;
+    }
+
+    .results-placeholder p {
+        font-size: 14px;
+    }
+
+    .result-item {
+        margin-bottom: 20px;
+    }
+
+    .result-item:last-child {
+        margin-bottom: 0;
+    }
+
+    .result-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 8px;
+    }
+
+    .result-name {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        font-size: 14px;
+        font-weight: 600;
+        color: var(--text-primary);
+    }
+
+    .result-dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+    }
+
+    .result-dot.lyme { background: var(--lyme); }
+    .result-dot.bartonella { background: var(--bartonella); }
+    .result-dot.babesia { background: var(--babesia); }
+
+    .result-score {
+        font-size: 16px;
+        font-weight: 700;
+        color: var(--text-primary);
+    }
+
+    .result-bar-bg {
+        height: 8px;
+        background: var(--bg-tertiary);
+        border-radius: 4px;
+        overflow: hidden;
+    }
+
+    .result-bar {
+        height: 100%;
+        border-radius: 4px;
+        transition: width 0.4s ease;
+    }
+
+    .result-bar.lyme { background: linear-gradient(90deg, var(--lyme), #6B9B7A); }
+    .result-bar.bartonella { background: linear-gradient(90deg, var(--bartonella), #EF4444); }
+    .result-bar.babesia { background: linear-gradient(90deg, var(--babesia), #3B82F6); }
+
+    .result-note {
+        font-size: 12px;
+        color: var(--text-muted);
+        margin-top: 6px;
+        font-style: italic;
+    }
+
+    .matching-symptoms {
+        margin-top: 20px;
+        padding-top: 20px;
+        border-top: 1px solid var(--border-light);
+    }
+
+    .matching-symptoms h4 {
+        font-size: 13px;
+        font-weight: 600;
+        color: var(--text-secondary);
+        margin-bottom: 10px;
+    }
+
+    .matching-tag {
+        display: inline-block;
+        padding: 4px 10px;
+        background: var(--bg-tertiary);
+        border-radius: 100px;
+        font-size: 12px;
+        color: var(--text-secondary);
+        margin: 2px;
+    }
+
+    .disclaimer-card {
+        display: flex;
+        gap: 16px;
+        background: #FFFBEB;
+        border: 1px solid #FDE68A;
+        border-radius: var(--radius-lg);
+        padding: 20px;
+        margin-bottom: 16px;
+    }
+
+    .disclaimer-icon {
+        flex-shrink: 0;
+        width: 40px;
+        height: 40px;
+        background: #FEF3C7;
+        border-radius: var(--radius-sm);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #B45309;
+    }
+
+    .disclaimer-icon svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    .disclaimer-text strong {
+        font-size: 14px;
+        color: #92400E;
+        display: block;
+        margin-bottom: 4px;
+    }
+
+    .disclaimer-text p {
+        font-size: 13px;
+        color: #A16207;
+        line-height: 1.5;
+        margin: 0;
+    }
+
+    .next-steps-card {
+        background: var(--bg-tertiary);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-lg);
+        padding: 20px;
+    }
+
+    .next-steps-card h4 {
+        font-size: 14px;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 12px;
+    }
+
+    .next-steps-card ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .next-steps-card li {
+        font-size: 13px;
+        color: var(--text-secondary);
+        padding: 6px 0;
+        padding-left: 20px;
+        position: relative;
+    }
+
+    .next-steps-card li::before {
+        content: "→";
+        position: absolute;
+        left: 0;
+        color: var(--accent-green);
+    }
+
+    .next-steps-card a {
+        color: var(--accent-green);
+        text-decoration: none;
+    }
+
+    .next-steps-card a:hover {
+        text-decoration: underline;
+    }
+
+    @media (max-width: 900px) {
+        .symptom-checker-layout {
+            grid-template-columns: 1fr;
+        }
+
+        .symptom-results {
+            position: static;
+        }
+
+        .symptom-options {
+            grid-template-columns: 1fr;
+        }
+    }
+
     .grid-2 {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -2000,6 +2371,7 @@
                     <button class="nav-link active" data-section="research">Research</button>
                     <button class="nav-link" data-section="learn">Learn</button>
                     <button class="nav-link" data-section="podcasts">Podcasts</button>
+                    <button class="nav-link" data-section="symptoms">Symptom Checker</button>
                 </div>
                 <div class="nav-right">
                     <span class="badge-live" id="last-updated">Loading...</span>
@@ -2037,6 +2409,12 @@
                 <path d="M19 10v2a7 7 0 0 1-14 0v-2"/>
             </svg>
             Podcasts
+        </button>
+        <button class="mobile-nav-item" data-section="symptoms">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+            </svg>
+            Symptom Checker
         </button>
     </div>
 
@@ -2838,6 +3216,378 @@
     </div>
 </div>
 
+<!-- SYMPTOM CHECKER SECTION -->
+<div id="section-symptoms" class="page-section">
+    <section class="hero" style="padding: 64px 0 24px;">
+        <div class="container">
+            <div class="hero-content">
+                <h1>Symptom Checker</h1>
+                <p class="hero-description">Select symptoms you're experiencing to see which tick-borne infections they may indicate. This is for educational purposes only — always consult a healthcare provider.</p>
+            </div>
+        </div>
+    </section>
+
+    <div class="container">
+        <div class="symptom-checker-layout">
+            <!-- Left: Symptom Selection -->
+            <div class="symptom-selection">
+                <div class="symptom-category-select">
+                    <h3>Select Your Symptoms</h3>
+                    <p class="symptom-instructions">Check all symptoms you're currently experiencing or have experienced.</p>
+                    
+                    <!-- General/Systemic -->
+                    <div class="symptom-group">
+                        <div class="symptom-group-header">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+                            </svg>
+                            General / Systemic
+                        </div>
+                        <div class="symptom-options">
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="fatigue" data-lyme="3" data-bartonella="3" data-babesia="3">
+                                <span class="checkmark"></span>
+                                Profound fatigue
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="fever" data-lyme="2" data-bartonella="2" data-babesia="3">
+                                <span class="checkmark"></span>
+                                Fever / chills
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="sweats" data-lyme="1" data-bartonella="2" data-babesia="3">
+                                <span class="checkmark"></span>
+                                Night sweats
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="flulike" data-lyme="3" data-bartonella="2" data-babesia="2">
+                                <span class="checkmark"></span>
+                                Flu-like symptoms
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="weightchange" data-lyme="1" data-bartonella="1" data-babesia="1">
+                                <span class="checkmark"></span>
+                                Unexplained weight changes
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Neurological -->
+                    <div class="symptom-group">
+                        <div class="symptom-group-header">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"/>
+                                <path d="M12 8v4l2 2"/>
+                            </svg>
+                            Neurological
+                        </div>
+                        <div class="symptom-options">
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="brainfog" data-lyme="3" data-bartonella="3" data-babesia="2">
+                                <span class="checkmark"></span>
+                                Brain fog / cognitive issues
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="headaches" data-lyme="3" data-bartonella="3" data-babesia="2">
+                                <span class="checkmark"></span>
+                                Headaches / migraines
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="numbness" data-lyme="3" data-bartonella="2" data-babesia="1">
+                                <span class="checkmark"></span>
+                                Numbness / tingling
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="bellspalsy" data-lyme="3" data-bartonella="1" data-babesia="0">
+                                <span class="checkmark"></span>
+                                Bell's palsy (facial drooping)
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="memory" data-lyme="3" data-bartonella="2" data-babesia="1">
+                                <span class="checkmark"></span>
+                                Memory problems
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="lightsensitivity" data-lyme="2" data-bartonella="3" data-babesia="1">
+                                <span class="checkmark"></span>
+                                Light sensitivity
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="soundsensitivity" data-lyme="2" data-bartonella="3" data-babesia="1">
+                                <span class="checkmark"></span>
+                                Sound sensitivity
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Psychiatric -->
+                    <div class="symptom-group">
+                        <div class="symptom-group-header">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+                            </svg>
+                            Psychiatric / Mood
+                        </div>
+                        <div class="symptom-options">
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="anxiety" data-lyme="2" data-bartonella="3" data-babesia="2">
+                                <span class="checkmark"></span>
+                                Anxiety / panic attacks
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="depression" data-lyme="2" data-bartonella="2" data-babesia="2">
+                                <span class="checkmark"></span>
+                                Depression
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="irritability" data-lyme="2" data-bartonella="3" data-babesia="2">
+                                <span class="checkmark"></span>
+                                Irritability / rage
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="sleep" data-lyme="2" data-bartonella="2" data-babesia="2">
+                                <span class="checkmark"></span>
+                                Sleep disturbances
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="ocd" data-lyme="1" data-bartonella="3" data-babesia="0">
+                                <span class="checkmark"></span>
+                                OCD-like symptoms
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Musculoskeletal -->
+                    <div class="symptom-group">
+                        <div class="symptom-group-header">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M18 8h1a4 4 0 0 1 0 8h-1"/>
+                                <path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"/>
+                            </svg>
+                            Musculoskeletal
+                        </div>
+                        <div class="symptom-options">
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="jointpain" data-lyme="3" data-bartonella="2" data-babesia="1">
+                                <span class="checkmark"></span>
+                                Joint pain (migratory)
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="muscleaches" data-lyme="3" data-bartonella="2" data-babesia="2">
+                                <span class="checkmark"></span>
+                                Muscle aches
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="neckstiff" data-lyme="3" data-bartonella="1" data-babesia="1">
+                                <span class="checkmark"></span>
+                                Neck stiffness
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="solesofeet" data-lyme="1" data-bartonella="3" data-babesia="0">
+                                <span class="checkmark"></span>
+                                Soles of feet pain (morning)
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Cardiovascular -->
+                    <div class="symptom-group">
+                        <div class="symptom-group-header">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+                            </svg>
+                            Cardiovascular
+                        </div>
+                        <div class="symptom-options">
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="palpitations" data-lyme="2" data-bartonella="2" data-babesia="2">
+                                <span class="checkmark"></span>
+                                Heart palpitations
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="chestpain" data-lyme="2" data-bartonella="2" data-babesia="1">
+                                <span class="checkmark"></span>
+                                Chest pain
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="airhunger" data-lyme="1" data-bartonella="1" data-babesia="3">
+                                <span class="checkmark"></span>
+                                Air hunger / shortness of breath
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="dizziness" data-lyme="2" data-bartonella="2" data-babesia="2">
+                                <span class="checkmark"></span>
+                                Dizziness / lightheadedness
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Skin -->
+                    <div class="symptom-group">
+                        <div class="symptom-group-header">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"/>
+                            </svg>
+                            Skin
+                        </div>
+                        <div class="symptom-options">
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="bullseye" data-lyme="3" data-bartonella="0" data-babesia="0">
+                                <span class="checkmark"></span>
+                                Bull's-eye rash (EM rash)
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="stretchmarks" data-lyme="0" data-bartonella="3" data-babesia="0">
+                                <span class="checkmark"></span>
+                                Stretch mark-like streaks (striae)
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="rashes" data-lyme="2" data-bartonella="2" data-babesia="1">
+                                <span class="checkmark"></span>
+                                Other rashes
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Other -->
+                    <div class="symptom-group">
+                        <div class="symptom-group-header">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"/>
+                                <path d="M12 16v-4"/>
+                                <path d="M12 8h.01"/>
+                            </svg>
+                            Other Key Symptoms
+                        </div>
+                        <div class="symptom-options">
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="swollenglands" data-lyme="2" data-bartonella="3" data-babesia="1">
+                                <span class="checkmark"></span>
+                                Swollen lymph nodes
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="sorethroat" data-lyme="2" data-bartonella="2" data-babesia="1">
+                                <span class="checkmark"></span>
+                                Sore throat
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="eyeproblems" data-lyme="2" data-bartonella="3" data-babesia="1">
+                                <span class="checkmark"></span>
+                                Eye problems / blurred vision
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="tinnitus" data-lyme="2" data-bartonella="2" data-babesia="1">
+                                <span class="checkmark"></span>
+                                Tinnitus (ringing in ears)
+                            </label>
+                            <label class="symptom-checkbox">
+                                <input type="checkbox" data-symptom="anemia" data-lyme="0" data-bartonella="1" data-babesia="3">
+                                <span class="checkmark"></span>
+                                Anemia symptoms
+                            </label>
+                        </div>
+                    </div>
+
+                    <button class="clear-symptoms-btn" onclick="clearAllSymptoms()">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M18 6L6 18M6 6l12 12"/>
+                        </svg>
+                        Clear All
+                    </button>
+                </div>
+            </div>
+
+            <!-- Right: Results -->
+            <div class="symptom-results">
+                <div class="results-card">
+                    <h3>Infection Likelihood</h3>
+                    <p class="results-subtitle">Based on selected symptoms</p>
+                    
+                    <div class="results-placeholder" id="results-placeholder">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+                        </svg>
+                        <p>Select symptoms to see which infections they may indicate</p>
+                    </div>
+
+                    <div class="results-content" id="results-content" style="display: none;">
+                        <!-- Lyme -->
+                        <div class="result-item">
+                            <div class="result-header">
+                                <span class="result-name">
+                                    <span class="result-dot lyme"></span>
+                                    Lyme Disease
+                                </span>
+                                <span class="result-score" id="lyme-score">0%</span>
+                            </div>
+                            <div class="result-bar-bg">
+                                <div class="result-bar lyme" id="lyme-bar" style="width: 0%;"></div>
+                            </div>
+                            <p class="result-note" id="lyme-note"></p>
+                        </div>
+
+                        <!-- Bartonella -->
+                        <div class="result-item">
+                            <div class="result-header">
+                                <span class="result-name">
+                                    <span class="result-dot bartonella"></span>
+                                    Bartonella
+                                </span>
+                                <span class="result-score" id="bartonella-score">0%</span>
+                            </div>
+                            <div class="result-bar-bg">
+                                <div class="result-bar bartonella" id="bartonella-bar" style="width: 0%;"></div>
+                            </div>
+                            <p class="result-note" id="bartonella-note"></p>
+                        </div>
+
+                        <!-- Babesia -->
+                        <div class="result-item">
+                            <div class="result-header">
+                                <span class="result-name">
+                                    <span class="result-dot babesia"></span>
+                                    Babesia
+                                </span>
+                                <span class="result-score" id="babesia-score">0%</span>
+                            </div>
+                            <div class="result-bar-bg">
+                                <div class="result-bar babesia" id="babesia-bar" style="width: 0%;"></div>
+                            </div>
+                            <p class="result-note" id="babesia-note"></p>
+                        </div>
+
+                        <div class="matching-symptoms" id="matching-symptoms"></div>
+                    </div>
+                </div>
+
+                <div class="disclaimer-card">
+                    <div class="disclaimer-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/>
+                            <line x1="12" y1="9" x2="12" y2="13"/>
+                            <line x1="12" y1="17" x2="12.01" y2="17"/>
+                        </svg>
+                    </div>
+                    <div class="disclaimer-text">
+                        <strong>Educational Tool Only</strong>
+                        <p>This symptom checker is for informational purposes only and is not a substitute for professional medical advice. Many of these symptoms overlap with other conditions. Please consult a Lyme-literate medical professional for proper diagnosis and treatment.</p>
+                    </div>
+                </div>
+
+                <div class="next-steps-card">
+                    <h4>Recommended Next Steps</h4>
+                    <ul>
+                        <li>Find a Lyme-literate doctor (LLMD) through <a href="https://www.ilads.org/patient-care/provider-search/" target="_blank">ILADS</a></li>
+                        <li>Request comprehensive testing including co-infection panels</li>
+                        <li>Keep a symptom journal to share with your provider</li>
+                        <li>Explore our <a href="#" onclick="showSection('learn'); return false;">Learn section</a> for more information</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <footer>
     <div class="container">
         <div class="footer-content">
@@ -3509,9 +4259,102 @@
     }
 
     // ===================
+    // SYMPTOM CHECKER
+    // ===================
+    function setupSymptomChecker() {
+        const checkboxes = document.querySelectorAll('.symptom-checkbox input');
+        checkboxes.forEach(checkbox => {
+            checkbox.addEventListener('change', calculateSymptomScores);
+        });
+    }
+
+    function calculateSymptomScores() {
+        const checkboxes = document.querySelectorAll('.symptom-checkbox input:checked');
+        const placeholder = document.getElementById('results-placeholder');
+        const content = document.getElementById('results-content');
+        
+        if (checkboxes.length === 0) {
+            placeholder.style.display = 'block';
+            content.style.display = 'none';
+            return;
+        }
+        
+        placeholder.style.display = 'none';
+        content.style.display = 'block';
+        
+        let lymeScore = 0, lymeMax = 0;
+        let bartonellaScore = 0, bartonellaMax = 0;
+        let babesiaScore = 0, babesiaMax = 0;
+        let selectedSymptoms = [];
+        
+        // Calculate max possible scores
+        document.querySelectorAll('.symptom-checkbox input').forEach(cb => {
+            lymeMax += parseInt(cb.dataset.lyme) || 0;
+            bartonellaMax += parseInt(cb.dataset.bartonella) || 0;
+            babesiaMax += parseInt(cb.dataset.babesia) || 0;
+        });
+        
+        // Calculate selected scores
+        checkboxes.forEach(cb => {
+            lymeScore += parseInt(cb.dataset.lyme) || 0;
+            bartonellaScore += parseInt(cb.dataset.bartonella) || 0;
+            babesiaScore += parseInt(cb.dataset.babesia) || 0;
+            
+            const label = cb.closest('.symptom-checkbox').textContent.trim();
+            selectedSymptoms.push(label);
+        });
+        
+        // Convert to percentages (normalized)
+        const lymePercent = Math.round((lymeScore / lymeMax) * 100);
+        const bartonellaPercent = Math.round((bartonellaScore / bartonellaMax) * 100);
+        const babesiaPercent = Math.round((babesiaScore / babesiaMax) * 100);
+        
+        // Update UI
+        document.getElementById('lyme-score').textContent = lymePercent + '%';
+        document.getElementById('lyme-bar').style.width = lymePercent + '%';
+        document.getElementById('lyme-note').textContent = getLikelihoodNote(lymePercent, 'Lyme');
+        
+        document.getElementById('bartonella-score').textContent = bartonellaPercent + '%';
+        document.getElementById('bartonella-bar').style.width = bartonellaPercent + '%';
+        document.getElementById('bartonella-note').textContent = getLikelihoodNote(bartonellaPercent, 'Bartonella');
+        
+        document.getElementById('babesia-score').textContent = babesiaPercent + '%';
+        document.getElementById('babesia-bar').style.width = babesiaPercent + '%';
+        document.getElementById('babesia-note').textContent = getLikelihoodNote(babesiaPercent, 'Babesia');
+        
+        // Show matching symptoms
+        const matchingDiv = document.getElementById('matching-symptoms');
+        if (selectedSymptoms.length > 0) {
+            matchingDiv.innerHTML = `
+                <h4>Selected Symptoms (${selectedSymptoms.length})</h4>
+                ${selectedSymptoms.map(s => `<span class="matching-tag">${s}</span>`).join('')}
+            `;
+        }
+    }
+
+    function getLikelihoodNote(percent, infection) {
+        if (percent >= 60) {
+            return `High symptom overlap with ${infection}. Consider specialized testing.`;
+        } else if (percent >= 35) {
+            return `Moderate overlap. ${infection} worth investigating.`;
+        } else if (percent >= 15) {
+            return `Some symptoms may indicate ${infection}.`;
+        }
+        return `Lower symptom association with ${infection}.`;
+    }
+
+    function clearAllSymptoms() {
+        document.querySelectorAll('.symptom-checkbox input').forEach(cb => {
+            cb.checked = false;
+        });
+        calculateSymptomScores();
+    }
+
+    // ===================
     // START
     // ===================
     init();
+    setupSymptomChecker();
 </script>
 
 
