@@ -4,7 +4,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TickBorne Research — Latest Research on Lyme, Bartonella & Babesia</title>
+    
+    <!-- Primary Meta Tags -->
+    <title>TickBorne Research — Lyme, Bartonella & Babesia Information Hub</title>
+    <meta name="title" content="TickBorne Research — Lyme, Bartonella & Babesia Information Hub">
+    <meta name="description" content="Evidence-based information on tick-borne infections. Learn about Lyme disease, Bartonella, and Babesia symptoms, testing, and treatment. Free symptom checker tool and curated research.">
+    <meta name="keywords" content="Lyme disease, Bartonella, Babesia, tick-borne illness, chronic Lyme, Lyme symptoms, Bartonella symptoms, co-infections, LLMD, tick bite, Lyme testing">
+    <meta name="author" content="TickBorne Research">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tickborne-research.vercel.app/">
+    <meta property="og:title" content="TickBorne Research — Lyme, Bartonella & Babesia Information Hub">
+    <meta property="og:description" content="Evidence-based information on tick-borne infections. Free symptom checker, curated research, and educational resources for patients and practitioners.">
+    <meta property="og:image" content="https://tickborne-research.vercel.app/og-image.png">
+    <meta property="og:site_name" content="TickBorne Research">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://tickborne-research.vercel.app/">
+    <meta property="twitter:title" content="TickBorne Research — Lyme, Bartonella & Babesia Information Hub">
+    <meta property="twitter:description" content="Evidence-based information on tick-borne infections. Free symptom checker, curated research, and educational resources.">
+    <meta property="twitter:image" content="https://tickborne-research.vercel.app/og-image.png">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%232D7D46'/><text x='50' y='68' font-size='50' text-anchor='middle' fill='white'>🔬</text></svg>">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://tickborne-research.vercel.app/">
+    
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&display=swap" rel="stylesheet">
@@ -2231,6 +2260,295 @@
         margin-bottom: 0;
     }
 
+    /* Assessment Questions */
+    .assessment-questions {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+        margin: 24px 0;
+    }
+
+    .question-item {
+        display: flex;
+        gap: 16px;
+        padding: 20px;
+        background: var(--bg-secondary);
+        border: 1px solid var(--border-light);
+        border-radius: var(--radius-md);
+    }
+
+    .question-number {
+        width: 32px;
+        height: 32px;
+        background: var(--accent-green);
+        color: white;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 600;
+        font-size: 14px;
+        flex-shrink: 0;
+    }
+
+    .question-content h4 {
+        font-size: 15px;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 6px;
+    }
+
+    .question-content p {
+        font-size: 14px;
+        color: var(--text-secondary);
+        margin: 0;
+        line-height: 1.5;
+    }
+
+    /* Misdiagnosis Grid */
+    .misdiagnosis-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 16px;
+    }
+
+    .misdiagnosis-item {
+        padding: 8px 14px;
+        background: var(--bg-tertiary);
+        border: 1px solid var(--border);
+        border-radius: 100px;
+        font-size: 13px;
+        color: var(--text-secondary);
+    }
+
+    /* Test Guide Cards */
+    .test-guide-card {
+        border: 1px solid var(--border);
+        border-radius: var(--radius-md);
+        overflow: hidden;
+        margin-bottom: 16px;
+    }
+
+    .test-guide-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 16px 20px;
+        background: var(--lyme-bg);
+        border-bottom: 1px solid var(--lyme-border);
+    }
+
+    .test-guide-header.lyme {
+        background: var(--lyme-bg);
+        border-color: var(--lyme-border);
+    }
+
+    .test-guide-header h4 {
+        font-size: 15px;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin: 0;
+    }
+
+    .test-sensitivity {
+        font-size: 12px;
+        padding: 4px 10px;
+        background: white;
+        border-radius: 100px;
+        color: var(--text-muted);
+    }
+
+    .test-guide-body {
+        padding: 20px;
+        background: white;
+    }
+
+    .test-guide-body p {
+        font-size: 14px;
+        color: var(--text-secondary);
+        margin-bottom: 12px;
+        line-height: 1.5;
+    }
+
+    .test-guide-body p:last-child {
+        margin-bottom: 0;
+    }
+
+    /* Co-infection Test Grid */
+    .coinfection-test-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 16px;
+        margin: 24px 0;
+    }
+
+    .coinfection-test-card {
+        background: var(--bg-secondary);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-md);
+        padding: 20px;
+    }
+
+    .coinfection-test-card h4 {
+        font-size: 16px;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 12px;
+    }
+
+    .coinfection-test-card ul {
+        list-style: none;
+        padding: 0;
+        margin: 0 0 12px 0;
+    }
+
+    .coinfection-test-card li {
+        font-size: 13px;
+        color: var(--text-secondary);
+        padding: 6px 0;
+        border-bottom: 1px solid var(--border-light);
+    }
+
+    .coinfection-test-card li:last-child {
+        border-bottom: none;
+    }
+
+    .test-note {
+        font-size: 12px;
+        color: var(--text-muted);
+        font-style: italic;
+        margin: 0;
+    }
+
+    .tips-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .tips-list li {
+        font-size: 14px;
+        color: var(--text-secondary);
+        padding: 8px 0 8px 24px;
+        position: relative;
+        border-bottom: 1px solid var(--border-light);
+    }
+
+    .tips-list li:last-child {
+        border-bottom: none;
+    }
+
+    .tips-list li::before {
+        content: "→";
+        position: absolute;
+        left: 0;
+        color: var(--accent-green);
+    }
+
+    /* Herx Signs */
+    .herx-signs {
+        display: grid;
+        gap: 16px;
+        margin: 24px 0;
+    }
+
+    .herx-sign-item {
+        display: flex;
+        gap: 16px;
+        padding: 20px;
+        background: var(--bg-secondary);
+        border: 1px solid var(--border-light);
+        border-radius: var(--radius-md);
+    }
+
+    .herx-sign-icon {
+        font-size: 24px;
+        line-height: 1;
+    }
+
+    .herx-sign-content h4 {
+        font-size: 15px;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 4px;
+    }
+
+    .herx-sign-content p {
+        font-size: 14px;
+        color: var(--text-secondary);
+        margin: 0;
+        line-height: 1.5;
+    }
+
+    /* Comparison Table */
+    .comparison-table {
+        border: 1px solid var(--border);
+        border-radius: var(--radius-md);
+        overflow: hidden;
+        margin: 24px 0;
+    }
+
+    .comparison-row {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+
+    .comparison-row.header {
+        background: var(--bg-tertiary);
+        font-weight: 600;
+    }
+
+    .comparison-row:not(.header):nth-child(odd) {
+        background: var(--bg-secondary);
+    }
+
+    .comparison-cell {
+        padding: 12px 16px;
+        font-size: 13px;
+        color: var(--text-secondary);
+        border-right: 1px solid var(--border-light);
+    }
+
+    .comparison-cell:last-child {
+        border-right: none;
+    }
+
+    .comparison-row.header .comparison-cell {
+        color: var(--text-primary);
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+
+    .compact-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .compact-list li {
+        font-size: 13px;
+        color: var(--text-secondary);
+        padding: 4px 0;
+    }
+
+    @media (max-width: 768px) {
+        .comparison-row {
+            grid-template-columns: 1fr 1fr;
+        }
+        
+        .question-item {
+            flex-direction: column;
+            gap: 12px;
+        }
+        
+        .herx-sign-item {
+            flex-direction: column;
+            gap: 8px;
+        }
+    }
+
     /* Mobile Menu Button */
     .mobile-menu-btn {
         display: none;
@@ -2870,6 +3188,9 @@
                         <a href="#symptoms" class="toc-link">Common Symptoms</a>
                         <a href="#diagnosis" class="toc-link">Diagnosis Challenges</a>
                         <a href="#treatment" class="toc-link">Treatment Overview</a>
+                        <a href="#do-i-have-lyme" class="toc-link">Do I Have Lyme?</a>
+                        <a href="#testing-guide" class="toc-link">Testing Guide</a>
+                        <a href="#herxheimer" class="toc-link">Herxheimer Reactions</a>
                         <a href="#resources" class="toc-link">Resources & Next Steps</a>
                     </nav>
                 </div>
@@ -3321,6 +3642,290 @@
                             <h3>Important Disclaimer</h3>
                         </div>
                         <p>This information is educational and not medical advice. Treatment decisions should be made with a qualified healthcare provider who understands your individual situation. If you suspect you have a tick-borne infection, seek evaluation from a physician experienced in these conditions.</p>
+                    </div>
+                </section>
+
+                <!-- Do I Have Lyme -->
+                <section id="do-i-have-lyme" class="learn-section">
+                    <h2 class="section-heading">Do I Have Lyme? A Self-Assessment Guide</h2>
+                    <p>Many people suspect they may have a tick-borne infection but aren't sure. This guide helps you evaluate your situation and determine next steps. Remember: this is educational guidance, not a diagnosis.</p>
+
+                    <h3 class="subsection-heading">Key Questions to Consider</h3>
+                    <div class="assessment-questions">
+                        <div class="question-item">
+                            <div class="question-number">1</div>
+                            <div class="question-content">
+                                <h4>Do you have unexplained symptoms affecting multiple body systems?</h4>
+                                <p>Tick-borne infections rarely cause just one symptom. If you have a combination of fatigue, cognitive issues, pain, and neurological symptoms that doctors can't explain, this is a red flag.</p>
+                            </div>
+                        </div>
+                        <div class="question-item">
+                            <div class="question-number">2</div>
+                            <div class="question-content">
+                                <h4>Have you spent time outdoors in tick-endemic areas?</h4>
+                                <p>Even brief exposure counts. Ticks live in wooded areas, tall grass, and even urban parks. You don't need to be a hiker — gardening or walking your dog is enough exposure.</p>
+                            </div>
+                        </div>
+                        <div class="question-item">
+                            <div class="question-number">3</div>
+                            <div class="question-content">
+                                <h4>Did your symptoms start after a specific event or time period?</h4>
+                                <p>Many patients can trace symptoms back to a particular summer, vacation, or outdoor activity — even if they don't remember a tick bite. About 50% of Lyme patients never recall being bitten.</p>
+                            </div>
+                        </div>
+                        <div class="question-item">
+                            <div class="question-number">4</div>
+                            <div class="question-content">
+                                <h4>Do your symptoms wax and wane or cycle?</h4>
+                                <p>Tick-borne infections often cause symptoms that fluctuate — good days and bad days, or cycles every few weeks. This is different from conditions that are consistently bad or consistently improving.</p>
+                            </div>
+                        </div>
+                        <div class="question-item">
+                            <div class="question-number">5</div>
+                            <div class="question-content">
+                                <h4>Have you been diagnosed with other conditions but treatments aren't working?</h4>
+                                <p>Many tick-borne infection patients are first diagnosed with fibromyalgia, chronic fatigue syndrome, MS, lupus, depression, or anxiety — but standard treatments provide little relief.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="info-card">
+                        <div class="info-card-header">
+                            <div class="info-card-icon blue">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <polyline points="9 11 12 14 22 4"/>
+                                    <path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/>
+                                </svg>
+                            </div>
+                            <h3>Try Our Symptom Checker</h3>
+                        </div>
+                        <p>Our <a href="#" onclick="showSection('symptoms'); return false;">Symptom Checker tool</a> can help you see which tick-borne infections your symptoms most closely match. Based on clinical patterns from published research, it gives you a starting point for discussions with your doctor.</p>
+                    </div>
+
+                    <h3 class="subsection-heading">Common Misdiagnoses</h3>
+                    <p>Because tick-borne infections can mimic many other conditions, patients often receive other diagnoses first:</p>
+                    <div class="misdiagnosis-grid">
+                        <div class="misdiagnosis-item">Fibromyalgia</div>
+                        <div class="misdiagnosis-item">Chronic Fatigue Syndrome</div>
+                        <div class="misdiagnosis-item">Multiple Sclerosis</div>
+                        <div class="misdiagnosis-item">Lupus</div>
+                        <div class="misdiagnosis-item">Rheumatoid Arthritis</div>
+                        <div class="misdiagnosis-item">ALS / Motor Neuron Disease</div>
+                        <div class="misdiagnosis-item">Depression / Anxiety</div>
+                        <div class="misdiagnosis-item">ADHD</div>
+                        <div class="misdiagnosis-item">Alzheimer's / Dementia</div>
+                        <div class="misdiagnosis-item">POTS / Dysautonomia</div>
+                        <div class="misdiagnosis-item">Parkinson's Disease</div>
+                        <div class="misdiagnosis-item">"It's All In Your Head"</div>
+                    </div>
+                </section>
+
+                <!-- Testing Guide -->
+                <section id="testing-guide" class="learn-section">
+                    <h2 class="section-heading">Testing Guide: What to Ask For</h2>
+                    <p>Knowing which tests to request can be the difference between getting answers and years of frustration. Here's what you need to know.</p>
+
+                    <h3 class="subsection-heading">Lyme Disease Testing</h3>
+                    <div class="test-guide-card">
+                        <div class="test-guide-header lyme">
+                            <h4>Standard Two-Tier Testing (CDC-Recommended)</h4>
+                            <span class="test-sensitivity">~50-60% sensitive</span>
+                        </div>
+                        <div class="test-guide-body">
+                            <p><strong>How it works:</strong> ELISA screening test followed by Western Blot confirmation if ELISA is positive or equivocal.</p>
+                            <p><strong>Limitations:</strong> Measures antibody response, not the infection itself. Misses early infections (antibodies take 4-6 weeks to develop) and can miss late-stage disease (immune suppression). Different species like B. miyamotoi won't show on standard tests.</p>
+                            <p><strong>When to use:</strong> Often required by insurance. A positive result is meaningful; a negative result doesn't rule out infection.</p>
+                        </div>
+                    </div>
+
+                    <div class="test-guide-card">
+                        <div class="test-guide-header lyme">
+                            <h4>Specialty Lab Testing (IGeneX, Vibrant, etc.)</h4>
+                            <span class="test-sensitivity">Higher sensitivity</span>
+                        </div>
+                        <div class="test-guide-body">
+                            <p><strong>How it works:</strong> Tests for more antibody bands, multiple Borrelia species, and uses more sensitive techniques. IGeneX ImmunoBlot tests for both IgM and IgG with additional bands not on CDC criteria.</p>
+                            <p><strong>Limitations:</strong> Not accepted by all physicians. Out-of-pocket cost ($200-500+). Some controversy about specificity.</p>
+                            <p><strong>When to use:</strong> If standard testing is negative but clinical suspicion is high. If you want comprehensive co-infection testing in one panel.</p>
+                        </div>
+                    </div>
+
+                    <h3 class="subsection-heading">Co-Infection Testing</h3>
+                    <div class="coinfection-test-grid">
+                        <div class="coinfection-test-card">
+                            <h4>Bartonella</h4>
+                            <ul>
+                                <li><strong>Antibody test:</strong> IgM and IgG for B. henselae and B. quintana</li>
+                                <li><strong>PCR:</strong> Direct detection (Galaxy Diagnostics specializes in this)</li>
+                                <li><strong>ePCR:</strong> Enrichment PCR — blood is cultured first to increase bacteria, then tested</li>
+                                <li><strong>FISH:</strong> Fluorescent in-situ hybridization — visualizes bacteria directly</li>
+                            </ul>
+                            <p class="test-note">Bartonella is notoriously difficult to detect. Multiple test types may be needed.</p>
+                        </div>
+                        <div class="coinfection-test-card">
+                            <h4>Babesia</h4>
+                            <ul>
+                                <li><strong>Blood smear:</strong> Microscopic exam for parasites in red blood cells</li>
+                                <li><strong>Antibody test:</strong> IgM and IgG for B. microti and B. duncani</li>
+                                <li><strong>PCR:</strong> Direct DNA detection</li>
+                                <li><strong>FISH:</strong> Fluorescent visualization</li>
+                            </ul>
+                            <p class="test-note">Test for BOTH B. microti and B. duncani — they're different species requiring different antibody tests.</p>
+                        </div>
+                        <div class="coinfection-test-card">
+                            <h4>Other Co-Infections</h4>
+                            <ul>
+                                <li><strong>Anaplasma:</strong> PCR and antibody testing</li>
+                                <li><strong>Ehrlichia:</strong> PCR and antibody testing</li>
+                                <li><strong>Mycoplasma:</strong> Often overlooked; antibody and PCR available</li>
+                                <li><strong>Rickettsia:</strong> Antibody testing for Rocky Mountain Spotted Fever</li>
+                            </ul>
+                            <p class="test-note">Comprehensive panels test multiple pathogens at once.</p>
+                        </div>
+                    </div>
+
+                    <div class="info-card warning">
+                        <div class="info-card-header">
+                            <div class="info-card-icon orange">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="M12 16v-4"/>
+                                    <path d="M12 8h.01"/>
+                                </svg>
+                            </div>
+                            <h3>Important Testing Tips</h3>
+                        </div>
+                        <ul class="tips-list">
+                            <li>Don't test too early — antibodies take 4-6 weeks to develop after infection</li>
+                            <li>A negative test does NOT rule out infection, especially with standard testing</li>
+                            <li>Test for co-infections, not just Lyme — they require different treatments</li>
+                            <li>Consider specialty labs if standard tests are negative but symptoms persist</li>
+                            <li>Clinical diagnosis by an experienced physician is valid even without positive tests</li>
+                        </ul>
+                    </div>
+                </section>
+
+                <!-- Herxheimer Reactions -->
+                <section id="herxheimer" class="learn-section">
+                    <h2 class="section-heading">Herxheimer Reactions Explained</h2>
+                    <p>If you're being treated for a tick-borne infection and suddenly feel worse, you might be experiencing a Herxheimer reaction — a common but often misunderstood part of treatment.</p>
+
+                    <div class="info-card">
+                        <div class="info-card-header">
+                            <div class="info-card-icon blue">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="M12 16v-4"/>
+                                    <path d="M12 8h.01"/>
+                                </svg>
+                            </div>
+                            <h3>What Is a Herxheimer Reaction?</h3>
+                        </div>
+                        <p>A Jarisch-Herxheimer reaction (often called "herxing") occurs when large numbers of bacteria or parasites die off rapidly during treatment, releasing toxins and inflammatory molecules. Your body's immune response to this die-off causes a temporary worsening of symptoms.</p>
+                    </div>
+
+                    <h3 class="subsection-heading">How to Recognize a Herx</h3>
+                    <div class="herx-signs">
+                        <div class="herx-sign-item">
+                            <div class="herx-sign-icon">⏱️</div>
+                            <div class="herx-sign-content">
+                                <h4>Timing</h4>
+                                <p>Typically starts within hours to days of starting or increasing treatment. Often peaks around day 2-3 and resolves within days to a week.</p>
+                            </div>
+                        </div>
+                        <div class="herx-sign-item">
+                            <div class="herx-sign-icon">📈</div>
+                            <div class="herx-sign-content">
+                                <h4>Pattern</h4>
+                                <p>Your existing symptoms intensify — the same things that normally bother you get worse. You may also experience new flu-like symptoms.</p>
+                            </div>
+                        </div>
+                        <div class="herx-sign-item">
+                            <div class="herx-sign-icon">🔄</div>
+                            <div class="herx-sign-content">
+                                <h4>Cycles</h4>
+                                <p>May recur when treatment is changed, dosage is increased, or at regular intervals (some patients herx on a 4-week cycle matching pathogen life cycles).</p>
+                            </div>
+                        </div>
+                        <div class="herx-sign-item">
+                            <div class="herx-sign-icon">✨</div>
+                            <div class="herx-sign-content">
+                                <h4>Resolution</h4>
+                                <p>After the herx passes, you often feel better than before — sometimes significantly better. This is a sign treatment is working.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <h3 class="subsection-heading">Herx vs. Side Effect vs. Getting Worse</h3>
+                    <div class="comparison-table">
+                        <div class="comparison-row header">
+                            <div class="comparison-cell">Feature</div>
+                            <div class="comparison-cell">Herxheimer</div>
+                            <div class="comparison-cell">Side Effect</div>
+                            <div class="comparison-cell">Disease Progression</div>
+                        </div>
+                        <div class="comparison-row">
+                            <div class="comparison-cell">Timing</div>
+                            <div class="comparison-cell">Days after treatment starts</div>
+                            <div class="comparison-cell">Can be immediate or delayed</div>
+                            <div class="comparison-cell">Gradual worsening</div>
+                        </div>
+                        <div class="comparison-row">
+                            <div class="comparison-cell">Symptoms</div>
+                            <div class="comparison-cell">Existing symptoms intensify</div>
+                            <div class="comparison-cell">Often NEW symptoms</div>
+                            <div class="comparison-cell">Existing symptoms worsen</div>
+                        </div>
+                        <div class="comparison-row">
+                            <div class="comparison-cell">Duration</div>
+                            <div class="comparison-cell">Days to ~1 week</div>
+                            <div class="comparison-cell">Persists while on medication</div>
+                            <div class="comparison-cell">Progressive</div>
+                        </div>
+                        <div class="comparison-row">
+                            <div class="comparison-cell">After it passes</div>
+                            <div class="comparison-cell">Feel better than before</div>
+                            <div class="comparison-cell">Return to baseline</div>
+                            <div class="comparison-cell">Still worse</div>
+                        </div>
+                    </div>
+
+                    <h3 class="subsection-heading">Managing Herxheimer Reactions</h3>
+                    <div class="grid-2">
+                        <div class="info-card compact">
+                            <h4>Support Detoxification</h4>
+                            <ul class="compact-list">
+                                <li>Stay well hydrated (water, electrolytes)</li>
+                                <li>Epsom salt baths</li>
+                                <li>Dry brushing or lymphatic massage</li>
+                                <li>Binders (activated charcoal, bentonite clay)</li>
+                                <li>Gentle movement/walking</li>
+                            </ul>
+                        </div>
+                        <div class="info-card compact">
+                            <h4>Manage Symptoms</h4>
+                            <ul class="compact-list">
+                                <li>Rest as needed</li>
+                                <li>Anti-inflammatory support (curcumin, omega-3s)</li>
+                                <li>Alka-Seltzer Gold (alkalinizing)</li>
+                                <li>Consider reducing dose temporarily</li>
+                                <li>Communicate with your provider</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="info-card warning">
+                        <div class="info-card-header">
+                            <div class="info-card-icon orange">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/>
+                                    <line x1="12" y1="9" x2="12" y2="13"/>
+                                    <line x1="12" y1="17" x2="12.01" y2="17"/>
+                                </svg>
+                            </div>
+                            <h3>When to Call Your Doctor</h3>
+                        </div>
+                        <p>While herxing is expected, severe reactions warrant medical attention. Contact your provider if you experience: high fever (>103°F), severe chest pain or difficulty breathing, confusion or altered consciousness, or symptoms that don't improve after 1-2 weeks.</p>
                     </div>
                 </section>
 
