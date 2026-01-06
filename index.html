@@ -228,6 +228,28 @@
         0%, 100% { opacity: 1; transform: scale(1); }
         50% { opacity: 0.6; transform: scale(0.9); }
     }
+            .btn-download {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        padding: 8px 14px;
+        background: var(--accent-green);
+        color: white;
+        border-radius: 8px;
+        font-size: 13px;
+        font-weight: 500;
+        text-decoration: none;
+        transition: all 0.2s ease;
+    }
+
+    .btn-download:hover {
+        background: var(--accent-green-dark);
+    }
+
+    .btn-download svg {
+        width: 14px;
+        height: 14px;
+    }
 
     /* Hero Section */
     .hero {
@@ -3070,6 +3092,14 @@
                     <button class="nav-link" data-section="symptoms">Symptom Checker</button>
                 </div>
                 <div class="nav-right">
+                    <a href="assets/lyme_coinfections_infographic.pdf" download class="btn-download" title="Download Quick Guide PDF">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                            <polyline points="7 10 12 15 17 10"/>
+                            <line x1="12" y1="15" x2="12" y2="3"/>
+                        </svg>
+                        Quick Guide
+                    </a>
                     <span class="badge-live" id="last-updated">Loading...</span>
                     <button class="mobile-menu-btn" id="mobile-menu-btn" onclick="toggleMobileNav()">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
