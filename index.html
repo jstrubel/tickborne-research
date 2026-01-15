@@ -972,6 +972,88 @@
     /* =================== */
     /* LEARN SECTION STYLES */
     /* =================== */
+
+    /* Video Introduction */
+    .video-intro {
+        background: var(--bg-secondary);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-lg);
+        padding: 32px;
+        margin-bottom: 32px;
+        display: flex;
+        gap: 32px;
+        align-items: center;
+    }
+
+    .video-wrapper {
+        flex-shrink: 0;
+        width: 400px;
+        border-radius: var(--radius-md);
+        overflow: hidden;
+        box-shadow: var(--shadow-md);
+        background: #000;
+    }
+
+    .video-wrapper video {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    .video-text {
+        flex: 1;
+    }
+
+    .video-text h3 {
+        font-family: 'Fraunces', serif;
+        font-size: 1.5rem;
+        font-weight: 500;
+        color: var(--text-primary);
+        margin-bottom: 12px;
+    }
+
+    .video-text p {
+        color: var(--text-secondary);
+        line-height: 1.6;
+        margin-bottom: 16px;
+    }
+
+    .video-text p:last-child {
+        margin-bottom: 0;
+    }
+
+    .video-duration {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        font-size: 13px;
+        color: var(--text-muted);
+        background: var(--bg-tertiary);
+        padding: 6px 12px;
+        border-radius: 100px;
+    }
+
+    .video-duration svg {
+        width: 14px;
+        height: 14px;
+    }
+
+    @media (max-width: 900px) {
+        .video-intro {
+            flex-direction: column;
+            padding: 24px;
+        }
+
+        .video-wrapper {
+            width: 100%;
+            max-width: 100%;
+        }
+
+        .video-text {
+            text-align: center;
+        }
+    }
+
     .learn-layout {
         display: grid;
         grid-template-columns: 200px 1fr;
@@ -3301,6 +3383,27 @@
     </section>
 
     <div class="container">
+        <!-- Video Introduction -->
+        <div class="video-intro">
+            <div class="video-wrapper">
+                <video controls preload="metadata" poster="">
+                    <source src="intro-video.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+            <div class="video-text">
+                <h3>New Here? Start With This</h3>
+                <p>If you're searching for answers about tick-borne infections, you're not alone. This short introduction explains what these conditions are, why they're so difficult to diagnose, and how this resource can help you navigate your path forward.</p>
+                <div class="video-duration">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="10"/>
+                        <polyline points="12 6 12 12 16 14"/>
+                    </svg>
+                    2 min watch
+                </div>
+            </div>
+        </div>
+
         <div class="learn-layout">
             <!-- Table of Contents -->
             <aside class="learn-toc">
