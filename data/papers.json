@@ -1,30 +1,7 @@
 {
-  "generatedAt": "2026-02-01T06:36:40.331Z",
+  "generatedAt": "2026-02-02T06:50:53.170Z",
   "totalPapers": 30,
   "papers": [
-    {
-      "pmid": "41551358",
-      "title": "A case of atypical cat scratch disease with bone and joint infection diagnosed through clinical metagenomics.",
-      "abstract": "Cat scratch disease (CSD) is a common zoonotic infection caused by Bartonella henselae (B. henselae) and typically presents with fever and regional lymphadenopathy. However, skeletal involvement, including osteomyelitis and arthritis, is rare. We report a 28-year-old immunocompetent female who presented with a five&#x2011;month history of persistent right knee swelling without fever or lymphadenopathy. She had previously undergone distal femoral tumor resection with prosthetic joint replacement, and this episode of chronic knee swelling together with the imaging findings was highly suggestive of prosthetic joint infection. Approximately one month before the onset of knee swelling, she had sustained a scratch from a cat. Conventional microbiological tests, including joint effusion and drainage fluid cultures, were negative. Metagenomic next&#x2011;generation sequencing (mNGS) of joint effusion identified B. henselae with 27 specific sequence reads, 0.1&#x202f;% genome coverage and an RPM ratio of 1.9. This result was subsequently confirmed by a quantitative PCR assay targeting the nuoG gene. The patient underwent surgical debridement followed by oral minocycline and rifampin for 8 weeks, resulting in marked clinical improvement. This case underscores that B. henselae infection should be considered in culture&#x2011;negative bone and joint, particularly prosthetic joint, infections with a history of cat exposure, and that mNGS can provide valuable etiological evidence in atypical CSD.",
-      "authors": [
-        "Wu X",
-        "Yin Y",
-        "Guo Y"
-      ],
-      "journal": "IDCases",
-      "publicationDate": "12 26, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41551358/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "Doctors used advanced genetic testing to diagnose an unusual case of cat scratch disease that infected a woman's knee joint and prosthetic implant, rather than causing the typical fever and swollen lymph nodes.",
-        "whyItMatters": "Cat scratches can sometimes cause serious bone and joint infections that regular lab tests miss, but new genetic testing methods can identify the bacteria and guide proper antibiotic treatment.",
-        "limitations": "This reports only one patient's case.",
-        "raw": "**What they found:** Doctors used advanced genetic testing to diagnose an unusual case of cat scratch disease that infected a woman's knee joint and prosthetic implant, rather than causing the typical fever and swollen lymph nodes.\n\n**Why it matters:** Cat scratches can sometimes cause serious bone and joint infections that regular lab tests miss, but new genetic testing methods can identify the bacteria and guide proper antibiotic treatment.\n\n**Limitations:** This reports only one patient's case."
-      },
-      "fetchedAt": "2026-02-01T06:35:55.172Z"
-    },
     {
       "pmid": "41586032",
       "title": "Atypical ocular bartonellosis: A case report.",
@@ -41,12 +18,12 @@
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
-        "whatTheyFound": "A 27-year-old woman developed an unusual eye infection (chorioretinitis) from Bartonella bacteria after being scratched by cats, but without the typical optic nerve swelling usually seen with this infection.",
-        "whyItMatters": "This shows that cat scratch disease can cause serious eye problems even when it doesn't present in the typical way, so doctors should consider this infection in patients with vision problems after cat exposure.",
-        "limitations": "This is just one case, so we need more studies to understand how common this atypical presentation is.",
-        "raw": "**What they found:** A 27-year-old woman developed an unusual eye infection (chorioretinitis) from Bartonella bacteria after being scratched by cats, but without the typical optic nerve swelling usually seen with this infection.\n\n**Why it matters:** This shows that cat scratch disease can cause serious eye problems even when it doesn't present in the typical way, so doctors should consider this infection in patients with vision problems after cat exposure.\n\n**Limitations:** This is just one case, so we need more studies to understand how common this atypical presentation is."
+        "whatTheyFound": "A 27-year-old woman developed an unusual eye infection (chorioretinitis) after cat scratches, caused by Bartonella bacteria. The infection affected her retina without causing typical optic nerve swelling.",
+        "whyItMatters": "This shows that cat scratch disease can cause serious eye problems even when other common signs are missing. Early recognition and antibiotic treatment can help restore vision.",
+        "limitations": "This is just one patient's case, so we can't know how common this unusual presentation is.",
+        "raw": "**What they found:** A 27-year-old woman developed an unusual eye infection (chorioretinitis) after cat scratches, caused by Bartonella bacteria. The infection affected her retina without causing typical optic nerve swelling.\n\n**Why it matters:** This shows that cat scratch disease can cause serious eye problems even when other common signs are missing. Early recognition and antibiotic treatment can help restore vision.\n\n**Limitations:** This is just one patient's case, so we can't know how common this unusual presentation is."
       },
-      "fetchedAt": "2026-02-01T06:35:37.457Z"
+      "fetchedAt": "2026-02-02T06:49:47.582Z"
     },
     {
       "pmid": "41612680",
@@ -69,7 +46,30 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-02-01T06:34:38.573Z"
+      "fetchedAt": "2026-02-02T06:48:39.652Z"
+    },
+    {
+      "pmid": "41619363",
+      "title": "Design and computational evaluation of a cross-protective multi-epitope vaccine candidate against Bartonella henselae and Bartonella clarridgeiae pathogens causing the zoonotic cat scratch disease in humans.",
+      "abstract": "Cat scratch disease (CSD), primarily caused by Bartonella henselae and Bartonella clarridgeiae, presents a global zoonotic concern, particularly in immunocompromised individuals. Conventional antibiotics offer limited protection, necessitating novel preventive strategies. Also, CSD is still one of the most prevalent infections brought on by Bartonella genus. The current study aimed at developing a multi-epitope peptide vaccine by targeting conserved antigenic proteins (Pap31, Omp43, and Omp89) from two Bartonella species utilizing immunoinformatics techniques. Comprehensive immunoinformatics analyses including antigenicity, allergenicity, solubility, and post-translational modification assessments were conducted. The selected epitopes with high antigenicity and non-allergenic, non-toxic properties were fused using appropriate linkers and an adjuvant. The vaccine construct was modeled in 3D, refined, and validated via Ramachandran and ERRAT analyses. Molecular docking followed by molecular dynamics simulations demonstrated strong interaction and structural stability with TLR2 receptor in a mimicked biological environment. Moreover, immune simulations showed strong stimulation of B and T cell responses, elevated IgM and IgG levels, and increased IFN-&#x3b3; production. These preliminary in silico findings suggest a promising multi-epitope peptide vaccine candidate with a cross-protective potential against both B. henselae and B. clarridgeiae pathogens causing the zoonotic cat scratch disease in humans.",
+      "authors": [
+        "&#x15e;eflek&#xe7;i Y",
+        "K&#xf6;seo&#x11f;lu AE",
+        "Erdo&#x11f;du Sever R"
+      ],
+      "journal": "Computers in biology and medicine",
+      "publicationDate": "Jan 30, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41619363/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "Researchers used computer modeling to design a potential vaccine against cat scratch disease by combining pieces from two Bartonella bacteria species that cause this infection.",
+        "whyItMatters": "Current antibiotics don't work well against cat scratch disease, so a vaccine could better protect people, especially those with weakened immune systems who get sicker from this common cat-transmitted infection.",
+        "limitations": "This was only computer modeling—the vaccine hasn't been tested in animals or humans yet.",
+        "raw": "**What they found:** Researchers used computer modeling to design a potential vaccine against cat scratch disease by combining pieces from two Bartonella bacteria species that cause this infection.\n\n**Why it matters:** Current antibiotics don't work well against cat scratch disease, so a vaccine could better protect people, especially those with weakened immune systems who get sicker from this common cat-transmitted infection.\n\n**Limitations:** This was only computer modeling—the vaccine hasn't been tested in animals or humans yet."
+      },
+      "fetchedAt": "2026-02-02T06:49:21.963Z"
     },
     {
       "pmid": "41615983",
@@ -87,17 +87,17 @@
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
-        "whatTheyFound": "Researchers analyzed the bacteria living inside cat fleas from homes in Florida and found four main types: Wolbachia, Rickettsia, Bartonella, and Spiroplasma. Fleas from cats carried more disease-causing Bartonella bacteria than fleas from household traps.",
-        "whyItMatters": "This helps us understand which harmful bacteria fleas carry and shows that fleas living on cats may pose higher health risks than environmental fleas, since Bartonella causes cat scratch disease in humans.",
-        "limitations": "The study only looked at fleas from Florida homes, so results may not apply to other regions.",
-        "raw": "**What they found:** Researchers analyzed the bacteria living inside cat fleas from homes in Florida and found four main types: Wolbachia, Rickettsia, Bartonella, and Spiroplasma. Fleas from cats carried more disease-causing Bartonella bacteria than fleas from household traps.\n\n**Why it matters:** This helps us understand which harmful bacteria fleas carry and shows that fleas living on cats may pose higher health risks than environmental fleas, since Bartonella causes cat scratch disease in humans.\n\n**Limitations:** The study only looked at fleas from Florida homes, so results may not apply to other regions."
+        "whatTheyFound": "Researchers analyzed the bacterial communities in cat fleas from homes in Florida and identified four main bacteria that live inside fleas, including disease-causing Bartonella and Rickettsia species. Fleas collected from cats carried more of certain Bartonella species linked to cat scratch disease than fleas from other sources.",
+        "whyItMatters": "This helps us understand which disease-causing bacteria fleas carry in real home environments and shows that fleas from cats may pose different health risks than those from dogs or the environment.",
+        "limitations": "The study was limited to homes in Florida, so results may not apply to fleas in other regions.",
+        "raw": "**What they found:** Researchers analyzed the bacterial communities in cat fleas from homes in Florida and identified four main bacteria that live inside fleas, including disease-causing Bartonella and Rickettsia species. Fleas collected from cats carried more of certain Bartonella species linked to cat scratch disease than fleas from other sources.\n\n**Why it matters:** This helps us understand which disease-causing bacteria fleas carry in real home environments and shows that fleas from cats may pose different health risks than those from dogs or the environment.\n\n**Limitations:** The study was limited to homes in Florida, so results may not apply to fleas in other regions."
       },
-      "fetchedAt": "2026-02-01T06:35:18.411Z"
+      "fetchedAt": "2026-02-02T06:49:27.079Z"
     },
     {
       "pmid": "41615537",
       "title": "Tick fever risk and factors influencing the transmission of Anaplasma marginale, Babesia bovis and Babesia bigemina in cattle properties from Atlantic Forest biome.",
-      "abstract": "",
+      "abstract": "We studied the immune condition of adult cattle to Anaplasma marginale, Babesia bovis and Babesia bigemina and identified characteristics influencing the transmission of tick fever (TF) agents in properties from the Rec&#xf4;ncavo baiano, a region located in the Atlantic Forest biome in Brazil. Blood was sampled from cattle on 28 properties to determine the seroprevalence of antibodies against A. marginale, B. bovis and B. bigemina and define the inoculation rate of B. bovis and B. bigemina on each property. A correlation test was conducted between herd seroprevalences of the TF agents to search for common transmission routes. Relation between characteristics of each property (cattle information, handling practices, tick control practices and acaricide resistance) and A. marginale herd seroprevalence and B. bovis and B. bigemina herd infection rate were explored through comparative analyses. We found seroprevalences over 75% for the three TF agents, being a positive correlation between A. marginale and B. bovis. Variables influencing the transmission of TF agents were genetic composition, use of spray acaricide formulations, use of avermectins and use of fipronil. The present study shows that adult cattle from properties in the Rec&#xf4;ncavo baiano region have high seroprevalences for the TF agents meaning that most of the adult cattle are immune and TF outbreaks should not be frequent. We suggest that the principal propagation route of A. marginale in properties from the Rec&#xf4;ncavo baiano is tick-borne transmission. Further investigations are necessary to establish risk factors influencing the immunity situation of cattle in the region. The online version contains supplementary material available at 10.1007/s11250-026-04866-5.",
       "authors": [
         "Puentes JD",
         "Machado RZ",
@@ -110,12 +110,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
+        "whatTheyFound": "Researchers tested cattle in Brazil's Atlantic Forest region and found that over 75% had antibodies against three tick-borne diseases, indicating most adult cattle are naturally immune to these infections.",
+        "whyItMatters": "High immunity levels mean tick fever outbreaks should be rare in this region, which is good news for cattle health and farming productivity.",
+        "limitations": "More research is needed to understand all the factors that influence cattle immunity in this area.",
+        "raw": "**What they found:** Researchers tested cattle in Brazil's Atlantic Forest region and found that over 75% had antibodies against three tick-borne diseases, indicating most adult cattle are naturally immune to these infections.\n\n**Why it matters:** High immunity levels mean tick fever outbreaks should be rare in this region, which is good news for cattle health and farming productivity.\n\n**Limitations:** More research is needed to understand all the factors that influence cattle immunity in this area."
       },
-      "fetchedAt": "2026-02-01T06:35:56.789Z"
+      "fetchedAt": "2026-02-02T06:50:09.227Z"
     },
     {
       "pmid": "41616647",
@@ -133,12 +133,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "A new Lyme disease vaccine called VLA15 successfully protected monkeys from getting infected when bitten by ticks carrying Lyme bacteria. The vaccine targets a specific part of a protein found on the bacteria's surface.",
-        "whyItMatters": "This vaccine could potentially prevent Lyme disease in humans by stopping the bacteria from spreading from ticks during a bite, offering protection in areas where Lyme disease is common.",
-        "limitations": "The study was only tested in monkeys, so more research is needed to prove it works safely and effectively in humans.",
-        "raw": "**What they found:** A new Lyme disease vaccine called VLA15 successfully protected monkeys from getting infected when bitten by ticks carrying Lyme bacteria. The vaccine targets a specific part of a protein found on the bacteria's surface.\n\n**Why it matters:** This vaccine could potentially prevent Lyme disease in humans by stopping the bacteria from spreading from ticks during a bite, offering protection in areas where Lyme disease is common.\n\n**Limitations:** The study was only tested in monkeys, so more research is needed to prove it works safely and effectively in humans."
+        "whatTheyFound": "A new Lyme disease vaccine called VLA15 protected monkeys from getting infected when bitten by ticks carrying Lyme bacteria. The vaccine works by producing antibodies that kill the bacteria inside the tick before they can spread to the host.",
+        "whyItMatters": "This vaccine could prevent Lyme disease in humans by stopping infection at the source during tick bites, rather than treating the disease after infection occurs.",
+        "limitations": "The study was only tested in monkeys, so human trials are still needed to confirm safety and effectiveness.",
+        "raw": "**What they found:** A new Lyme disease vaccine called VLA15 protected monkeys from getting infected when bitten by ticks carrying Lyme bacteria. The vaccine works by producing antibodies that kill the bacteria inside the tick before they can spread to the host.\n\n**Why it matters:** This vaccine could prevent Lyme disease in humans by stopping infection at the source during tick bites, rather than treating the disease after infection occurs.\n\n**Limitations:** The study was only tested in monkeys, so human trials are still needed to confirm safety and effectiveness."
       },
-      "fetchedAt": "2026-02-01T06:34:37.573Z"
+      "fetchedAt": "2026-02-02T06:48:38.650Z"
     },
     {
       "pmid": "41609617",
@@ -156,12 +156,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "Researchers developed a new device called Auto-MATICS that can detect tiny amounts of Lyme disease bacteria DNA in urine samples. The device concentrates these traces 200 times better than current methods.",
-        "whyItMatters": "This could lead to easier, non-invasive Lyme disease testing using urine instead of blood draws, especially for catching the disease early when bacteria levels are very low.",
+        "whatTheyFound": "Researchers developed a new device called Auto-MATICS that can detect tiny amounts of Lyme disease bacteria DNA in urine samples. The device found 200 times more bacterial DNA than standard methods by processing large samples and concentrating the DNA.",
+        "whyItMatters": "This could lead to better early detection of Lyme disease through simple urine tests, potentially catching infections before symptoms appear when treatment is most effective.",
         "limitations": "This was only tested in artificial urine samples, not real patient samples.",
-        "raw": "**What they found:** Researchers developed a new device called Auto-MATICS that can detect tiny amounts of Lyme disease bacteria DNA in urine samples. The device concentrates these traces 200 times better than current methods.\n\n**Why it matters:** This could lead to easier, non-invasive Lyme disease testing using urine instead of blood draws, especially for catching the disease early when bacteria levels are very low.\n\n**Limitations:** This was only tested in artificial urine samples, not real patient samples."
+        "raw": "**What they found:** Researchers developed a new device called Auto-MATICS that can detect tiny amounts of Lyme disease bacteria DNA in urine samples. The device found 200 times more bacterial DNA than standard methods by processing large samples and concentrating the DNA.\n\n**Why it matters:** This could lead to better early detection of Lyme disease through simple urine tests, potentially catching infections before symptoms appear when treatment is most effective.\n\n**Limitations:** This was only tested in artificial urine samples, not real patient samples."
       },
-      "fetchedAt": "2026-02-01T06:34:48.430Z"
+      "fetchedAt": "2026-02-02T06:48:49.912Z"
     },
     {
       "pmid": "41607311",
@@ -179,12 +179,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "Major changes to the U.S. vaccine advisory committee (ACIP) in June 2025 replaced all members and leaders, moving away from science-based decision-making toward more political influence.",
-        "whyItMatters": "This could weaken public trust in vaccines, slow development of new vaccines (including Lyme disease vaccines), and reduce America's leadership in vaccine science globally.",
+        "whatTheyFound": "Major changes to the U.S. vaccine advisory committee (ACIP) in June 2025, including replacing all members and leadership, have led to less scientific and more political decision-making about vaccines.",
+        "whyItMatters": "These changes could reduce public trust in vaccines, slow development of new vaccines (including ones for Lyme disease), and weaken America's role in global vaccine research.",
         "limitations": "This appears to be an opinion piece rather than a research study with data.",
-        "raw": "**What they found:** Major changes to the U.S. vaccine advisory committee (ACIP) in June 2025 replaced all members and leaders, moving away from science-based decision-making toward more political influence.\n\n**Why it matters:** This could weaken public trust in vaccines, slow development of new vaccines (including Lyme disease vaccines), and reduce America's leadership in vaccine science globally.\n\n**Limitations:** This appears to be an opinion piece rather than a research study with data."
+        "raw": "**What they found:** Major changes to the U.S. vaccine advisory committee (ACIP) in June 2025, including replacing all members and leadership, have led to less scientific and more political decision-making about vaccines.\n\n**Why it matters:** These changes could reduce public trust in vaccines, slow development of new vaccines (including ones for Lyme disease), and weaken America's role in global vaccine research.\n\n**Limitations:** This appears to be an opinion piece rather than a research study with data."
       },
-      "fetchedAt": "2026-02-01T06:34:52.627Z"
+      "fetchedAt": "2026-02-02T06:48:54.711Z"
     },
     {
       "pmid": "41612512",
@@ -202,12 +202,12 @@
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
-        "whatTheyFound": "Researchers tracked bat flies and bacteria in Australian flying foxes over 4+ years and found their seasonal patterns don't match up—bat flies peak in hot, humid summer months while Bartonella bacteria infections peak in winter.",
-        "whyItMatters": "Since bat flies may spread diseases between bats, understanding when they're most active helps predict disease transmission risks in bat colonies and could inform wildlife health monitoring.",
-        "limitations": "The study only looked at flying foxes in one region of Australia, so patterns may differ elsewhere.",
-        "raw": "**What they found:** Researchers tracked bat flies and bacteria in Australian flying foxes over 4+ years and found their seasonal patterns don't match up—bat flies peak in hot, humid summer months while Bartonella bacteria infections peak in winter.\n\n**Why it matters:** Since bat flies may spread diseases between bats, understanding when they're most active helps predict disease transmission risks in bat colonies and could inform wildlife health monitoring.\n\n**Limitations:** The study only looked at flying foxes in one region of Australia, so patterns may differ elsewhere."
+        "whatTheyFound": "Researchers tracked bat flies and bacteria in Australian flying foxes over 4+ years, discovering that bat fly numbers peak in hot, humid summer months while Bartonella bacteria infections peak in winter. The timing of these parasites and pathogens don't match up.",
+        "whyItMatters": "This mismatched timing suggests bat flies may not be the main way Bartonella spreads between bats, which helps scientists better understand disease transmission in bat colonies.",
+        "limitations": "The study focused on only two bat species in one region of Australia.",
+        "raw": "**What they found:** Researchers tracked bat flies and bacteria in Australian flying foxes over 4+ years, discovering that bat fly numbers peak in hot, humid summer months while Bartonella bacteria infections peak in winter. The timing of these parasites and pathogens don't match up.\n\n**Why it matters:** This mismatched timing suggests bat flies may not be the main way Bartonella spreads between bats, which helps scientists better understand disease transmission in bat colonies.\n\n**Limitations:** The study focused on only two bat species in one region of Australia."
       },
-      "fetchedAt": "2026-02-01T06:35:23.073Z"
+      "fetchedAt": "2026-02-02T06:49:32.983Z"
     },
     {
       "pmid": "41603984",
@@ -225,12 +225,12 @@
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
-        "whatTheyFound": "Researchers tested 222 cattle in Mozambique and found three blood-borne bacteria for the first time in the country: Bartonella bovis (22% of cattle), and two hemoplasma species (69% of cattle). Some cattle were infected with all three bacteria at once.",
-        "whyItMatters": "These hidden infections may reduce cattle productivity and spread silently through herds, adding to Mozambique's significant economic losses from tick-borne diseases. The findings help identify what's making cattle sick and guide prevention strategies.",
-        "limitations": "The study doesn't prove how much these infections actually harm cattle productivity or health.",
-        "raw": "**What they found:** Researchers tested 222 cattle in Mozambique and found three blood-borne bacteria for the first time in the country: Bartonella bovis (22% of cattle), and two hemoplasma species (69% of cattle). Some cattle were infected with all three bacteria at once.\n\n**Why it matters:** These hidden infections may reduce cattle productivity and spread silently through herds, adding to Mozambique's significant economic losses from tick-borne diseases. The findings help identify what's making cattle sick and guide prevention strategies.\n\n**Limitations:** The study doesn't prove how much these infections actually harm cattle productivity or health."
+        "whatTheyFound": "Researchers tested 222 cattle in Mozambique and found three types of blood-infecting bacteria for the first time in the country - 22% had Bartonella bovis and 69% had hemoplasmas (bacteria that damage red blood cells).",
+        "whyItMatters": "These hidden infections can reduce cattle productivity and spread silently through herds, causing significant economic losses in a country that already struggles with tick-borne diseases affecting livestock.",
+        "limitations": "The study doesn't show how much these infections actually harm cattle productivity or milk production.",
+        "raw": "**What they found:** Researchers tested 222 cattle in Mozambique and found three types of blood-infecting bacteria for the first time in the country - 22% had Bartonella bovis and 69% had hemoplasmas (bacteria that damage red blood cells).\n\n**Why it matters:** These hidden infections can reduce cattle productivity and spread silently through herds, causing significant economic losses in a country that already struggles with tick-borne diseases affecting livestock.\n\n**Limitations:** The study doesn't show how much these infections actually harm cattle productivity or milk production."
       },
-      "fetchedAt": "2026-02-01T06:35:28.162Z"
+      "fetchedAt": "2026-02-02T06:49:38.028Z"
     },
     {
       "pmid": "41614084",
@@ -248,12 +248,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "Researchers tested ticks from dogs in Ghana and found that 41% carried disease-causing germs, including bacteria that can infect both animals and humans.",
-        "whyItMatters": "This shows these ticks pose health risks to pets and people in Ghana, where little was known before about what diseases local ticks carry.",
-        "limitations": "The study only looked at one city, so results may not apply to other areas of Ghana.",
-        "raw": "**What they found:** Researchers tested ticks from dogs in Ghana and found that 41% carried disease-causing germs, including bacteria that can infect both animals and humans.\n\n**Why it matters:** This shows these ticks pose health risks to pets and people in Ghana, where little was known before about what diseases local ticks carry.\n\n**Limitations:** The study only looked at one city, so results may not apply to other areas of Ghana."
+        "whatTheyFound": "Researchers tested ticks from dogs in Ghana and found that 41% carried disease-causing germs, including bacteria that can make both animals and people sick.",
+        "whyItMatters": "This shows these ticks are spreading dangerous diseases in Ghana, which could affect pet health and potentially human health too.",
+        "limitations": "The study only looked at one city, so we don't know how widespread these infected ticks are across the country.",
+        "raw": "**What they found:** Researchers tested ticks from dogs in Ghana and found that 41% carried disease-causing germs, including bacteria that can make both animals and people sick.\n\n**Why it matters:** This shows these ticks are spreading dangerous diseases in Ghana, which could affect pet health and potentially human health too.\n\n**Limitations:** The study only looked at one city, so we don't know how widespread these infected ticks are across the country."
       },
-      "fetchedAt": "2026-02-01T06:36:01.285Z"
+      "fetchedAt": "2026-02-02T06:50:13.969Z"
     },
     {
       "pmid": "41610944",
@@ -271,12 +271,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "Researchers tested 880 patients in France's Limousin region and found that 2.6% had antibodies against tick-borne encephalitis virus, suggesting local exposure to this brain infection-causing virus.",
-        "whyItMatters": "This is the first evidence that tick-borne encephalitis virus may be spreading westward across France into new regions, meaning doctors need to watch for more cases of this potentially deadly brain infection.",
-        "limitations": "Only one patient had clear evidence of local infection, as others may have been exposed while traveling elsewhere.",
-        "raw": "**What they found:** Researchers tested 880 patients in France's Limousin region and found that 2.6% had antibodies against tick-borne encephalitis virus, suggesting local exposure to this brain infection-causing virus.\n\n**Why it matters:** This is the first evidence that tick-borne encephalitis virus may be spreading westward across France into new regions, meaning doctors need to watch for more cases of this potentially deadly brain infection.\n\n**Limitations:** Only one patient had clear evidence of local infection, as others may have been exposed while traveling elsewhere."
+        "whatTheyFound": "Researchers tested 880 people in France's Limousin region for tick-borne encephalitis virus (TBEV) antibodies and found evidence that 2.6% had been exposed to the virus, with at least one case likely infected locally.",
+        "whyItMatters": "This suggests TBEV is spreading westward across France into new areas, meaning doctors and residents in these regions should be more aware of this potentially serious brain infection transmitted by ticks.",
+        "limitations": "The study couldn't confirm where most patients were actually infected since some had travel histories or missing information.",
+        "raw": "**What they found:** Researchers tested 880 people in France's Limousin region for tick-borne encephalitis virus (TBEV) antibodies and found evidence that 2.6% had been exposed to the virus, with at least one case likely infected locally.\n\n**Why it matters:** This suggests TBEV is spreading westward across France into new areas, meaning doctors and residents in these regions should be more aware of this potentially serious brain infection transmitted by ticks.\n\n**Limitations:** The study couldn't confirm where most patients were actually infected since some had travel histories or missing information."
       },
-      "fetchedAt": "2026-02-01T06:34:43.278Z"
+      "fetchedAt": "2026-02-02T06:48:45.124Z"
     },
     {
       "pmid": "41592709",
@@ -294,12 +294,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "Researchers created a new computer system to identify Lyme carditis cases in New York State emergency rooms and found 82 confirmed or probable cases between 2017-2021. Most patients were men, cases peaked in summer months, and two-thirds had serious heart rhythm problems.",
-        "whyItMatters": "This surveillance tool could help doctors better track this rare but dangerous heart complication of Lyme disease, potentially leading to faster diagnosis and treatment in high-risk areas.",
-        "limitations": "The system only correctly identified true Lyme carditis cases about half the time, meaning many alerts were false positives.",
-        "raw": "**What they found:** Researchers created a new computer system to identify Lyme carditis cases in New York State emergency rooms and found 82 confirmed or probable cases between 2017-2021. Most patients were men, cases peaked in summer months, and two-thirds had serious heart rhythm problems.\n\n**Why it matters:** This surveillance tool could help doctors better track this rare but dangerous heart complication of Lyme disease, potentially leading to faster diagnosis and treatment in high-risk areas.\n\n**Limitations:** The system only correctly identified true Lyme carditis cases about half the time, meaning many alerts were false positives."
+        "whatTheyFound": "Researchers developed a new method to identify Lyme carditis cases using emergency room data and found 82 confirmed or probable cases in New York State over 5 years. Most patients were men, cases peaked in summer months, and two-thirds had serious heart rhythm problems.",
+        "whyItMatters": "This surveillance system could help doctors and public health officials better track this rare but dangerous heart complication of Lyme disease, which can be fatal if missed.",
+        "limitations": "The method only correctly identified actual Lyme carditis cases about half the time, missing some real cases while flagging others that weren't truly Lyme carditis.",
+        "raw": "**What they found:** Researchers developed a new method to identify Lyme carditis cases using emergency room data and found 82 confirmed or probable cases in New York State over 5 years. Most patients were men, cases peaked in summer months, and two-thirds had serious heart rhythm problems.\n\n**Why it matters:** This surveillance system could help doctors and public health officials better track this rare but dangerous heart complication of Lyme disease, which can be fatal if missed.\n\n**Limitations:** The method only correctly identified actual Lyme carditis cases about half the time, missing some real cases while flagging others that weren't truly Lyme carditis."
       },
-      "fetchedAt": "2026-02-01T06:35:12.492Z"
+      "fetchedAt": "2026-02-02T06:49:15.758Z"
     },
     {
       "pmid": "41593688",
@@ -317,12 +317,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "Tafenoquine, a drug already used for malaria, effectively stopped the growth of two parasites that cause equine piroplasmosis (a tick-borne disease in horses) in laboratory tests. It worked as well as the current standard treatment but appeared less toxic to healthy horse cells.",
-        "whyItMatters": "This could provide a safer alternative to current treatments, which are becoming less effective due to drug-resistant parasites and can cause serious side effects in horses.",
-        "limitations": "The study only tested the drug in laboratory cultures, not in actual horses.",
-        "raw": "**What they found:** Tafenoquine, a drug already used for malaria, effectively stopped the growth of two parasites that cause equine piroplasmosis (a tick-borne disease in horses) in laboratory tests. It worked as well as the current standard treatment but appeared less toxic to healthy horse cells.\n\n**Why it matters:** This could provide a safer alternative to current treatments, which are becoming less effective due to drug-resistant parasites and can cause serious side effects in horses.\n\n**Limitations:** The study only tested the drug in laboratory cultures, not in actual horses."
+        "whatTheyFound": "Tafenoquine, a drug already used for malaria, effectively killed the parasites that cause equine piroplasmosis (a tick-borne horse disease) in laboratory tests. It worked as well as the current standard treatment but was less toxic to healthy horse cells.",
+        "whyItMatters": "This could provide a safer alternative to current treatments, which are becoming less effective due to drug-resistant parasites and can be toxic to horses.",
+        "limitations": "These results are only from laboratory tests, so the drug still needs to be tested in actual horses.",
+        "raw": "**What they found:** Tafenoquine, a drug already used for malaria, effectively killed the parasites that cause equine piroplasmosis (a tick-borne horse disease) in laboratory tests. It worked as well as the current standard treatment but was less toxic to healthy horse cells.\n\n**Why it matters:** This could provide a safer alternative to current treatments, which are becoming less effective due to drug-resistant parasites and can be toxic to horses.\n\n**Limitations:** These results are only from laboratory tests, so the drug still needs to be tested in actual horses."
       },
-      "fetchedAt": "2026-02-01T06:36:39.330Z"
+      "fetchedAt": "2026-02-02T06:50:52.169Z"
     },
     {
       "pmid": "41615956",
@@ -345,7 +345,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-02-01T06:34:38.072Z"
+      "fetchedAt": "2026-02-02T06:48:39.151Z"
     },
     {
       "pmid": "41582166",
@@ -363,12 +363,12 @@
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
-        "whatTheyFound": "Researchers analyzed the microbiome of deer keds (blood-sucking insects that parasitize deer) from England and discovered a disease-causing bacteria called Bartonella schoenbuchensis in keds that had fed on deer, plus a new virus.",
-        "whyItMatters": "This confirms that deer keds can carry and potentially spread disease-causing germs to humans and animals when they bite, since these insects occasionally bite people and pets in addition to deer.",
-        "limitations": "The study only examined six insects from two locations in southern England, so the findings may not apply to deer keds everywhere.",
-        "raw": "**What they found:** Researchers analyzed the microbiome of deer keds (blood-sucking insects that parasitize deer) from England and discovered a disease-causing bacteria called Bartonella schoenbuchensis in keds that had fed on deer, plus a new virus.\n\n**Why it matters:** This confirms that deer keds can carry and potentially spread disease-causing germs to humans and animals when they bite, since these insects occasionally bite people and pets in addition to deer.\n\n**Limitations:** The study only examined six insects from two locations in southern England, so the findings may not apply to deer keds everywhere."
+        "whatTheyFound": "Researchers analyzed the microbiome of deer keds (blood-sucking insects that parasitize deer) from England and discovered a disease-causing bacteria called Bartonella schoenbuchensis in specimens that had fed on deer, plus a new virus.",
+        "whyItMatters": "This confirms that deer keds can carry and potentially spread bacterial infections to humans and animals when they bite, since these insects occasionally bite people and pets in addition to deer.",
+        "limitations": "The study only examined six insects from two locations in southern England, so more research is needed to understand the broader disease risk.",
+        "raw": "**What they found:** Researchers analyzed the microbiome of deer keds (blood-sucking insects that parasitize deer) from England and discovered a disease-causing bacteria called Bartonella schoenbuchensis in specimens that had fed on deer, plus a new virus.\n\n**Why it matters:** This confirms that deer keds can carry and potentially spread bacterial infections to humans and animals when they bite, since these insects occasionally bite people and pets in addition to deer.\n\n**Limitations:** The study only examined six insects from two locations in southern England, so more research is needed to understand the broader disease risk."
       },
-      "fetchedAt": "2026-02-01T06:35:47.023Z"
+      "fetchedAt": "2026-02-02T06:49:58.418Z"
     },
     {
       "pmid": "41602096",
@@ -386,12 +386,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "A 77-year-old man died from severe liver failure caused by both babesiosis and Lyme disease caught from the same tick bite. He had none of the typical symptoms like fever or rash that doctors usually look for.",
-        "whyItMatters": "This shows that tick-borne diseases can cause life-threatening organ failure even without classic warning signs, making them much harder to diagnose quickly when treatment could still help.",
-        "limitations": "This is just one case, so we can't know how often this severe presentation occurs.",
-        "raw": "**What they found:** A 77-year-old man died from severe liver failure caused by both babesiosis and Lyme disease caught from the same tick bite. He had none of the typical symptoms like fever or rash that doctors usually look for.\n\n**Why it matters:** This shows that tick-borne diseases can cause life-threatening organ failure even without classic warning signs, making them much harder to diagnose quickly when treatment could still help.\n\n**Limitations:** This is just one case, so we can't know how often this severe presentation occurs."
+        "whatTheyFound": "A 77-year-old man died from severe liver failure caused by co-infection with babesiosis and Lyme disease from tick bites. He had none of the typical symptoms like fever or rash that doctors usually look for.",
+        "whyItMatters": "This shows that tick-borne diseases can cause life-threatening complications even without classic warning signs. Doctors in areas with many ticks should consider these infections when patients have unexplained organ failure.",
+        "limitations": "This describes only one case, so we can't know how common this type of severe, atypical presentation really is.",
+        "raw": "**What they found:** A 77-year-old man died from severe liver failure caused by co-infection with babesiosis and Lyme disease from tick bites. He had none of the typical symptoms like fever or rash that doctors usually look for.\n\n**Why it matters:** This shows that tick-borne diseases can cause life-threatening complications even without classic warning signs. Doctors in areas with many ticks should consider these infections when patients have unexplained organ failure.\n\n**Limitations:** This describes only one case, so we can't know how common this type of severe, atypical presentation really is."
       },
-      "fetchedAt": "2026-02-01T06:35:02.266Z"
+      "fetchedAt": "2026-02-02T06:49:04.573Z"
     },
     {
       "pmid": "41580648",
@@ -414,7 +414,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-02-01T06:35:47.523Z"
+      "fetchedAt": "2026-02-02T06:49:58.918Z"
     },
     {
       "pmid": "41602096",
@@ -432,12 +432,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "A 77-year-old man with heart and kidney problems died from severe liver failure caused by co-infection with babesiosis and Lyme disease from tick bites. He didn't have typical symptoms like fever or rash that doctors usually look for.",
-        "whyItMatters": "This shows that tick-borne diseases can cause life-threatening complications even without classic warning signs, making them harder to diagnose quickly. Early recognition and treatment with antibiotics might prevent similar deaths.",
-        "limitations": "This is just one case, so it's unclear how often this severe presentation occurs.",
-        "raw": "**What they found:** A 77-year-old man with heart and kidney problems died from severe liver failure caused by co-infection with babesiosis and Lyme disease from tick bites. He didn't have typical symptoms like fever or rash that doctors usually look for.\n\n**Why it matters:** This shows that tick-borne diseases can cause life-threatening complications even without classic warning signs, making them harder to diagnose quickly. Early recognition and treatment with antibiotics might prevent similar deaths.\n\n**Limitations:** This is just one case, so it's unclear how often this severe presentation occurs."
+        "whatTheyFound": "A 77-year-old man developed severe liver failure and died from co-infection with babesiosis and Lyme disease, two tick-borne illnesses. He had no typical symptoms like fever or rash that doctors usually look for.",
+        "whyItMatters": "This shows that tick-borne diseases can cause life-threatening organ failure even without classic warning signs. Doctors in tick-endemic areas should consider these infections when patients have unexplained severe illness.",
+        "limitations": "This describes only one case, so we can't know how common such severe, atypical presentations really are.",
+        "raw": "**What they found:** A 77-year-old man developed severe liver failure and died from co-infection with babesiosis and Lyme disease, two tick-borne illnesses. He had no typical symptoms like fever or rash that doctors usually look for.\n\n**Why it matters:** This shows that tick-borne diseases can cause life-threatening organ failure even without classic warning signs. Doctors in tick-endemic areas should consider these infections when patients have unexplained severe illness.\n\n**Limitations:** This describes only one case, so we can't know how common such severe, atypical presentations really are."
       },
-      "fetchedAt": "2026-02-01T06:36:05.604Z"
+      "fetchedAt": "2026-02-02T06:50:18.745Z"
     },
     {
       "pmid": "41568812",
@@ -455,12 +455,12 @@
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
-        "whatTheyFound": "Researchers discovered six new species of Bartonella bacteria in bats from Senegal, Africa. One species found in fruit bats was surprisingly similar to bacteria normally found in rodents.",
-        "whyItMatters": "This suggests bats may be spreading these bacteria across different animal species, which could increase the risk of new diseases jumping from animals to humans.",
-        "limitations": "The study only looked at bats from one region in Africa.",
-        "raw": "**What they found:** Researchers discovered six new species of Bartonella bacteria in bats from Senegal, Africa. One species found in fruit bats was surprisingly similar to bacteria normally found in rodents.\n\n**Why it matters:** This suggests bats may be spreading these bacteria across different animal species, which could increase the risk of new diseases jumping from animals to humans.\n\n**Limitations:** The study only looked at bats from one region in Africa."
+        "whatTheyFound": "Scientists discovered six new species of Bartonella bacteria in bats from Senegal, Africa. One species found in fruit bats was surprisingly similar to bacteria normally found in rodents.",
+        "whyItMatters": "This discovery helps us understand how these disease-causing bacteria spread between different animal species and potentially to humans. Bats may serve as important reservoirs that could lead to new infectious diseases jumping to people.",
+        "limitations": "The study only looked at bats from one country, so we don't know how widespread these bacteria are globally.",
+        "raw": "**What they found:** Scientists discovered six new species of Bartonella bacteria in bats from Senegal, Africa. One species found in fruit bats was surprisingly similar to bacteria normally found in rodents.\n\n**Why it matters:** This discovery helps us understand how these disease-causing bacteria spread between different animal species and potentially to humans. Bats may serve as important reservoirs that could lead to new infectious diseases jumping to people.\n\n**Limitations:** The study only looked at bats from one country, so we don't know how widespread these bacteria are globally."
       },
-      "fetchedAt": "2026-02-01T06:35:51.277Z"
+      "fetchedAt": "2026-02-02T06:50:03.929Z"
     },
     {
       "pmid": "41598789",
@@ -478,12 +478,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "Researchers studied 88 patients with parasitic skin conditions like flea bites, scabies, and tick bites over 5 years. Several cases showed treatment resistance, requiring stronger medications when standard treatments failed.",
-        "whyItMatters": "These skin conditions are becoming harder to diagnose and treat, partly due to increased travel and drug resistance. Using special imaging tools can help doctors identify parasites without invasive testing.",
-        "limitations": "This was a single hospital study, so the findings may not represent what happens everywhere.",
-        "raw": "**What they found:** Researchers studied 88 patients with parasitic skin conditions like flea bites, scabies, and tick bites over 5 years. Several cases showed treatment resistance, requiring stronger medications when standard treatments failed.\n\n**Why it matters:** These skin conditions are becoming harder to diagnose and treat, partly due to increased travel and drug resistance. Using special imaging tools can help doctors identify parasites without invasive testing.\n\n**Limitations:** This was a single hospital study, so the findings may not represent what happens everywhere."
+        "whatTheyFound": "Researchers studied 88 patients with parasitic skin conditions like scabies, tick bites, and flea bites at an Italian hospital over 5 years. Some cases showed resistance to standard treatments, requiring stronger medications.",
+        "whyItMatters": "These skin infections are becoming harder to diagnose and treat, partly due to increased travel and drug resistance. Better diagnostic tools and teamwork between doctors, parasite experts, and veterinarians can improve patient care.",
+        "limitations": "This was a single hospital study, so findings may not apply everywhere.",
+        "raw": "**What they found:** Researchers studied 88 patients with parasitic skin conditions like scabies, tick bites, and flea bites at an Italian hospital over 5 years. Some cases showed resistance to standard treatments, requiring stronger medications.\n\n**Why it matters:** These skin infections are becoming harder to diagnose and treat, partly due to increased travel and drug resistance. Better diagnostic tools and teamwork between doctors, parasite experts, and veterinarians can improve patient care.\n\n**Limitations:** This was a single hospital study, so findings may not apply everywhere."
       },
-      "fetchedAt": "2026-02-01T06:35:07.093Z"
+      "fetchedAt": "2026-02-02T06:49:09.730Z"
     },
     {
       "pmid": "41599078",
@@ -501,12 +501,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "Researchers tested forest flies from horses in Spain for four tick-borne diseases and found that some flies carried the same parasites (Theileria equi and Babesia caballi) found in infected horses they fed on.",
-        "whyItMatters": "This suggests forest flies might help spread these horse diseases or could be used to monitor disease outbreaks in horse populations without directly testing every animal.",
-        "limitations": "This is the first study showing this connection, so more research is needed to confirm forest flies actually transmit these diseases rather than just carrying them after feeding.",
-        "raw": "**What they found:** Researchers tested forest flies from horses in Spain for four tick-borne diseases and found that some flies carried the same parasites (Theileria equi and Babesia caballi) found in infected horses they fed on.\n\n**Why it matters:** This suggests forest flies might help spread these horse diseases or could be used to monitor disease outbreaks in horse populations without directly testing every animal.\n\n**Limitations:** This is the first study showing this connection, so more research is needed to confirm forest flies actually transmit these diseases rather than just carrying them after feeding."
+        "whatTheyFound": "Researchers tested 170 forest flies from horses in Spain for disease-causing germs and found that some flies carried the same parasites (causing \"equine piroplasmosis\") that were present in their horse hosts.",
+        "whyItMatters": "This suggests forest flies might help spread these parasites between horses, making them important to monitor for preventing horse diseases in areas where these flies are common.",
+        "limitations": "This study only looked at flies from a limited area in Spain, so we don't know if the same pattern occurs elsewhere.",
+        "raw": "**What they found:** Researchers tested 170 forest flies from horses in Spain for disease-causing germs and found that some flies carried the same parasites (causing \"equine piroplasmosis\") that were present in their horse hosts.\n\n**Why it matters:** This suggests forest flies might help spread these parasites between horses, making them important to monitor for preventing horse diseases in areas where these flies are common.\n\n**Limitations:** This study only looked at flies from a limited area in Spain, so we don't know if the same pattern occurs elsewhere."
       },
-      "fetchedAt": "2026-02-01T06:36:20.338Z"
+      "fetchedAt": "2026-02-02T06:50:33.207Z"
     },
     {
       "pmid": "41600734",
@@ -524,12 +524,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "Researchers collected over 900 ticks and 247 cattle blood samples from the Tumen River Basin in China, identifying 5 tick species and 3 disease-causing germs (Babesia and Theileria parasites) that infect both ticks and cattle.",
-        "whyItMatters": "This mapping of ticks and their diseases in a major cattle-farming region helps local communities and health officials understand disease risks and plan better prevention strategies.",
-        "limitations": "The study only looked at one geographic region and focused on cattle, so results may not apply to other areas or animals.",
-        "raw": "**What they found:** Researchers collected over 900 ticks and 247 cattle blood samples from the Tumen River Basin in China, identifying 5 tick species and 3 disease-causing germs (Babesia and Theileria parasites) that infect both ticks and cattle.\n\n**Why it matters:** This mapping of ticks and their diseases in a major cattle-farming region helps local communities and health officials understand disease risks and plan better prevention strategies.\n\n**Limitations:** The study only looked at one geographic region and focused on cattle, so results may not apply to other areas or animals."
+        "whatTheyFound": "Researchers collected 913 ticks and 247 cattle blood samples in China's Tumen River Basin, identifying 5 tick species and 3 disease-causing germs (Babesia and Theileria) present in both ticks and cattle.",
+        "whyItMatters": "This shows ticks are actively spreading diseases to cattle in this farming region, which could affect both animal health and potentially human health since these diseases can sometimes jump to people.",
+        "limitations": "The study only looked at one geographic area and focused mainly on cattle, so the findings may not apply to other regions or animals.",
+        "raw": "**What they found:** Researchers collected 913 ticks and 247 cattle blood samples in China's Tumen River Basin, identifying 5 tick species and 3 disease-causing germs (Babesia and Theileria) present in both ticks and cattle.\n\n**Why it matters:** This shows ticks are actively spreading diseases to cattle in this farming region, which could affect both animal health and potentially human health since these diseases can sometimes jump to people.\n\n**Limitations:** The study only looked at one geographic area and focused mainly on cattle, so the findings may not apply to other regions or animals."
       },
-      "fetchedAt": "2026-02-01T06:36:10.336Z"
+      "fetchedAt": "2026-02-02T06:50:23.487Z"
     },
     {
       "pmid": "41602270",
@@ -547,12 +547,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "A 50-year-old man developed paralysis on both sides of his face due to Lyme disease affecting his nervous system, even though he had no memory of tick bites and never developed the typical Lyme rash.",
-        "whyItMatters": "Doctors should consider Lyme disease as a cause of facial paralysis even when patients don't remember tick exposure or have the classic rash, since early antibiotic treatment can lead to complete recovery.",
-        "limitations": "This describes only one patient's experience, so more cases would be needed to confirm these findings apply broadly.",
-        "raw": "**What they found:** A 50-year-old man developed paralysis on both sides of his face due to Lyme disease affecting his nervous system, even though he had no memory of tick bites and never developed the typical Lyme rash.\n\n**Why it matters:** Doctors should consider Lyme disease as a cause of facial paralysis even when patients don't remember tick exposure or have the classic rash, since early antibiotic treatment can lead to complete recovery.\n\n**Limitations:** This describes only one patient's experience, so more cases would be needed to confirm these findings apply broadly."
+        "whatTheyFound": "A 50-year-old man developed paralysis on both sides of his face due to Lyme disease, even though he had no memory of a tick bite and never developed the typical rash.",
+        "whyItMatters": "Doctors should consider Lyme disease as a cause of facial paralysis even when patients don't remember being bitten by a tick or getting a rash, since early antibiotic treatment can lead to complete recovery.",
+        "limitations": "This describes only one patient's experience, so the findings may not apply to all similar cases.",
+        "raw": "**What they found:** A 50-year-old man developed paralysis on both sides of his face due to Lyme disease, even though he had no memory of a tick bite and never developed the typical rash.\n\n**Why it matters:** Doctors should consider Lyme disease as a cause of facial paralysis even when patients don't remember being bitten by a tick or getting a rash, since early antibiotic treatment can lead to complete recovery.\n\n**Limitations:** This describes only one patient's experience, so the findings may not apply to all similar cases."
       },
-      "fetchedAt": "2026-02-01T06:34:57.809Z"
+      "fetchedAt": "2026-02-02T06:48:59.544Z"
     },
     {
       "pmid": "41600682",
@@ -570,12 +570,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "Researchers tested 101 American Staffordshire Terriers in Serbia and found that 37% were infected with small Babesia parasites (tick-borne blood parasites), which is much higher than expected. Dogs with scars, poor body condition, tick exposure, and rural living were at highest risk.",
-        "whyItMatters": "These parasites are often missed by standard tests, leading to wrong treatments, but they're actually common in certain dog breeds. Better testing and prevention could help many dogs get proper care.",
-        "limitations": "This study only looked at one dog breed in one country.",
-        "raw": "**What they found:** Researchers tested 101 American Staffordshire Terriers in Serbia and found that 37% were infected with small Babesia parasites (tick-borne blood parasites), which is much higher than expected. Dogs with scars, poor body condition, tick exposure, and rural living were at highest risk.\n\n**Why it matters:** These parasites are often missed by standard tests, leading to wrong treatments, but they're actually common in certain dog breeds. Better testing and prevention could help many dogs get proper care.\n\n**Limitations:** This study only looked at one dog breed in one country."
+        "whatTheyFound": "Researchers tested 101 American Staffordshire Terriers in Serbia and found that 37% were infected with small Babesia parasites (mainly B. gibsoni), which are often missed by standard tests. Dogs with scars, poor body condition, tick exposure, and those living in rural areas had higher infection rates.",
+        "whyItMatters": "These parasites cause a serious blood disease in dogs but are frequently misdiagnosed, leading to wrong treatments. The high infection rate suggests this problem may be more common than previously recognized.",
+        "limitations": "The study only looked at one dog breed in one country.",
+        "raw": "**What they found:** Researchers tested 101 American Staffordshire Terriers in Serbia and found that 37% were infected with small Babesia parasites (mainly B. gibsoni), which are often missed by standard tests. Dogs with scars, poor body condition, tick exposure, and those living in rural areas had higher infection rates.\n\n**Why it matters:** These parasites cause a serious blood disease in dogs but are frequently misdiagnosed, leading to wrong treatments. The high infection rate suggests this problem may be more common than previously recognized.\n\n**Limitations:** The study only looked at one dog breed in one country."
       },
-      "fetchedAt": "2026-02-01T06:36:15.349Z"
+      "fetchedAt": "2026-02-02T06:50:28.456Z"
     },
     {
       "pmid": "41583232",
@@ -593,12 +593,12 @@
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
-        "whatTheyFound": "An 8-year-old girl with cat exposure developed a stubborn lymph node infection in her thigh that didn't respond to typical antibiotics. Doctors confirmed it was cat scratch disease using a DNA test called PCR when standard blood tests weren't clear.",
-        "whyItMatters": "This shows that cat scratch disease can cause unusual infections that are hard to diagnose, and DNA testing can help doctors identify the cause faster and choose better treatments.",
-        "limitations": "This report describes only one patient's experience.",
-        "raw": "**What they found:** An 8-year-old girl with cat exposure developed a stubborn lymph node infection in her thigh that didn't respond to typical antibiotics. Doctors confirmed it was cat scratch disease using a DNA test called PCR when standard blood tests weren't clear.\n\n**Why it matters:** This shows that cat scratch disease can cause unusual infections that are hard to diagnose, and DNA testing can help doctors identify the cause faster and choose better treatments.\n\n**Limitations:** This report describes only one patient's experience."
+        "whatTheyFound": "An 8-year-old girl with cat exposure developed a severe lymph node infection in her thigh that didn't respond to typical antibiotics. Doctors confirmed it was cat scratch disease using DNA testing when standard blood tests weren't clear enough.",
+        "whyItMatters": "This shows that cat scratch disease can cause unusual, hard-to-treat infections that require special DNA testing to diagnose properly and guide the right treatment.",
+        "limitations": "This is just one case, so more research is needed to know how often this occurs.",
+        "raw": "**What they found:** An 8-year-old girl with cat exposure developed a severe lymph node infection in her thigh that didn't respond to typical antibiotics. Doctors confirmed it was cat scratch disease using DNA testing when standard blood tests weren't clear enough.\n\n**Why it matters:** This shows that cat scratch disease can cause unusual, hard-to-treat infections that require special DNA testing to diagnose properly and guide the right treatment.\n\n**Limitations:** This is just one case, so more research is needed to know how often this occurs."
       },
-      "fetchedAt": "2026-02-01T06:35:42.074Z"
+      "fetchedAt": "2026-02-02T06:49:52.448Z"
     },
     {
       "pmid": "41598999",
@@ -616,12 +616,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "Researchers tested 336 cattle across three regions in Northeast Brazil and found that 83% were infected with tick-borne diseases that cause cattle tick fever. The humid tropical region had the highest infection rates (95%), while infection patterns varied significantly between regions.",
-        "whyItMatters": "These diseases are major economic threats to cattle farming, and the study identified key risk factors like reusing needles, sharing pastures, and poor fly control that farmers can address to reduce infections.",
-        "limitations": "The study only covered three specific regions in Northeast Brazil, so results may not apply to other areas with different climates or farming practices.",
-        "raw": "**What they found:** Researchers tested 336 cattle across three regions in Northeast Brazil and found that 83% were infected with tick-borne diseases that cause cattle tick fever. The humid tropical region had the highest infection rates (95%), while infection patterns varied significantly between regions.\n\n**Why it matters:** These diseases are major economic threats to cattle farming, and the study identified key risk factors like reusing needles, sharing pastures, and poor fly control that farmers can address to reduce infections.\n\n**Limitations:** The study only covered three specific regions in Northeast Brazil, so results may not apply to other areas with different climates or farming practices."
+        "whatTheyFound": "Researchers tested cattle across three regions in Northeast Brazil and found that over 80% were infected with tick-borne diseases that cause cattle tick fever. The humid tropical area had the highest infection rates (95%), while many cattle had multiple infections at once.",
+        "whyItMatters": "These diseases are widespread and costly for cattle farmers, but certain practices like reusing needles, sharing pastures, and poor fly control significantly increase infection risk. Understanding these patterns helps farmers take better preventive measures.",
+        "limitations": "The study only looked at three specific regions in Northeast Brazil, so results may not apply to other areas.",
+        "raw": "**What they found:** Researchers tested cattle across three regions in Northeast Brazil and found that over 80% were infected with tick-borne diseases that cause cattle tick fever. The humid tropical area had the highest infection rates (95%), while many cattle had multiple infections at once.\n\n**Why it matters:** These diseases are widespread and costly for cattle farmers, but certain practices like reusing needles, sharing pastures, and poor fly control significantly increase infection risk. Understanding these patterns helps farmers take better preventive measures.\n\n**Limitations:** The study only looked at three specific regions in Northeast Brazil, so results may not apply to other areas."
       },
-      "fetchedAt": "2026-02-01T06:36:26.120Z"
+      "fetchedAt": "2026-02-02T06:50:38.835Z"
     },
     {
       "pmid": "41598990",
@@ -639,12 +639,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "A common drug treatment for babesiosis in sheep (imidocarb dipropionate) stops the obvious symptoms and seems to clear the infection, but tiny amounts of the parasite can still remain hidden in the blood for months.",
-        "whyItMatters": "Even after successful treatment, sheep may still be able to spread the infection to other sheep through blood contact, even though they appear healthy and test negative on routine tests.",
-        "limitations": "This was a small study with only three treated sheep, so more research is needed to confirm these findings.",
-        "raw": "**What they found:** A common drug treatment for babesiosis in sheep (imidocarb dipropionate) stops the obvious symptoms and seems to clear the infection, but tiny amounts of the parasite can still remain hidden in the blood for months.\n\n**Why it matters:** Even after successful treatment, sheep may still be able to spread the infection to other sheep through blood contact, even though they appear healthy and test negative on routine tests.\n\n**Limitations:** This was a small study with only three treated sheep, so more research is needed to confirm these findings."
+        "whatTheyFound": "A common tick medication (imidocarb dipropionate) stops symptoms of babesiosis in sheep but doesn't completely eliminate the parasite. Treated sheep can still pass the infection through blood transfusions even when they appear healthy and test negative on routine tests.",
+        "whyItMatters": "This suggests that treated animals may still silently spread babesiosis to other sheep through blood contact, which could complicate disease control efforts in flocks.",
+        "limitations": "The study only involved a small number of sheep over six months.",
+        "raw": "**What they found:** A common tick medication (imidocarb dipropionate) stops symptoms of babesiosis in sheep but doesn't completely eliminate the parasite. Treated sheep can still pass the infection through blood transfusions even when they appear healthy and test negative on routine tests.\n\n**Why it matters:** This suggests that treated animals may still silently spread babesiosis to other sheep through blood contact, which could complicate disease control efforts in flocks.\n\n**Limitations:** The study only involved a small number of sheep over six months."
       },
-      "fetchedAt": "2026-02-01T06:36:30.661Z"
+      "fetchedAt": "2026-02-02T06:50:43.606Z"
     },
     {
       "pmid": "41598986",
@@ -662,12 +662,12 @@
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
-        "whatTheyFound": "Researchers tested 50 people with chronic fatigue syndrome (ME/CFS) and found that about 1 in 4 were infected with tick-borne bacteria called Babesia or Bartonella.",
-        "whyItMatters": "This suggests these tick infections might play a role in causing or worsening chronic fatigue, which could lead to better treatments targeting these specific bacteria.",
-        "limitations": "This study only looked at people who already had chronic fatigue, so it can't prove these infections actually cause the condition.",
-        "raw": "**What they found:** Researchers tested 50 people with chronic fatigue syndrome (ME/CFS) and found that about 1 in 4 were infected with tick-borne bacteria called Babesia or Bartonella.\n\n**Why it matters:** This suggests these tick infections might play a role in causing or worsening chronic fatigue, which could lead to better treatments targeting these specific bacteria.\n\n**Limitations:** This study only looked at people who already had chronic fatigue, so it can't prove these infections actually cause the condition."
+        "whatTheyFound": "Researchers tested 50 people with chronic fatigue syndrome and found that nearly half (46%) were infected with tick-borne bacteria called Babesia or Bartonella, which can cause fatigue and brain symptoms.",
+        "whyItMatters": "This suggests these tick-borne infections might contribute to chronic fatigue syndrome, potentially giving doctors new treatment targets for some patients with this debilitating condition.",
+        "limitations": "This was a small study that only showed these infections were present, not that they actually cause chronic fatigue syndrome.",
+        "raw": "**What they found:** Researchers tested 50 people with chronic fatigue syndrome and found that nearly half (46%) were infected with tick-borne bacteria called Babesia or Bartonella, which can cause fatigue and brain symptoms.\n\n**Why it matters:** This suggests these tick-borne infections might contribute to chronic fatigue syndrome, potentially giving doctors new treatment targets for some patients with this debilitating condition.\n\n**Limitations:** This was a small study that only showed these infections were present, not that they actually cause chronic fatigue syndrome."
       },
-      "fetchedAt": "2026-02-01T06:35:32.506Z"
+      "fetchedAt": "2026-02-02T06:49:42.903Z"
     },
     {
       "pmid": "41598986",
@@ -685,12 +685,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "Researchers tested 50 people with chronic fatigue syndrome (ME/CFS) and found that 24% had Babesia infections and 26% had Bartonella infections - both tick-borne germs.",
-        "whyItMatters": "This suggests these tick-borne infections might play a role in causing chronic fatigue syndrome, which could lead to better diagnosis and treatment options for patients.",
-        "limitations": "This was a small study that only looked at people who already had symptoms, so more research is needed to prove these infections actually cause chronic fatigue.",
-        "raw": "**What they found:** Researchers tested 50 people with chronic fatigue syndrome (ME/CFS) and found that 24% had Babesia infections and 26% had Bartonella infections - both tick-borne germs.\n\n**Why it matters:** This suggests these tick-borne infections might play a role in causing chronic fatigue syndrome, which could lead to better diagnosis and treatment options for patients.\n\n**Limitations:** This was a small study that only looked at people who already had symptoms, so more research is needed to prove these infections actually cause chronic fatigue."
+        "whatTheyFound": "Researchers tested 50 people with chronic fatigue syndrome and found that about 1 in 4 were infected with tick-borne bacteria called Babesia or Bartonella.",
+        "whyItMatters": "This suggests these tick infections might play a role in causing chronic fatigue syndrome, which could lead to better treatments targeting these specific bacteria.",
+        "limitations": "This study only looked at people who already had chronic fatigue, so it can't prove these infections actually cause the condition.",
+        "raw": "**What they found:** Researchers tested 50 people with chronic fatigue syndrome and found that about 1 in 4 were infected with tick-borne bacteria called Babesia or Bartonella.\n\n**Why it matters:** This suggests these tick infections might play a role in causing chronic fatigue syndrome, which could lead to better treatments targeting these specific bacteria.\n\n**Limitations:** This study only looked at people who already had chronic fatigue, so it can't prove these infections actually cause the condition."
       },
-      "fetchedAt": "2026-02-01T06:36:35.038Z"
+      "fetchedAt": "2026-02-02T06:50:47.756Z"
     }
   ]
 }
