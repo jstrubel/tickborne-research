@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-23T06:51:11.004Z",
+  "generatedAt": "2026-02-24T06:44:12.792Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:51:09.409Z"
+      "fetchedAt": "2026-02-24T06:44:11.791Z"
     },
     {
       "pmid": "41684703",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:51:08.160Z"
+      "fetchedAt": "2026-02-24T06:44:10.593Z"
     },
     {
       "pmid": "41643374",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:51:01.046Z"
+      "fetchedAt": "2026-02-24T06:44:03.386Z"
     },
     {
       "pmid": "41666881",
@@ -91,7 +91,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:50:59.207Z"
+      "fetchedAt": "2026-02-24T06:44:01.417Z"
+    },
+    {
+      "pmid": "41729083",
+      "title": "Single-cell immunophenotyping identifies CD8+GZMK+IFNG+ T cells as a key immune population in cutaneous Lyme disease.",
+      "abstract": "The skin lesion erythema migrans (EM) is the first clinical sign of Lyme disease, an infection due to the tick-transmitted bacterium Borrelia burgdorferi (Bb). Previously, we used scRNA-Seq to characterize the cutaneous immune response in the EM lesion, focusing on B cells. Here, with an expanded sample size, we profiled T cell responses in EM lesions compared to autologous uninvolved skin. In addition to CD4+ T cell subsets known to be abundant in the EM lesion, we identified clonally expanded CD8+GZMK+IFNG+ T cells that comprised cells with high or intermediate IFNG expression. These cells exhibited significant differential expression of IFN-regulated genes and included subsets with low cytotoxic gene expression, suggesting an inflammatory potential that may contribute to early defense against Bb within the EM lesion. In addition, we found that endothelial cells, fibroblasts, and pericytes were the main producers of key T cell-recruiting chemokines. These studies using single-cell transcriptomics with adaptive immune receptor sequencing provide a comprehensive interrogation of the cutaneous T cell response to Bb infection and insight into the orchestration of the skin barrier defense to this vector-borne pathogen.",
+      "authors": [
+        "Aron E",
+        "Meng H",
+        "Belperron AA"
+      ],
+      "journal": "JCI insight",
+      "publicationDate": "Feb 23, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41729083/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-02-24T06:43:51.471Z"
+    },
+    {
+      "pmid": "41725836",
+      "title": "Detection of Multiple Microorganisms in Ruminant Ticks in Senegal Using High-Throughput Microfluidic Real-Time PCR.",
+      "abstract": "Ticks are major vectors of numerous pathogens affecting both livestock and humans. In Senegal, data on the diversity of tick-borne pathogens (TBPs) in ruminant-associated ticks remain limited. In total, 1703 ticks were collected from goats, sheep, and cattle across three ecological zones of Senegal (Sudanian, Sahelian, and Sudano-Sahelian). Tick species were identified morphologically, and 300 individuals were screened for 36 microorganisms using a high-throughput microfluidic real-time PCR system. DNA was successfully extracted and amplified from 289 ticks. The most abundant species were Rhipicephalus evertsi evertsi (32.3%), Hyalomma truncatum (19.6%), R. guilhoni (15.6%), H. rufipes (11.6%), and Amblyomma variegatum (11.0%). Among the screened ticks, 226 (78.9%) were positive for at least one microorganism. True pathogens of veterinary and/or zoonotic importance included Anaplasma ovis (30.8%), Coxiella spp. (23.9%), Rickettsia aeschlimannii (13.1%), Theileria spp. (11.1%), and Ehrlichia canis (4.8%), with sporadic detections of Anaplasma marginale, A. bovis, and Babesia spp. (0.3% each). In addition, non-pathogenic Francisella-like endosymbionts (FLEs) were detected at high prevalence (37.4%) across all ecological zones. The presence of TBPs and/or endosymbionts was significantly associated only with the tick's host in the multivariable logistic regression model. Ticks collected from goats (OR&#x2009;=&#x2009;7.82; p = 0.024) and sheep (OR&#x2009;=&#x2009;7.70; p = 0.015) were significantly more likely to be infected than those collected from cattle (reference group). A total of 96 cases of microorganism co-occurrence were recorded across different tick species. Co-infections were more frequent in ticks collected from the Sudano-Sahelian zone (48.2%) and in those from sheep (32.0%). None of the detected microorganism species showed a significant associated with tick sex. This study represents the first large-scale molecular survey of TBPs in ruminant-associated ticks in Senegal, revealing both a high diversity of pathogens and a widespread presence of tick endosymbionts. While endosymbionts, such as FLEs, are not known to be pathogenic, their abundance may influence tick physiology and vector competence. The detection of zoonotic pathogens, such as E. canis and R. aeschlimannii, underscores the need to strengthen tick surveillance and investigate their potential public health implications.",
+      "authors": [
+        "Khoule A",
+        "Galon C",
+        "Ngom D"
+      ],
+      "journal": "Transboundary and emerging diseases",
+      "publicationDate": "02 20, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41725836/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-02-24T06:44:06.226Z"
     },
     {
       "pmid": "41714202",
@@ -112,7 +158,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:50:50.111Z"
+      "fetchedAt": "2026-02-24T06:43:54.027Z"
     },
     {
       "pmid": "41720174",
@@ -135,7 +181,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:51:05.101Z"
+      "fetchedAt": "2026-02-24T06:44:07.434Z"
     },
     {
       "pmid": "41709267",
@@ -157,7 +203,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:51:05.698Z"
+      "fetchedAt": "2026-02-24T06:44:08.032Z"
     },
     {
       "pmid": "41709464",
@@ -180,7 +226,29 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:50:50.758Z"
+      "fetchedAt": "2026-02-24T06:43:54.640Z"
+    },
+    {
+      "pmid": "41727755",
+      "title": "Untitled",
+      "abstract": "Purpose: To describe an unusual case of Bartonella henselae-associated neuroretinitis complicated by acquired vitelliform-like maculopathy following initial treatment with corticosteroid monotherapy. Methods: A single case was reviewed. Results: A 43-year-old man presented with acute, painless vision loss and central visual haziness in the right eye. Initial treatment with intravenous methylprednisolone and oral prednisone at an outside facility failed to improve visual acuity (VA). Subsequent evaluation at a tertiary care center revealed optic disc edema, macular star exudates, atypical subfoveal vitelliform-like changes on optical coherence tomography, and elevated Bartonella henselae titers consistent with infectious neuroretinitis. The patient was treated with a prolonged course of oral doxycycline, resulting in gradual clinical and structural improvement over 20 weeks, with a final VA of 20/60. Conclusions: This case emphasizes the importance of thorough diagnostic evaluation before initiating treatment for optic disc edema and highlights a potential sequela of treating infectious neuroretinitis with corticosteroid monotherapy.",
+      "authors": [
+        "Illiano W",
+        "Crosson J"
+      ],
+      "journal": "Journal of vitreoretinal diseases",
+      "publicationDate": "Feb 17, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41727755/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-02-24T06:43:58.718Z"
     },
     {
       "pmid": "41722296",
@@ -203,7 +271,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:51:04.513Z"
+      "fetchedAt": "2026-02-24T06:44:06.827Z"
     },
     {
       "pmid": "41701732",
@@ -226,7 +294,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:51:06.960Z"
+      "fetchedAt": "2026-02-24T06:44:09.343Z"
     },
     {
       "pmid": "41700525",
@@ -249,7 +317,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:51:07.557Z"
+      "fetchedAt": "2026-02-24T06:44:09.990Z"
     },
     {
       "pmid": "41699433",
@@ -270,7 +338,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:50:52.601Z"
+      "fetchedAt": "2026-02-24T06:43:56.508Z"
     },
     {
       "pmid": "41711927",
@@ -293,7 +361,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:50:57.362Z"
+      "fetchedAt": "2026-02-24T06:43:59.326Z"
     },
     {
       "pmid": "41702479",
@@ -316,7 +384,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:51:06.325Z"
+      "fetchedAt": "2026-02-24T06:44:08.744Z"
     },
     {
       "pmid": "41718073",
@@ -339,7 +407,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:50:49.520Z"
+      "fetchedAt": "2026-02-24T06:43:53.392Z"
+    },
+    {
+      "pmid": "41727126",
+      "title": "Untitled",
+      "abstract": "Borrelia burgdorferi , the causative agent of Lyme disease, elicits a robust type I interferon (IFN-I) response that has been strongly associated with chronic inflammatory manifestations such as Lyme arthritis. Although IFN-I is induced early after infection, its functional contribution during the initial stages of B. burgdorferi infection has remained unclear. Here, we identify a critical protective role for IFN-I signaling in the early control of B. burgdorferi . At 5 days post-infection, mice lacking the IFN-I interferon receptor (IFNAR1) exhibited markedly elevated spirochetal burdens at the site of inoculation, indicating that IFN-I is required to restrict early bacterial expansion. By 10 days post-infection, IFNAR1 deficiency resulted in significantly increased bacterial loads in skin and heart tissues, while joint burdens remained unaffected. Mechanistically, IFN-I signaling enhanced macrophage phagocytosis and intracellular killing of B. burgdorferi both in vitro and in vivo , and promoted pro-inflammatory cytokine production and recruitment of innate immune cells to the site of infection. Conversely, pharmacological activation of IFN-I signaling augmented macrophage antimicrobial function and improved bacterial clearance. Together, these findings establish IFN-I as an essential component of early host defense against B. burgdorferi and reveal a time-dependent role for IFN-I signaling in Lyme disease pathogenesis, with protective functions during early infection that contrast with its pathogenic effects at later stages. Lyme disease is caused by the spirochete Borrelia burgdorferi , which is transmitted to humans through the bite of infected ticks. Soon after infection, the spirochete must evade the host's early immune defenses in the skin to disseminate to other tissues and cause disease. Type I interferons (IFN-I) are best known for their antiviral roles, but they are also strongly induced during Lyme disease. While IFN-I responses have been linked to the development of Lyme Arthritis in later stages of infection, their role during the earliest phase of Lyme disease has remained unclear. In this study, we show that IFN-I interferon signaling plays a critical protective role early after B. burgdorferi infection. Mice lacking the IFN-I interferon receptor were unable to efficiently control bacterial growth at the site of infection and showed increased bacterial dissemination. Mechanistically, IFN-I signaling enhanced the ability of macrophages to engulf and kill B. burgdorferi , promoted inflammatory cytokine production, and supported the recruitment of immune cells to the site of infection. Importantly, short-term activation of IFN-I signaling enhanced bacterial clearance, whereas loss of this pathway impaired early immune control. Together, these findings reveal that IFN-I has time-dependent roles during Lyme disease, protecting the host during early infection while contributing to inflammation at later stages. By defining the time-dependent role of IFN-I signaling in Lyme disease, our study advances understanding of how innate immune responses shape infection outcome and highlights potential strategies for enhancing early host defense.",
+      "authors": [
+        "Priya R",
+        "Raghunandanan S",
+        "Mihaljica D"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publicationDate": "Feb 13, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41727126/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-02-24T06:43:52.794Z"
     },
     {
       "pmid": "41677960",
@@ -362,7 +453,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:51:08.778Z"
+      "fetchedAt": "2026-02-24T06:44:11.189Z"
     },
     {
       "pmid": "41684369",
@@ -385,30 +476,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:50:57.955Z"
-    },
-    {
-      "pmid": "41679049",
-      "title": "The influence of Borrelia burgdorferi and Anaplasma phagocytophilum bacteria on phospholipid metabolism in the blood of patients.",
-      "abstract": "Ticks carry various pathogens, including the spirochete Borrelia burgdorferi, which causes Lyme disease (LD) in humans, and the Gram-negative bacterium Anaplasma phagocytophilum, which causes human granulocytic anaplasmosis (HGA). These diseases pose both diagnostic and therapeutic challenges. It is known that tick-borne diseases are typically accompanied by oxidative stress and inflammation, and consequently, other metabolic changes. Therefore, the aim of the study was to evaluate the modification of ROS- and enzyme-dependent metabolism of phospholipids and free polyunsaturated fatty acids (PUFAs), by assessing the level of ROS-dependent lipid peroxidation products and enzyme-dependent endocannabinoids and eicosanoids in the blood serum of patients with LD, HGA, and co-infections (LD+HGA) before and after pharmacotherapy, and thus to determine the effectiveness of pharmacotherapy based on doxycycline and amoxicillin. In the course of LD, HGA, and LD+HGA, systemic oxidative stress (increased 4-HNE level) occurs, which is accompanied by increased enzymatic metabolism of PUFAs with a tendency for free PUFAs to increase before and decrease after treatment, especially in LD, endocannabinoids (increased, especially 2-AG in HGA and LD+HGA), and all examined eicosanoid levels. Pharmacotherapy, especially in patients with LD, resulted in a decrease in all free PUFAs and a reduction in thromboxane B2 (TXB2) level. On the other hand, treatment with doxycycline in the HGA significantly increased PGE2 levels and decreased TXB2. Metabolic changes resulting from the infection, along with the incomplete return of the assessed parameters to physiological conditions, suggest that patients could benefit from additional supplementation, such as drugs or natural antioxidants that regulate lipid metabolism.",
-      "authors": [
-        "Dobrzy&#x144;ska M",
-        "Skrzydlewska E",
-        "Jarocka-Karpowicz I"
-      ],
-      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
-      "publicationDate": "Feb 10, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41679049/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-23T06:50:54.569Z"
+      "fetchedAt": "2026-02-24T06:43:59.930Z"
     },
     {
       "pmid": "41667532",
@@ -431,30 +499,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:50:58.564Z"
+      "fetchedAt": "2026-02-24T06:44:00.580Z"
     },
     {
-      "pmid": "41666444",
-      "title": "Babesiosis-Related Sepsis: Clinical Characteristics and Outcomes from a Multicenter Retrospective Global Research Network Analysis.",
-      "abstract": "Babesiosis is a tick-borne protozoan infection often caused by Babesia microti. Symptomatic babesiosis typically presents as a malaria-like syndrome; however, it may result in more serious presentations, including sepsis. Immunosuppression is a known risk factor for severe babesiosis; however, limited data exist on additional predictors of sepsis. The aim for the present study is to identify predictors, complications, and outcomes of babesiosis sepsis. Using the TriNetX research database, adults who had polymerase chain reaction-confirmed babesiosis between June 2010 and May 2024 were identified. Demographic, clinical, and outcome data were analyzed. Sepsis was defined using International Classification of Diseases, 10th Revision, codes. Among 1,566 patients identified, 159 (10.2%) developed sepsis. Sepsis was associated with female sex, older age, and predominantly cardiac or renal comorbidities. Complications of babesiosis sepsis included acute kidney injury, shock, and hemolytic anemia. Patients with sepsis had higher 30-day, 90-day, and 1-year mortality rates. Specific demographics and the presence of cardiac or renal comorbidities may be associated with increased disease severity.",
+      "pmid": "41727610",
+      "title": "Multiplexed single-tier immunoassay for improved Lyme disease diagnosis across all disease stages.",
+      "abstract": "Lyme disease is the most common vector-borne infection in North America and Europe, yet current two-tier serologic testing shows poor sensitivity during early infection when antibiotic treatment is most effective. We developed and validated a single-tier multiplex immunoassay that combines ten Borrelia burgdorferi antigens with machine-learning classification to detect antibody responses across all disease stages. A total of 364 cases were obtained, which included well characterized prospective blood samples obtained during early infection. In a cohort of samples from the Johns Hopkins University SLICE studies, the classifier identified all 30 early Lyme disease cases and their 1-3-month post-treatment follow-up samples. To assess generalizability, an independent EU laboratory synthesized the antigens de novo and a distinct 259-person cohort was evaluated on newly built assays. The classifier achieved an AUC of 0.98 in both cohorts. This single-test platform delivers quantitative serologic classification using standard clinical laboratory instrumentation, addressing critical gaps in Lyme disease diagnosis.",
       "authors": [
-        "Long J",
-        "Henao-Mart&#xed;nez AF",
-        "Rau N"
+        "Embers M",
+        "Stafford P",
+        "Ahern H"
       ],
-      "journal": "The American journal of tropical medicine and hygiene",
-      "publicationDate": "Feb 10, 2026",
+      "journal": "Research square",
+      "publicationDate": "Feb 09, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41666444/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41727610/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:51:10.003Z"
+      "fetchedAt": "2026-02-24T06:43:52.078Z"
     },
     {
       "pmid": "41652478",
@@ -477,30 +545,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:50:59.803Z"
-    },
-    {
-      "pmid": "41684445",
-      "title": "Lyme in the prosthetic joint: two cases and a review of the literature.",
-      "abstract": "Lyme periprosthetic joint infection (PJI) is rare, with only 8 cases reported in the literature. In this paper, we describe 2 cases and review the prior 8 cases to better characterize its diagnosis and management. All 10 cases presented with culture-negative PJI in Lyme-endemic regions and were confirmed to have Lyme PJI via a positive Borrelia-targeted polymerase chain reaction (PCR) run on joint specimens. Treatment strategies varied: 5 underwent debridement, antibiotics, and implant retention (DAIR); 1 had exchange arthroplasty; and 4 were managed non-operatively. Antimicrobial treatment also varied considerably. All patients achieved clinical cure. Lyme disease should be considered a potential cause of culture-negative PJI occurring in endemic regions. Because Borrelia-targeted PCR is not routinely included in standard PJI diagnostic workup, diagnosis may be delayed; therefore, clinicians should consider ordering this test when Lyme PJI is part of the differential.",
-      "authors": [
-        "Tabaja H",
-        "Passerini M",
-        "Sia IG"
-      ],
-      "journal": "Journal of bone and joint infection",
-      "publicationDate": "02 05, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41684445/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-23T06:50:53.963Z"
+      "fetchedAt": "2026-02-24T06:44:02.166Z"
     },
     {
       "pmid": "41638765",
@@ -523,53 +568,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:51:02.207Z"
-    },
-    {
-      "pmid": "41636488",
-      "title": "Untitled",
-      "abstract": "",
-      "authors": [
-        "Dichter AA",
-        "Kaufmann R",
-        "Cayo LS"
-      ],
-      "journal": "Microbiology spectrum",
-      "publicationDate": "Feb 04, 2026",
-      "articleType": "Letter",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41636488/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-23T06:51:02.707Z"
-    },
-    {
-      "pmid": "41676522",
-      "title": "Untitled",
-      "abstract": "Spirochete pathogens are among the most invasive bacteria known, causing syphilis, Lyme disease, and leptospirosis. Their tissue penetration depends on periplasmic flagellar filaments that, unlike other bacterial flagella, are encased in a spirochete-specific multi-protein sheath and deform the cell body into motile waves. How these filaments achieve the mechanical properties needed for invasive motility has remained unclear. Here we determine complete atomic structures of the Leptospira endoflagellar filament, revealing an elaborate sheath of 9 to 12 distinct asymmetrically arranged proteins. We show that the flagellin variant forming the filament core determines sheath composition, producing curvatures ranging from &#x223c;3.5 &#xb5;m -1 to &#x223c;5 &#xb5;m -1 . The lower-curvature architecture, employed by pathogenic Leptospira interrogans , proves essential for motility in viscous environments and during infection. Thus, Leptospira achieves environment-specific motility through modular core-sheath coupling, linking atomic-scale structural plasticity to large-scale changes in swimming behaviour. Conservation of key sheath components suggests this mechanism may extend across spirochetes.",
-      "authors": [
-        "Martin FS",
-        "Brady MR",
-        "Fule L"
-      ],
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationDate": "Feb 03, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41676522/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-23T06:50:55.170Z"
+      "fetchedAt": "2026-02-24T06:44:04.715Z"
     },
     {
       "pmid": "41651617",
@@ -592,7 +591,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:51:00.449Z"
+      "fetchedAt": "2026-02-24T06:44:02.781Z"
     },
     {
       "pmid": "41697910",
@@ -615,7 +614,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:50:53.236Z"
+      "fetchedAt": "2026-02-24T06:43:57.175Z"
     },
     {
       "pmid": "41700770",
@@ -638,7 +637,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:50:51.347Z"
+      "fetchedAt": "2026-02-24T06:43:55.296Z"
     },
     {
       "pmid": "41700589",
@@ -661,7 +660,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:50:51.987Z"
+      "fetchedAt": "2026-02-24T06:43:55.904Z"
     },
     {
       "pmid": "41641055",
@@ -684,7 +683,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-23T06:51:01.627Z"
+      "fetchedAt": "2026-02-24T06:44:04.085Z"
     }
   ]
 }
