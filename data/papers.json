@@ -1,30 +1,7 @@
 {
-  "generatedAt": "2026-02-24T06:44:12.792Z",
+  "generatedAt": "2026-02-25T06:47:51.877Z",
   "totalPapers": 30,
   "papers": [
-    {
-      "pmid": "41675074",
-      "title": "Splenic infarct, atypical presentation of babesiosis: A case report.",
-      "abstract": "Babesiosis is a tick-borne protozoan infection marked by invasion of red blood cells and causing hemolytic anemia. When symptomatic, patients present with symptoms and signs secondary to hemolysis. We report a case of Babesiosis presenting with a rare manifestation of a splenic infarct, emphasizing the importance of early recognition and prompt treatment. A 41-year-old man with no significant past medical history presented to the hospital with fever, chills and sweats for 2 days. He also had left lower quadrant abdominal pain which started 10 days prior to the admission. Initial laboratory results showed mild anemia and thrombocytopenia with a platelet count of 79 K/uL (normal range 150-350), normal creatinine and transaminases. Computerized tomography (CT) of the abdomen showed moderate splenomegaly and 1.2 cm hyperdense focus reflecting an infarct. Peripheral blood smear demonstrated intracellular red cell inclusions suggestive of Babesia spp. Human Babesiosis is an emerging zoonosis with various clinical presentations varying from being asymptomatic to life-threatening conditions. Patients with immunocompromised status, splenectomy, or significant underlying health conditions are particularly susceptible to severe manifestations. Splenic infarcts are reported as a rare complication, found in younger and immunocompetent hosts, and they do not correlate with the level of parasitemia. Our patient was also a young immunocompetent host with a low level of parasitemia presented with abdominal pain; a high level of suspicion is needed to make an early diagnosis. This case is an important reminder of this atypical presentation of Babesia microti infection in an immunocompetent host.",
-      "authors": [
-        "Perciuleac Z",
-        "George MR",
-        "Fares MP"
-      ],
-      "journal": "Radiology case reports",
-      "publicationDate": "Apr 02, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41675074/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-24T06:44:11.791Z"
-    },
     {
       "pmid": "41684703",
       "title": "Babesiosis and Its Significance in Transfusion Medicine from a European Point of View.",
@@ -46,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:44:10.593Z"
+      "fetchedAt": "2026-02-25T06:47:50.251Z"
     },
     {
       "pmid": "41643374",
@@ -69,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:44:03.386Z"
+      "fetchedAt": "2026-02-25T06:47:41.948Z"
     },
     {
       "pmid": "41666881",
@@ -91,7 +68,28 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:44:01.417Z"
+      "fetchedAt": "2026-02-25T06:47:40.066Z"
+    },
+    {
+      "pmid": "41735627",
+      "title": "Probing the host cell exit strategy of&#xa0;Babesia divergens.",
+      "abstract": "",
+      "authors": [
+        "Ottoz DSM"
+      ],
+      "journal": "Nature reviews. Microbiology",
+      "publicationDate": "Feb 24, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41735627/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-02-25T06:47:44.933Z"
     },
     {
       "pmid": "41729083",
@@ -114,7 +112,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:43:51.471Z"
+      "fetchedAt": "2026-02-25T06:47:30.170Z"
+    },
+    {
+      "pmid": "41709464",
+      "title": "Non-invasive ovulation tracking enables genetic engineering in wild rodents.",
+      "abstract": "Many non-model rodent species are inaccessible to genetic engineering due to our limited understanding of their reproductive biology. Here, we present a low-cost, camera-based estrous-tracking technology that enables transgenesis in the white-footed mouse Peromyscus leucopus, a key reservoir for Lyme disease. We demonstrate the efficient generation of pregnant and pseudopregnant mice via timed ovulation, provide protocols for embryo generation, cultivation, microinjection, and transplantation as well as an accurate developmental timeline, and report the first engineered Peromyscus. The same technology successfully tracked conserved estrous-linked cycling behavior in other rodents, including hamsters. Finally, estrous tracking differentiated reproductively healthy, geriatric female Peromyscus from those with declining fertility based solely on their activity, providing a non-invasive method for studying reproductive senescence. Collectively, these tools represent a critical resource for engineering non-model rodents, advance the long-lived Peromyscus as a model organism, and will prove essential to heritably immunizing wild rodent populations against Lyme disease.",
+      "authors": [
+        "Buchthal J",
+        "Chory EJ",
+        "Hill Z"
+      ],
+      "journal": "Cell reports methods",
+      "publicationDate": "Feb 23, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41709464/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-02-25T06:47:33.353Z"
     },
     {
       "pmid": "41725836",
@@ -137,7 +158,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:44:06.226Z"
+      "fetchedAt": "2026-02-25T06:47:45.614Z"
     },
     {
       "pmid": "41714202",
@@ -158,7 +179,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:43:54.027Z"
+      "fetchedAt": "2026-02-25T06:47:32.743Z"
     },
     {
       "pmid": "41720174",
@@ -181,7 +202,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:44:07.434Z"
+      "fetchedAt": "2026-02-25T06:47:46.842Z"
     },
     {
       "pmid": "41709267",
@@ -203,30 +224,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:44:08.032Z"
-    },
-    {
-      "pmid": "41709464",
-      "title": "Non-invasive ovulation tracking enables genetic engineering in wild rodents.",
-      "abstract": "Many non-model rodent species are inaccessible to genetic engineering due to our limited understanding of their reproductive biology. Here, we present a low-cost, camera-based estrous-tracking technology that enables transgenesis in the white-footed mouse Peromyscus leucopus, a key reservoir for Lyme disease. We demonstrate the efficient generation of pregnant and pseudopregnant mice via timed ovulation, provide protocols for embryo generation, cultivation, microinjection, and transplantation as well as an accurate developmental timeline, and report the first engineered Peromyscus. The same technology successfully tracked conserved estrous-linked cycling behavior in other rodents, including hamsters. Finally, estrous tracking differentiated reproductively healthy, geriatric female Peromyscus from those with declining fertility based solely on their activity, providing a non-invasive method for studying reproductive senescence. Collectively, these tools represent a critical resource for engineering non-model rodents, advance the long-lived Peromyscus as a model organism, and will prove essential to heritably immunizing wild rodent populations against Lyme disease.",
-      "authors": [
-        "Buchthal J",
-        "Chory EJ",
-        "Hill Z"
-      ],
-      "journal": "Cell reports methods",
-      "publicationDate": "Feb 17, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41709464/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-24T06:43:54.640Z"
+      "fetchedAt": "2026-02-25T06:47:47.617Z"
     },
     {
       "pmid": "41727755",
@@ -248,7 +246,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:43:58.718Z"
+      "fetchedAt": "2026-02-25T06:47:37.571Z"
     },
     {
       "pmid": "41722296",
@@ -271,7 +269,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:44:06.827Z"
+      "fetchedAt": "2026-02-25T06:47:46.229Z"
     },
     {
       "pmid": "41701732",
@@ -294,7 +292,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:44:09.343Z"
+      "fetchedAt": "2026-02-25T06:47:48.887Z"
     },
     {
       "pmid": "41700525",
@@ -317,7 +315,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:44:09.990Z"
+      "fetchedAt": "2026-02-25T06:47:49.508Z"
     },
     {
       "pmid": "41699433",
@@ -338,7 +336,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:43:56.508Z"
+      "fetchedAt": "2026-02-25T06:47:35.221Z"
     },
     {
       "pmid": "41711927",
@@ -361,7 +359,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:43:59.326Z"
+      "fetchedAt": "2026-02-25T06:47:38.196Z"
     },
     {
       "pmid": "41702479",
@@ -384,7 +382,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:44:08.744Z"
+      "fetchedAt": "2026-02-25T06:47:48.235Z"
     },
     {
       "pmid": "41718073",
@@ -407,7 +405,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:43:53.392Z"
+      "fetchedAt": "2026-02-25T06:47:32.127Z"
     },
     {
       "pmid": "41727126",
@@ -430,7 +428,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:43:52.794Z"
+      "fetchedAt": "2026-02-25T06:47:31.454Z"
     },
     {
       "pmid": "41677960",
@@ -453,7 +451,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:44:11.189Z"
+      "fetchedAt": "2026-02-25T06:47:50.877Z"
     },
     {
       "pmid": "41684369",
@@ -476,7 +474,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:43:59.930Z"
+      "fetchedAt": "2026-02-25T06:47:38.806Z"
     },
     {
       "pmid": "41667532",
@@ -499,7 +497,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:44:00.580Z"
+      "fetchedAt": "2026-02-25T06:47:39.430Z"
     },
     {
       "pmid": "41727610",
@@ -522,7 +520,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:43:52.078Z"
+      "fetchedAt": "2026-02-25T06:47:30.802Z"
     },
     {
       "pmid": "41652478",
@@ -545,7 +543,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:44:02.166Z"
+      "fetchedAt": "2026-02-25T06:47:40.690Z"
     },
     {
       "pmid": "41638765",
@@ -568,7 +566,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:44:04.715Z"
+      "fetchedAt": "2026-02-25T06:47:43.256Z"
     },
     {
       "pmid": "41651617",
@@ -591,7 +589,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:44:02.781Z"
+      "fetchedAt": "2026-02-25T06:47:41.310Z"
     },
     {
       "pmid": "41697910",
@@ -614,7 +612,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:43:57.175Z"
+      "fetchedAt": "2026-02-25T06:47:35.842Z"
     },
     {
       "pmid": "41700770",
@@ -637,7 +635,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:43:55.296Z"
+      "fetchedAt": "2026-02-25T06:47:33.976Z"
     },
     {
       "pmid": "41700589",
@@ -660,7 +658,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:43:55.904Z"
+      "fetchedAt": "2026-02-25T06:47:34.608Z"
     },
     {
       "pmid": "41641055",
@@ -683,7 +681,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-24T06:44:04.085Z"
+      "fetchedAt": "2026-02-25T06:47:42.559Z"
     }
   ]
 }
