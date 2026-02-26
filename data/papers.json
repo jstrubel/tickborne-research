@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-02-25T06:47:51.877Z",
-  "totalPapers": 30,
+  "generatedAt": "2026-02-26T06:44:01.715Z",
+  "totalPapers": 26,
   "papers": [
     {
-      "pmid": "41684703",
-      "title": "Babesiosis and Its Significance in Transfusion Medicine from a European Point of View.",
-      "abstract": "Babesiosis, caused by intraerythrocytic parasites of the genus Babesia, represents an emerging global health threat due to its capacity for persistent infection and transfusion transmission. The ability of Babesia spp. to establish chronic, asymptomatic infections lasting up to 2 years in immunocompetent hosts creates a substantial reservoir of infectious blood donors, making transfusion-transmitted babesiosis (TTB) a critical blood safety concern. The epidemiology of babesiosis differs markedly between regions, with B. microti predominating in North America and B. divergens in Europe. In the USA, seroprevalence studies among blood donors reveal rates of 0.38% in endemic regions. In 2019, the US Food and Drug Administration (FDA) issued nonbinding recommendations for year-round regional nucleic acid testing of individual donations in 14 endemic states and Washington DC, or alternatively, the use of FDA-approved pathogen reduction technology for blood components [Pathogens. 2021;10(9):1176; Recommendations for reducing the risk of transfusion-transmitted babesiosis, 2019]. TTB can result in severe clinical complications with mortality rates approaching 20%, particularly affecting immunocompromised recipients. European studies demonstrate significantly lower prevalence rates, with minimal Babesia DNA detection in blood donor populations from Austria [Transfus Med Hemother. 2023;50(4):330-3] and Poland [Przegl Epidemiol. 2023;77(2):146-52], despite serological evidence of exposure. Current detection methods include microscopic examination, nucleic acid amplification, antigen detection, and antibody testing, with screening programs proving effective in endemic regions. Persistent Babesia infections pose a significant threat to blood safety, necessitating region-specific risk assessment and mitigation strategies. The substantial difference in prevalence between North American and European blood donor populations highlights the importance of tailored approaches to screening implementation. Enhanced surveillance, novel therapeutic strategies, and comprehensive prevention measures - including advanced diagnostics, tick-avoidance programs, and pathogen reduction technologies - are essential for minimizing the global health burden of persistent babesiosis and protecting vulnerable populations from this emerging transfusion-transmitted threat.",
+      "pmid": "41737196",
+      "title": "High burden and spatial clustering of canine hemoparasitic infections in southern Thailand: A molecular survey of free-roaming dogs.",
+      "abstract": "Canine vector-borne pathogens (CVBPs) are increasingly prevalent in tropical and subtropical regions, particularly among free-roaming dog populations, which serve as key reservoirs for transmission. This study investigated the prevalence and the spatial distribution of CVB pathogens in 318 free-roaming dogs from five sub-districts of Songkhla Province, southern Thailand. Conventional PCR was utilized to detect eight pathogens: Anaplasma platys, Ehrlichia canis, hemotropic Mycoplasma spp., Babesia spp., Hepatozoon spp., Trypanosoma evansi, Dirofilaria immitis, and Brugia malayi. An overall infection rate of 77.04% was observed, with A. platys (51.89%) and hemotropic Mycoplasma spp. (27.04%) being the most prevalent. Co-infections were common, occurring in over 42% of infected dogs. Spatial analysis using kernel density estimation (KDE) revealed pathogen-specific clustering patterns, particularly in the central and southwestern areas of the province. Infection prevalence was significantly associated with host factors such as age and weight. These findings highlight the critical role of free-roaming dogs in the epidemiology of CVBPs and the need for targeted surveillance and vector control strategies to mitigate zoonotic transmission. This One Health integrative approach provides a comprehensive assessment of pathogen diversity and prevalence while identifying environmental and host-related factors that may influence their geographic distribution. [Figure: see text] &#x2022; High prevalence (77%) of blood-borne parasites was detected in free-roaming dogs in southern Thailand. &#x2022; Co-infections were common (42%), including cases with two, three, or four pathogens simultaneously. &#x2022; Results highlight the role of free-roaming dogs as reservoirs and emphasize the importance of integrated One Health approaches for disease control.",
       "authors": [
-        "Amato M",
-        "Siller A",
-        "Schennach H"
+        "kongtawee R",
+        "Junsiri W",
+        "Narapakdeesakul D"
       ],
-      "journal": "Transfusion medicine and hemotherapy : offizielles Organ der Deutschen Gesellschaft fur Transfusionsmedizin und Immunhamatologie",
-      "publicationDate": "Feb 31, 2026",
+      "journal": "One Health",
+      "publicationDate": "Jun 16, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41684703/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41737196/",
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:50.251Z"
+      "fetchedAt": "2026-02-26T06:43:56.504Z"
     },
     {
       "pmid": "41643374",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:41.948Z"
+      "fetchedAt": "2026-02-26T06:43:54.034Z"
     },
     {
       "pmid": "41666881",
@@ -68,28 +68,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:40.066Z"
-    },
-    {
-      "pmid": "41735627",
-      "title": "Probing the host cell exit strategy of&#xa0;Babesia divergens.",
-      "abstract": "",
-      "authors": [
-        "Ottoz DSM"
-      ],
-      "journal": "Nature reviews. Microbiology",
-      "publicationDate": "Feb 24, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41735627/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-25T06:47:44.933Z"
+      "fetchedAt": "2026-02-26T06:43:52.235Z"
     },
     {
       "pmid": "41729083",
@@ -112,30 +91,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:30.170Z"
-    },
-    {
-      "pmid": "41709464",
-      "title": "Non-invasive ovulation tracking enables genetic engineering in wild rodents.",
-      "abstract": "Many non-model rodent species are inaccessible to genetic engineering due to our limited understanding of their reproductive biology. Here, we present a low-cost, camera-based estrous-tracking technology that enables transgenesis in the white-footed mouse Peromyscus leucopus, a key reservoir for Lyme disease. We demonstrate the efficient generation of pregnant and pseudopregnant mice via timed ovulation, provide protocols for embryo generation, cultivation, microinjection, and transplantation as well as an accurate developmental timeline, and report the first engineered Peromyscus. The same technology successfully tracked conserved estrous-linked cycling behavior in other rodents, including hamsters. Finally, estrous tracking differentiated reproductively healthy, geriatric female Peromyscus from those with declining fertility based solely on their activity, providing a non-invasive method for studying reproductive senescence. Collectively, these tools represent a critical resource for engineering non-model rodents, advance the long-lived Peromyscus as a model organism, and will prove essential to heritably immunizing wild rodent populations against Lyme disease.",
-      "authors": [
-        "Buchthal J",
-        "Chory EJ",
-        "Hill Z"
-      ],
-      "journal": "Cell reports methods",
-      "publicationDate": "Feb 23, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41709464/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-25T06:47:33.353Z"
+      "fetchedAt": "2026-02-26T06:43:44.336Z"
     },
     {
       "pmid": "41725836",
@@ -158,7 +114,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:45.614Z"
+      "fetchedAt": "2026-02-26T06:43:57.071Z"
     },
     {
       "pmid": "41714202",
@@ -179,7 +135,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:32.743Z"
+      "fetchedAt": "2026-02-26T06:43:46.753Z"
     },
     {
       "pmid": "41720174",
@@ -202,7 +158,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:46.842Z"
+      "fetchedAt": "2026-02-26T06:43:58.278Z"
     },
     {
       "pmid": "41709267",
@@ -224,7 +180,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:47.617Z"
+      "fetchedAt": "2026-02-26T06:43:58.915Z"
+    },
+    {
+      "pmid": "41709464",
+      "title": "Non-invasive ovulation tracking enables genetic engineering in wild rodents.",
+      "abstract": "Many non-model rodent species are inaccessible to genetic engineering due to our limited understanding of their reproductive biology. Here, we present a low-cost, camera-based estrous-tracking technology that enables transgenesis in the white-footed mouse Peromyscus leucopus, a key reservoir for Lyme disease. We demonstrate the efficient generation of pregnant and pseudopregnant mice via timed ovulation, provide protocols for embryo generation, cultivation, microinjection, and transplantation as well as an accurate developmental timeline, and report the first engineered Peromyscus. The same technology successfully tracked conserved estrous-linked cycling behavior in other rodents, including hamsters. Finally, estrous tracking differentiated reproductively healthy, geriatric female Peromyscus from those with declining fertility based solely on their activity, providing a non-invasive method for studying reproductive senescence. Collectively, these tools represent a critical resource for engineering non-model rodents, advance the long-lived Peromyscus as a model organism, and will prove essential to heritably immunizing wild rodent populations against Lyme disease.",
+      "authors": [
+        "Buchthal J",
+        "Chory EJ",
+        "Hill Z"
+      ],
+      "journal": "Cell reports methods",
+      "publicationDate": "Feb 17, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41709464/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-02-26T06:43:47.320Z"
     },
     {
       "pmid": "41727755",
@@ -246,7 +225,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:37.571Z"
+      "fetchedAt": "2026-02-26T06:43:49.825Z"
     },
     {
       "pmid": "41722296",
@@ -269,7 +248,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:46.229Z"
+      "fetchedAt": "2026-02-26T06:43:57.689Z"
     },
     {
       "pmid": "41701732",
@@ -292,7 +271,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:48.887Z"
+      "fetchedAt": "2026-02-26T06:44:00.136Z"
     },
     {
       "pmid": "41700525",
@@ -315,28 +294,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:49.508Z"
-    },
-    {
-      "pmid": "41699433",
-      "title": "Citizen Science Tick Observations Serve as an Early Warning System for Tick-Borne Diseases.",
-      "abstract": "Tick observation data collected through citizen science is increasingly utilised to map tick-borne infection risk areas indirectly, that is, based on the rate of tick encounters or occurrence of ticks. However, direct associations between tick observations and Lyme borreliosis (LB) cases have received little attention. In the current study, associations between weekly tick observations and LB cases were studied on a nationwide scale in Finland, in order to determine if tick observations precede cases in a predictable manner, and whether tick observations could be used to predict peaks in cases. Nationwide weekly electronic citizen science tick observation data from a tick surveillance website (www.punkkilive.fi/en) and Lyme borreliosis data from the Finnish Institute for Health and Welfare from 2021 to 2023 were utilised in the current study. Negative binomial models were fitted to assess whether tick observations explain variation in LB cases beyond simple seasonality, and to determine if weekly disease cases can be predicted based on tick observation data originating from either humans, pets (dogs & cats) or all sources. Disease cases followed observations with a three to four week lag. Tick observation data were observed to explain variation in LB cases beyond simple seasonality. Models only utilising observations from humans to predict disease cases had the best performance. Finally, differences in the phenology of the two human-biting tick species present in Finland were observed to influence temporal patterns of observations and LB cases on smaller spatial scales. This study revealed that LB cases can be predicted utilising citizen science tick observation data. Consequently, crowdsourced tick observation data can be used to predict when peaks in disease cases are to be expected, allowing for specifically targeted awareness campaigns. This, in turn, may lead to symptoms being detected and recognised earlier, allowing for more rapid treatment and fewer sequelae. Guidance on setting up similar models is provided. Actors with access to such data are encouraged to set up similar early warning systems. This increased utility of the data can be leveraged to justify setting up tick observation services, as well as to motivate citizens to participate.",
-      "authors": [
-        "Sormunen JJ"
-      ],
-      "journal": "Zoonoses and public health",
-      "publicationDate": "Feb 16, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41699433/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-25T06:47:35.221Z"
+      "fetchedAt": "2026-02-26T06:44:00.714Z"
     },
     {
       "pmid": "41711927",
@@ -359,7 +317,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:38.196Z"
+      "fetchedAt": "2026-02-26T06:43:50.442Z"
     },
     {
       "pmid": "41702479",
@@ -382,7 +340,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:48.235Z"
+      "fetchedAt": "2026-02-26T06:43:59.494Z"
     },
     {
       "pmid": "41718073",
@@ -405,7 +363,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:32.127Z"
+      "fetchedAt": "2026-02-26T06:43:46.185Z"
     },
     {
       "pmid": "41727126",
@@ -428,30 +386,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:31.454Z"
-    },
-    {
-      "pmid": "41677960",
-      "title": "Molecular detection and phylogenetic characterization of tick-borne pathogens in Anatolian water buffalo (Bubalus bubalis).",
-      "abstract": "Tick-borne pathogens (TBPs) represent a major constraint to livestock health and productivity worldwide. Water buffaloes (Bubalus bubalis) are an important livestock species in T&#xfc;rkiye; however, molecular data on TBPs in this host remain limited. This study aimed to investigate the prevalence and molecular diversity of Babesia, Theileria, Anaplasma, and Ehrlichia species in water buffaloes from I&#x11f;d&#x131;r Province, Eastern T&#xfc;rkiye. A total of 200 blood samples were analysed using genus-specific PCR assays targeting the 18S and 16S rRNA genes, followed by Reverse Line Blot (RLB) hybridisation and Sanger sequencing. Genus-level prevalence was 28.0% for Theileria spp., 6.0% for Babesia spp., and 2.5% for Anaplasma spp., while Ehrlichia spp. were not detected. Six species were identified: Theileria annulata (22.0%), T. ovis (5.0%), T. buffeli (1.0%), Babesia canis (5.0%), B. ovis (1.0%), and Anaplasma phagocytophilum (2.5%). This study provides the first molecular evidence of B. canis and B. ovis DNA in water buffaloes. However, the detection of parasite DNA alone does not confirm active infection and likely reflects incidental or spillover events associated with shared tick vectors in multi-host grazing systems. Phylogenetic analyses based on 18S and 16S rRNA genes revealed high sequence similarity with isolates from neighbouring regions, supporting regional circulation of closely related strains. These findings highlight the exposure of Anatolian water buffaloes to a broad spectrum of TBPs and underline the need for integrated studies combining vector surveillance, multilocus genotyping, and serological approaches to clarify host competence and transmission dynamics. The online version contains supplementary material available at 10.1007/s11250-026-04890-5.",
-      "authors": [
-        "Ayd&#x131;n N",
-        "&#xd6;lmez N",
-        "Sar&#x131; B"
-      ],
-      "journal": "Tropical animal health and production",
-      "publicationDate": "Feb 12, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41677960/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-25T06:47:50.877Z"
+      "fetchedAt": "2026-02-26T06:43:45.568Z"
     },
     {
       "pmid": "41684369",
@@ -474,7 +409,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:38.806Z"
+      "fetchedAt": "2026-02-26T06:43:51.047Z"
     },
     {
       "pmid": "41667532",
@@ -497,7 +432,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:39.430Z"
+      "fetchedAt": "2026-02-26T06:43:51.664Z"
     },
     {
       "pmid": "41727610",
@@ -520,7 +455,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:30.802Z"
+      "fetchedAt": "2026-02-26T06:43:44.997Z"
     },
     {
       "pmid": "41652478",
@@ -543,7 +478,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:40.690Z"
+      "fetchedAt": "2026-02-26T06:43:52.857Z"
     },
     {
       "pmid": "41638765",
@@ -566,7 +501,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:43.256Z"
+      "fetchedAt": "2026-02-26T06:43:55.192Z"
     },
     {
       "pmid": "41651617",
@@ -589,30 +524,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:41.310Z"
-    },
-    {
-      "pmid": "41697910",
-      "title": "Survey of tick control practices on public lands across 4 states reporting high incidence of Lyme disease.",
-      "abstract": "Ticks and tick-borne diseases pose a significant public health threat in the United States, particularly in the Northeast and Upper Midwest. Tick control operations are predominately focused on private residential properties. Surveys of publicly funded vector control programs have indicated that high use public lands may be viable targets for future tick control activities if funding is available. However, little is known about the feasibility of implementing tick control activities on these properties. We administered a survey to understand current tick control and tick bite prevention educational practices and potential barriers to future tick control on public lands. The survey was distributed to public land managers in Minnesota, New York, Pennsylvania, and Wisconsin and we received 129 responses. The responses indicated that tick control was undertaken on only 10% of the public lands that respondents managed. Landscape management was the most common intervention. Some (40%) of the public land managers indicated interest in using tick control methods in the future, again with landscape management being the preferred intervention. Respondents indicated that there may be significant barriers for the use of acaricides and host-targeted interventions. Currently, tick bite prevention education appears to be the primary protective measure utilized on public land, with 63% of responding land managers offering education to staff or visitors. Our survey indicates that high use public lands may present potential targets for limited tick control operations, but the potential barriers must be addressed and additional evaluation of these interventions on high use public land is required.",
-      "authors": [
-        "Burtis JC",
-        "Bartholomay LC",
-        "Eisen L"
-      ],
-      "journal": "Journal of medical entomology",
-      "publicationDate": "Jan 20, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41697910/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-25T06:47:35.842Z"
+      "fetchedAt": "2026-02-26T06:43:53.470Z"
     },
     {
       "pmid": "41700770",
@@ -635,7 +547,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:33.976Z"
+      "fetchedAt": "2026-02-26T06:43:47.936Z"
     },
     {
       "pmid": "41700589",
@@ -658,7 +570,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:34.608Z"
+      "fetchedAt": "2026-02-26T06:43:48.515Z"
     },
     {
       "pmid": "41641055",
@@ -681,7 +593,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-25T06:47:42.559Z"
+      "fetchedAt": "2026-02-26T06:43:54.595Z"
     }
   ]
 }
