@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T06:37:20.658Z",
+  "generatedAt": "2026-02-28T06:21:31.658Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,30 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:16.206Z"
-    },
-    {
-      "pmid": "41643374",
-      "title": "Longitudinal assessment of immune responses against Bartonella henselae in experimentally infected cats.",
-      "abstract": "This study investigated the relationship between innate and adaptive immunity in B. henselae-positive cats by assessing the B. henselae-specific immune markers and bacteremia levels. Five cats were infested with Bartonella-carrying fleas to mimic natural infection, while three healthy cats served as uninfected controls. Blood samples were collected over 12 weeks to evaluate bacterial load from whole blood, TLR-4, TLR-9, IL-10, and TNF-&#x3b1; expression in PBMCs using qPCR, as well as IgM and IgG titers and CD4/CD8 profiles via immunofluorescence and flow cytometry. All experimentally infected cats became bacteremic by Week 1 post-infection (p.i) and remained positive throughout the study, demonstrating successful flea-mediated transmission and persistent infection. Bacterial loads exhibited an undulant pattern with inter-individual variability accompanied by dynamic changes in immune response throughout the study. TNF-&#x3b1; expression was significantly higher in infected cats (p&#x202f;=&#x202f;0.036) compared to control cats from Week 4 to Week 12 p.i, indicating a delayed pro-inflammatory response. In contrast, no statistically significant differences were observed for TLR-4, TLR-9, or IL-10 expression, although temporal variation was noted. TNF-&#x3b1; and IL-10 expression showed a strong positive correlation, suggesting coordinated regulation of inflammatory and regulatory cytokine responses over time. All infected cats seroconverted by Week 2 p.i, with sustained IgG titers, while altered CD4:CD8 ratios were observed in three of five animals, highlighting heterogeneity in adaptive immune responses. Overall, these findings indicate that B. henselae establishes persistent infection in cats characterized by sustained bacteremia and dynamic, temporally regulated immune responses. This study provides novel insight into the kinetics of innate and adaptive immunity during feline B. henselae infection.",
-      "authors": [
-        "Shamsul-Bahri NA",
-        "Omar S",
-        "Watanabe M"
-      ],
-      "journal": "Veterinary immunology and immunopathology",
-      "publicationDate": "Mar 02, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41643374/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-27T06:37:12.451Z"
+      "fetchedAt": "2026-02-28T06:21:29.411Z"
     },
     {
       "pmid": "41741034",
@@ -69,7 +46,52 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:15.562Z"
+      "fetchedAt": "2026-02-28T06:21:28.781Z"
+    },
+    {
+      "pmid": "41758291",
+      "title": "The Complete Mitogenome of Haemaphysalis parva (Arachnida: Ixodidae) and Comparative Mitogenomics of Haemaphysalis Species.",
+      "abstract": "IntroductionTicks are globally recognised as the second most important vectors of infectious diseases, posing significant threats to human and animal health. Haemaphysalis parva (Acari: Ixodidae) is frequently reported infesting humans and domestic animals and has been experimentally demonstrated to transmit Babesia ovis, with field associations to ovine babesiosis during the colder months. It has also been reported to harbour several zoonotic pathogens, including Coxiella burnetii, Francisella tularensis, and various Rickettsia species. Here, we aim to report the complete mitochondrial genome of Haemaphysalis parva (Ixodida: Ixodidae), a zoonotic tick species with significant public health relevance in T&#xfc;rkiye. MethodsFor this purpose, we isolated total genomic DNA from H. parva and sequenced using Illumina HiSeq 2000 platform, raw reads were processed, and then the mitogenome was assembled using the Geneious R9 program with \"map to reference\" and verified via \"de novo assembly\" options.Results and DiscussionThe mitogenome of H. parva is a circular DNA molecule of 14,843&#xa0;bp, comprising the canonical 37 genes (13 PCGs, 22 tRNAs, and 2 rRNAs) and two major non-coding regions (312&#xa0;bp and 304&#xa0;bp). Strand-specific compositional bias revealed a strong A&#x2009;+&#x2009;T enrichment (77.8%) and pervasive negative AT- and GC-skew values, diverging from the typical skew profiles observed in most arthropods and possibly reflecting lineage-specific replication asymmetries. All PCGs exhibited AT-biased codon usage, preferentially encoding hydrophobic amino acids. Several genes (cox1, cytB, nd2, nd6) showed dN/dS ratios >&#x2009;1, suggesting positive adaptive evolution. Comparative mitogenomic analysis of 27 Haemaphysalis species confirmed overall structural conservation but identified a rearranged nd1-rrnS gene block relative to the Ixodes reference genome. Collinearity and synteny analyses revealed multiple conserved sequence blocks, including a putative humanin-like ORF within the rrnL gene region, indicating potential dual-coding or regulatory elements within non-PCG regions.",
+      "authors": [
+        "Aydemir HB",
+        "Keskin A"
+      ],
+      "journal": "Acta parasitologica",
+      "publicationDate": "Feb 27, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41758291/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-02-28T06:21:24.976Z"
+    },
+    {
+      "pmid": "41759876",
+      "title": "Distribution of Borrelia burgdorferi sensu lato in micromammals in the Republic of Korea.",
+      "abstract": "Lyme disease is a vector-borne zoonotic disease caused by spirochete bacteria of the genus Borrelia. It is primarily transmitted by ticks of the genus Ixodes. Vertebrate hosts, including rodents and insectivores such as shrews and moles, maintain the pathogens in ecosystems. Research on the prevalence and geographical distribution of Borrelia species and other micromammal-associated zoonotic pathogens in the Republic of Korea (ROK) is scarce. This study investigated the prevalence and distribution of Borrelia spp. in wild micromammals across the ROK to support Lyme disease control. In this study, we collected 200 spleen samples from micromammals in 14 regions nationwide, including Apodemus agrarius, Crocidura sp., Micromys minutus, and Apodemus peninsulae. Genomic DNA was extracted from the spleen tissues, and PCR and phylogenetic analyses targeting flagellin B (flaB), outer surface protein A (ospA), and 5S-23S rRNA intergenic spacer (5S-23S) were performed. Phylogenetic analysis based on flagellin B (flaB), outer surface protein A (ospA) and 5S-23S rRNA intergenic spacer (5S-23S) sequences revealed distinct clustering of Borrelia afzelii, Borrelia yangtzensis and a lineage designated as Borrelia sp. B. afzelii was predominantly detected in northern and central regions of the ROK, whereas B. yangtzensis was mainly present in the southern region of the ROK. This study provides updated insights into the prevalence and spatial distribution of Borrelia spp. in Korean micromammals. Our findings contribute to a better understanding of wildlife reservoirs and may inform future strategies to prevent and control micromammal-borne zoonoses.",
+      "authors": [
+        "Park JS",
+        "Seo JY",
+        "Lee HI"
+      ],
+      "journal": "Acta tropica",
+      "publicationDate": "Feb 25, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41759876/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-02-28T06:21:09.774Z"
     },
     {
       "pmid": "41741501",
@@ -92,53 +114,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:01.955Z"
-    },
-    {
-      "pmid": "41739551",
-      "title": "Untitled",
-      "abstract": "The pressing need for rapid, direct diagnostic tests for infectious diseases is exemplified by Lyme disease. Human cases of this tick-vectored bacterial infection continue to rise globally, yet the conventional laboratory diagnostic is inadequate in capturing early disease, treatment outcome, and reinfection. Direct detection of a pathogen marker from human biological fluid is a coveted strategy that has, until now, presented immense challenges due to the low circulating burden of the Lyme Borrelia pathogen. The current study demonstrates specific, label-free, quantitative, real-time sensing of Borrelia outer surface protein A (OspA) in 0.5 &#x3bc;L whole blood samples with the recently introduced meta-nano-channel field-effect transistor (MNC-FET) biosensor. The MNC-FET biosensor is specifically designed to address the transduction of nonuniform surface distribution of molecular interactions while maintaining the biomolecules in thermal and electrochemical equilibria. The sensing is performed directly in unprocessed blood and without the conventionally employed premeasurement washings, rendering the proposed technology suitable for a fast, simple, self-use diagnostic kit for Lyme disease. The study demonstrates OspA sensing with a limit of detection of 1 fg/mL, a dynamic range of 8 orders of magnitude, and with excellent sensitivity and linearity. The MNC-FET biosensor is fabricated in a complementary metal-oxide-silicon (CMOS) process ensuring superb electronic grade in terms of noise levels and amplification, robustness, stability, and ultimate miniaturization suitable for future multiplexed sensing. The unique MNC-FET biosensor design addressing challenges associated with molecular sensing, coupled with CMOS technology potential for high volume production of high-end chips, provides a viable technology for a low-cost Lyme disease diagnostic kit with excellent quantitative performance in ultra-small unprocessed blood drops.",
-      "authors": [
-        "Garika V",
-        "Bamm VV",
-        "Verma P"
-      ],
-      "journal": "ACS sensors",
-      "publicationDate": "Feb 25, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41739551/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-27T06:37:03.098Z"
-    },
-    {
-      "pmid": "41736568",
-      "title": "EXPRESS: A Comprehensive Review of Lyme disease in Latin America.",
-      "abstract": "Lyme disease (LD) is caused by a bacterial genospecies complex named Borrelia burgdorferi sensu lato (s.l.), which includes B. burgdorferi sensu stricto (B.b.s.s). Originally described in North America, LD has also been described in other parts of the Northern Hemisphere, and in Eurasia. Different B.b.s.l. species, transmitted through geographically diverse tick vectors, are associated with different clinical presentations of the disease. In recent years, the incidence and the endemic range of LD have steadily expanded to include areas of the world with tropical climate, including Latin American countries.Challenges in serological diagnosis. Inconsistent confirmatory results, despite clinical diagnosis, could be explained by antigenic differences between these new species in these countries, with American strains used in the elaboration of commercial tests. This could explain indeterminate Western blots and polymerase chain reactions in detecting suspected LD cases.Novel Borrelia taxons may impact the reservoir host spectrum, including mammals, birds, and other animals. Different species of Ixodes ticks are found in Latin America, where I. scapularis is absent, and they could serve as vectors. New genospecies of B.b.s.l. and the scarce information about its pathogenicity, reservoirs and vectors, highlights the importance of further studies tp elucidate their genetic differences in the context of the development of innovative diagnostic and clinical approaches.Knowledge gaps and the need for prospective and rigorous studies, to determine the presence, or not, of LD in this region, warrant call for research providing new insights into the basic biology and epidemiology, and clinical manifestations in this region.",
-      "authors": [
-        "Mesa J",
-        "Cooper S",
-        "Fatima M"
-      ],
-      "journal": "Journal of investigative medicine : the official publication of the American Federation for Clinical Research",
-      "publicationDate": "Feb 25, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41736568/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-27T06:37:03.673Z"
+      "fetchedAt": "2026-02-28T06:21:14.915Z"
     },
     {
       "pmid": "41742048",
@@ -161,7 +137,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:07.872Z"
+      "fetchedAt": "2026-02-28T06:21:18.436Z"
     },
     {
       "pmid": "41666881",
@@ -183,7 +159,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:10.711Z"
+      "fetchedAt": "2026-02-28T06:21:22.029Z"
     },
     {
       "pmid": "41743628",
@@ -206,7 +182,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:01.377Z"
+      "fetchedAt": "2026-02-28T06:21:14.281Z"
     },
     {
       "pmid": "41741249",
@@ -229,7 +205,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:02.527Z"
+      "fetchedAt": "2026-02-28T06:21:15.598Z"
     },
     {
       "pmid": "41735627",
@@ -250,21 +226,21 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:17.369Z"
+      "fetchedAt": "2026-02-28T06:21:30.656Z"
     },
     {
-      "pmid": "41729083",
-      "title": "Single-cell immunophenotyping identifies CD8+GZMK+IFNG+ T cells as a key immune population in cutaneous Lyme disease.",
-      "abstract": "The skin lesion erythema migrans (EM) is the first clinical sign of Lyme disease, an infection due to the tick-transmitted bacterium Borrelia burgdorferi (Bb). Previously, we used scRNA-Seq to characterize the cutaneous immune response in the EM lesion, focusing on B cells. Here, with an expanded sample size, we profiled T cell responses in EM lesions compared to autologous uninvolved skin. In addition to CD4+ T cell subsets known to be abundant in the EM lesion, we identified clonally expanded CD8+GZMK+IFNG+ T cells that comprised cells with high or intermediate IFNG expression. These cells exhibited significant differential expression of IFN-regulated genes and included subsets with low cytotoxic gene expression, suggesting an inflammatory potential that may contribute to early defense against Bb within the EM lesion. In addition, we found that endothelial cells, fibroblasts, and pericytes were the main producers of key T cell-recruiting chemokines. These studies using single-cell transcriptomics with adaptive immune receptor sequencing provide a comprehensive interrogation of the cutaneous T cell response to Bb infection and insight into the orchestration of the skin barrier defense to this vector-borne pathogen.",
+      "pmid": "41756944",
+      "title": "Making the best of a sticky situation: Infection-mediated endothelial activation promotes new interactions with adhesins of the host-adapted Lyme disease spirochete.",
+      "abstract": "Lyme disease, caused by the spirochete Borrelia burgdorferi and closely related Lyme Borrelia , is the most prevalent tick-borne illness in the northern hemisphere. An important pathway for B. burgdorferi dissemination is its interaction with, and traversal of the vascular endothelium, a process that is not well understood and is mediated by spirochete surface adhesins. We show here that infection-induced activation of the endothelium in BALB/c mice results in new B. burgdorferi -endothelial interactions, indicating the presence of spirochete factors that interact specifically with activated endothelial cells. We show that these interactions are mediated by spirochetal surface proteins whose synthesis is dependent upon B. burgdorferi host adaptation. We used intravital microscopy and a functional gain approach to assess the binding of spirochetes that withstand the shear force of blood flow in post-capillary venules of living mice. We identified five previously undescribed, shear force-resistant adhesins that selectively mediate binding to activated endothelium (BBA66, P66, BBA36, BBA07 and DbpA) and interact with activation-induced endothelial surface changes. Two of these adhesins (P66 and DbpA) have been implicated in the spirochete extravasation process. We also identified seven previously undescribed shear force-resistant adhesins that target pre-activated endothelium (BBA04, BBK53, BBK07, BBA65, BB0844, ErpK and OspC). Three of these (BBK53, ErpK and OspC), display reduced binding to activated endothelium, a property that may facilitate the multi-step pathway of vascular transmigration. In particular, OspC has been previously implicated in spirochete extravasation. In summary, our results reveal a dynamic interaction network between the spirochete and the endothelium where the spirochete capitalizes on activation of the endothelium to establish new interactions and at the same time disrupt others. We propose that this scenario is part of a sequential interaction network leading to transendothelial migration of the spirochetes and subsequent tissue invasion. This work opens a new area of study focusing on eleven new adhesins described here and their vascular interactions and role in spirochete extravasation.",
       "authors": [
-        "Aron E",
-        "Meng H",
-        "Belperron AA"
+        "Alvarez Olmedo D",
+        "Tan X",
+        "Scott C"
       ],
-      "journal": "JCI insight",
-      "publicationDate": "Feb 23, 2026",
+      "journal": "bioRxiv : the preprint server for biology",
+      "publicationDate": "Feb 21, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41729083/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41756944/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
@@ -273,42 +249,20 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:04.247Z"
+      "fetchedAt": "2026-02-28T06:21:10.408Z"
     },
     {
-      "pmid": "41725836",
-      "title": "Detection of Multiple Microorganisms in Ruminant Ticks in Senegal Using High-Throughput Microfluidic Real-Time PCR.",
-      "abstract": "Ticks are major vectors of numerous pathogens affecting both livestock and humans. In Senegal, data on the diversity of tick-borne pathogens (TBPs) in ruminant-associated ticks remain limited. In total, 1703 ticks were collected from goats, sheep, and cattle across three ecological zones of Senegal (Sudanian, Sahelian, and Sudano-Sahelian). Tick species were identified morphologically, and 300 individuals were screened for 36 microorganisms using a high-throughput microfluidic real-time PCR system. DNA was successfully extracted and amplified from 289 ticks. The most abundant species were Rhipicephalus evertsi evertsi (32.3%), Hyalomma truncatum (19.6%), R. guilhoni (15.6%), H. rufipes (11.6%), and Amblyomma variegatum (11.0%). Among the screened ticks, 226 (78.9%) were positive for at least one microorganism. True pathogens of veterinary and/or zoonotic importance included Anaplasma ovis (30.8%), Coxiella spp. (23.9%), Rickettsia aeschlimannii (13.1%), Theileria spp. (11.1%), and Ehrlichia canis (4.8%), with sporadic detections of Anaplasma marginale, A. bovis, and Babesia spp. (0.3% each). In addition, non-pathogenic Francisella-like endosymbionts (FLEs) were detected at high prevalence (37.4%) across all ecological zones. The presence of TBPs and/or endosymbionts was significantly associated only with the tick's host in the multivariable logistic regression model. Ticks collected from goats (OR&#x2009;=&#x2009;7.82; p = 0.024) and sheep (OR&#x2009;=&#x2009;7.70; p = 0.015) were significantly more likely to be infected than those collected from cattle (reference group). A total of 96 cases of microorganism co-occurrence were recorded across different tick species. Co-infections were more frequent in ticks collected from the Sudano-Sahelian zone (48.2%) and in those from sheep (32.0%). None of the detected microorganism species showed a significant associated with tick sex. This study represents the first large-scale molecular survey of TBPs in ruminant-associated ticks in Senegal, revealing both a high diversity of pathogens and a widespread presence of tick endosymbionts. While endosymbionts, such as FLEs, are not known to be pathogenic, their abundance may influence tick physiology and vector competence. The detection of zoonotic pathogens, such as E. canis and R. aeschlimannii, underscores the need to strengthen tick surveillance and investigate their potential public health implications.",
+      "pmid": "41753320",
+      "title": "The Lyme Disease Vaccine Paradox.",
+      "abstract": "Lyme disease causes a significant financial and health burden. Recent advances in developing new Lyme disease vaccines have renewed optimism that vaccination may serve as an additional strategy to reduce this burden. Vaccination alone will not address the broader relevant public health challenges posed by ticks. Our experience with prior Lyme disease vaccines suggests that even an effective vaccine would not fully reduce the incidence of human disease. Importantly, vaccination against Borrelia genospecies would not affect tick abundance or exposure risk. It would also not mitigate the transmission of other tick-borne pathogens that are proliferating in human-biting ticks. Tick-borne disease risk is shaped by the biological features of ticks and tick-borne disease agents, which differ from those of mosquitoes and mosquito-borne disease agents. Unique tick characteristics create opportunities for exposure and complicate prevention and post-exposure case management. In addition to infectious diseases, ticks are associated with non-infectious conditions such as tick paralysis and alpha-gal syndrome that will not be affected by a Lyme disease vaccine. The introduction of a Lyme disease vaccine should be viewed as one part of a broader risk management strategy. Emphasis must remain on clinical awareness and education for at-risk individuals. Personal protective behaviours, surveillance, and integrated tick control will also be essential to managing tick-associated health risks in both vaccinated and unvaccinated populations.",
       "authors": [
-        "Khoule A",
-        "Galon C",
-        "Ngom D"
+        "Siegel EL",
+        "Rich SM"
       ],
-      "journal": "Transboundary and emerging diseases",
-      "publicationDate": "02 20, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41725836/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-27T06:37:17.935Z"
-    },
-    {
-      "pmid": "41714202",
-      "title": "The Use of Apitherapy in Oncological Exotic Pet Medicine.",
-      "abstract": "In recent years, the practice of apitherapy has experienced a renaissance as there has been an exponential growth in the scientific literature regarding this topic. Bee Venom Therapy (BVT) is only 1 aspect in the broad field of apitherapy and has shown to have application in oncology. One of the popular applications of BVT is as a treatment in Lyme disease in humans. The article focuses mainly on using BVT and intravenous honey infusion against a variety of cancer cells. Further clinical studies are needed to know about the efficacy of apitherapy in the fight against cancer in exotic animals.",
-      "authors": [
-        "Mayer J"
-      ],
-      "journal": "The veterinary clinics of North America. Exotic animal practice",
-      "publicationDate": "Feb 18, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41714202/",
+      "journal": "Journal of clinical medicine",
+      "publicationDate": "Feb 21, 2026",
+      "articleType": "Comment",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41753320/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
@@ -317,52 +271,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:06.607Z"
-    },
-    {
-      "pmid": "41720174",
-      "title": "Vertical transmission of tick-borne and hemotropic pathogens in pregnant dogs: first report involving Babesia vogeli and Candidatus Mycoplasma haematoparvum.",
-      "abstract": "This study aimed to investigate the vertical transmission of Babesia vogeli, Hepatozoon canis, Anaplasma platys, Anaplasma phagocytophilum, and hemotropic Mycoplasma via molecular detection in 51 blood samples from naturally infected female dogs, 51 placentas, 22 organ pools from stillborn puppies, and 44 blood samples from neonates up to five days of age. As a result, vertical transmission was confirmed for A. platys in seven (31.81%) stillborn organ pool samples, and for hemoplasmas in one (14.28%) organ pool and 12 (63.15%) neonate samples. Furthermore, this study provides the first record of this transmission route for the protozoan B. vogeli in three (13.63%) stillborns and two (25%) neonates and for the hemoplasma Candidatus Mycoplasma haematoparvum in one (14.28%) stillborn and 12 (63.15%) neonates. The data contribute to a better elucidation of the epidemiology of these agents in pregnant female dogs and emphasize the need for more in-depth investigations to clarify the detailed mechanisms surrounding the vertical transmission of hemopathogens, considering that this transmission route may play an important role in the maintenance and dissemination of these agents, especially in the absence of vectors.",
-      "authors": [
-        "Pereira MR",
-        "Silva AO",
-        "Rodrigues PHC"
-      ],
-      "journal": "Acta tropica",
-      "publicationDate": "Feb 18, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41720174/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-27T06:37:19.091Z"
-    },
-    {
-      "pmid": "41709267",
-      "title": "Interaction between tick and host microbiotas: a four-step waltz.",
-      "abstract": "Tick-borne diseases represent a growing public health concern worldwide, yet the microbial factors that govern pathogen transmission remain incompletely understood. Over the past decade, high-throughput metagenomics and functional studies have revealed that two distinct microbial communities-the vertebrate host's skin microbiota and the tick's own microbiome-act synergistically as key modulators of pathogen acquisition, persistence within the vector, and successful transmission to the vertebrate host. At the feeding site, the skin microbiota orchestrates local cutaneous immunity, influences inflammatory responses, and can either hinder or inadvertently facilitate dermal establishment of tick-borne pathogens such as Borrelia burgdorferi sensu lato (s.l.), Anaplasma phagocytophilum, Rickettsia species, Babesia spp., and tick-borne encephalitis virus. Tick feeding itself induces rapid and sometimes long-lasting dysbiosis of the skin microbial community, creating temporal windows of vulnerability for pathogen invasion. Concurrently, within the tick vector, a core set of endosymbiotic bacteria, including Rickettsia buchneri, Midichloria mitochondrii, Coxiella-like, and Francisella-like endosymbionts, engage in complex mutualistic, competitive, and facilitative interactions. These symbionts regulate vector competence through nutrient provisioning (especially B-vitamins), direct competition for niche space, and immune priming or suppression of the tick's innate immune system. Such interactions ultimately determine the maintenance, abundance, and transmissibility of tick-borne pathogens. By integrating these dual host-vector microbiome perspectives in a comprehensive review, we highlight emerging mechanistic insights into transmission ecology and biologically grounded targets for the prevention and control of tick-borne diseases, including anti-microbiota vaccines and paratransgenic and microbiome-based approaches.",
-      "authors": [
-        "Baquer F",
-        "Grillon A"
-      ],
-      "journal": "Parasites & vectors",
-      "publicationDate": "Feb 18, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41709267/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-27T06:37:19.657Z"
+      "fetchedAt": "2026-02-28T06:21:13.603Z"
     },
     {
       "pmid": "41727755",
@@ -384,30 +293,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:08.438Z"
-    },
-    {
-      "pmid": "41722296",
-      "title": "The continental distribution of Theileria&#xa0;and&#xa0;Babesia species in African wild mammals: A systematic review and meta-analysis of molecular prevalence.",
-      "abstract": "Tick-borne piroplasmids of the genera Theileria and Babesia are emerging threats at the wildlife-livestock-human interface, particularly in Africa, where ecosystems are rapidly changing due to anthropogenic pressures. This systematic review and meta-analysis synthesizes current knowledge on their occurrence and molecular prevalence of these piroplasmids in African wild mammals. A total of 56 studies met the inclusion criteria, identifying 24 recognized species of Babesia and Theileria species, along with an additional 17 species that have provisional/uncertain denomination across nine African countries. Of these, 47 studies were suitable for meta-analysis, revealing a high overall molecular prevalence of Theileria/Babesia spp. in wild mammals (62.4&#x202f;%; CI: 39.3-82.8&#x202f;%), with Babesia spp. generally more prevalent in wild carnivores, while Theileria spp. predominated in wild ruminants. In African buffalo (Syncerus caffer), pooled prevalence of T. parva, the agent of East Coast fever and Corridor disease, was estimated at 62.9&#x202f;% (CI: 37.5-85.0&#x202f;%), with significant geographic differences. Babesia bovis, the most pathogenic agent of bovine babesiosis, was rare in buffalo (0.4&#x202f;%; CI: 0-6.5&#x202f;%), whereas the less pathogenic B. occultans reached 23.3&#x202f;% (CI: 16.2-31.3&#x202f;%) in the same species and 30&#x202f;% (CI: 15.2-47.3&#x202f;%) in blue wildebeest (Connachaetes taurinus). Zoonotic B. microti was detected in non-human primates, wild felids, and rodents, and a B. odocoilei-like organism was identified in lions (Panthera leo). Our findings underline the ecological complexity and hidden burden of piroplasms in African wildlife and the potential for spillover to domestic animals and humans. This review provides the first continental-level synthesis of Theileria and Babesia distribution in African wild mammals and emphasizes the need for expanded and enhanced molecular monitoring in underrepresented countries and animal taxa, as well as extensive taxonomic clarification.",
-      "authors": [
-        "Cossu CA",
-        "Blignaut C",
-        "Bhoora RV"
-      ],
-      "journal": "Preventive veterinary medicine",
-      "publicationDate": "Feb 17, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41722296/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-27T06:37:18.515Z"
+      "fetchedAt": "2026-02-28T06:21:19.077Z"
     },
     {
       "pmid": "41711927",
@@ -430,53 +316,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:09.006Z"
-    },
-    {
-      "pmid": "41718073",
-      "title": "Post-Exposure Prophylaxis Prescribing Practices in a Lyme Disease-Endemic Area.",
-      "abstract": "The 2020 Infectious Diseases Society of America (IDSA) guidelines recommend a single 200 mg dose of doxycycline within 72 h of tick removal after a high-risk bite for Lyme disease prophylaxis. However, limited data are available on prescribing practices related to this recommendation in highly endemic Lyme disease areas. We conducted a retrospective chart review on adult patients (aged &#x2265; 18 years) who received a single dose of oral doxycycline for Lyme disease prevention for the period 2022-2024 within a rural Wisconsin health system. Patient and provider prescribing characteristics were evaluated. Manual data abstraction was performed on a random sample of 155 prescribing events to assess adherence to IDSA guidelines. A total of 2404 prophylaxis prescriptions were identified; 44% were prescribed to older adults between 65 and 79 years of age, 54% were prescribed to males, and 66% were prescribed to patients living in rural areas. Prescriptions peaked in spring and summer months, consistent with the known seasonal trends in tick activity. Prescribing was distributed relatively evenly across provider types, with the majority (77%) of cases occurring in outpatient and urgent care settings. Upon manual abstraction, doxycycline was indicated in 12% with the remainder either classified as possibly indicated or not indicated due to suboptimal documentation and nonadherence. Our study identified high rates of incomplete documentation and uncertainty in guideline concordance in a Lyme-endemic health system, highlighting the opportunities to support evidence-based prescribing and to improve documentation practices.",
-      "authors": [
-        "Lee EB",
-        "Schotthoefer A",
-        "Whitfield P"
-      ],
-      "journal": "Infectious disease reports",
-      "publicationDate": "Feb 14, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41718073/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-27T06:37:06.035Z"
-    },
-    {
-      "pmid": "41727126",
-      "title": "Untitled",
-      "abstract": "Borrelia burgdorferi , the causative agent of Lyme disease, elicits a robust type I interferon (IFN-I) response that has been strongly associated with chronic inflammatory manifestations such as Lyme arthritis. Although IFN-I is induced early after infection, its functional contribution during the initial stages of B. burgdorferi infection has remained unclear. Here, we identify a critical protective role for IFN-I signaling in the early control of B. burgdorferi . At 5 days post-infection, mice lacking the IFN-I interferon receptor (IFNAR1) exhibited markedly elevated spirochetal burdens at the site of inoculation, indicating that IFN-I is required to restrict early bacterial expansion. By 10 days post-infection, IFNAR1 deficiency resulted in significantly increased bacterial loads in skin and heart tissues, while joint burdens remained unaffected. Mechanistically, IFN-I signaling enhanced macrophage phagocytosis and intracellular killing of B. burgdorferi both in vitro and in vivo , and promoted pro-inflammatory cytokine production and recruitment of innate immune cells to the site of infection. Conversely, pharmacological activation of IFN-I signaling augmented macrophage antimicrobial function and improved bacterial clearance. Together, these findings establish IFN-I as an essential component of early host defense against B. burgdorferi and reveal a time-dependent role for IFN-I signaling in Lyme disease pathogenesis, with protective functions during early infection that contrast with its pathogenic effects at later stages. Lyme disease is caused by the spirochete Borrelia burgdorferi , which is transmitted to humans through the bite of infected ticks. Soon after infection, the spirochete must evade the host's early immune defenses in the skin to disseminate to other tissues and cause disease. Type I interferons (IFN-I) are best known for their antiviral roles, but they are also strongly induced during Lyme disease. While IFN-I responses have been linked to the development of Lyme Arthritis in later stages of infection, their role during the earliest phase of Lyme disease has remained unclear. In this study, we show that IFN-I interferon signaling plays a critical protective role early after B. burgdorferi infection. Mice lacking the IFN-I interferon receptor were unable to efficiently control bacterial growth at the site of infection and showed increased bacterial dissemination. Mechanistically, IFN-I signaling enhanced the ability of macrophages to engulf and kill B. burgdorferi , promoted inflammatory cytokine production, and supported the recruitment of immune cells to the site of infection. Importantly, short-term activation of IFN-I signaling enhanced bacterial clearance, whereas loss of this pathway impaired early immune control. Together, these findings reveal that IFN-I has time-dependent roles during Lyme disease, protecting the host during early infection while contributing to inflammation at later stages. By defining the time-dependent role of IFN-I signaling in Lyme disease, our study advances understanding of how innate immune responses shape infection outcome and highlights potential strategies for enhancing early host defense.",
-      "authors": [
-        "Priya R",
-        "Raghunandanan S",
-        "Mihaljica D"
-      ],
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationDate": "Feb 13, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41727126/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-27T06:37:05.446Z"
+      "fetchedAt": "2026-02-28T06:21:20.145Z"
     },
     {
       "pmid": "41684369",
@@ -499,7 +339,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:09.574Z"
+      "fetchedAt": "2026-02-28T06:21:20.766Z"
     },
     {
       "pmid": "41667532",
@@ -522,7 +362,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:10.148Z"
+      "fetchedAt": "2026-02-28T06:21:21.402Z"
     },
     {
       "pmid": "41745970",
@@ -545,21 +385,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:14.380Z"
+      "fetchedAt": "2026-02-28T06:21:27.535Z"
     },
     {
-      "pmid": "41727610",
-      "title": "Multiplexed single-tier immunoassay for improved Lyme disease diagnosis across all disease stages.",
-      "abstract": "Lyme disease is the most common vector-borne infection in North America and Europe, yet current two-tier serologic testing shows poor sensitivity during early infection when antibiotic treatment is most effective. We developed and validated a single-tier multiplex immunoassay that combines ten Borrelia burgdorferi antigens with machine-learning classification to detect antibody responses across all disease stages. A total of 364 cases were obtained, which included well characterized prospective blood samples obtained during early infection. In a cohort of samples from the Johns Hopkins University SLICE studies, the classifier identified all 30 early Lyme disease cases and their 1-3-month post-treatment follow-up samples. To assess generalizability, an independent EU laboratory synthesized the antigens de novo and a distinct 259-person cohort was evaluated on newly built assays. The classifier achieved an AUC of 0.98 in both cohorts. This single-test platform delivers quantitative serologic classification using standard clinical laboratory instrumentation, addressing critical gaps in Lyme disease diagnosis.",
+      "pmid": "41753693",
+      "title": "Untitled",
+      "abstract": "Lyme disease is by far the most common arthropod-borne disease in the Northern Hemisphere. It is caused by certain Borrelia species that are primarily transmitted to hosts by Ixodid ticks; however, transplacental transmission of the spirochete in both animals and humans has been reported. Here, we report imaging of intact spirochetes in an archived placental tissue sample that is immunoreactive to Borrelia antibodies and from which Borrelia DNA was isolated. Both mother and child showed evidence of seroreactivity to Borrelia spp. in the years following the child's birth, although neither individual tested positive by the conventional two-tiered serological algorithm. Cultivation of viable spirochetes from a vaginal swab of the mother and from the urine of the child some years later supports the possibility of vector-free transmission of Borrelia from mother to child. By amplifying several genomic loci from the DNA of cultured and non-cultured Borrelia from blood and body fluid samples of the mother and child, the Borrelia in both were identified as the same species, Borrelia burgdorferi sensu stricto, a strain specific to North America.",
       "authors": [
-        "Embers M",
-        "Stafford P",
-        "Ahern H"
+        "Bemis LT",
+        "Golovchenko M",
+        "Ericson ME"
       ],
-      "journal": "Research square",
+      "journal": "Microorganisms",
       "publicationDate": "Feb 09, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41727610/",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41753693/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
@@ -568,7 +408,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:04.863Z"
+      "fetchedAt": "2026-02-28T06:21:12.305Z"
+    },
+    {
+      "pmid": "41750996",
+      "title": "A Molecular Epidemiological Survey of Tick-Borne Pathogens in Dogs and Their Associated Ticks in Xinjiang, China.",
+      "abstract": "Tick-borne diseases (TBDs) pose a significant global threat to both canine and public health, largely attributable to the extensive geographic distribution of ticks and their ability to harbor diverse pathogens. To evaluate regional risk, this study examined the developmental biology of a prevalent tick species in Xinjiang, China, and performed molecular surveillance for key pathogens in both tick vectors and canine hosts. Observations of reproductive biology revealed that Riphicephalus turanicus ticks could complete their development from egg to adult in approximately 50 days on laboratory rabbits, indicating a rapid lifecycle and high reproductive potential. Polymerase chain reaction (PCR)-based screening of 379 canine blood samples detected infection rates of 14.25% for Anaplasma spp., 2.64% for Hepatozoon spp., 21.64% for Rickettsia spp., and 21.90% for Babesia spp. Concurrently, screening of 184 tick samples revealed detection rates of 15.22% for Anaplasma ovis, 8.15% for Hepatozoon spp., and 21.74% for Rickettsia spp. Statistical analysis identified significant regional variation in pathogen prevalence across the surveyed locations. The BLASTn (BLAST: Basic Local Alignment Search Tool) alignment revealed high sequence identity (99.30-100%) with known strains of Babesia, Rickettsia, and Anaplasma circulating in Asia and Europe. confirming the presence of these pathogens in the local ecosystem and evolutionary linkage to global lineages. Collectively, these findings provide valuable epidemiological insight into the endemic nature of TBDs in Xinjiang and emphasize the importance of integrated tick management and sustained disease surveillance programs.",
+      "authors": [
+        "Li Y",
+        "Li J",
+        "Li J"
+      ],
+      "journal": "Animals : an open access journal from MDPI",
+      "publicationDate": "Feb 08, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41750996/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-02-28T06:21:26.905Z"
     },
     {
       "pmid": "41652478",
@@ -591,7 +454,76 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:11.280Z"
+      "fetchedAt": "2026-02-28T06:21:22.650Z"
+    },
+    {
+      "pmid": "41754418",
+      "title": "Untitled",
+      "abstract": "This study was conducted to investigate tick species that may harbour severe fever with thrombocytopenia syndrome virus (SFTSV) and Babesia microti in the provinces of Henan, Anhui, and Zhejiang, as well as in Shanghai in the central and eastern parts of China. Between March and September 2023, 721 pools of ticks were collected belonging to three genera and five species: Haemaphysalis longicornis (n = 612; 84.9%), Haemaphysalis fusca (n = 94; 13.0%), Rhipicephalus microplus (n = 10; 1.4%), Amblyomma testudinarium (n = 3; 0.4%), and Haemaphysalis wellingtoni (n = 2; 0.3%). The SFTSV-positive pool rate was 20.0%, 13.0%, 5.8%, and 4.1% in Xinyang, Henan; Songjiang, Shanghai; Lu'an, Anhui; and Zhoushan, Zhejiang, respectively. SFTSV was detected in all five tick species collected. Among the SFTSV-positive pools, H. longicornis constituted the highest proportion (83.9%, 78/93), whereas pools containing R. microplus and H. wellingtoni each represented the lowest proportion (1.1%, 1/93). Babesia microti was assayed only in these SFTSV-positive tick pools, and co-infection was found in both H. longicornis and H. wellingtoni, though it was most frequent in H. longicornis.",
+      "authors": [
+        "Shi H",
+        "Wang Y",
+        "Cao J"
+      ],
+      "journal": "Pathogens (Basel, Switzerland)",
+      "publicationDate": "Feb 03, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41754418/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-02-28T06:21:25.598Z"
+    },
+    {
+      "pmid": "41753612",
+      "title": "Tick-Borne Co-Infection in Lyme Disease: Clinical Impact, Diagnostic Challenges, and Therapeutic Perspectives.",
+      "abstract": "Tick-borne co-infections are an increasingly recognized and clinically important aspect of Lyme borreliosis, particularly in regions where Ixodes ticks transmit a wide range of bacterial, protozoan, and viral pathogens. In addition to Borrelia burgdorferi sensu lato, these ticks frequently harbor microorganisms such as Babesia spp., Anaplasma phagocytophilum, Ehrlichia spp., Borrelia miyamotoi, Bartonella spp., and several tick-borne viruses. Co-infections may increase disease severity, prolong symptom duration, and contribute to atypical or overlapping clinical presentations, thereby complicating diagnosis and management. Growing evidence from epidemiological studies, clinical case series, and experimental in vivo and in vitro models indicates that pathogen-pathogen and pathogen-host interactions can modulate immune responses and influence disease progression. Diagnostic challenges arise from non-specific clinical features and limitations of current laboratory methods. From a therapeutic perspective, although standard antibiotic regimens for Lyme disease are effective against some bacterial co-infections, they do not provide coverage for protozoan or viral agents, necessitating pathogen-specific and, in some cases, combination treatment strategies. This review synthesizes current knowledge on the epidemiology, clinical impact, diagnostic limitations, and treatment approaches for tick-borne co-infections associated with Lyme disease, and highlights critical evidence gaps and future research directions to improve patient outcomes.",
+      "authors": [
+        "Popov G",
+        "Bashchobanov D",
+        "Andonova R"
+      ],
+      "journal": "Microorganisms",
+      "publicationDate": "Jan 30, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41753612/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-02-28T06:21:12.955Z"
+    },
+    {
+      "pmid": "41753612",
+      "title": "Tick-Borne Co-Infection in Lyme Disease: Clinical Impact, Diagnostic Challenges, and Therapeutic Perspectives.",
+      "abstract": "Tick-borne co-infections are an increasingly recognized and clinically important aspect of Lyme borreliosis, particularly in regions where Ixodes ticks transmit a wide range of bacterial, protozoan, and viral pathogens. In addition to Borrelia burgdorferi sensu lato, these ticks frequently harbor microorganisms such as Babesia spp., Anaplasma phagocytophilum, Ehrlichia spp., Borrelia miyamotoi, Bartonella spp., and several tick-borne viruses. Co-infections may increase disease severity, prolong symptom duration, and contribute to atypical or overlapping clinical presentations, thereby complicating diagnosis and management. Growing evidence from epidemiological studies, clinical case series, and experimental in vivo and in vitro models indicates that pathogen-pathogen and pathogen-host interactions can modulate immune responses and influence disease progression. Diagnostic challenges arise from non-specific clinical features and limitations of current laboratory methods. From a therapeutic perspective, although standard antibiotic regimens for Lyme disease are effective against some bacterial co-infections, they do not provide coverage for protozoan or viral agents, necessitating pathogen-specific and, in some cases, combination treatment strategies. This review synthesizes current knowledge on the epidemiology, clinical impact, diagnostic limitations, and treatment approaches for tick-borne co-infections associated with Lyme disease, and highlights critical evidence gaps and future research directions to improve patient outcomes.",
+      "authors": [
+        "Popov G",
+        "Bashchobanov D",
+        "Andonova R"
+      ],
+      "journal": "Microorganisms",
+      "publicationDate": "Jan 30, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41753612/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-02-28T06:21:17.936Z"
     },
     {
       "pmid": "41651617",
@@ -614,7 +546,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:11.883Z"
+      "fetchedAt": "2026-02-28T06:21:23.278Z"
+    },
+    {
+      "pmid": "41753612",
+      "title": "Tick-Borne Co-Infection in Lyme Disease: Clinical Impact, Diagnostic Challenges, and Therapeutic Perspectives.",
+      "abstract": "Tick-borne co-infections are an increasingly recognized and clinically important aspect of Lyme borreliosis, particularly in regions where Ixodes ticks transmit a wide range of bacterial, protozoan, and viral pathogens. In addition to Borrelia burgdorferi sensu lato, these ticks frequently harbor microorganisms such as Babesia spp., Anaplasma phagocytophilum, Ehrlichia spp., Borrelia miyamotoi, Bartonella spp., and several tick-borne viruses. Co-infections may increase disease severity, prolong symptom duration, and contribute to atypical or overlapping clinical presentations, thereby complicating diagnosis and management. Growing evidence from epidemiological studies, clinical case series, and experimental in vivo and in vitro models indicates that pathogen-pathogen and pathogen-host interactions can modulate immune responses and influence disease progression. Diagnostic challenges arise from non-specific clinical features and limitations of current laboratory methods. From a therapeutic perspective, although standard antibiotic regimens for Lyme disease are effective against some bacterial co-infections, they do not provide coverage for protozoan or viral agents, necessitating pathogen-specific and, in some cases, combination treatment strategies. This review synthesizes current knowledge on the epidemiology, clinical impact, diagnostic limitations, and treatment approaches for tick-borne co-infections associated with Lyme disease, and highlights critical evidence gaps and future research directions to improve patient outcomes.",
+      "authors": [
+        "Popov G",
+        "Bashchobanov D",
+        "Andonova R"
+      ],
+      "journal": "Microorganisms",
+      "publicationDate": "Jan 30, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41753612/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-02-28T06:21:26.219Z"
     },
     {
       "pmid": "41745927",
@@ -637,7 +592,76 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:14.962Z"
+      "fetchedAt": "2026-02-28T06:21:28.159Z"
+    },
+    {
+      "pmid": "41754519",
+      "title": "Bilateral Facial Palsy and Epstein-Barr Infection in Children: A Case Report and Literature Review.",
+      "abstract": "Bilateral facial nerve palsy (BFNP) is a rare clinical entity in children and is more often associated with systemic or infectious diseases than unilateral facial palsy. Epstein-Barr virus (EBV) infection is an uncommon but recognized cause of facial nerve palsy and may present with bilateral involvement. We report the case of a 3-year-old boy who presented with progressive bilateral facial weakness following a febrile illness with pharyngitis and cervical lymphadenopathy. Neurological examination revealed complete bilateral facial paralysis (House-Brackmann grade VI). Laboratory investigations showed lymphocytosis and confirmed acute EBV infection through positive viral capsid antigen IgM and detectable EBV DNA in peripheral blood. Cerebrospinal fluid analysis demonstrated mild pleocytosis with negative EBV DNA. Brain magnetic resonance imaging revealed unilateral enhancement of the left facial nerve. Audiologic evaluation supported peripheral facial nerve dysfunction. The patient was treated with systemic corticosteroids, vitamin B complex supplementation, artificial tears, and speech therapy, resulting in gradual and substantial clinical improvement over five months. A review of the pediatric literature identified only six previously reported cases of EBV-associated BFNP. The pathogenesis may involve either direct viral neurotropism or a post-infectious immune-mediated mechanism. Diagnostic evaluation is essential to exclude other serious causes of BFNP, particularly Lyme disease and Guillain-Barr&#xe9; syndrome. EBV infection should be considered in the differential diagnosis of BFNP in children. Prognosis is generally favorable, although recovery may be prolonged. Further studies are needed to clarify optimal diagnostic and therapeutic approaches.",
+      "authors": [
+        "Pilloni S",
+        "Pisa CM",
+        "Zambonini G"
+      ],
+      "journal": "Viruses",
+      "publicationDate": "Jan 28, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41754519/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-02-28T06:21:11.039Z"
+    },
+    {
+      "pmid": "41754384",
+      "title": "Untitled",
+      "abstract": "Bartonella henselae is a flea-borne zoonotic bacterium for which domestic cats constitute the principal reservoir. However, contemporary molecular epidemiological data from Portugal remain scarce. This retrospective laboratory study analysed EDTA-stabilised blood samples from apparently healthy cats submitted for routine screening by 74 veterinary centres across mainland Portugal and autonomous regions over an 11-year period (2015-2025). DNA extracts were tested using a species-specific TaqMan qPCR assay for B. henselae with an internal extraction control, and a subset of samples was subsequently confirmed by nested PCR followed by Sanger sequencing (ribC). Among 270 cats, 47 tested positive, yielding a qPCR prevalence of 17.4% (95% confidence interval [CI] 13.1-22.5). Submissions were predominantly from Northern Portugal, and infection status was not statistically associated with the Nomenclature of Territorial Units for Statistics (NUTS) level 2 region (p = 0.478). Infection was more frequent in younger cats (median age 2 years, interquartile range [IQR] 1-5; p = 0.037), while sex (p = 0.103) and breed (p = 0.730) were not significantly associated with infection status. These findings support endemic circulation of B. henselae in Portuguese cats at levels comparable to other temperate European regions. The detection of subclinical infection in apparently healthy cats is relevant to transfusion medicine and supports the inclusion of B. henselae qPCR screening in donor selection protocols.",
+      "authors": [
+        "Lopes R",
+        "Carvalho HL",
+        "Sampaio F"
+      ],
+      "journal": "Pathogens (Basel, Switzerland)",
+      "publicationDate": "Jan 26, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41754384/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-02-28T06:21:17.288Z"
+    },
+    {
+      "pmid": "41754378",
+      "title": "Untitled",
+      "abstract": "Borrelia burgdorferi sensu lato is a complex of spirochetes that includes the main pathogenic species B. burgdorferi sensu stricto, B. afzelii, and B. garinii, the causative agents of Lyme disease. Our aim was to determine the seroprevalence of anti-Borrelia IgG antibodies and assess associated risk factors among blood donors from Western Romania. We conducted a cross-sectional study of 1347 consecutive donors at the Regional Blood Transfusion Center in Timisoara, Western Romania, between November and December 2018. Participants completed an epidemiological questionnaire and serum samples were tested for IgG antibodies against B. burgdorferi sensu lato using the VIDAS&#xae; Lyme IgG assay. The overall seroprevalence was 2.08% (28/1347). Individuals aged 46-55 years had the highest prevalence (3.79%) and a more than fivefold increased risk compared to those aged 18-25 years (aOR = 4.77; 95% CI: 1.24-18.27; p = 0.023). Soil exposure was also independently associated with higher seropositivity (aOR = 2.37; 95% CI: 1.10-5.09; p = 0.027). Other factors, including residence, gender, and pet ownership, showed no significant associations. Our findings provide new epidemiological data for Romania and emphasize the importance of environmental exposures in shaping Borrelia seroprevalence.",
+      "authors": [
+        "Mihu AG",
+        "Mot MD",
+        "Oatis DA"
+      ],
+      "journal": "Pathogens (Basel, Switzerland)",
+      "publicationDate": "Jan 23, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41754378/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-02-28T06:21:11.673Z"
     },
     {
       "pmid": "41736573",
@@ -660,30 +684,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-02-27T06:37:16.870Z"
-    },
-    {
-      "pmid": "41641055",
-      "title": "Clinical and epidemiological characteristics of cat scratch disease in children from southwestern China: a retrospective analysis of mNGS-confirmed cases.",
-      "abstract": "Cat scratch disease (CSD) is a zoonotic infection predominantly caused by Bartonella henselae, typically featured by regional lymphadenopathy and febrile illness. Although these classic features characterize most cases, the clinical spectrum extends to severe systemic manifestations including meningitis and neuroretinitis, leading to poor prognosis. Given this potential for diverse clinical presentations, prompt microbiological confirmation becomes essential for accurate diagnosis and appropriate management of CSD. The present study aimed to provide a comprehensive analysis of epidemiological patterns, clinical characteristics, diagnostic findings, and therapeutic outcomes in pediatric CSD cases, with the ultimate goal of optimizing early detection and enhancing the clinical understanding of this disease. This single-center retrospective study analyzed 20 pediatric cases diagnosed with CSD at West China Second University Hospital in southwestern China between September 2021 and July 2025. All diagnoses were established based on comprehensive clinical evaluation including medical history, characteristic symptoms, and imaging findings. Definitive B. henselae identification was achieved through metagenomic next-generation sequencing (mNGS). These diagnostic characteristics were systematically evaluated and discussed in detail. Among the 20 patients with CSD included in the study, 18 (90.00%) reported a history of cat contact. Ten patients were male (50.00%). School-aged children (6-14&#x202f;years) accounted for the majority of patients. Eleven cases (55.00%) occurred in autumn. Fever and lymphadenopathy were the primary reasons for hospitalization. B. henselae was detected in all cases using mNGS. Nine patients were diagnosed with atypical CSD, seven of whom were female. Atypical CSD was associated with higher body temperature and longer hospitalization stay. Antimicrobial agents, including azithromycin, doxycycline, and rifampin, achieved satisfactory therapeutic outcomes. This study elucidates the epidemiological, clinical, and laboratory characteristics of CSD in children. mNGS may serve as a powerful tool to facilitate the diagnosis of CSD, including its atypical manifestations.",
-      "authors": [
-        "Lai SY",
-        "Chang L",
-        "Duan JX"
-      ],
-      "journal": "Frontiers in public health",
-      "publicationDate": "01 20, 2025",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41641055/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-02-27T06:37:13.084Z"
+      "fetchedAt": "2026-02-28T06:21:30.156Z"
     }
   ]
 }
