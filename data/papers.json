@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-01T06:31:45.614Z",
+  "generatedAt": "2026-03-02T06:40:51.901Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:43.488Z"
+      "fetchedAt": "2026-03-02T06:40:49.815Z"
     },
     {
       "pmid": "41741034",
@@ -46,7 +46,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:42.928Z"
+      "fetchedAt": "2026-03-02T06:40:49.184Z"
+    },
+    {
+      "pmid": "41764219",
+      "title": "Assessment of lipid mediators in the urine of patients with Lyme disease, tick-borne encephalitis and human granulocytic anaplasmosis.",
+      "abstract": "To assess the host response to mono- and co-infection of tick-borne encephalitis (TBE) virus with Borrelia burgdorferi sensu lato and Anaplasma phagocytophilum bacteria, as well as the possibility of using the analysis of the level of endocannabinoids and eicosanoids in urine for effective diagnostics. Urine of patients with Lyme disease (LD) (in the form of erythema migrans (EM) or neuroborreliosis (NB)), TBE, diagnosed by ELISA-based detection of serum and CSF anti-TBEV IgM and IgG antibodies in all cases, human granulocytic anaplasmosis (HGA), co-infection of TBEV, LD, and healthy individuals (Control Group, CG) was analyzed. A GC/LC-MS/MS platform was used to identify changes in the phospholipid metabolite profile in urine. Lipid peroxidation product levels were estimated by measuring 4-hydroxy-2-nonenal (4-HNE by GC-MS/MS and F2-isoprostanes 8-isoPGF2&#x3b1; by LC-MS/MS). Endocannabinoids and eicosanoids levels were assessed using LC-MS/MS. Statistically significant differences in the concentration of 8-isoP (EM, NB, TBE vs. CG) were observed in patients' urine before treatment. However, the analysis of endocannabinoids showed significant differences in oleylethanolamide (OEA) concentration (TBE vs CG). The study of pro-inflammatory eicosanoid levels showed a difference for: prostaglandin E2 (PGE2) (TBE vs CG), leukotriene D4 LTD4 (EM vs HGA), and 5-hydroxyeicosatetraenoic acid (5-HETE) (EM vs NB), assessed before treatment. The levels of anti-inflammatory eicosanoids showed a difference for prostaglandin D2 (PGD2) (EM vs CG) and 15-hydroxyeicosatetraenoic acid (15-HETE) (TBE vs CG). However, the results in the level of phospholipid metabolites from patients after therapy did not show statistically significant differences compared to the value before treatment and between groups. Tick-borne diseases are accompanied by changes in lipid metabolism, both ROS- and enzyme-dependent, which can be identified even in urine. Urinary lipid mediators show potential as supportive markers but require validation in larger patient cohorts.",
+      "authors": [
+        "Biernacki M",
+        "Skrzydlewska E",
+        "Dobrzy&#x144;ska M"
+      ],
+      "journal": "Scientific reports",
+      "publicationDate": "Feb 28, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41764219/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-02T06:40:31.588Z"
     },
     {
       "pmid": "41758291",
@@ -68,7 +91,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:39.477Z"
+      "fetchedAt": "2026-03-02T06:40:45.685Z"
     },
     {
       "pmid": "41759876",
@@ -91,7 +114,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:25.969Z"
+      "fetchedAt": "2026-03-02T06:40:32.209Z"
     },
     {
       "pmid": "41741501",
@@ -114,7 +137,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:30.735Z"
+      "fetchedAt": "2026-03-02T06:40:36.927Z"
     },
     {
       "pmid": "41742048",
@@ -137,7 +160,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:34.072Z"
+      "fetchedAt": "2026-03-02T06:40:39.961Z"
     },
     {
       "pmid": "41666881",
@@ -159,7 +182,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:37.029Z"
+      "fetchedAt": "2026-03-02T06:40:42.940Z"
     },
     {
       "pmid": "41743628",
@@ -182,30 +205,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:30.162Z"
-    },
-    {
-      "pmid": "41741249",
-      "title": "Immune interactions of entomopathogens with mosquito and tick vectors.",
-      "abstract": "Entomopathogenic fungi and bacteria offer promising alternatives to chemical insecticides for controlling mosquitoes and ticks-key vectors of malaria and Lyme disease. However, their efficacy largely depends on immune interactions between pathogens and hosts. Here, we focus on mosquitoes and ticks as representative disease vectors and dissect conserved and divergent immune responses, from physical barriers to cellular defenses and key humoral pathways, with mechanistic insights informed by insect model systems. Furthermore, we elucidate diverse virulence and immune evasion strategies that enable pathogen infection. By synthesizing foundational and contemporary research, we examine the coevolutionary arms race between entomopathogens and mosquito and tick hosts, with the goal of translating these insights into next-generation strategies for vector control and public health protection.",
-      "authors": [
-        "Wang Y",
-        "Fu H",
-        "Zou Z"
-      ],
-      "journal": "Trends in parasitology",
-      "publicationDate": "Feb 24, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41741249/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-01T06:31:31.343Z"
+      "fetchedAt": "2026-03-02T06:40:36.339Z"
     },
     {
       "pmid": "41735627",
@@ -226,7 +226,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:44.614Z"
+      "fetchedAt": "2026-03-02T06:40:50.901Z"
     },
     {
       "pmid": "41756944",
@@ -249,7 +249,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:26.632Z"
+      "fetchedAt": "2026-03-02T06:40:32.794Z"
     },
     {
       "pmid": "41753320",
@@ -271,7 +271,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:29.577Z"
+      "fetchedAt": "2026-03-02T06:40:35.762Z"
     },
     {
       "pmid": "41727755",
@@ -293,7 +293,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:34.653Z"
+      "fetchedAt": "2026-03-02T06:40:40.548Z"
     },
     {
       "pmid": "41711927",
@@ -316,7 +316,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:35.220Z"
+      "fetchedAt": "2026-03-02T06:40:41.188Z"
     },
     {
       "pmid": "41684369",
@@ -339,7 +339,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:35.824Z"
+      "fetchedAt": "2026-03-02T06:40:41.766Z"
     },
     {
       "pmid": "41667532",
@@ -362,7 +362,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:36.466Z"
+      "fetchedAt": "2026-03-02T06:40:42.347Z"
     },
     {
       "pmid": "41745970",
@@ -385,7 +385,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:41.770Z"
+      "fetchedAt": "2026-03-02T06:40:48.012Z"
     },
     {
       "pmid": "41753693",
@@ -408,7 +408,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:28.417Z"
+      "fetchedAt": "2026-03-02T06:40:34.596Z"
     },
     {
       "pmid": "41750996",
@@ -431,7 +431,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:41.198Z"
+      "fetchedAt": "2026-03-02T06:40:47.427Z"
     },
     {
       "pmid": "41652478",
@@ -454,7 +454,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:37.600Z"
+      "fetchedAt": "2026-03-02T06:40:43.527Z"
     },
     {
       "pmid": "41754418",
@@ -477,7 +477,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:40.047Z"
+      "fetchedAt": "2026-03-02T06:40:46.275Z"
     },
     {
       "pmid": "41753612",
@@ -500,7 +500,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:29.013Z"
+      "fetchedAt": "2026-03-02T06:40:35.177Z"
     },
     {
       "pmid": "41753612",
@@ -523,7 +523,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:33.572Z"
+      "fetchedAt": "2026-03-02T06:40:39.462Z"
     },
     {
       "pmid": "41651617",
@@ -546,7 +546,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:38.159Z"
+      "fetchedAt": "2026-03-02T06:40:44.116Z"
     },
     {
       "pmid": "41753612",
@@ -569,7 +569,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:40.639Z"
+      "fetchedAt": "2026-03-02T06:40:46.856Z"
     },
     {
       "pmid": "41745927",
@@ -592,7 +592,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:42.338Z"
+      "fetchedAt": "2026-03-02T06:40:48.595Z"
     },
     {
       "pmid": "41754519",
@@ -615,7 +615,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:27.220Z"
+      "fetchedAt": "2026-03-02T06:40:33.383Z"
     },
     {
       "pmid": "41754384",
@@ -638,7 +638,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:33.013Z"
+      "fetchedAt": "2026-03-02T06:40:38.562Z"
     },
     {
       "pmid": "41754378",
@@ -661,7 +661,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:27.825Z"
+      "fetchedAt": "2026-03-02T06:40:33.979Z"
     },
     {
       "pmid": "41736573",
@@ -684,7 +684,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-01T06:31:44.114Z"
+      "fetchedAt": "2026-03-02T06:40:50.401Z"
     }
   ]
 }
