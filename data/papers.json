@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T06:40:51.901Z",
+  "generatedAt": "2026-03-03T06:35:06.010Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,51 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:49.815Z"
+      "fetchedAt": "2026-03-03T06:35:03.957Z"
+    },
+    {
+      "pmid": "41770189",
+      "title": "Risks Associated With Undisclosed Complementary and Alternative Medicine in Clinical Practice.",
+      "abstract": "Complementary and alternative medicine (CAM) use is widespread among American adults, with the National Health Interview Survey reporting use in 36.7% of patients in 2022. Most patients using CAM do not disclose this to their physicians. Physicians often have limited familiarity and may therefore underestimate the biologic potency and potential toxicity of many CAM treatments. They might miss that such therapies can exert real clinical effects. Although herbs and supplements are often regarded as harmless because they are \"natural,\" evidence finds they can cause adverse effects, contamination-related harms, and drug interactions. Some CAM practitioners administer chelation therapy for nonconventional indications, such as Lyme disease, which can cause significant adverse effects. Physicians may misdiagnose the cause of these adverse effects. There is a great need for physician education about the different CAM treatments, the indications or rationale for which CAM providers may recommend these treatments, and the effects and interactions of each intervention.",
+      "authors": [
+        "Kessel RM"
+      ],
+      "journal": "Mayo Clinic proceedings",
+      "publicationDate": "Mar 02, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41770189/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-03T06:34:47.775Z"
+    },
+    {
+      "pmid": "41770041",
+      "title": "Untitled",
+      "abstract": "The segmented genome of Borrelia burgdorferi, the tick-borne agent of Lyme disease, encodes numerous chromosomal and plasmid-borne proteins and small RNAs (sRNAs) of unknown function that are critical for infectivity. Two recent examples are the linear plasmid (lp)17-encoded protein BBD18 and sRNA SR0736 (also termed as ittA), which promote spirochete survival in ticks and mammals, respectively. Using targeted mutagenesis of the bbd18 locus, complementation, and phenotypic analysis of isogenic mutants, we herein confirm and extend the regulatory roles of BBD18 and SR0736 (ittA). A mutant lacking BBD18 and SR0736 (ittA) persisted in ticks, yet failed to infect immunocompetent or immunodeficient mice. Although bbd18 complementation selectively restored bbd18 expression, it did not rescue murine infectivity, supporting an essential role for SR0736 (ittA) during mammalian infection. Transcriptomic and proteomic analyses revealed widespread alterations in expression profiles that were only partially rescued by bbd18 complementation, suggesting distinct regulatory functions for BBD18 and SR0736 (ittA). Because an additional sRNA (SR0735) lies immediately downstream relative to bbd18, we generated an isogenic SR0735 inactivation mutant, which was likewise largely noninfectious in mice and exhibited dysregulation of multiple gene products, including the induction of several lp17 genes, such as bbd18, and the downregulation of multiple proteins, such as OspC, BamA, and DbpA. Together, these data indicate that the bbd18 locus is surrounded by two essential sRNA elements, SR0735 and SR0736 (ittA), all three of which independently regulate genes, including ones impacting mammalian infectivity. Further characterization of such atypical regulatory elements in B. burgdorferi may inform new control strategies. Borrelia burgdorferi, the tick-borne agent of Lyme disease, is the causative agent of one of the most prevalent vector-borne infections in many regions worldwide. Despite extensive study, the biological functions of many of its protein and small RNA (sRNA) products remain poorly defined. Here, we confirm and extend the regulatory roles of the linear plasmid (lp)17-encoded protein BBD18 and the sRNA SR0736 (ittA) in spirochete infectivity. Importantly, we identify a previously unrecognized regulatory function for an adjacent sRNA, SR0735, underscoring lp17 as a key regulatory region in B. burgdorferi. Together, our findings highlight the bbd18 locus and its surrounding sRNA elements as an independent, multilayered regulatory module that controls gene products, including those required for mammalian infection. Defining how these three regulators shape gene expression and virulence will reveal new mechanisms underlying Lyme disease pathogenesis and may inform the development of new strategies to prevent this widespread illness.",
+      "authors": [
+        "Kitsou C",
+        "Kung F",
+        "Promnares K"
+      ],
+      "journal": "mBio",
+      "publicationDate": "Mar 02, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41770041/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-03T06:34:48.341Z"
     },
     {
       "pmid": "41741034",
@@ -46,7 +90,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:49.184Z"
+      "fetchedAt": "2026-03-03T06:35:03.427Z"
     },
     {
       "pmid": "41764219",
@@ -69,7 +113,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:31.588Z"
+      "fetchedAt": "2026-03-03T06:34:49.403Z"
     },
     {
       "pmid": "41758291",
@@ -91,7 +135,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:45.685Z"
+      "fetchedAt": "2026-03-03T06:35:00.204Z"
+    },
+    {
+      "pmid": "41768217",
+      "title": "Enterococcal Endocarditis in a Bicuspid Aortic Valve Associated With a Sinus of Valsalva Aneurysm.",
+      "abstract": "This report describes a complex case of Enterococcus faecalis infective endocarditis (IE) in a 68-year-old man with an undiagnosed bicuspid aortic valve (BAV) and a concomitant sinus of Valsalva aneurysm (SoVA). A significant diagnostic challenge occurred as the patient's initial febrile illness was misattributed to Lyme disease; two subsequent 30-day courses of doxycycline partially treated the infection, masking the clinical severity and delaying diagnosis. The patient eventually presented with new-onset atrial fibrillation, heart failure, and a new bifascicular block. Transesophageal echocardiogram (TEE) revealed a bulky vegetation on the BAV, leaflet perforation, and severe aortic regurgitation, alongside a perivalvular aortic root abscess. Despite the diagnostic delay and anatomical complexity, the patient was successfully managed with urgent aortic valve and root replacement (Bentall procedure) and the placement of a leadless pacemaker for postoperative complete heart block. This case illustrates the \"perfect storm\" of high-risk anatomy (BAV and SoVA) and antibiotic-induced diagnostic masking, emphasizing that new conduction abnormalities or heart failure in febrile patients must trigger immediate TEE to identify perivalvular extension.",
+      "authors": [
+        "Khanna NR",
+        "DenDulk A",
+        "Pervaiz A"
+      ],
+      "journal": "Cureus",
+      "publicationDate": "Feb 25, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41768217/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-03T06:34:48.872Z"
     },
     {
       "pmid": "41759876",
@@ -114,30 +181,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:32.209Z"
-    },
-    {
-      "pmid": "41741501",
-      "title": "Pilot study of psilocybin in patients with post-treatment lyme disease.",
-      "abstract": "Lyme disease, caused by the bacterium Borrelia burgdorferi, is the most common vector-borne disease in the United States and Europe. Although antibiotics effectively treat most cases, an estimated 10-20% of patients develop post-treatment Lyme disease (PTLD), a chronic syndrome marked by fatigue, pain, cognitive difficulties, mood disturbance, and reduced quality of life. There are no established treatments for PTLD. The serotonin 2A receptor agonist psychedelic psilocybin has recently shown potential antidepressant and anxiolytic effects in clinical trials as well as preliminary evidence for anti-inflammatory effects in animals. This open-label, single-arm pilot study evaluated the effects of psilocybin in 20 participants with well-characterized PTLD. The 8-week intervention included two psilocybin sessions (15&#xa0;mg in week 4; 15 or 25&#xa0;mg in week 6) with psychological support. Participants (11 women, 9 men, mean age 44, median illness duration 5.7 years) showed significant improvements in PTLD symptom burden and quality of life from study enrollment through 1-month following the second dose of psilocybin (primary endpoint), with significant benefits sustained through 6 months. At the 6-month follow-up, general PTLD symptom burden (GSQ-30) was decreased 40% from baseline (p < .001; Cohen's dz = - 1.22, 95% CI [- 2.12, - 0.78]), and health-related quality of life improved across both SF-36 domains, with Mental (MCS) and Physical (PCS) component scores increasing 13% (p &#x2264; .013; Cohen's dz = 0.46-0.59). Secondary outcomes assessing mood, fatigue, sleep quality, and pain also showed significant and sustained improvement through 6 months (all p &#x2264; .003; Cohen's dz = 0.56-1.25). No serious adverse events (AEs) related to the study intervention occurred. The most common AEs attributed to psilocybin were transient hypertension (90%), headache (65%), tachycardia (35%), pain (20%), and fatigue (15%). Preliminary findings support that psilocybin-assisted treatment was feasible and well-tolerated among the sample. Clinical outcomes indicated potentially long-lasting benefits of psilocybin-assisted treatment, warranting further investigation for PTLD. Trial registration: ClinicalTrials.gov Identifier NCT05305105, registered 22/03/2022.",
-      "authors": [
-        "Garcia-Romeu A",
-        "Naud&#xe9; GP",
-        "Rebman AW"
-      ],
-      "journal": "Scientific reports",
-      "publicationDate": "Feb 25, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41741501/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-02T06:40:36.927Z"
+      "fetchedAt": "2026-03-03T06:34:49.937Z"
     },
     {
       "pmid": "41742048",
@@ -160,7 +204,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:39.961Z"
+      "fetchedAt": "2026-03-03T06:34:55.570Z"
     },
     {
       "pmid": "41666881",
@@ -182,30 +226,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:42.940Z"
-    },
-    {
-      "pmid": "41743628",
-      "title": "A Case of Jarisch-Herxheimer Reaction After Ceftriaxone Initiation for Lyme Carditis in Postpartum Female.",
-      "abstract": "Lyme carditis is a complication occurring in 1%-5% of Lyme disease infections. It can lead to life-threatening cardiac conduction abnormalities. Treatment with antibiotics may trigger the Jarisch-Herxheimer reaction (JHR), an acute inflammatory response to spirochetal lysis. Here, we present a 32-year-old postpartum female with complete heart block and disseminated erythema migrans who developed JHR within hours of ceftriaxone initiation, requiring vasopressor support. Hemodynamic instability resolved within 24&#x2009;h, with subsequent normalization of cardiac conduction within 72&#x2009;h. This case highlights the importance of recognizing JHR, distinguishing it from allergic reactions and septic shock, and avoiding unnecessary antibiotic discontinuation.",
-      "authors": [
-        "Taylor E",
-        "Sujanani S",
-        "Khan A"
-      ],
-      "journal": "Case reports in infectious diseases",
-      "publicationDate": "02 24, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41743628/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-02T06:40:36.339Z"
+      "fetchedAt": "2026-03-03T06:34:58.265Z"
     },
     {
       "pmid": "41735627",
@@ -226,7 +247,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:50.901Z"
+      "fetchedAt": "2026-03-03T06:35:05.008Z"
     },
     {
       "pmid": "41756944",
@@ -249,29 +270,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:32.794Z"
-    },
-    {
-      "pmid": "41753320",
-      "title": "The Lyme Disease Vaccine Paradox.",
-      "abstract": "Lyme disease causes a significant financial and health burden. Recent advances in developing new Lyme disease vaccines have renewed optimism that vaccination may serve as an additional strategy to reduce this burden. Vaccination alone will not address the broader relevant public health challenges posed by ticks. Our experience with prior Lyme disease vaccines suggests that even an effective vaccine would not fully reduce the incidence of human disease. Importantly, vaccination against Borrelia genospecies would not affect tick abundance or exposure risk. It would also not mitigate the transmission of other tick-borne pathogens that are proliferating in human-biting ticks. Tick-borne disease risk is shaped by the biological features of ticks and tick-borne disease agents, which differ from those of mosquitoes and mosquito-borne disease agents. Unique tick characteristics create opportunities for exposure and complicate prevention and post-exposure case management. In addition to infectious diseases, ticks are associated with non-infectious conditions such as tick paralysis and alpha-gal syndrome that will not be affected by a Lyme disease vaccine. The introduction of a Lyme disease vaccine should be viewed as one part of a broader risk management strategy. Emphasis must remain on clinical awareness and education for at-risk individuals. Personal protective behaviours, surveillance, and integrated tick control will also be essential to managing tick-associated health risks in both vaccinated and unvaccinated populations.",
-      "authors": [
-        "Siegel EL",
-        "Rich SM"
-      ],
-      "journal": "Journal of clinical medicine",
-      "publicationDate": "Feb 21, 2026",
-      "articleType": "Comment",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41753320/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-02T06:40:35.762Z"
+      "fetchedAt": "2026-03-03T06:34:50.491Z"
     },
     {
       "pmid": "41727755",
@@ -293,7 +292,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:40.548Z"
+      "fetchedAt": "2026-03-03T06:34:56.114Z"
     },
     {
       "pmid": "41711927",
@@ -316,7 +315,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:41.188Z"
+      "fetchedAt": "2026-03-03T06:34:56.643Z"
     },
     {
       "pmid": "41684369",
@@ -339,7 +338,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:41.766Z"
+      "fetchedAt": "2026-03-03T06:34:57.181Z"
     },
     {
       "pmid": "41667532",
@@ -362,7 +361,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:42.347Z"
+      "fetchedAt": "2026-03-03T06:34:57.718Z"
     },
     {
       "pmid": "41745970",
@@ -385,7 +384,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:48.012Z"
+      "fetchedAt": "2026-03-03T06:35:02.349Z"
     },
     {
       "pmid": "41753693",
@@ -408,7 +407,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:34.596Z"
+      "fetchedAt": "2026-03-03T06:34:52.149Z"
     },
     {
       "pmid": "41750996",
@@ -431,7 +430,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:47.427Z"
+      "fetchedAt": "2026-03-03T06:35:01.813Z"
     },
     {
       "pmid": "41652478",
@@ -454,7 +453,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:43.527Z"
+      "fetchedAt": "2026-03-03T06:34:58.801Z"
     },
     {
       "pmid": "41754418",
@@ -477,7 +476,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:46.275Z"
+      "fetchedAt": "2026-03-03T06:35:00.750Z"
     },
     {
       "pmid": "41753612",
@@ -500,7 +499,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:35.177Z"
+      "fetchedAt": "2026-03-03T06:34:52.682Z"
     },
     {
       "pmid": "41753612",
@@ -523,30 +522,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:39.462Z"
-    },
-    {
-      "pmid": "41651617",
-      "title": "Molecular detection and genetic analysis of Rickettsia, Ehrlichia, and Bartonella in ectoparasites from domestic dogs in Sinaloa, Mexico.",
-      "abstract": "Tick- and flea-borne diseases, including rickettsiosis, bartonellosis, and ehrlichiosis, have increased in incidence globally in recent years, affecting both humans and animals. Although the circulation of these pathogens has been documented in Mexico, information from the state of Sinaloa remains limited. Despite environmental conditions that favor zoonotic transmission, the diversity of dog ectoparasites and the pathogens they harbor remains poorly studied. This study aimed to determine the frequency of the main ectoparasites infesting domestic dogs in Sinaloa, Mexico, and to molecularly and genetically identify Rickettsia, Ehrlichia, and Bartonella species harbored by these ectoparasites. Ectoparasites were collected from dogs in rural, urban, and suburban communities. A total of 2060 specimens were obtained from 306 dogs, with Rhipicephalus linnaei (86.74&#xa0;%) and Ctenocephalides felis felis (10.45&#xa0;%) being the most prevalent species. Other ticks, including Rhipicephalus microplus, Amblyomma inornatum, and Dermacentor variabilis; fleas (Ctenocephalides canis, Pulex irritans); and lice (Heterodoxus spiniger) were also identified. The molecular prevalence of Rickettsia spp. was 8.57&#xa0;% in ticks and 13.63&#xa0;% in fleas. Ehrlichia spp. was detected in 1.90&#xa0;% of ticks, while Bartonella spp. was found in 9.09&#xa0;% of fleas. Sequencing confirmed Rickettsia felis and Bartonella clarridgeiae in C. felis, and Rickettsia rhipicephali and Ehrlichia canis in R. linnaei. Factors associated with infestation included the dogs' living environment and frequency of outdoor activities. These results confirm the presence of Rickettsia, Ehrlichia, and Bartonella in ticks and fleas parasitizing domestic dogs in Sinaloa. The detection of these pathogens highlights a potential public health risk and underscores the need to enhance epidemiological surveillance in areas where ecological conditions favor the transmission of these understudied zoonoses.",
-      "authors": [
-        "Gurrola Ram&#xed;rez A",
-        "Dzul Rosado KR",
-        "Castro Del Campo N"
-      ],
-      "journal": "Veterinary parasitology, regional studies and reports",
-      "publicationDate": "Jan 30, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41651617/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-02T06:40:44.116Z"
+      "fetchedAt": "2026-03-03T06:34:55.069Z"
     },
     {
       "pmid": "41753612",
@@ -569,7 +545,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:46.856Z"
+      "fetchedAt": "2026-03-03T06:35:01.283Z"
     },
     {
       "pmid": "41745927",
@@ -592,7 +568,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:48.595Z"
+      "fetchedAt": "2026-03-03T06:35:02.878Z"
     },
     {
       "pmid": "41754519",
@@ -615,7 +591,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:33.383Z"
+      "fetchedAt": "2026-03-03T06:34:51.087Z"
     },
     {
       "pmid": "41754384",
@@ -638,7 +614,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:38.562Z"
+      "fetchedAt": "2026-03-03T06:34:54.524Z"
     },
     {
       "pmid": "41754378",
@@ -661,7 +637,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:33.979Z"
+      "fetchedAt": "2026-03-03T06:34:51.617Z"
     },
     {
       "pmid": "41736573",
@@ -684,7 +660,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-02T06:40:50.401Z"
+      "fetchedAt": "2026-03-03T06:35:04.509Z"
+    },
+    {
+      "pmid": "41768943",
+      "title": "[Identification of tick-borne borreliosis cases by qPCR from rapid malaria diagnostic tests during the Grand Magal of Touba in Senegal].",
+      "abstract": "Antigen rapid diagnostic tests (RDTs) have been developed to facilitate malaria diagnosis in endemic areas. The blood samples collected for these tests can also be used to diagnose other infections. We performed nucleic acid extraction followed by PCR identification of dengue virus (DENV), Borrelia spp., Bartonella spp., and Coxiella burnetti on RDTs collected from different health facilities in Touba during the Grand Magal of Touba (GMT), a mass gathering known for its infectious disease risks. A total of 2,381 RDTs were collected from eight healthcare facilities in the Mbacke department in 2022 and 2023 during the GMT. Thirteen cases (0.5%) of tick-borne relapsing fever borreliosis were identified by quantitative PCR (qPCR), including two cases of malaria-borreliosis co-infection. None of the samples tested positive for DENV, Bartonella spp., or C. burnetti. Our results confirm that RDT antigens can diagnose non-malaria fevers, such as borreliosis, in some GMT participants with fever. Malaria RDTs used in the field are an easily accessible source of clinical samples for studying the epidemiology of fevers of unknown origin in GMT contexts. Les tests de diagnostic rapide (TDR) antig&#xe9;niques ont &#xe9;t&#xe9; d&#xe9;velopp&#xe9;s pour faciliter le diagnostic du paludisme dans les zones d&#x2019;end&#xe9;mie palustre. Le mat&#xe9;riel sanguin collect&#xe9; pour ces tests peut &#xea;tre utilis&#xe9; pour le diagnostic d&#x2019;autres infections. Une extraction d&#x2019;acides nucl&#xe9;iques suivie d&#x2019;une identification par PCR du virus de la dengue (DENV), Borrelia spp, Bartonella spp et Coxiella burnetti a &#xe9;t&#xe9; effectu&#xe9;e sur des TDR collect&#xe9;s dans diff&#xe9;rents structures sanitaires de Touba lors du Grand Magal de Touba (GMT), un rassemblement de masse connu pour ses risques infectieux. 2 381 TDR ont &#xe9;t&#xe9; collect&#xe9;s dans huit structures sanitaires du d&#xe9;partement de Mback&#xe9; en 2022 et 2023 pendant le GMT. Treize cas (0,5%) de borr&#xe9;liose de type fi&#xe8;vre r&#xe9;currente transmise par les tiques ont &#xe9;t&#xe9; identifi&#xe9;s par qPCR dont deux cas de co-infection paludisme-borr&#xe9;liose. Aucun des &#xe9;chantillons n&#x2019;a &#xe9;t&#xe9; positif pour le virus de la DENV, Bartonella spp et C. burnetti. Nos r&#xe9;sultats confirment que les antig&#xe8;nes de TDR peuvent &#xea;tre exploit&#xe9;s pour le diagnostic de fi&#xe8;vres non palustres comme la borr&#xe9;liose pr&#xe9;sente chez certains participants f&#xe9;briles du GMT. Les TDR du paludisme, utilis&#xe9;s sur le terrain, constituent une source facilement accessible d&#x2019;&#xe9;chantillons cliniques pour &#xe9;tudier l&#x2019;&#xe9;pid&#xe9;miologie des causes de fi&#xe8;vre d&#x2019;origine inconnue dans le contexte du GMT.",
+      "authors": [
+        "Diouf C",
+        "Ouaddane I",
+        "Diatta G"
+      ],
+      "journal": "Medecine tropicale et sante internationale",
+      "publicationDate": "Dec 31, 2025",
+      "articleType": "English Abstract",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41768943/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-03T06:34:53.989Z"
     }
   ]
 }
