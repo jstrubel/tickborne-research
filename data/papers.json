@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-03-06T06:32:26.714Z",
+  "generatedAt": "2026-03-07T06:23:26.007Z",
   "totalPapers": 30,
   "papers": [
+    {
+      "pmid": "41790956",
+      "title": "Untitled",
+      "abstract": "A zoonotic Babesia species previously referred to as Babesia sp. MO1 is formally described and named here as Babesia hegotelforum sp. nov. This taxon is distinct from Babesia divergens based on genome-wide sequence divergence, phylogenetic placement, host associations, and clinical presentation. The parasite infects erythrocytes of humans, and eastern cottontail rabbits (Sylvilagus floridanus), and is transmitted by Ixodes dentatus. The holotype consists of a Giemsa-stained thin blood smear and cryopreserved infected erythrocytes from the cloned isolate BML-Bh-B12 at &#x2264;10 passages in continuous in vitro culture. Paratype material includes five additional clones (BML-Bh-H1, BML-Bh-F12, BML-Bh-H6, BML-Bh-A3, and BML-Bh-F1) derived from BEI Resources strain NR-50441, along with the original mixed isolate NR-50441. This species description meets the requirements of the International Code of Zoological Nomenclature and establishes Babesia hegotelforum sp. nov. as a distinct species of clinical and epidemiological significance in North America.",
+      "authors": [
+        "Singh P",
+        "Estrada K",
+        "Gonzalez LM"
+      ],
+      "journal": "Emerging microbes & infections",
+      "publicationDate": "Dec 06, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41790956/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-07T06:23:20.031Z"
+    },
     {
       "pmid": "41737196",
       "title": "High burden and spatial clustering of canine hemoparasitic infections in southern Thailand: A molecular survey of free-roaming dogs.",
@@ -23,7 +46,76 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:24.656Z"
+      "fetchedAt": "2026-03-07T06:23:25.007Z"
+    },
+    {
+      "pmid": "41790564",
+      "title": "Association between spirochaetal infection and neurodegenerative diseases: a systematic review and quantitative synthesis of observational studies.",
+      "abstract": "Introduction. Neurodegenerative diseases, including Alzheimer's and Parkinson's, are a growing global health concern. While age remains the primary risk factor, infectious agents have been proposed as potential contributors to disease onset or progression.Gap statement. Spirochaetal bacteria, such as Treponema pallidum, Borrelia burgdorferi and Leptospira spp., can invade the central nervous system, yet the extent to which these infections influence neurodegenerative outcomes remains unclear.Aim. This systematic review aimed to evaluate observational evidence on the association between spirochaetal infections and neurodegenerative diseases and to identify gaps in the literature to inform future research.Methodology. A systematic search of SCOPUS, EMBASE, PubMed/MEDLINE, Web of Science and CINAHL was conducted for studies published between January 2000 and May 2025. Eligible studies were observational, involved adult human populations and reported both spirochaetal infection and cognitive or neurodegenerative outcomes using standardized methods. Data were extracted using a standardized form. Owing to heterogeneity in study design, diagnostic approaches, outcome measures and reporting formats, an overall pooled meta-analysis was not feasible; however, a quantitative synthesis using meta-analytic methods was conducted for studies reporting mini-mental state examination data. Risk of bias was assessed using the Newcastle-Ottawa Scale.Results. Twenty-seven studies met the inclusion criteria: 13 on T. pallidum, 13 on B. burgdorferi and one on Leptospira spp. No eligible studies were found for Brachyspira spp., and studies involving Treponema denticola were excluded due to confounding by periodontitis. Studies investigating syphilis and leptospirosis consistently reported cognitive impairment and increased dementia risk. In contrast, findings for Lyme disease were heterogeneous, with some studies reporting persistent symptoms or increased Alzheimer's risk, while others found no long-term cognitive effects.Conclusion. This review highlights a potential link between spirochaetal infections and neurodegenerative outcomes, particularly for syphilis and leptospirosis. Evidence for Lyme disease remains inconclusive. Future research should prioritize longitudinal studies with standardized diagnostic criteria, integration of neuroimaging and biomarker data and improved diagnostic accuracy for spirochaetal infections.",
+      "authors": [
+        "Horton M",
+        "Whiley DJ",
+        "Mayhew M"
+      ],
+      "journal": "Journal of medical microbiology",
+      "publicationDate": "Mar 6, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41790564/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-07T06:23:07.259Z"
+    },
+    {
+      "pmid": "41786621",
+      "title": "A pseudochromosomal reference genome of the golden jackal, Canis aureus.",
+      "abstract": "The golden jackal (Canis aureus) is rapidly expanding its range in Europe, driven by climate and habitat changes, human influence, and changes in competition with wolves. Its ecological flexibility enables it to thrive in various habitats, including urban areas, raising concerns about its potential role in spreading zoonotic diseases. Jackals may act as reservoirs for pathogens such as Lyme disease and babesiosis, affecting wildlife, humans, and pets. Their close genetic relationship with domestic dogs also increases the risk of hybridization and host-jumping, complicating disease dynamics. To better understand their dispersal ability and host-pathogen dynamics, we present the first pseudochromosomal genome assembly of the golden jackal, generated using PacBio HiFi sequencing and reference-based scaffolding. The final assembly has a total length of 2.53 Gb in 325 scaffolds, with 98.41% of the sequence anchored to the expected 38+XY chromosomes. The assembly shows high contiguity, with scaffold and contig N50 values of 68.03 Mb and 56.64 Mb, respectively. Annotation revealed 20,620 protein-coding genes, and repetitive elements account for 40.58% of the total assembly. This highly contiguous reference genome provides an essential resource for studying the genetic basis of the golden jackal's adaptation, ecological interactions, and potential as a zoonotic reservoir. It also supports efforts to monitor population expansion and its effects on ecosystems. By advancing our understanding of golden jackal genetics, this work enables future research on evolution, host-pathogen dynamics, and the broader consequences of wildlife dispersal in a rapidly changing environment.",
+      "authors": [
+        "Winter S",
+        "Mei&#xdf;ner R",
+        "Prost S"
+      ],
+      "journal": "The Journal of heredity",
+      "publicationDate": "Mar 06, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41786621/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-07T06:23:07.809Z"
+    },
+    {
+      "pmid": "41786621",
+      "title": "A pseudochromosomal reference genome of the golden jackal, Canis aureus.",
+      "abstract": "The golden jackal (Canis aureus) is rapidly expanding its range in Europe, driven by climate and habitat changes, human influence, and changes in competition with wolves. Its ecological flexibility enables it to thrive in various habitats, including urban areas, raising concerns about its potential role in spreading zoonotic diseases. Jackals may act as reservoirs for pathogens such as Lyme disease and babesiosis, affecting wildlife, humans, and pets. Their close genetic relationship with domestic dogs also increases the risk of hybridization and host-jumping, complicating disease dynamics. To better understand their dispersal ability and host-pathogen dynamics, we present the first pseudochromosomal genome assembly of the golden jackal, generated using PacBio HiFi sequencing and reference-based scaffolding. The final assembly has a total length of 2.53 Gb in 325 scaffolds, with 98.41% of the sequence anchored to the expected 38+XY chromosomes. The assembly shows high contiguity, with scaffold and contig N50 values of 68.03 Mb and 56.64 Mb, respectively. Annotation revealed 20,620 protein-coding genes, and repetitive elements account for 40.58% of the total assembly. This highly contiguous reference genome provides an essential resource for studying the genetic basis of the golden jackal's adaptation, ecological interactions, and potential as a zoonotic reservoir. It also supports efforts to monitor population expansion and its effects on ecosystems. By advancing our understanding of golden jackal genetics, this work enables future research on evolution, host-pathogen dynamics, and the broader consequences of wildlife dispersal in a rapidly changing environment.",
+      "authors": [
+        "Winter S",
+        "Mei&#xdf;ner R",
+        "Prost S"
+      ],
+      "journal": "The Journal of heredity",
+      "publicationDate": "Mar 06, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41786621/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-07T06:23:20.583Z"
     },
     {
       "pmid": "41774745",
@@ -46,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:14.920Z"
+      "fetchedAt": "2026-03-07T06:23:14.282Z"
     },
     {
       "pmid": "41774080",
@@ -69,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:15.642Z"
+      "fetchedAt": "2026-03-07T06:23:14.835Z"
     },
     {
       "pmid": "41782738",
@@ -92,7 +184,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:07.152Z"
+      "fetchedAt": "2026-03-07T06:23:08.308Z"
     },
     {
       "pmid": "41770189",
@@ -113,7 +205,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:07.795Z"
+      "fetchedAt": "2026-03-07T06:23:08.872Z"
     },
     {
       "pmid": "41770041",
@@ -136,7 +228,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:08.329Z"
+      "fetchedAt": "2026-03-07T06:23:09.419Z"
     },
     {
       "pmid": "41741034",
@@ -159,7 +251,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:24.123Z"
+      "fetchedAt": "2026-03-07T06:23:24.460Z"
     },
     {
       "pmid": "41764219",
@@ -182,7 +274,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:09.397Z"
+      "fetchedAt": "2026-03-07T06:23:10.523Z"
     },
     {
       "pmid": "41783506",
@@ -204,7 +296,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:14.381Z"
+      "fetchedAt": "2026-03-07T06:23:13.716Z"
     },
     {
       "pmid": "41758291",
@@ -226,7 +318,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:20.877Z"
+      "fetchedAt": "2026-03-07T06:23:21.132Z"
+    },
+    {
+      "pmid": "41759876",
+      "title": "Distribution of Borrelia burgdorferi sensu lato in micromammals in the Republic of Korea.",
+      "abstract": "Lyme disease is a vector-borne zoonotic disease caused by spirochete bacteria of the genus Borrelia. It is primarily transmitted by ticks of the genus Ixodes. Vertebrate hosts, including rodents and insectivores such as shrews and moles, maintain the pathogens in ecosystems. Research on the prevalence and geographical distribution of Borrelia species and other micromammal-associated zoonotic pathogens in the Republic of Korea (ROK) is scarce. This study investigated the prevalence and distribution of Borrelia spp. in wild micromammals across the ROK to support Lyme disease control. In this study, we collected 200 spleen samples from micromammals in 14 regions nationwide, including Apodemus agrarius, Crocidura sp., Micromys minutus, and Apodemus peninsulae. Genomic DNA was extracted from the spleen tissues, and PCR and phylogenetic analyses targeting flagellin B (flaB), outer surface protein A (ospA), and 5S-23S rRNA intergenic spacer (5S-23S) were performed. Phylogenetic analysis based on flagellin B (flaB), outer surface protein A (ospA) and 5S-23S rRNA intergenic spacer (5S-23S) sequences revealed distinct clustering of Borrelia afzelii, Borrelia yangtzensis and a lineage designated as Borrelia sp. B. afzelii was predominantly detected in northern and central regions of the ROK, whereas B. yangtzensis was mainly present in the southern region of the ROK. This study provides updated insights into the prevalence and spatial distribution of Borrelia spp. in Korean micromammals. Our findings contribute to a better understanding of wildlife reservoirs and may inform future strategies to prevent and control micromammal-borne zoonoses.",
+      "authors": [
+        "Park JS",
+        "Seo JY",
+        "Lee HI"
+      ],
+      "journal": "Acta tropica",
+      "publicationDate": "Feb 26, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41759876/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-07T06:23:11.095Z"
     },
     {
       "pmid": "41768217",
@@ -249,30 +364,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:08.863Z"
-    },
-    {
-      "pmid": "41759876",
-      "title": "Distribution of Borrelia burgdorferi sensu lato in micromammals in the Republic of Korea.",
-      "abstract": "Lyme disease is a vector-borne zoonotic disease caused by spirochete bacteria of the genus Borrelia. It is primarily transmitted by ticks of the genus Ixodes. Vertebrate hosts, including rodents and insectivores such as shrews and moles, maintain the pathogens in ecosystems. Research on the prevalence and geographical distribution of Borrelia species and other micromammal-associated zoonotic pathogens in the Republic of Korea (ROK) is scarce. This study investigated the prevalence and distribution of Borrelia spp. in wild micromammals across the ROK to support Lyme disease control. In this study, we collected 200 spleen samples from micromammals in 14 regions nationwide, including Apodemus agrarius, Crocidura sp., Micromys minutus, and Apodemus peninsulae. Genomic DNA was extracted from the spleen tissues, and PCR and phylogenetic analyses targeting flagellin B (flaB), outer surface protein A (ospA), and 5S-23S rRNA intergenic spacer (5S-23S) were performed. Phylogenetic analysis based on flagellin B (flaB), outer surface protein A (ospA) and 5S-23S rRNA intergenic spacer (5S-23S) sequences revealed distinct clustering of Borrelia afzelii, Borrelia yangtzensis and a lineage designated as Borrelia sp. B. afzelii was predominantly detected in northern and central regions of the ROK, whereas B. yangtzensis was mainly present in the southern region of the ROK. This study provides updated insights into the prevalence and spatial distribution of Borrelia spp. in Korean micromammals. Our findings contribute to a better understanding of wildlife reservoirs and may inform future strategies to prevent and control micromammal-borne zoonoses.",
-      "authors": [
-        "Park JS",
-        "Seo JY",
-        "Lee HI"
-      ],
-      "journal": "Acta tropica",
-      "publicationDate": "Feb 25, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41759876/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-06T06:32:09.988Z"
+      "fetchedAt": "2026-03-07T06:23:09.972Z"
     },
     {
       "pmid": "41742048",
@@ -295,28 +387,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:17.867Z"
-    },
-    {
-      "pmid": "41735627",
-      "title": "Probing the host cell exit strategy of&#xa0;Babesia divergens.",
-      "abstract": "",
-      "authors": [
-        "Ottoz DSM"
-      ],
-      "journal": "Nature reviews. Microbiology",
-      "publicationDate": "Feb 24, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41735627/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-06T06:32:25.712Z"
+      "fetchedAt": "2026-03-07T06:23:16.983Z"
     },
     {
       "pmid": "41756944",
@@ -339,7 +410,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:10.523Z"
+      "fetchedAt": "2026-03-07T06:23:11.800Z"
     },
     {
       "pmid": "41727755",
@@ -361,7 +432,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:18.411Z"
+      "fetchedAt": "2026-03-07T06:23:17.534Z"
     },
     {
       "pmid": "41711927",
@@ -384,7 +455,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:18.954Z"
+      "fetchedAt": "2026-03-07T06:23:18.121Z"
     },
     {
       "pmid": "41684369",
@@ -407,7 +478,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:19.490Z"
+      "fetchedAt": "2026-03-07T06:23:18.677Z"
     },
     {
       "pmid": "41745970",
@@ -430,30 +501,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:23.052Z"
-    },
-    {
-      "pmid": "41753693",
-      "title": "Untitled",
-      "abstract": "Lyme disease is by far the most common arthropod-borne disease in the Northern Hemisphere. It is caused by certain Borrelia species that are primarily transmitted to hosts by Ixodid ticks; however, transplacental transmission of the spirochete in both animals and humans has been reported. Here, we report imaging of intact spirochetes in an archived placental tissue sample that is immunoreactive to Borrelia antibodies and from which Borrelia DNA was isolated. Both mother and child showed evidence of seroreactivity to Borrelia spp. in the years following the child's birth, although neither individual tested positive by the conventional two-tiered serological algorithm. Cultivation of viable spirochetes from a vaginal swab of the mother and from the urine of the child some years later supports the possibility of vector-free transmission of Borrelia from mother to child. By amplifying several genomic loci from the DNA of cultured and non-cultured Borrelia from blood and body fluid samples of the mother and child, the Borrelia in both were identified as the same species, Borrelia burgdorferi sensu stricto, a strain specific to North America.",
-      "authors": [
-        "Bemis LT",
-        "Golovchenko M",
-        "Ericson ME"
-      ],
-      "journal": "Microorganisms",
-      "publicationDate": "Feb 09, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41753693/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-06T06:32:13.046Z"
+      "fetchedAt": "2026-03-07T06:23:23.342Z"
     },
     {
       "pmid": "41750996",
@@ -476,7 +524,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:22.480Z"
+      "fetchedAt": "2026-03-07T06:23:22.796Z"
     },
     {
       "pmid": "41754418",
@@ -499,7 +547,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:21.409Z"
+      "fetchedAt": "2026-03-07T06:23:21.699Z"
     },
     {
       "pmid": "41753612",
@@ -522,7 +570,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:17.367Z"
+      "fetchedAt": "2026-03-07T06:23:16.484Z"
     },
     {
       "pmid": "41753612",
@@ -545,7 +593,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:21.943Z"
+      "fetchedAt": "2026-03-07T06:23:22.245Z"
     },
     {
       "pmid": "41745927",
@@ -568,7 +616,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:23.588Z"
+      "fetchedAt": "2026-03-07T06:23:23.892Z"
     },
     {
       "pmid": "41754519",
@@ -581,7 +629,7 @@
       ],
       "journal": "Viruses",
       "publicationDate": "Jan 28, 2026",
-      "articleType": "Case Reports",
+      "articleType": "Journal Article",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41754519/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
@@ -591,7 +639,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:11.065Z"
+      "fetchedAt": "2026-03-07T06:23:12.347Z"
     },
     {
       "pmid": "41754384",
@@ -614,53 +662,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:16.821Z"
-    },
-    {
-      "pmid": "41754378",
-      "title": "Untitled",
-      "abstract": "Borrelia burgdorferi sensu lato is a complex of spirochetes that includes the main pathogenic species B. burgdorferi sensu stricto, B. afzelii, and B. garinii, the causative agents of Lyme disease. Our aim was to determine the seroprevalence of anti-Borrelia IgG antibodies and assess associated risk factors among blood donors from Western Romania. We conducted a cross-sectional study of 1347 consecutive donors at the Regional Blood Transfusion Center in Timisoara, Western Romania, between November and December 2018. Participants completed an epidemiological questionnaire and serum samples were tested for IgG antibodies against B. burgdorferi sensu lato using the VIDAS&#xae; Lyme IgG assay. The overall seroprevalence was 2.08% (28/1347). Individuals aged 46-55 years had the highest prevalence (3.79%) and a more than fivefold increased risk compared to those aged 18-25 years (aOR = 4.77; 95% CI: 1.24-18.27; p = 0.023). Soil exposure was also independently associated with higher seropositivity (aOR = 2.37; 95% CI: 1.10-5.09; p = 0.027). Other factors, including residence, gender, and pet ownership, showed no significant associations. Our findings provide new epidemiological data for Romania and emphasize the importance of environmental exposures in shaping Borrelia seroprevalence.",
-      "authors": [
-        "Mihu AG",
-        "Mot MD",
-        "Oatis DA"
-      ],
-      "journal": "Pathogens (Basel, Switzerland)",
-      "publicationDate": "Jan 23, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41754378/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-06T06:32:11.650Z"
-    },
-    {
-      "pmid": "41736573",
-      "title": "Acetylcholinesterase 1 of Rhipicephalus (Boophilus) annulatus (Say) [Acari: Ixodidae].",
-      "abstract": "The cattle fever ticks Rhipicephalus microplus (Canestrini, 1888) and Rhipicephalus annulatus (Say, 1821) transmit pathogens responsible for bovine babesiosis and anaplasmosis. Although eradicated from the United States, these ticks and the pathogens they transmit are endemic in Mexico and other countries, and pose a serious risk to the U.S. cattle industry. Cattle imported into the U.S. are inspected and treated with an acaricide, coumaphos, to prevent tick reentry into the U.S. Coumaphos is an organophosphate (OP) that kills ticks by inactivating acetylcholinesterase (AChE), an enzyme vital to the tick central nervous system. Previous research has extensively studied the AChEs of R. microplus, however, there has been much less study in R. annulatus. The present work reports the cloning, sequencing and baculoviral expression of recombinant AChE1s of R. annulatus, including the discovery of three different RannAChE1 isoforms that are produced by alternative splicing of a single locus. Similar AChE kinetic activities were observed for the three isoforms, and these were comparable to AChE1 of R. microplus. Further, incorporation of a G170S substitution, homologous to the G119S mutation in mosquitoes that affords resistance to OP inhibition, resulted in reduced sensitivity of RannAChE1-1 to inhibition by oxon forms of OPs. This underscores the complexity of AChEs in cattle fever ticks and provides further evidence of the key role of cholinergic systems in tick physiology and development.",
-      "authors": [
-        "Temeyer KB",
-        "Schlechte KG",
-        "Saelao P"
-      ],
-      "journal": "Journal of medical entomology",
-      "publicationDate": "Jan 20, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41736573/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-06T06:32:25.213Z"
+      "fetchedAt": "2026-03-07T06:23:15.935Z"
     },
     {
       "pmid": "41768943",
@@ -683,7 +685,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-06T06:32:16.268Z"
+      "fetchedAt": "2026-03-07T06:23:15.382Z"
     }
   ]
 }
