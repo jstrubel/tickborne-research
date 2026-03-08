@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-07T06:23:26.007Z",
+  "generatedAt": "2026-03-08T06:28:08.353Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:20.031Z"
+      "fetchedAt": "2026-03-08T06:28:02.117Z"
     },
     {
       "pmid": "41737196",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:25.007Z"
+      "fetchedAt": "2026-03-08T06:28:07.353Z"
     },
     {
       "pmid": "41790564",
@@ -58,7 +58,7 @@
         "Mayhew M"
       ],
       "journal": "Journal of medical microbiology",
-      "publicationDate": "Mar 6, 2026",
+      "publicationDate": "Mar 7, 2026",
       "articleType": "Journal Article",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41790564/",
       "pathogen": "lyme",
@@ -69,7 +69,51 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:07.259Z"
+      "fetchedAt": "2026-03-08T06:27:48.636Z"
+    },
+    {
+      "pmid": "41793143",
+      "title": "EXPRESSION OF CONCERN: Erythroblast Cells as a Target for Bartonella Quintana in Homeless People.",
+      "abstract": "",
+      "authors": [
+        "Unknown Author"
+      ],
+      "journal": "Annals of the New York Academy of Sciences",
+      "publicationDate": "Mar 7, 2026",
+      "articleType": "Expression of Concern",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41793143/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-08T06:27:55.381Z"
+    },
+    {
+      "pmid": "41774080",
+      "title": "Untitled",
+      "abstract": "The genus Bartonella comprises over 40 species, most of which are haemoparasites of mammals. Herein, we describe Bartonella bennetti sp. nov., a novel member of the genus, isolated from field voles (Microtus agrestis) in Kielder Forest, UK. Polyphasic characterization of three strains (C271T, D105 and J117) of the proposed species indicated that they were closely related to members of phylogenetic lineage 3 (L3) of the genus. The average nucleotide identity (ANI) between C271T and other L3 species ranged between 88.8 and 90.6%, supporting the proposal of a new species. C271T shared ANIs approaching 96% with other members of L3 that are yet to be validly published but exhibited marked genomic, ecological and biogeographical differences from them, further justifying the creation of a new taxon. All three B. bennetti sp. nov. strains were found to possess genes encoding three VirB/D4 type IV secretion systems and associated effector proteins and to harbour a chromosomally integrated F-type conjugative plasmid, which forms an Hfr-like configuration not previously observed in the Bartonella genus. This integration could facilitate large-scale chromosomal gene transfer during conjugation, with potential consequences for adaptation, recombination and niche differentiation. The phylogenetic structure of L3, coupled with the ecological partitioning of its members, suggests that covert host specificity, not generalism, is the dominant mode of diversification. The absence of the Trw system, which facilitates host switching in lineage 4 (L4), may constrain ecological breadth in L3, thought to be undergoing a parallel adaptive radiation with L4. The discovery of B. bennetti sp. nov. underscores the importance of combining genomic, ecological and evolutionary evidence when delimiting species boundaries in Bartonella and raises new hypotheses about the role of Hfr-mediated recombination in the evolutionary dynamics of host-adapted pathogens. The type strain of B. bennetti sp. nov. is C271T (CSUR B1113T, NCTC 15117T).",
+      "authors": [
+        "Brierley S",
+        "Mackenzie L",
+        "Telfer S"
+      ],
+      "journal": "International journal of systematic and evolutionary microbiology",
+      "publicationDate": "Mar 7, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41774080/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-08T06:27:57.616Z"
     },
     {
       "pmid": "41786621",
@@ -92,7 +136,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:07.809Z"
+      "fetchedAt": "2026-03-08T06:27:49.238Z"
+    },
+    {
+      "pmid": "41792177",
+      "title": "Drug target mining and in silico screening of Tibetan plant metabolites for potential alleviation of Oroya fever, a neglected tropical disease.",
+      "abstract": "",
+      "authors": [
+        "Basharat Z",
+        "Raza A",
+        "Ogaly HA"
+      ],
+      "journal": "Scientific reports",
+      "publicationDate": "Mar 06, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41792177/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-08T06:27:55.880Z"
     },
     {
       "pmid": "41786621",
@@ -115,7 +182,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:20.583Z"
+      "fetchedAt": "2026-03-08T06:28:02.728Z"
     },
     {
       "pmid": "41774745",
@@ -138,30 +205,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:14.282Z"
-    },
-    {
-      "pmid": "41774080",
-      "title": "Untitled",
-      "abstract": "The genus Bartonella comprises over 40 species, most of which are haemoparasites of mammals. Herein, we describe Bartonella bennetti sp. nov., a novel member of the genus, isolated from field voles (Microtus agrestis) in Kielder Forest, UK. Polyphasic characterization of three strains (C271T, D105 and J117) of the proposed species indicated that they were closely related to members of phylogenetic lineage 3 (L3) of the genus. The average nucleotide identity (ANI) between C271T and other L3 species ranged between 88.8 and 90.6%, supporting the proposal of a new species. C271T shared ANIs approaching 96% with other members of L3 that are yet to be validly published but exhibited marked genomic, ecological and biogeographical differences from them, further justifying the creation of a new taxon. All three B. bennetti sp. nov. strains were found to possess genes encoding three VirB/D4 type IV secretion systems and associated effector proteins and to harbour a chromosomally integrated F-type conjugative plasmid, which forms an Hfr-like configuration not previously observed in the Bartonella genus. This integration could facilitate large-scale chromosomal gene transfer during conjugation, with potential consequences for adaptation, recombination and niche differentiation. The phylogenetic structure of L3, coupled with the ecological partitioning of its members, suggests that covert host specificity, not generalism, is the dominant mode of diversification. The absence of the Trw system, which facilitates host switching in lineage 4 (L4), may constrain ecological breadth in L3, thought to be undergoing a parallel adaptive radiation with L4. The discovery of B. bennetti sp. nov. underscores the importance of combining genomic, ecological and evolutionary evidence when delimiting species boundaries in Bartonella and raises new hypotheses about the role of Hfr-mediated recombination in the evolutionary dynamics of host-adapted pathogens. The type strain of B. bennetti sp. nov. is C271T (CSUR B1113T, NCTC 15117T).",
-      "authors": [
-        "Brierley S",
-        "Mackenzie L",
-        "Telfer S"
-      ],
-      "journal": "International journal of systematic and evolutionary microbiology",
-      "publicationDate": "Mar 3, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41774080/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-07T06:23:14.835Z"
+      "fetchedAt": "2026-03-08T06:27:57.040Z"
     },
     {
       "pmid": "41782738",
@@ -184,7 +228,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:08.308Z"
+      "fetchedAt": "2026-03-08T06:27:49.739Z"
     },
     {
       "pmid": "41770189",
@@ -205,7 +249,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:08.872Z"
+      "fetchedAt": "2026-03-08T06:27:50.316Z"
     },
     {
       "pmid": "41770041",
@@ -228,7 +272,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:09.419Z"
+      "fetchedAt": "2026-03-08T06:27:50.905Z"
     },
     {
       "pmid": "41741034",
@@ -251,7 +295,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:24.460Z"
+      "fetchedAt": "2026-03-08T06:28:06.779Z"
     },
     {
       "pmid": "41764219",
@@ -274,7 +318,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:10.523Z"
+      "fetchedAt": "2026-03-08T06:27:52.132Z"
     },
     {
       "pmid": "41783506",
@@ -296,7 +340,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:13.716Z"
+      "fetchedAt": "2026-03-08T06:27:56.461Z"
     },
     {
       "pmid": "41758291",
@@ -318,7 +362,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:21.132Z"
+      "fetchedAt": "2026-03-08T06:28:03.322Z"
     },
     {
       "pmid": "41759876",
@@ -341,7 +385,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:11.095Z"
+      "fetchedAt": "2026-03-08T06:27:52.704Z"
     },
     {
       "pmid": "41768217",
@@ -364,7 +408,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:09.972Z"
+      "fetchedAt": "2026-03-08T06:27:51.532Z"
     },
     {
       "pmid": "41742048",
@@ -387,7 +431,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:16.983Z"
+      "fetchedAt": "2026-03-08T06:27:59.867Z"
     },
     {
       "pmid": "41756944",
@@ -410,7 +454,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:11.800Z"
+      "fetchedAt": "2026-03-08T06:27:53.276Z"
     },
     {
       "pmid": "41727755",
@@ -432,53 +476,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:17.534Z"
-    },
-    {
-      "pmid": "41711927",
-      "title": "Molecular identification of Bartonella henselae in dogs with clinical suspicion of visceral leishmaniasis.",
-      "abstract": "The genus Bartonella includes species responsible for severe infections. Bartonella henselae, commonly linked to human disease, also infects dogs with or without symptoms. In Brazil, visceral leishmaniasis (VL) caused by Leishmania infantum is prevalent in Mato Grosso State, Brazil, particularly in Rondonopolis city, affecting both humans and dogs. Although reports of co-infection with Bartonella spp. and L. infantum exist in other countries, Brazilian studies are scarce. This study investigates the presence of B. henselae using culture and molecular methods in dogs suspected of having VL in Rondonopolis, while also assessing potential co-infections and evaluating diagnostic limitations of VL. Results showed B. henselae DNA in 53.75% (43/80) of these dogs, with Leishmania spp. DNA found in 65.11% (28/43) of them. Of the 80 dogs, 43.75% (35) lacked VL serological confirmation, yet 48.57% (17/35) were positive for B. henselae. This is the first report of B. henselae bacteremia in dogs from Rondonopolis. The high occurrence of dogs with clinical VL suggests a need for further research to understand the bacterium's role in VL-suspected cases, regardless of diagnostic confirmation. The study highlights a significant finding: approximately half of the dogs suspected of zoonotic parasitosis, with or without serological confirmation, were infected with B. henselae. Additionally, the detection of Leishmania sp. DNA in dogs not confirmed by Brazil's Health Department serological criteria suggests that these diagnostic standards may need reevaluation by health authorities, though caution is warranted due to the limitations of blood-based PCR for Leishmania sp. detection.",
-      "authors": [
-        "Miranda VD",
-        "Dos Santos LS",
-        "Torres MM"
-      ],
-      "journal": "Revista do Instituto de Medicina Tropical de Sao Paulo",
-      "publicationDate": "02 16, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41711927/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-07T06:23:18.121Z"
-    },
-    {
-      "pmid": "41684369",
-      "title": "Disseminated Bartonellosis Masquerading as Autoimmune Glomerulonephritis: A Case Report.",
-      "abstract": "Although Bartonella henselae is primarily known for causing self-limiting cat scratch disease in immunocompetent individuals, it can also lead to severe disseminated infections, particularly in immunocompromised patients. We present a rare case of disseminated B. henselae infection in a 70-year-old man with multiple comorbidities, including a recent aortic valve replacement and pacemaker implantation. The patient initially presented with purpuric skin lesions, progressive renal impairment, and pancytopenia, leading to a preliminary diagnosis of autoimmune glomerulonephritis and treatment with immunosuppressants. Subsequent investigations, including kidney and skin biopsies, revealed C3-dominant glomerulonephritis and leukocytoclastic vasculitis, respectively. Further imaging uncovered a concurrent lung malignancy, treated with radiotherapy. Five months later, the patient presented with blood culture-negative endocarditis complicated by septic embolic strokes, persisting pancytopenia, and hepatosplenomegaly. Serology and B. henselae PCR of bone marrow confirmed disseminated Bartonella henselae infection. This case highlights the diagnostic challenges of disseminated Bartonella infections, which can mimic autoimmune diseases and delay appropriate treatment. Clinicians should maintain a high index of suspicion to ensure timely diagnosis and management.",
-      "authors": [
-        "Debyser T",
-        "Falter M",
-        "Vanhoutte T"
-      ],
-      "journal": "Case reports in nephrology",
-      "publicationDate": "02 11, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41684369/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-07T06:23:18.677Z"
+      "fetchedAt": "2026-03-08T06:28:00.473Z"
     },
     {
       "pmid": "41745970",
@@ -501,7 +499,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:23.342Z"
+      "fetchedAt": "2026-03-08T06:28:05.624Z"
     },
     {
       "pmid": "41750996",
@@ -524,7 +522,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:22.796Z"
+      "fetchedAt": "2026-03-08T06:28:05.050Z"
     },
     {
       "pmid": "41754418",
@@ -547,7 +545,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:21.699Z"
+      "fetchedAt": "2026-03-08T06:28:03.897Z"
     },
     {
       "pmid": "41753612",
@@ -570,7 +568,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:16.484Z"
+      "fetchedAt": "2026-03-08T06:27:59.368Z"
     },
     {
       "pmid": "41753612",
@@ -593,7 +591,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:22.245Z"
+      "fetchedAt": "2026-03-08T06:28:04.472Z"
     },
     {
       "pmid": "41745927",
@@ -616,7 +614,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:23.892Z"
+      "fetchedAt": "2026-03-08T06:28:06.204Z"
     },
     {
       "pmid": "41754519",
@@ -639,7 +637,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:12.347Z"
+      "fetchedAt": "2026-03-08T06:27:53.854Z"
     },
     {
       "pmid": "41754384",
@@ -662,7 +660,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:15.935Z"
+      "fetchedAt": "2026-03-08T06:27:58.763Z"
     },
     {
       "pmid": "41768943",
@@ -685,7 +683,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-07T06:23:15.382Z"
+      "fetchedAt": "2026-03-08T06:27:58.189Z"
     }
   ]
 }
