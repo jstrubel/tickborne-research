@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T06:33:44.893Z",
+  "generatedAt": "2026-03-11T06:36:32.139Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,30 +23,99 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:38.659Z"
+      "fetchedAt": "2026-03-11T06:36:26.840Z"
     },
     {
-      "pmid": "41737196",
-      "title": "High burden and spatial clustering of canine hemoparasitic infections in southern Thailand: A molecular survey of free-roaming dogs.",
-      "abstract": "Canine vector-borne pathogens (CVBPs) are increasingly prevalent in tropical and subtropical regions, particularly among free-roaming dog populations, which serve as key reservoirs for transmission. This study investigated the prevalence and the spatial distribution of CVB pathogens in 318 free-roaming dogs from five sub-districts of Songkhla Province, southern Thailand. Conventional PCR was utilized to detect eight pathogens: Anaplasma platys, Ehrlichia canis, hemotropic Mycoplasma spp., Babesia spp., Hepatozoon spp., Trypanosoma evansi, Dirofilaria immitis, and Brugia malayi. An overall infection rate of 77.04% was observed, with A. platys (51.89%) and hemotropic Mycoplasma spp. (27.04%) being the most prevalent. Co-infections were common, occurring in over 42% of infected dogs. Spatial analysis using kernel density estimation (KDE) revealed pathogen-specific clustering patterns, particularly in the central and southwestern areas of the province. Infection prevalence was significantly associated with host factors such as age and weight. These findings highlight the critical role of free-roaming dogs in the epidemiology of CVBPs and the need for targeted surveillance and vector control strategies to mitigate zoonotic transmission. This One Health integrative approach provides a comprehensive assessment of pathogen diversity and prevalence while identifying environmental and host-related factors that may influence their geographic distribution.",
+      "pmid": "41807010",
+      "title": "Feasibility of an adjunctive INtervention for Debilitating symptom complexes attributed to ticks (FIND): study protocol for a randomised, waitlist-controlled feasibility trial.",
+      "abstract": "Debilitating Symptom Complexes Attributed to Ticks (DSCATT) is a new term for an unexplained Australian syndrome-people who suffer from a chronic, multifaceted and debilitating illness, characteristically attributed to tick bites, but in a country without endemic Lyme disease. Despite the profound morbidity of DSCATT, no single causative agent has been identified and there are no recognised treatments for the illness at present. An increasing body of evidence shows psychological therapies such as Acceptance and Commitment Therapy (ACT) can be effective in reducing symptom-related disability and improving quality of life for other unexplained syndromes. Here we present a study protocol to assess the feasibility of an ACT-informed intervention for patients suffering from DSCATT, to be used adjunctively to their pre-existing healthcare. The study aims to assess the acceptability, practicality and demand for the treatment. Additionally, we will examine the effects of therapy on participants' health and well-being, its safety, potential mediators of response to therapy and its preliminary cost-effectiveness. We will assess the feasibility of a 32-week, randomised, waitlist-controlled, parallel convergent mixed-methods pilot trial for DSCATT. Participants will be randomised in a 1:1 ratio to receive either 16 sessions of ACT-informed therapy adjunctive to their pre-existing healthcare, delivered one-to-one with a trial therapist within a 20-week period or be assigned to the waitlist control group where they will continue their treatments as usual. We will collect quantitative and qualitative data to address study aims, with retention rate being the primary feasibility outcome. The study has ethical approval from Austin Health Human Research Ethics Committee (HREC). The outcomes will be published in peer-reviewed journals. Data from participants who have given extended consent will be available for other HREC-approved studies. ACTRN12623000372684, prospectively registered 13 April 2023, URL: https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=385579&isReview=true; the last participant is expected to complete in November 2026.",
       "authors": [
-        "Kongtawee R",
-        "Junsiri W",
-        "Narapakdeesakul D"
+        "Kanaan RAA",
+        "Macdonell R",
+        "Long M"
       ],
-      "journal": "One health (Amsterdam, Netherlands)",
-      "publicationDate": "Jun 16, 2026",
+      "journal": "BMJ open",
+      "publicationDate": "Mar 10, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41737196/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41807010/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:43.893Z"
+      "fetchedAt": "2026-03-11T06:36:13.944Z"
+    },
+    {
+      "pmid": "41805357",
+      "title": "Untitled",
+      "abstract": "Post-transcriptional regulation is an adaptive response used by living systems to alter protein levels independently of transcription initiation. In bacteria, one mechanism of post-transcriptional regulation involves the binding of small, non-coding RNAs (sRNAs) to target mRNAs to regulate their translation into protein. This regulation generally includes an RNA-binding protein that facilitates the sRNA::mRNA interaction. In the etiological agent of Lyme disease, Borreliella burgdorferi, over 400 temperature-dependent sRNAs have been identified. Here, we characterized the sRNA SR0735, which is upregulated at 37&#xb0;C (characteristic of mammalian infection). Transcriptomic and proteomic analyses revealed that deleting SR0735 in B. burgdorferi resulted in reduced production of virulence-associated, RpoS-dependent proteins due to a reduction of RpoS and its upstream regulator BosR. We thus renamed SR0735 as BasA for BosR-associated sRNA locus A. Consistent with previous studies that identified BosR as an RNA-binding protein, we demonstrate here that BosR can bind BasA in vitro. Importantly, the loss of BasA significantly attenuated B. burgdorferi infectivity during murine infection, which is consistent with the reduced levels of BosR and RpoS observed. The emerging model suggests that BasA is required for optimal levels of BosR protein through the post-transcriptional regulation of bosR mRNA, which, in turn, promotes the production of RpoS and its downstream genes required for mammalian infectivity and pathogenesis.",
+      "authors": [
+        "Shapiro BL",
+        "Jaiswal P",
+        "Funkhouser-Jones LJ"
+      ],
+      "journal": "Infection and immunity",
+      "publicationDate": "Mar 10, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41805357/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-11T06:36:14.487Z"
+    },
+    {
+      "pmid": "41805015",
+      "title": "Demographic Predictors of Lyme Disease Knowledge Among Parents in a Highly Endemic Area.",
+      "abstract": "Lyme disease is a growing public health concern in the United States. Despite higher rates of infection among children and disseminated disease among racial minorities, few studies have investigated the role of health care inequities on tick-borne disease knowledge among parents. We conducted a single-center, cross-sectional, anonymous survey of tick-borne disease recognition and prevention strategies among English- and Spanish-speaking parents/caregivers in a region of high Lyme disease incidence (Long Island, New York). Survey questions consisted of demographics, knowledge assessment, and tick bite prevention practices. Survey responses were analyzed with descriptive statistics and a multivariable logistic regression model to identify associations between participant characteristics and a calculated knowledge score. In total, 120 participants completed the survey, including 95 (79.2%) English speakers and 25 (20.8%) Spanish speakers. Of these, 72 participants (60%) answered all 4 knowledge questions correctly, and 94 (78.3%) answered 75% of the knowledge questions correctly. English language preference was associated with higher knowledge scores on univariate but not multivariable analysis. Multivariable analysis identified Hispanic or Latino race/ethnicity, lower household income, and fewer years of residence on Long Island as predictors of lower Lyme disease knowledge scores. Our findings highlight the role of adverse social determinants of health on Lyme disease risk, underscoring the need for focused educational interventions on high-risk populations.",
+      "authors": [
+        "Krishnan S",
+        "Zhang X",
+        "Handel AS"
+      ],
+      "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+      "publicationDate": "Mar 10, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41805015/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-11T06:36:15.080Z"
+    },
+    {
+      "pmid": "41805839",
+      "title": "Defensive symbionts of European beewolves face competition from brood cell microbiota during vertical transmission.",
+      "abstract": "Beewolf wasps rely on an ancient defensive symbiosis with Streptomyces bacteria that protect their larvae from fungal infection. Female beewolves apply the bacteria to the brood-cell ceiling, and larvae later transfer the symbionts onto the cocoon surface, where they produce antifungal metabolites. Here, we investigated the mechanism of symbiont transfer from the beewolf brood cell to the larval cocoon and characterized the microbial community dynamics across different beewolf life stages and during larval hibernation. Fluorescence in situ hybridization revealed that the symbionts are transiently taken up into the proximal midgut lumen and then regurgitated onto the cocoon during the spinning process. High-throughput sequencing showed that the bacterial community of beewolf feeding larvae resembles that of the honeybee prey, whereas that of adults and diapausing larvae is dominated by Wolbachia. Moreover, the cocoon bacterial community is initially dominated by the defensive Streptomyces philanthi symbiont, but when larvae excrete the gut content inside the cocoon, other bacterial taxa including Lactobacillus, Gilliamella and Bartonella shift the community composition toward dominance by Pseudomonadota. Our findings provide new insights into the transmission route of an ancient extracellular symbiont and its potential competition with other bacteria in this long-term defensive symbiosis.",
+      "authors": [
+        "Matarrita-Carranza B",
+        "Weiss B",
+        "Sandoval-Calder&#xf3;n M"
+      ],
+      "journal": "FEMS microbiology ecology",
+      "publicationDate": "Mar 10, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41805839/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-11T06:36:20.088Z"
     },
     {
       "pmid": "41801603",
@@ -69,7 +138,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:25.339Z"
+      "fetchedAt": "2026-03-11T06:36:15.614Z"
+    },
+    {
+      "pmid": "41803837",
+      "title": "Retraction Note: Post-COVID reactivation of latent Bartonella henselae infection: a case report and literature review.",
+      "abstract": "",
+      "authors": [
+        "Dong Y",
+        "Alhaskawi A",
+        "Zou X"
+      ],
+      "journal": "BMC infectious diseases",
+      "publicationDate": "Mar 09, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41803837/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-11T06:36:20.587Z"
+    },
+    {
+      "pmid": "41803982",
+      "title": "Ticks and associated pathogens recovered from dogs and cats during a longitudinal collection study at veterinary practices in France.",
+      "abstract": "Documented changes in spatial and seasonal tick distribution highlight the importance of continuous surveillance. This paper documents results of a year-round sampling campaign in France, including identification of ticks and associated pathogens recovered from dogs and cats, as part of the European project \"Protect Our Future Too.\" Ticks were collected from dogs and cats presented to 35 veterinary practices from 27 administrative French departments between April 2021 and July 2022. DNA extracted from each tick sample was amplified by polymerase chain reaction (PCR) for simultaneous detection of 18 types of protozoan or bacterial microorganisms. Among 777 collected ticks, 6 species were morphologically identified in descending prevalence order as: Ixodes ricinus (58.3%), Dermacentor reticulatus (24.2%, mainly on dogs), I.&#xa0;hexagonus (7.2%, mainly on cats), Rhipicephalus sanguineus sensu lato (3.6%, mainly on dogs), I.&#xa0;canisuga (one tick collected from a cat), and Haemaphysalis punctata (one tick from a dog). Geographical distribution varied by tick species: I.&#xa0;ricinus and D.&#xa0;reticulatus were more frequent in northeast France, whereas R.&#xa0;sanguineus (s.l.) was predominant in southeast France. Ticks were collected throughout the study period but peaked in spring and early summer for I.&#xa0;ricinus and late winter and spring for D.&#xa0;reticulatus. The ticks R.&#xa0;sanguineus (s.l.) were collected only during summer. In total, 71.0% of the ticks were positive for DNA of at least one microorganism. Anaplasma bacteria were most frequent (up to 75.3% in I.&#xa0;ricinus) followed by Rickettsia (up to 49.5% in D.&#xa0;reticulatus). Piroplasm DNA (Babesia/Theileria/Cytauxzoon spp.) was found in 6.4% of I.&#xa0;ricinus, 5.3% of D.&#xa0;reticulatus, and 3.6% of both I.&#xa0;hexagonus and R.&#xa0;sanguineus (s.l). Borrelia burgdorferi sensu lato DNA was detected in 10.2% of I.&#xa0;ricinus. Mycoplasma haemominutum/haematoparvum DNA was detected in 21.8% of D.&#xa0;reticulatus, whereas M.&#xa0;turicensis DNA was detected in 14.3% of I.&#xa0;hexagonus. Results of this study show that ticks are a year-round risk for dogs and cats in France, and tick-borne pathogens are present as mono- or coinfections at high frequencies. Tick control recommendations for veterinarians and dog and cat owners should incorporate these risks.",
+      "authors": [
+        "Marques Alves C",
+        "Lavarec J",
+        "Agoulon A"
+      ],
+      "journal": "Parasites & vectors",
+      "publicationDate": "Mar 09, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41803982/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-11T06:36:26.305Z"
     },
     {
       "pmid": "41790564",
@@ -92,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:26.500Z"
+      "fetchedAt": "2026-03-11T06:36:16.670Z"
     },
     {
       "pmid": "41794949",
@@ -115,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:32.042Z"
+      "fetchedAt": "2026-03-11T06:36:21.119Z"
     },
     {
       "pmid": "41793143",
@@ -136,7 +251,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:32.542Z"
+      "fetchedAt": "2026-03-11T06:36:21.619Z"
     },
     {
       "pmid": "41774080",
@@ -159,7 +274,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:34.826Z"
+      "fetchedAt": "2026-03-11T06:36:23.759Z"
     },
     {
       "pmid": "41796643",
@@ -182,7 +297,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:25.930Z"
+      "fetchedAt": "2026-03-11T06:36:16.142Z"
     },
     {
       "pmid": "41786621",
@@ -205,7 +320,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:27.071Z"
+      "fetchedAt": "2026-03-11T06:36:17.200Z"
     },
     {
       "pmid": "41792177",
@@ -228,7 +343,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:33.043Z"
+      "fetchedAt": "2026-03-11T06:36:22.119Z"
     },
     {
       "pmid": "41786621",
@@ -251,7 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:39.245Z"
+      "fetchedAt": "2026-03-11T06:36:27.382Z"
     },
     {
       "pmid": "41774745",
@@ -274,7 +389,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:34.252Z"
+      "fetchedAt": "2026-03-11T06:36:23.222Z"
     },
     {
       "pmid": "41782738",
@@ -297,7 +412,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:27.571Z"
+      "fetchedAt": "2026-03-11T06:36:17.700Z"
     },
     {
       "pmid": "41770189",
@@ -318,7 +433,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:28.143Z"
+      "fetchedAt": "2026-03-11T06:36:18.232Z"
     },
     {
       "pmid": "41770041",
@@ -341,7 +456,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:28.728Z"
+      "fetchedAt": "2026-03-11T06:36:18.763Z"
     },
     {
       "pmid": "41741034",
@@ -364,30 +479,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:43.323Z"
-    },
-    {
-      "pmid": "41764219",
-      "title": "Assessment of lipid mediators in the urine of patients with Lyme disease, tick-borne encephalitis and human granulocytic anaplasmosis.",
-      "abstract": "To assess the host response to mono- and co-infection of tick-borne encephalitis (TBE) virus with Borrelia burgdorferi sensu lato and Anaplasma phagocytophilum bacteria, as well as the possibility of using the analysis of the level of endocannabinoids and eicosanoids in urine for effective diagnostics. Urine of patients with Lyme disease (LD) (in the form of erythema migrans (EM) or neuroborreliosis (NB)), TBE, diagnosed by ELISA-based detection of serum and CSF anti-TBEV IgM and IgG antibodies in all cases, human granulocytic anaplasmosis (HGA), co-infection of TBEV, LD, and healthy individuals (Control Group, CG) was analyzed. A GC/LC-MS/MS platform was used to identify changes in the phospholipid metabolite profile in urine. Lipid peroxidation product levels were estimated by measuring 4-hydroxy-2-nonenal (4-HNE by GC-MS/MS and F2-isoprostanes 8-isoPGF2&#x3b1; by LC-MS/MS). Endocannabinoids and eicosanoids levels were assessed using LC-MS/MS. Statistically significant differences in the concentration of 8-isoP (EM, NB, TBE vs. CG) were observed in patients' urine before treatment. However, the analysis of endocannabinoids showed significant differences in oleylethanolamide (OEA) concentration (TBE vs CG). The study of pro-inflammatory eicosanoid levels showed a difference for: prostaglandin E2 (PGE2) (TBE vs CG), leukotriene D4 LTD4 (EM vs HGA), and 5-hydroxyeicosatetraenoic acid (5-HETE) (EM vs NB), assessed before treatment. The levels of anti-inflammatory eicosanoids showed a difference for prostaglandin D2 (PGD2) (EM vs CG) and 15-hydroxyeicosatetraenoic acid (15-HETE) (TBE vs CG). However, the results in the level of phospholipid metabolites from patients after therapy did not show statistically significant differences compared to the value before treatment and between groups. Tick-borne diseases are accompanied by changes in lipid metabolism, both ROS- and enzyme-dependent, which can be identified even in urine. Urinary lipid mediators show potential as supportive markers but require validation in larger patient cohorts.",
-      "authors": [
-        "Biernacki M",
-        "Skrzydlewska E",
-        "Dobrzy&#x144;ska M"
-      ],
-      "journal": "Scientific reports",
-      "publicationDate": "Feb 28, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41764219/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-10T06:33:29.942Z"
+      "fetchedAt": "2026-03-11T06:36:31.137Z"
     },
     {
       "pmid": "41783506",
@@ -409,7 +501,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:33.622Z"
+      "fetchedAt": "2026-03-11T06:36:22.655Z"
     },
     {
       "pmid": "41758291",
@@ -431,76 +523,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:39.897Z"
-    },
-    {
-      "pmid": "41759876",
-      "title": "Distribution of Borrelia burgdorferi sensu lato in micromammals in the Republic of Korea.",
-      "abstract": "Lyme disease is a vector-borne zoonotic disease caused by spirochete bacteria of the genus Borrelia. It is primarily transmitted by ticks of the genus Ixodes. Vertebrate hosts, including rodents and insectivores such as shrews and moles, maintain the pathogens in ecosystems. Research on the prevalence and geographical distribution of Borrelia species and other micromammal-associated zoonotic pathogens in the Republic of Korea (ROK) is scarce. This study investigated the prevalence and distribution of Borrelia spp. in wild micromammals across the ROK to support Lyme disease control. In this study, we collected 200 spleen samples from micromammals in 14 regions nationwide, including Apodemus agrarius, Crocidura sp., Micromys minutus, and Apodemus peninsulae. Genomic DNA was extracted from the spleen tissues, and PCR and phylogenetic analyses targeting flagellin B (flaB), outer surface protein A (ospA), and 5S-23S rRNA intergenic spacer (5S-23S) were performed. Phylogenetic analysis based on flagellin B (flaB), outer surface protein A (ospA) and 5S-23S rRNA intergenic spacer (5S-23S) sequences revealed distinct clustering of Borrelia afzelii, Borrelia yangtzensis and a lineage designated as Borrelia sp. B. afzelii was predominantly detected in northern and central regions of the ROK, whereas B. yangtzensis was mainly present in the southern region of the ROK. This study provides updated insights into the prevalence and spatial distribution of Borrelia spp. in Korean micromammals. Our findings contribute to a better understanding of wildlife reservoirs and may inform future strategies to prevent and control micromammal-borne zoonoses.",
-      "authors": [
-        "Park JS",
-        "Seo JY",
-        "Lee HI"
-      ],
-      "journal": "Acta tropica",
-      "publicationDate": "Feb 26, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41759876/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-10T06:33:30.520Z"
-    },
-    {
-      "pmid": "41768217",
-      "title": "Enterococcal Endocarditis in a Bicuspid Aortic Valve Associated With a Sinus of Valsalva Aneurysm.",
-      "abstract": "This report describes a complex case of Enterococcus faecalis infective endocarditis (IE) in a 68-year-old man with an undiagnosed bicuspid aortic valve (BAV) and a concomitant sinus of Valsalva aneurysm (SoVA). A significant diagnostic challenge occurred as the patient's initial febrile illness was misattributed to Lyme disease; two subsequent 30-day courses of doxycycline partially treated the infection, masking the clinical severity and delaying diagnosis. The patient eventually presented with new-onset atrial fibrillation, heart failure, and a new bifascicular block. Transesophageal echocardiogram (TEE) revealed a bulky vegetation on the BAV, leaflet perforation, and severe aortic regurgitation, alongside a perivalvular aortic root abscess. Despite the diagnostic delay and anatomical complexity, the patient was successfully managed with urgent aortic valve and root replacement (Bentall procedure) and the placement of a leadless pacemaker for postoperative complete heart block. This case illustrates the \"perfect storm\" of high-risk anatomy (BAV and SoVA) and antibiotic-induced diagnostic masking, emphasizing that new conduction abnormalities or heart failure in febrile patients must trigger immediate TEE to identify perivalvular extension.",
-      "authors": [
-        "Khanna NR",
-        "DenDulk A",
-        "Pervaiz A"
-      ],
-      "journal": "Cureus",
-      "publicationDate": "Feb 25, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41768217/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-10T06:33:29.354Z"
-    },
-    {
-      "pmid": "41742048",
-      "title": "Bartonella quintana endocarditis presenting with severe coombs-positive anemia: a case report.",
-      "abstract": "",
-      "authors": [
-        "Zhang Y",
-        "Wangjia P",
-        "Yang S"
-      ],
-      "journal": "BMC cardiovascular disorders",
-      "publicationDate": "Feb 25, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41742048/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-10T06:33:37.119Z"
+      "fetchedAt": "2026-03-11T06:36:27.926Z"
     },
     {
       "pmid": "41745970",
@@ -523,7 +546,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:42.180Z"
+      "fetchedAt": "2026-03-11T06:36:30.065Z"
     },
     {
       "pmid": "41750996",
@@ -546,7 +569,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:41.608Z"
+      "fetchedAt": "2026-03-11T06:36:29.536Z"
     },
     {
       "pmid": "41754418",
@@ -569,30 +592,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:40.468Z"
-    },
-    {
-      "pmid": "41753612",
-      "title": "Tick-Borne Co-Infection in Lyme Disease: Clinical Impact, Diagnostic Challenges, and Therapeutic Perspectives.",
-      "abstract": "Tick-borne co-infections are an increasingly recognized and clinically important aspect of Lyme borreliosis, particularly in regions where Ixodes ticks transmit a wide range of bacterial, protozoan, and viral pathogens. In addition to Borrelia burgdorferi sensu lato, these ticks frequently harbor microorganisms such as Babesia spp., Anaplasma phagocytophilum, Ehrlichia spp., Borrelia miyamotoi, Bartonella spp., and several tick-borne viruses. Co-infections may increase disease severity, prolong symptom duration, and contribute to atypical or overlapping clinical presentations, thereby complicating diagnosis and management. Growing evidence from epidemiological studies, clinical case series, and experimental in vivo and in vitro models indicates that pathogen-pathogen and pathogen-host interactions can modulate immune responses and influence disease progression. Diagnostic challenges arise from non-specific clinical features and limitations of current laboratory methods. From a therapeutic perspective, although standard antibiotic regimens for Lyme disease are effective against some bacterial co-infections, they do not provide coverage for protozoan or viral agents, necessitating pathogen-specific and, in some cases, combination treatment strategies. This review synthesizes current knowledge on the epidemiology, clinical impact, diagnostic limitations, and treatment approaches for tick-borne co-infections associated with Lyme disease, and highlights critical evidence gaps and future research directions to improve patient outcomes.",
-      "authors": [
-        "Popov G",
-        "Bashchobanov D",
-        "Andonova R"
-      ],
-      "journal": "Microorganisms",
-      "publicationDate": "Jan 30, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41753612/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-10T06:33:36.619Z"
+      "fetchedAt": "2026-03-11T06:36:28.458Z"
     },
     {
       "pmid": "41753612",
@@ -615,7 +615,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:41.039Z"
+      "fetchedAt": "2026-03-11T06:36:28.993Z"
     },
     {
       "pmid": "41745927",
@@ -638,7 +638,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:42.752Z"
+      "fetchedAt": "2026-03-11T06:36:30.598Z"
     },
     {
       "pmid": "41754384",
@@ -661,7 +661,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:36.044Z"
+      "fetchedAt": "2026-03-11T06:36:24.862Z"
     },
     {
       "pmid": "41768943",
@@ -684,7 +684,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-10T06:33:35.396Z"
+      "fetchedAt": "2026-03-11T06:36:24.297Z"
     }
   ]
 }
