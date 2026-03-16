@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-15T06:41:59.837Z",
-  "totalPapers": 30,
+  "generatedAt": "2026-03-16T07:03:23.319Z",
+  "totalPapers": 20,
   "papers": [
     {
       "pmid": "41790956",
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:57.666Z"
+      "fetchedAt": "2026-03-16T07:03:21.078Z"
     },
     {
       "pmid": "41826535",
@@ -46,7 +46,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:31.263Z"
+      "fetchedAt": "2026-03-16T07:02:52.552Z"
     },
     {
       "pmid": "41826406",
@@ -69,12 +69,12 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:31.763Z"
+      "fetchedAt": "2026-03-16T07:02:53.052Z"
     },
     {
       "pmid": "41824187",
       "title": "First molecular detection of Babesia caballi in camel associated ticks in Uzbekistan, with no evidence of Anaplasma or Rickettsia.",
-      "abstract": "",
+      "abstract": "Dromedary camels (Camelus dromedarius) have an important role in food and textile production in arid and semi-arid regions of the world, yet data on their tick-borne pathogens (TBPs) is scarce, especially in Central Asia. This study aimed to: (i) identify the ticks infesting camels from different regions of Uzbekistan, (ii) molecularly detect TBPs in the collected ticks for the first time. In 2024, 290 camels from three regions (Karakalpakstan, Jizzakh, and Navoi) were examined for tick infestation. Ticks were collected, morphologically identified, pooled, and screened using PCR and sequencing for Babesia., Theileria., Anaplasma., and Rickettsia. Overall, 32.6% of camels harbored ticks, with 993 specimens collected, belonging to the genera Hyalomma, Dermacentor, and Rhipicephalus, comprising at least six species. Molecular analysis revealed the presence of Babesia caballi DNA in two tick pools, marking the first report of this equine pathogen in Hyalomma ticks from camels in Uzbekistan. No evidence of other piroplasm, Anaplasma or Rickettsia. was detected. This study presents an expansion of the known geographic and host range of B. caballi and suggests considering camels in TBP surveillance. Further studies combining molecular and serological approaches in multiple host species are needed to elucidate the epidemiological significance of these findings in Central Asia. The online version contains supplementary material available at 10.1007/s11259-026-11122-6.",
       "authors": [
         "Safarov A",
         "Mechouk N",
@@ -87,12 +87,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:54.079Z"
+      "fetchedAt": "2026-03-16T07:03:17.692Z"
     },
     {
       "pmid": "41818320",
@@ -115,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:32.433Z"
+      "fetchedAt": "2026-03-16T07:02:53.767Z"
     },
     {
       "pmid": "41817195",
@@ -138,30 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:54.784Z"
-    },
-    {
-      "pmid": "41814426",
-      "title": "Investigation of neglected bacterial pathogens provides molecular and serological evidence of Bartonella spp. in patients with acute undifferentiated febrile illness in Villeta, Colombia.",
-      "abstract": "Acute undifferentiated febrile illness (AUFI) is a challenging clinical condition in tropical regions, caused by a broad range of pathogens. In Villeta municipality, Colombia, data on neglected bacterial causes remain scarce, highlighting the need to expand understanding of the local etiological spectrum. Thus, the aim of the present study was to explore the presence of the neglected pathogens, Bartonella, Borrelia, and Coxiella burnetii, as potential causes of AUFI in Villeta. DNA was extracted from whole-blood samples from febrile patients. Quality and purity were assessed spectrophotometrically and by conventional polymerase chain reaction (PCR). Bartonella, Borrelia, and C. burnetii were detected using genus- and species-specific quantitative PCR (qPCR) assays. Bartonella-positive samples were further analyzed by multigene PCRs and sequencing for species identification. Anti-Bartonella and anti-C. burnetii immunoglobulin G (IgG) antibodies were evaluated by indirect immunofluorescence to assess recent or past exposure to these agents. A total of 41 febrile patients were evaluated. Bartonella DNA was detected in 9.8% (4/41) of samples. No Borrelia or C burnetii DNA was detected. Phylogenetic analysis revealed two distinct clades, although none could be assigned to species level. Serological analysis showed anti-Bartonella IgG antibodies in 29.3% (12/41) of cases, with 9.8% (4/41) exhibiting seroconversion. One patient presented both molecular and seroconversion evidence of recent Bartonella infection. None of the patients were seropositive for C. burnetii. This study provides the first molecular and serological evidence of Bartonella circulation among febrile patients in Villeta, Colombia, revealing genetically distinct lineages and indicating both active and past infections, underscoring its potential role in AUFI.",
-      "authors": [
-        "Silva-Ramos CR",
-        "Matiz-Gonz&#xe1;lez JM",
-        "Mendell NL"
-      ],
-      "journal": "Parasites & vectors",
-      "publicationDate": "Mar 11, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41814426/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-15T06:41:40.972Z"
+      "fetchedAt": "2026-03-16T07:03:18.252Z"
     },
     {
       "pmid": "41814402",
@@ -184,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:55.939Z"
+      "fetchedAt": "2026-03-16T07:03:19.393Z"
     },
     {
       "pmid": "41808193",
@@ -207,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:33.010Z"
+      "fetchedAt": "2026-03-16T07:02:54.320Z"
     },
     {
       "pmid": "41807010",
@@ -230,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:33.588Z"
+      "fetchedAt": "2026-03-16T07:02:54.892Z"
     },
     {
       "pmid": "41805357",
@@ -253,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:34.161Z"
+      "fetchedAt": "2026-03-16T07:02:55.503Z"
     },
     {
       "pmid": "41805015",
@@ -276,30 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:34.737Z"
-    },
-    {
-      "pmid": "41805839",
-      "title": "Defensive symbionts of European beewolves face competition from brood cell microbiota during vertical transmission.",
-      "abstract": "Beewolf wasps rely on an ancient defensive symbiosis with Streptomyces bacteria that protect their larvae from fungal infection. Female beewolves apply the bacteria to the brood-cell ceiling, and larvae later transfer the symbionts onto the cocoon surface, where they produce antifungal metabolites. Here, we investigated the mechanism of symbiont transfer from the beewolf brood cell to the larval cocoon and characterized the microbial community dynamics across different beewolf life stages and during larval hibernation. Fluorescence in situ hybridization revealed that the symbionts are transiently taken up into the proximal midgut lumen and then regurgitated onto the cocoon during the spinning process. High-throughput sequencing showed that the bacterial community of beewolf feeding larvae resembles that of the honeybee prey, whereas that of adults and diapausing larvae is dominated by Wolbachia. Moreover, the cocoon bacterial community is initially dominated by the defensive Streptomyces philanthi symbiont, but when larvae excrete the gut content inside the cocoon, other bacterial taxa including Lactobacillus, Gilliamella and Bartonella shift the community composition toward dominance by Pseudomonadota. Our findings provide new insights into the transmission route of an ancient extracellular symbiont and its potential competition with other bacteria in this long-term defensive symbiosis.",
-      "authors": [
-        "Matarrita-Carranza B",
-        "Weiss B",
-        "Sandoval-Calder&#xf3;n M"
-      ],
-      "journal": "FEMS microbiology ecology",
-      "publicationDate": "Mar 10, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41805839/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-15T06:41:42.124Z"
+      "fetchedAt": "2026-03-16T07:02:56.075Z"
     },
     {
       "pmid": "41801603",
@@ -322,30 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:35.312Z"
-    },
-    {
-      "pmid": "41803837",
-      "title": "Retraction Note: Post-COVID reactivation of latent Bartonella henselae infection: a case report and literature review.",
-      "abstract": "",
-      "authors": [
-        "Dong Y",
-        "Alhaskawi A",
-        "Zou X"
-      ],
-      "journal": "BMC infectious diseases",
-      "publicationDate": "Mar 09, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41803837/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-15T06:41:42.624Z"
+      "fetchedAt": "2026-03-16T07:02:56.647Z"
     },
     {
       "pmid": "41803982",
@@ -368,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:57.091Z"
+      "fetchedAt": "2026-03-16T07:03:20.508Z"
     },
     {
       "pmid": "41790564",
@@ -391,74 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:36.464Z"
-    },
-    {
-      "pmid": "41794949",
-      "title": "Molecular identification of bat fly species and associated Bartonella bacteria from Lopburi and Sa Kaeo Provinces in Thailand.",
-      "abstract": "Bat flies harbour several species of bacteria, including Bartonella. We examined 50 bat flies collected from five species of cave-dwelling bats (Eonycteris spelaea, Hipposideros larvatus, Taphozous theobaldi, T. melanopogon and Rousettus sp.) in Lopburi and Sa Kaeo Provinces, Thailand. Four bat fly species in Streblidae (Brachytarsina cucullata, n&#x2009;=&#x2009;18; B. macrops, n&#x2009;=&#x2009;6; Megastrebla gigantea, n&#x2009;=&#x2009;2; and Raymondia sp., n&#x2009;=&#x2009;7) and one species in Nycteribiidae (Eucampsipoda latisterna, n&#x2009;=&#x2009;17) were detected. The results of phylogenetic analyses of the COI, COII, 16S rRNA, and 18S rRNA gene sequences of these samples supported their morphological characteristics. They also provided the first molecular identification of these bat fly species and a new record of M. gigantea in Thailand. Molecular analyses of Bartonella from these bat flies using multigene analysis of five target markers (gltA, ITS, rpoB, nuoG and ftsZ) revealed a bacterial prevalence of 48%. Phylogenetic analyses identified six Bartonella species groups. They were related to those previously reported from Thailand and elsewhere in Asia and Africa. Interestingly, one group clustered with the potentially zoonotic species Bartonella rousetti found in Nigeria and Zambia. These findings highlight the rich biodiversity, particularly in terms of parasite-vector-host relationships, in the tropical climate of Thailand and Southeast Asia.",
-      "authors": [
-        "Rattananupong V",
-        "Trinachartvanit W",
-        "Bumrungsri S"
-      ],
-      "journal": "Scientific reports",
-      "publicationDate": "Mar 07, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41794949/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-15T06:41:43.203Z"
-    },
-    {
-      "pmid": "41793143",
-      "title": "EXPRESSION OF CONCERN: Erythroblast Cells as a Target for Bartonella Quintana in Homeless People.",
-      "abstract": "",
-      "authors": [
-        "Unknown Author"
-      ],
-      "journal": "Annals of the New York Academy of Sciences",
-      "publicationDate": "Mar 7, 2026",
-      "articleType": "Expression of Concern",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41793143/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-15T06:41:43.703Z"
-    },
-    {
-      "pmid": "41774080",
-      "title": "Untitled",
-      "abstract": "The genus Bartonella comprises over 40 species, most of which are haemoparasites of mammals. Herein, we describe Bartonella bennetti sp. nov., a novel member of the genus, isolated from field voles (Microtus agrestis) in Kielder Forest, UK. Polyphasic characterization of three strains (C271T, D105 and J117) of the proposed species indicated that they were closely related to members of phylogenetic lineage 3 (L3) of the genus. The average nucleotide identity (ANI) between C271T and other L3 species ranged between 88.8 and 90.6%, supporting the proposal of a new species. C271T shared ANIs approaching 96% with other members of L3 that are yet to be validly published but exhibited marked genomic, ecological and biogeographical differences from them, further justifying the creation of a new taxon. All three B. bennetti sp. nov. strains were found to possess genes encoding three VirB/D4 type IV secretion systems and associated effector proteins and to harbour a chromosomally integrated F-type conjugative plasmid, which forms an Hfr-like configuration not previously observed in the Bartonella genus. This integration could facilitate large-scale chromosomal gene transfer during conjugation, with potential consequences for adaptation, recombination and niche differentiation. The phylogenetic structure of L3, coupled with the ecological partitioning of its members, suggests that covert host specificity, not generalism, is the dominant mode of diversification. The absence of the Trw system, which facilitates host switching in lineage 4 (L4), may constrain ecological breadth in L3, thought to be undergoing a parallel adaptive radiation with L4. The discovery of B. bennetti sp. nov. underscores the importance of combining genomic, ecological and evolutionary evidence when delimiting species boundaries in Bartonella and raises new hypotheses about the role of Hfr-mediated recombination in the evolutionary dynamics of host-adapted pathogens. The type strain of B. bennetti sp. nov. is C271T (CSUR B1113T, NCTC 15117T).",
-      "authors": [
-        "Brierley S",
-        "Mackenzie L",
-        "Telfer S"
-      ],
-      "journal": "International journal of systematic and evolutionary microbiology",
-      "publicationDate": "Mar 7, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41774080/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-15T06:41:45.988Z"
+      "fetchedAt": "2026-03-16T07:02:57.802Z"
     },
     {
       "pmid": "41796643",
@@ -481,30 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:35.889Z"
-    },
-    {
-      "pmid": "41792177",
-      "title": "Drug target mining and in silico screening of Tibetan plant metabolites for potential alleviation of Oroya fever, a neglected tropical disease.",
-      "abstract": "",
-      "authors": [
-        "Basharat Z",
-        "Raza A",
-        "Ogaly HA"
-      ],
-      "journal": "Scientific reports",
-      "publicationDate": "Mar 06, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41792177/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-15T06:41:44.204Z"
+      "fetchedAt": "2026-03-16T07:02:57.215Z"
     },
     {
       "pmid": "41786621",
@@ -527,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:58.262Z"
+      "fetchedAt": "2026-03-16T07:03:21.759Z"
     },
     {
       "pmid": "41815843",
@@ -549,7 +390,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:55.359Z"
+      "fetchedAt": "2026-03-16T07:03:18.817Z"
     },
     {
       "pmid": "41807898",
@@ -572,52 +413,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:56.516Z"
-    },
-    {
-      "pmid": "41774745",
-      "title": "Exploratory study on the impact of Ganoderma australe extract on gut microbiota and immune gene expression in honey bees exposed to Vairimorpha ceranae.",
-      "abstract": "The microsporidium Vairimorpha (Nosema) ceranae is an emerging threat to honey bees (Apis mellifera), known to disrupt gut microbiota and suppress immune responses, potentially contributing to colony losses. Fungal extracts have recently gained interest as sources of bioactive compounds with antimicrobial and immunomodulatory potential. In this study, we explored the effects of different dietary supplements-sugar syrup, HiveAlive&#x2122;, and a novel Ganoderma australe extract (GanoBee)-on gut bacterial composition and immune-related gene expression in honey bees subjected to experimental exposure to V. ceranae 1 x 104 spores per bee. The GanoBee diet altered the gut microbiota, notably reducing the relative abundance of Rhizobiaceae (Bartonella apis) and increasing Frischella compared to other treatments. While alpha diversity was not significantly affected by diet or exposure to V. ceranae, beta diversity differed significantly in bees fed with GanoBee. Additionally, the expression of the antimicrobial peptide genes abaecin and hymenoptaecin was elevated in both exposed and unexposed bees fed with GanoBee, depending on the sampling day. However, the establishment of V. ceranae infection appeared limited, likely due to low spore viability, and mortality in control bees was higher than expected. The low Vairimorpha ceranae infection levels observed in this study are likely attributable to reduced spore viability caused by storage conditions and/or suboptimal environmental conditions within the laboratory cages. Post hoc analyses indicated that the high viscosity of GanoBee-supplemented diets likely contributed to the elevated bee mortality observed, underscoring a critical limitation of the experimental design related to diet formulation and delivery method. These physical factors complicate the interpretation of treatment efficacy and highlight the importance of optimizing feeding protocols to avoid confounding effects. Despite these constraints, GanoBee demonstrated promising potential as a modulator of gut microbiota composition and immune-related gene expression, supporting the need for further research under improved and carefully controlled experimental conditions.",
-      "authors": [
-        "Zuern S",
-        "Romero B",
-        "Spichiger C"
-      ],
-      "journal": "PloS one",
-      "publicationDate": "03 03, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41774745/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-15T06:41:45.411Z"
-    },
-    {
-      "pmid": "41783506",
-      "title": "An abnormal immune response masquerading as infectious conditions.",
-      "abstract": "Kikuchi-Fujimoto disease (KFD) is a rare, benign, self-limited lymphadenitis most commonly affecting children and young adults, particularly females of Asian descent. Its etiology is unclear but is thought to involve immune dysregulation triggered by infection. We report a 14-year-old South Asian female presenting with 8&#x2009;days of high fever, frontal headache, bilateral eye redness, transient arthralgias, and palpable lymphadenopathy in the cervical, axillary, and supraclavicular regions. Her history included recent travel to multiple countries and a prior episode of fever of unknown origin attributed to Bartonella. Initial laboratory evaluation revealed pancytopenia, elevated transaminases, and increased erythrocyte sedimentation rate and lactate dehydrogenase with normal C reactive protein. Infectious workup was negative for malaria, cytomegalovirus, West Nile virus, Rickettsia, Bartonella, and dengue. Ultrasound of the left axilla and computed tomography showed bilateral axillary lymphadenopathy. A cytokine panel demonstrated markedly elevated IL-18. Definitive diagnosis was established by axillary lymph node biopsy, which revealed histiocytic necrotizing lymphadenitis consistent with KFD. Systemic inflammatory disorders such as systemic-onset juvenile idiopathic arthritis, multisystem inflammatory syndrome in children, and Kawasaki disease were considered and excluded based on clinical, laboratory, and histopathological findings. The patient's fever resolved after dexamethasone administration, supporting an immune-mediated process. She subsequently developed recurrent fever, rash, and oral ulcers, which responded rapidly to intravenous corticosteroids, followed by a steroid taper.",
-      "authors": [
-        "Kieu Q",
-        "Leyden B"
-      ],
-      "journal": "SAGE open medical case reports",
-      "publicationDate": "02 28, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41783506/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-15T06:41:44.839Z"
+      "fetchedAt": "2026-03-16T07:03:19.946Z"
     },
     {
       "pmid": "41758291",
@@ -639,7 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:58.836Z"
+      "fetchedAt": "2026-03-16T07:03:22.318Z"
     },
     {
       "pmid": "41828448",
@@ -662,30 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-15T06:41:53.579Z"
-    },
-    {
-      "pmid": "41812225",
-      "title": "Physiology of the cat flea (Ctenocephalides felis) gut: serine protease activity, midgut pH, and intestinal barrier integrity.",
-      "abstract": "Fleas carry many bacterial pathogens, such as Bartonella henselae, Rickettsia typhi, and Yersinia pestis, which must adapt to the unique physiology of the flea digestive system to survive. Despite the importance of the gut environment in supporting pathogen persistence, key aspects of flea digestion and the intestinal barrier remain poorly understood. This study investigated the digestive system of the cat flea (Ctenocephalides felis), focusing on midgut pH, serine protease activity, and how aging affects intestinal integrity. Our results showed that trypsin activity is stable during early digestion but peaks around 24&#x2009;h after a blood meal, during which the midgut temporarily becomes more alkaline before returning to acidic conditions. Bacterial infection disrupted the normal gut environment, leading to prolonged acidification and delayed but heightened trypsin activity. This suggests that fleas actively modify their gut conditions in response to pathogens. To assess structural integrity, we measured collagen IV denaturation in the basal lamina and used a non-absorbable food dye to evaluate barrier permeability. Denatured collagen was highest at 7 d post-emergence, but no dye leaked into the hemocoel, indicating that the midgut barrier remained functionally intact. Overall, these findings highlight a complex interaction between digestion, immune response, and aging in the flea gut, providing insights into how the midgut environment influences pathogen survival and transmission.",
-      "authors": [
-        "Zellner PN",
-        "Njoroge E",
-        "Lynch A"
-      ],
-      "journal": "Journal of medical entomology",
-      "publicationDate": "Jan 20, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41812225/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-15T06:41:41.548Z"
+      "fetchedAt": "2026-03-16T07:03:17.024Z"
     }
   ]
 }
