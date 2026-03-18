@@ -1,20 +1,66 @@
 {
-  "generatedAt": "2026-03-17T06:48:52.338Z",
+  "generatedAt": "2026-03-18T06:47:24.836Z",
   "totalPapers": 30,
   "papers": [
     {
-      "pmid": "41790956",
-      "title": "Untitled",
-      "abstract": "A zoonotic Babesia species previously referred to as Babesia sp. MO1 is formally described and named here as Babesia hegotelforum sp. nov. This taxon is distinct from Babesia divergens based on genome-wide sequence divergence, phylogenetic placement, host associations, and clinical presentation. The parasite infects erythrocytes of humans, and eastern cottontail rabbits (Sylvilagus floridanus), and is transmitted by Ixodes dentatus. The holotype consists of a Giemsa-stained thin blood smear and cryopreserved infected erythrocytes from the cloned isolate BML-Bh-B12 at &#x2264;10 passages in continuous in vitro culture. Paratype material includes five additional clones (BML-Bh-H1, BML-Bh-F12, BML-Bh-H6, BML-Bh-A3, and BML-Bh-F1) derived from BEI Resources strain NR-50441, along with the original mixed isolate NR-50441. This species description meets the requirements of the International Code of Zoological Nomenclature and establishes Babesia hegotelforum sp. nov. as a distinct species of clinical and epidemiological significance in North America.",
+      "pmid": "41843221",
+      "title": "Treatment failure in a dog with acute Babesia canis infection using lower-range therapeutic doses of imidocarb dipropionate.",
+      "abstract": "",
       "authors": [
-        "Singh P",
-        "Estrada K",
-        "Gonzalez LM"
+        "Sch&#xe4;fer I",
+        "Baitis V",
+        "Strube C"
       ],
-      "journal": "Emerging microbes & infections",
-      "publicationDate": "Dec 06, 2026",
+      "journal": "Parasitology research",
+      "publicationDate": "Mar 17, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41790956/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41843221/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-18T06:47:18.892Z"
+    },
+    {
+      "pmid": "41840367",
+      "title": "Epidemiology of tick-borne diseases diagnosed in patients in north-eastern Italy, 2015-2022.",
+      "abstract": "Ixodes ricinus is the most abundant tick species in Europe and a primary vector for multiple pathogens affecting human and animal health. Over the past 70 years in Europe, including Italy, the geographical distribution of I. ricinus has expanded, increasing the opportunities for tick-human interactions. This observational retrospective study evaluates tick-borne disease (TBD) diagnostic activities conducted from 2015 to 2022 in northeastern Italian hospitals, focusing on areas with significant I. ricinus presence. Data from over 49,000 human samples that underwent serological screening for Lyme borreliosis (LB), rickettsiosis, anaplasmosis, babesiosis, and tick-borne encephalitis (TBE) were extracted from the information systems of the 4 participating hospitals. Over 52,000 individual serological tests on this population with suspected TBD were performed, primarily for LB (78.4%) and TBE (16.7%), with positivity rates of 14.8% and 21%, respectively, showing significant increasing trend between 2015 and 2022. Male patients predominated (51% for LB and 61% for TBE), especially for IgG positivity, with the 60-69 (LB) and 40-49 (TBE) age groups most affected. Rickettsiosis testing revealed 11.5% positivity with a stable trend, affecting both genders equally, predominately in the 30-39 age group. Anaplasmosis diagnostics (248 tests) showed a maximum positivity rate of ~&#x2009;9%, while limited babesiosis testing (64 tests) indicated up to 50% positivity in recent years. The findings underscore the need for enhanced diagnostic tests, vigilant surveillance, and ongoing public education on TBD risks as crucial strategies to mitigate infection risk and reduce the public health impact of TBDs in the northeastern of Italy. Not applicable.",
+      "authors": [
+        "Flaminio G",
+        "Ghiorzi E",
+        "Battistel M"
+      ],
+      "journal": "BMC infectious diseases",
+      "publicationDate": "Mar 16, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41840367/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-18T06:47:06.329Z"
+    },
+    {
+      "pmid": "41840367",
+      "title": "Epidemiology of tick-borne diseases diagnosed in patients in north-eastern Italy, 2015-2022.",
+      "abstract": "Ixodes ricinus is the most abundant tick species in Europe and a primary vector for multiple pathogens affecting human and animal health. Over the past 70 years in Europe, including Italy, the geographical distribution of I. ricinus has expanded, increasing the opportunities for tick-human interactions. This observational retrospective study evaluates tick-borne disease (TBD) diagnostic activities conducted from 2015 to 2022 in northeastern Italian hospitals, focusing on areas with significant I. ricinus presence. Data from over 49,000 human samples that underwent serological screening for Lyme borreliosis (LB), rickettsiosis, anaplasmosis, babesiosis, and tick-borne encephalitis (TBE) were extracted from the information systems of the 4 participating hospitals. Over 52,000 individual serological tests on this population with suspected TBD were performed, primarily for LB (78.4%) and TBE (16.7%), with positivity rates of 14.8% and 21%, respectively, showing significant increasing trend between 2015 and 2022. Male patients predominated (51% for LB and 61% for TBE), especially for IgG positivity, with the 60-69 (LB) and 40-49 (TBE) age groups most affected. Rickettsiosis testing revealed 11.5% positivity with a stable trend, affecting both genders equally, predominately in the 30-39 age group. Anaplasmosis diagnostics (248 tests) showed a maximum positivity rate of ~&#x2009;9%, while limited babesiosis testing (64 tests) indicated up to 50% positivity in recent years. The findings underscore the need for enhanced diagnostic tests, vigilant surveillance, and ongoing public education on TBD risks as crucial strategies to mitigate infection risk and reduce the public health impact of TBDs in the northeastern of Italy. Not applicable.",
+      "authors": [
+        "Flaminio G",
+        "Ghiorzi E",
+        "Battistel M"
+      ],
+      "journal": "BMC infectious diseases",
+      "publicationDate": "Mar 16, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41840367/",
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
@@ -23,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:50.799Z"
+      "fetchedAt": "2026-03-18T06:47:19.444Z"
     },
     {
       "pmid": "41838252",
@@ -46,7 +92,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:46.445Z"
+      "fetchedAt": "2026-03-18T06:47:19.944Z"
     },
     {
       "pmid": "41831185",
@@ -69,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:40.265Z"
+      "fetchedAt": "2026-03-18T06:47:12.629Z"
     },
     {
       "pmid": "41826535",
@@ -92,7 +138,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:33.904Z"
+      "fetchedAt": "2026-03-18T06:47:06.829Z"
     },
     {
       "pmid": "41826406",
@@ -115,7 +161,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:34.405Z"
+      "fetchedAt": "2026-03-18T06:47:07.330Z"
     },
     {
       "pmid": "41824187",
@@ -138,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:47.532Z"
+      "fetchedAt": "2026-03-18T06:47:21.052Z"
     },
     {
       "pmid": "41818320",
@@ -161,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:35.040Z"
+      "fetchedAt": "2026-03-18T06:47:07.941Z"
     },
     {
       "pmid": "41817195",
@@ -184,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:48.094Z"
+      "fetchedAt": "2026-03-18T06:47:21.610Z"
     },
     {
       "pmid": "41814426",
@@ -207,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:40.809Z"
+      "fetchedAt": "2026-03-18T06:47:13.285Z"
     },
     {
       "pmid": "41814402",
@@ -230,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:49.176Z"
+      "fetchedAt": "2026-03-18T06:47:22.729Z"
     },
     {
       "pmid": "41808193",
@@ -253,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:35.578Z"
+      "fetchedAt": "2026-03-18T06:47:08.512Z"
     },
     {
       "pmid": "41807010",
@@ -276,7 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:36.119Z"
+      "fetchedAt": "2026-03-18T06:47:09.079Z"
     },
     {
       "pmid": "41805357",
@@ -299,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:36.663Z"
+      "fetchedAt": "2026-03-18T06:47:09.627Z"
     },
     {
       "pmid": "41805015",
@@ -322,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:37.206Z"
+      "fetchedAt": "2026-03-18T06:47:10.181Z"
     },
     {
       "pmid": "41805839",
@@ -345,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:41.955Z"
+      "fetchedAt": "2026-03-18T06:47:14.385Z"
     },
     {
       "pmid": "41801603",
@@ -368,7 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:37.740Z"
+      "fetchedAt": "2026-03-18T06:47:10.734Z"
     },
     {
       "pmid": "41803837",
@@ -391,7 +437,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:42.454Z"
+      "fetchedAt": "2026-03-18T06:47:14.884Z"
     },
     {
       "pmid": "41803982",
@@ -414,30 +460,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:50.257Z"
-    },
-    {
-      "pmid": "41790564",
-      "title": "Association between spirochaetal infection and neurodegenerative diseases: a systematic review and quantitative synthesis of observational studies.",
-      "abstract": "Introduction. Neurodegenerative diseases, including Alzheimer's and Parkinson's, are a growing global health concern. While age remains the primary risk factor, infectious agents have been proposed as potential contributors to disease onset or progression.Gap statement. Spirochaetal bacteria, such as Treponema pallidum, Borrelia burgdorferi and Leptospira spp., can invade the central nervous system, yet the extent to which these infections influence neurodegenerative outcomes remains unclear.Aim. This systematic review aimed to evaluate observational evidence on the association between spirochaetal infections and neurodegenerative diseases and to identify gaps in the literature to inform future research.Methodology. A systematic search of SCOPUS, EMBASE, PubMed/MEDLINE, Web of Science and CINAHL was conducted for studies published between January 2000 and May 2025. Eligible studies were observational, involved adult human populations and reported both spirochaetal infection and cognitive or neurodegenerative outcomes using standardized methods. Data were extracted using a standardized form. Owing to heterogeneity in study design, diagnostic approaches, outcome measures and reporting formats, an overall pooled meta-analysis was not feasible; however, a quantitative synthesis using meta-analytic methods was conducted for studies reporting mini-mental state examination data. Risk of bias was assessed using the Newcastle-Ottawa Scale.Results. Twenty-seven studies met the inclusion criteria: 13 on T. pallidum, 13 on B. burgdorferi and one on Leptospira spp. No eligible studies were found for Brachyspira spp., and studies involving Treponema denticola were excluded due to confounding by periodontitis. Studies investigating syphilis and leptospirosis consistently reported cognitive impairment and increased dementia risk. In contrast, findings for Lyme disease were heterogeneous, with some studies reporting persistent symptoms or increased Alzheimer's risk, while others found no long-term cognitive effects.Conclusion. This review highlights a potential link between spirochaetal infections and neurodegenerative outcomes, particularly for syphilis and leptospirosis. Evidence for Lyme disease remains inconclusive. Future research should prioritize longitudinal studies with standardized diagnostic criteria, integration of neuroimaging and biomarker data and improved diagnostic accuracy for spirochaetal infections.",
-      "authors": [
-        "Horton M",
-        "Whiley DJ",
-        "Mayhew M"
-      ],
-      "journal": "Journal of medical microbiology",
-      "publicationDate": "Mar 7, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41790564/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-17T06:48:38.820Z"
+      "fetchedAt": "2026-03-18T06:47:23.836Z"
     },
     {
       "pmid": "41794949",
@@ -460,7 +483,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:43.077Z"
+      "fetchedAt": "2026-03-18T06:47:15.442Z"
     },
     {
       "pmid": "41793143",
@@ -481,7 +504,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:43.577Z"
+      "fetchedAt": "2026-03-18T06:47:15.941Z"
     },
     {
       "pmid": "41796643",
@@ -504,7 +527,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:38.285Z"
+      "fetchedAt": "2026-03-18T06:47:11.286Z"
     },
     {
       "pmid": "41792177",
@@ -527,30 +550,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:44.077Z"
-    },
-    {
-      "pmid": "41786621",
-      "title": "A pseudochromosomal reference genome of the golden jackal, Canis aureus.",
-      "abstract": "The golden jackal (Canis aureus) is rapidly expanding its range in Europe, driven by climate and habitat changes, human influence, and changes in competition with wolves. Its ecological flexibility enables it to thrive in various habitats, including urban areas, raising concerns about its potential role in spreading zoonotic diseases. Jackals may act as reservoirs for pathogens such as Lyme disease and babesiosis, affecting wildlife, humans, and pets. Their close genetic relationship with domestic dogs also increases the risk of hybridization and host-jumping, complicating disease dynamics. To better understand their dispersal ability and host-pathogen dynamics, we present the first pseudochromosomal genome assembly of the golden jackal, generated using PacBio HiFi sequencing and reference-based scaffolding. The final assembly has a total length of 2.53 Gb in 325 scaffolds, with 98.41% of the sequence anchored to the expected 38+XY chromosomes. The assembly shows high contiguity, with scaffold and contig N50 values of 68.03 Mb and 56.64 Mb, respectively. Annotation revealed 20,620 protein-coding genes, and repetitive elements account for 40.58% of the total assembly. This highly contiguous reference genome provides an essential resource for studying the genetic basis of the golden jackal's adaptation, ecological interactions, and potential as a zoonotic reservoir. It also supports efforts to monitor population expansion and its effects on ecosystems. By advancing our understanding of golden jackal genetics, this work enables future research on evolution, host-pathogen dynamics, and the broader consequences of wildlife dispersal in a rapidly changing environment.",
-      "authors": [
-        "Winter S",
-        "Mei&#xdf;ner R",
-        "Prost S"
-      ],
-      "journal": "The Journal of heredity",
-      "publicationDate": "Mar 06, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41786621/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-17T06:48:51.338Z"
+      "fetchedAt": "2026-03-18T06:47:16.442Z"
     },
     {
       "pmid": "41815843",
@@ -572,7 +572,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:48.641Z"
+      "fetchedAt": "2026-03-18T06:47:22.171Z"
     },
     {
       "pmid": "41807898",
@@ -595,7 +595,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:49.717Z"
+      "fetchedAt": "2026-03-18T06:47:23.283Z"
     },
     {
       "pmid": "41774745",
@@ -618,7 +618,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:45.158Z"
+      "fetchedAt": "2026-03-18T06:47:17.545Z"
     },
     {
       "pmid": "41783506",
@@ -640,7 +640,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:44.617Z"
+      "fetchedAt": "2026-03-18T06:47:16.993Z"
     },
     {
       "pmid": "41828448",
@@ -663,7 +663,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:46.989Z"
+      "fetchedAt": "2026-03-18T06:47:20.496Z"
     },
     {
       "pmid": "41812225",
@@ -686,7 +686,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-17T06:48:41.359Z"
+      "fetchedAt": "2026-03-18T06:47:13.834Z"
     }
   ]
 }
