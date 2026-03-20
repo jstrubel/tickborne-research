@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-03-19T06:42:18.338Z",
+  "generatedAt": "2026-03-20T06:38:48.172Z",
   "totalPapers": 30,
   "papers": [
+    {
+      "pmid": "41856815",
+      "title": "Babesia microti.",
+      "abstract": "",
+      "authors": [
+        "Wang S",
+        "Zhao J",
+        "He L"
+      ],
+      "journal": "Trends in parasitology",
+      "publicationDate": "Mar 18, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41856815/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-20T06:38:41.960Z"
+    },
     {
       "pmid": "41845555",
       "title": "Seroprevalence of Bartonella henselae Immunoglobulin G and Associated Risk Factors Among Adults Undergoing Health Screening in Urban Korea.",
@@ -23,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:06.116Z"
+      "fetchedAt": "2026-03-20T06:38:35.319Z"
     },
     {
       "pmid": "41849967",
@@ -46,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:12.412Z"
+      "fetchedAt": "2026-03-20T06:38:43.144Z"
     },
     {
       "pmid": "41843221",
@@ -69,7 +92,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:14.034Z"
+      "fetchedAt": "2026-03-20T06:38:44.855Z"
     },
     {
       "pmid": "41840367",
@@ -92,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:00.034Z"
+      "fetchedAt": "2026-03-20T06:38:29.568Z"
     },
     {
       "pmid": "41840367",
@@ -115,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:14.600Z"
+      "fetchedAt": "2026-03-20T06:38:45.475Z"
     },
     {
       "pmid": "41838252",
@@ -138,7 +161,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:15.099Z"
+      "fetchedAt": "2026-03-20T06:38:45.974Z"
     },
     {
       "pmid": "41831185",
@@ -161,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:06.682Z"
+      "fetchedAt": "2026-03-20T06:38:35.914Z"
     },
     {
       "pmid": "41826535",
@@ -184,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:00.587Z"
+      "fetchedAt": "2026-03-20T06:38:30.162Z"
     },
     {
       "pmid": "41826406",
@@ -207,7 +230,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:01.087Z"
+      "fetchedAt": "2026-03-20T06:38:30.661Z"
     },
     {
       "pmid": "41824187",
@@ -230,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:16.224Z"
+      "fetchedAt": "2026-03-20T06:38:47.172Z"
     },
     {
       "pmid": "41818320",
@@ -253,30 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:01.696Z"
-    },
-    {
-      "pmid": "41817195",
-      "title": "Untitled",
-      "abstract": "Salmonella enterica serotype Dublin is a major concern for livestock, particularly due to its high morbidity and mortality rates in cattle herds. In Brazil, limited research has explored the epidemiology of this serovar, including outbreak characterization, antimicrobial susceptibility profiles, and genetic similarity of isolates. This study aimed to describe the clinical and epidemiological features of confirmed S. Dublin outbreaks across multiple Brazilian cattle herds, as well as to assess antimicrobial resistance profiles, identify resistance genes, and evaluate genetic similarity among isolates. Between 2018 and 2025, S. Dublin outbreaks were confirmed on 19 farms, most of which (84.2%) were dairy facilities involving calves. In 57.9% of the outbreaks, calves aged 90-180 days were affected. Notably, 68.4% of the farms reported S. Dublin outbreaks following or coinciding with an increase in cases of bovine tick fever (babesiosis and/or anaplasmosis). The majority of isolates (79.5%) were resistant to at least one antimicrobial, and 20.5% were classified as multidrug-resistant. Among the resistance determinants identified, a point mutation in gyrA, detected in more than a quarter of the sequenced isolates, was particularly notable. Single-nucleotide polymorphism (SNP) and core genome multilocus sequence typing (cgMLST) analyses revealed marked genetic similarity among isolates from related outbreaks, highlighting the risk of introducing S. Dublin through the purchase of untested animals. A high similarity was also observed between outbreak isolates and strains previously associated with human infections in Brazil, underscoring the zoonotic potential of S. Dublin. Salmonella Dublin is a cattle-adapted serovar capable of causing disease and substantial economic losses in the livestock sector. In humans, this serotype is also associated with serious illness and has the highest reported fatality rate among Salmonella enterica serotypes. In this study, we aimed to describe 19 outbreaks of S. Dublin in cattle herds and to characterize the clinical and epidemiological features of the disease in cattle, given the scarcity of information in the literature. Alongside this, we sequenced at least one isolate per farm to investigate antimicrobial resistance genes, mobile genetic elements, and the similarity between our strains and those from bovine and human sources in Brazil and elsewhere. Overall, this is the first study to assess the clinical aspects of S. Dublin in cattle herds from tropical regions, accompanied by the antimicrobial profiles of these isolates and their genomic relatedness to strains isolated from human clinical infections.",
-      "authors": [
-        "Zanon IP",
-        "Amarante VSd",
-        "Kenney S"
-      ],
-      "journal": "Microbiology spectrum",
-      "publicationDate": "Mar 12, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41817195/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-19T06:42:16.788Z"
+      "fetchedAt": "2026-03-20T06:38:31.260Z"
     },
     {
       "pmid": "41814426",
@@ -299,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:07.286Z"
+      "fetchedAt": "2026-03-20T06:38:36.516Z"
     },
     {
       "pmid": "41808193",
@@ -322,7 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:02.251Z"
+      "fetchedAt": "2026-03-20T06:38:31.863Z"
     },
     {
       "pmid": "41807010",
@@ -345,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:02.807Z"
+      "fetchedAt": "2026-03-20T06:38:32.463Z"
     },
     {
       "pmid": "41805357",
@@ -368,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:03.376Z"
+      "fetchedAt": "2026-03-20T06:38:33.059Z"
     },
     {
       "pmid": "41805015",
@@ -391,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:04.178Z"
+      "fetchedAt": "2026-03-20T06:38:33.661Z"
     },
     {
       "pmid": "41805839",
@@ -414,30 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:08.395Z"
-    },
-    {
-      "pmid": "41801603",
-      "title": "Persistent bradycardia requiring temporary pacing in a young adult with lyme carditis: a case report.",
-      "abstract": "Lyme disease is a common vector-borne infection that can lead to complications such as Lyme carditis (LC), particularly in untreated cases. LC can manifest as conduction abnormalities, including heart block and other arrhythmias, potentially leading to serious cardiac events. We report a case of a 38-year-old male with no prior medical history presenting with recurrent dizziness and bradycardia. The patient exhibited Erythema Migrans and had a history of a recent tick bite, with Lyme serology confirming the diagnosis. Despite intravenous ceftriaxone, the patient experienced persistent bradycardia and intermittent episodes of ventricular tachycardia, necessitating transvenous pacing. His condition stabilized, and he completed a 28-day antibiotic regimen, leading to full recovery. This case highlights the importance of recognizing Lyme carditis in endemic areas and the role of temporary pacing in managing symptomatic bradycardia. Early intervention with antibiotics and appropriate supportive measures can facilitate recovery, prevent progression, and reduce the need for permanent pacing.",
-      "authors": [
-        "Hazique M",
-        "Ekta F",
-        "Grewal S"
-      ],
-      "journal": "The Egyptian heart journal : (EHJ) : official bulletin of the Egyptian Society of Cardiology",
-      "publicationDate": "Mar 09, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41801603/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-19T06:42:04.754Z"
+      "fetchedAt": "2026-03-20T06:38:37.705Z"
     },
     {
       "pmid": "41803837",
@@ -460,7 +437,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:08.896Z"
+      "fetchedAt": "2026-03-20T06:38:38.204Z"
     },
     {
       "pmid": "41794949",
@@ -483,7 +460,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:09.452Z"
+      "fetchedAt": "2026-03-20T06:38:38.801Z"
     },
     {
       "pmid": "41793143",
@@ -504,7 +481,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:09.951Z"
+      "fetchedAt": "2026-03-20T06:38:39.301Z"
     },
     {
       "pmid": "41792177",
@@ -527,29 +504,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:10.452Z"
-    },
-    {
-      "pmid": "41815843",
-      "title": "Untitled",
-      "abstract": "The discovery of broad-spectrum antiparasitic agents relies on the ability to evaluate drug efficacy under harmonized in vitro conditions across related species. However, current drug screening pipelines for intraerythrocytic parasites are constrained by the use of species-specific media with distinct nutrient compositions and serum sources, which hinder direct comparison of compound potency. To address this gap, we describe a unified erythrocytic culture system based on DMEM/F12 supplemented with 20% fetal bovine serum (DFS20), which supports robust asexual growth of multiple Plasmodium falciparum strains (3D7, Dd2, HB3, V1/S), Babesia duncani, Babesia divergens (Rouen 87), and Babesia MO1. Parasite proliferation and morphology in DFS20 are comparable to those observed in established species-specific media such as RPMI-1640 for P. falciparum and B. divergens and HL-1/Claycomb/DMEM/F12/SFM for B. duncani, while eliminating reliance on undefined or discontinued proprietary components. Importantly, this standardized medium enables cross-species growth inhibition assays for direct comparison of drug efficacy under identical conditions. Using this platform, we recently screened dihydrotriazines and biguanides targeting the conserved DHFR-TS enzymes and identified potent antifolate candidates with broad-spectrum activity against Babesia and Plasmodium species. For B. duncani, which is uniquely supported by both a continuous in vitro human erythrocyte culture system and a lethal in vivo mouse infection model, integration with the in-culture and in-mouse (ICIM) pipeline enables systematic validation of pharmacodynamics, pharmacokinetics, resistance, and toxicity. This unified DFS20-based system establishes a scalable and reproducible protocol for harmonized drug efficacy evaluation across intraerythrocytic parasites and provides a foundation for the development and prioritization of pan-antiparasitic therapies. Key features &#x2022; Common culture medium (CCM): DFS20 supports consistent Babesia and Plasmodium growth, enabling standardized, reproducible drug screening across intraerythrocytic protozoan parasites. &#x2022; Scalable antiparasitic drug screening: SYBR Green I-based in vitro assay adaptable to low-, medium-, or high-throughput compound testing in both drug-sensitive and drug-resistant strains. &#x2022; Unified red blood cell-based platform that may accelerate efforts to culture challenging or unculturable parasites, thereby expanding opportunities for drug discovery and mechanistic studies.",
-      "authors": [
-        "Vydyam P",
-        "Ben Mamoun C"
-      ],
-      "journal": "Bio-protocol",
-      "publicationDate": "Mar 05, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41815843/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-19T06:42:17.337Z"
+      "fetchedAt": "2026-03-20T06:38:39.802Z"
     },
     {
       "pmid": "41847018",
@@ -572,7 +527,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:13.535Z"
+      "fetchedAt": "2026-03-20T06:38:44.356Z"
     },
     {
       "pmid": "41783506",
@@ -594,7 +549,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:11.009Z"
+      "fetchedAt": "2026-03-20T06:38:40.396Z"
     },
     {
       "pmid": "41828448",
@@ -617,7 +572,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:15.672Z"
+      "fetchedAt": "2026-03-20T06:38:46.578Z"
+    },
+    {
+      "pmid": "41852546",
+      "title": "Untitled",
+      "abstract": "This article continues the annual series on tick surveillance in Canada, tracking two of the primary tick vectors of concern in the country, Ixodes scapularis and Ixodes pacificus, which can transmit the agent of Lyme disease alongside several other tick-borne pathogens. This study analyzed passive and active tick surveillance data, including geographic distribution, pathogen prevalence and other characteristics to inform public health prevention. Passive and active surveillance data were compiled from eTick (an online, image-based platform), the National Microbiology Laboratory (Public Health Agency of Canada), provincial and local public health authorities and the Canadian Lyme Disease Research Network. Descriptive statistics of ticks and their associated pathogens are presented, including infection prevalence estimates. In 2022, a total of 7,030 I. scapularis were submitted through passive surveillance from all provinces, while 911 I. pacificus were submitted from British Columbia (n=909) and Yukon (n=2). Ixodes scapularis submissions peaked in May and again in October. For I. pacificus, submissions peaked in May with a second, smaller peak in November. Six tick-borne pathogens (Anaplasma phagocytophilum, Borrelia burgdorferi, Borrelia miyamotoi, Babesia microti, Babesia odocoilei, Powassan virus) were identified from the I. scapularis collected by dragging in Manitoba, Ontario, Qu&#xe9;bec, New Brunswick or Nova Scotia. This report provides a summary of tick surveillance data collected in 2022. Tick characteristics and tick-borne pathogen infection prevalence were similar to previous years. Tick surveillance continues to play an important role in monitoring infection prevalence among ticks and their geographic distribution, which will help inform public health prevention and intervention efforts.",
+      "authors": [
+        "Wafy G",
+        "Ahmad S",
+        "Wilson C"
+      ],
+      "journal": "Canada communicable disease report = Releve des maladies transmissibles au Canada",
+      "publicationDate": "Feb 19, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41852546/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-20T06:38:28.054Z"
     },
     {
       "pmid": "41847149",
@@ -640,7 +618,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:41:59.473Z"
+      "fetchedAt": "2026-03-20T06:38:28.952Z"
+    },
+    {
+      "pmid": "41852546",
+      "title": "Untitled",
+      "abstract": "This article continues the annual series on tick surveillance in Canada, tracking two of the primary tick vectors of concern in the country, Ixodes scapularis and Ixodes pacificus, which can transmit the agent of Lyme disease alongside several other tick-borne pathogens. This study analyzed passive and active tick surveillance data, including geographic distribution, pathogen prevalence and other characteristics to inform public health prevention. Passive and active surveillance data were compiled from eTick (an online, image-based platform), the National Microbiology Laboratory (Public Health Agency of Canada), provincial and local public health authorities and the Canadian Lyme Disease Research Network. Descriptive statistics of ticks and their associated pathogens are presented, including infection prevalence estimates. In 2022, a total of 7,030 I. scapularis were submitted through passive surveillance from all provinces, while 911 I. pacificus were submitted from British Columbia (n=909) and Yukon (n=2). Ixodes scapularis submissions peaked in May and again in October. For I. pacificus, submissions peaked in May with a second, smaller peak in November. Six tick-borne pathogens (Anaplasma phagocytophilum, Borrelia burgdorferi, Borrelia miyamotoi, Babesia microti, Babesia odocoilei, Powassan virus) were identified from the I. scapularis collected by dragging in Manitoba, Ontario, Qu&#xe9;bec, New Brunswick or Nova Scotia. This report provides a summary of tick surveillance data collected in 2022. Tick characteristics and tick-borne pathogen infection prevalence were similar to previous years. Tick surveillance continues to play an important role in monitoring infection prevalence among ticks and their geographic distribution, which will help inform public health prevention and intervention efforts.",
+      "authors": [
+        "Wafy G",
+        "Ahmad S",
+        "Wilson C"
+      ],
+      "journal": "Canada communicable disease report = Releve des maladies transmissibles au Canada",
+      "publicationDate": "Feb 19, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41852546/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-20T06:38:42.551Z"
     },
     {
       "pmid": "41847149",
@@ -663,7 +664,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:12.978Z"
+      "fetchedAt": "2026-03-20T06:38:43.748Z"
     },
     {
       "pmid": "41812225",
@@ -686,7 +687,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-19T06:42:07.841Z"
+      "fetchedAt": "2026-03-20T06:38:37.113Z"
     }
   ]
 }
