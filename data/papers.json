@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-22T06:35:43.856Z",
+  "generatedAt": "2026-03-23T06:55:22.328Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -21,7 +21,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:32.176Z"
+      "fetchedAt": "2026-03-23T06:55:10.644Z"
+    },
+    {
+      "pmid": "41865865",
+      "title": "Strategies for developing multi-epitope subunit vaccines against tick-borne protozoa and bacteria.",
+      "abstract": "The emergence of tick-borne protozoa and bacteria poses significant threats to both livestock and human health, underscoring the urgent need for effective vaccination strategies. Multi-epitope subunit vaccines offer a promising solution, as they can elicit robust humoral and cellular immune responses. This review synthesizes current knowledge on the development of multi-epitope subunit vaccines against tick-borne protozoan and bacterial pathogens. Advances in immunoinformatics, bioinformatics, molecular biology, and proteomics have enabled the identification of key immunogenic proteins and epitopes in protozoa, including Theileria and Babesia, as well as in bacteria such as Ehrlichia spp., Anaplasma spp., Borrelia burgdorferi sensu lato, Rickettsia prowazekii, and Coxiella burnetii. Building on these findings, the integration of epitope mapping with molecular docking and stability prediction analyses allows rational vaccine design with enhanced potential efficacy. Complementary strategies, including the use of lipid nanoparticles and adjuvants, have been proposed to further improve immune responses. Despite these advances, significant challenges remain, particularly in translating in silico predictions into in vivo protection, ensuring rigorous experimental validation, and understanding mid- to long-term safety. By bringing out these developments and identifying gaps in current knowledge, this review provides a comprehensive perspective on multi-epitope vaccine design and outlines directions for future experimental validation and field application.",
+      "authors": [
+        "Ben Said M",
+        "Kratou M",
+        "Quiroz-Casta&#xf1;eda RE"
+      ],
+      "journal": "Veterinary journal (London, England : 1997)",
+      "publicationDate": "Mar 20, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41865865/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-23T06:55:16.334Z"
     },
     {
       "pmid": "41862392",
@@ -44,7 +67,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:31.624Z"
+      "fetchedAt": "2026-03-23T06:55:10.107Z"
     },
     {
       "pmid": "41805839",
@@ -67,7 +90,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:34.949Z"
+      "fetchedAt": "2026-03-23T06:55:13.342Z"
     },
     {
       "pmid": "41856815",
@@ -90,7 +113,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:37.912Z"
+      "fetchedAt": "2026-03-23T06:55:16.833Z"
     },
     {
       "pmid": "41845555",
@@ -113,7 +136,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:32.728Z"
+      "fetchedAt": "2026-03-23T06:55:11.184Z"
     },
     {
       "pmid": "41849967",
@@ -136,12 +159,12 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:39.086Z"
+      "fetchedAt": "2026-03-23T06:55:18.105Z"
     },
     {
       "pmid": "41843221",
       "title": "Treatment failure in a dog with acute Babesia canis infection using lower-range therapeutic doses of imidocarb dipropionate.",
-      "abstract": "",
+      "abstract": "Canine babesiosis caused by Babesia canis is considered an emerging disease in Central and Eastern European countries, including Germany. Imidocarb dipropionate is recommended for treatment of acute B. canis infections. A nine-year-old, male intact Golden Retriever living in Saxony, Germany, was presented in November 2025 due to lethargy, inappetence, vomiting, fever (39.6 &#xb0;C), and darkened urine to a small animal veterinary practice. Ectoparasite prophylaxis was discontinued three months before the onset of clinical signs. An acute B. canis infection was diagnosed based on microscopic detection of large merozoites in peripheral blood smears, followed by Babesia spp. PCR and sequencing. Hematological examination revealed marked thrombocytopenia, mild non-regenerative anemia, lymphopenia, and eosinopenia. The dog remained PCR positive after two imidocarb dipropionate injections (2.0 mg/kg bodyweight and 5.0 mg/kg bodyweight s.c.), and hematological abnormalities were still present. Prednisolone (2.0 mg/kg bodyweight s.c., continued orally) was applied, after which merozoites were still detected in peripheral blood smear analysis, so prednisolone was discontinued. After two further imidocarb dipropionate injections (9.4 mg/kg bodyweight s.c. each), the dog presented as clinically healthy, and a subsequent PCR testing was negative. From this report, different measures for dogs suffering from an acute B. canis infections can be derived: Dogs should be treated with a high dosage of imidocarb dipropionate of 6.6 mg/kg bodyweight as approved by the FDA, and the treatment success should be monitored by PCR 14 days post treatment. If treatment fails after two administrations at either dose of imidocarb dipropionate, i.e. if PCR remains positive, it is recommended to verify a B. canis infection by molecular species differentiation, e.g. via sequencing. Furthermore, dogs with treatment failure should be screened for coinfections and underlying comorbidities, which may complicate the course of an acute B. canis infection. Due to the authors&#x2019; personal experience, application of corticosteroids, even in non-immunosuppressive dosages, should be avoided, especially if blood transfusions are not necessary and/or marked hemolytic anemia is absent. Furthermore, this report highlights the importance of efficient year-round tick control, even in winter months.",
       "authors": [
         "Sch&#xe4;fer I",
         "Baitis V",
@@ -154,12 +177,12 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:40.706Z"
+      "fetchedAt": "2026-03-23T06:55:19.749Z"
     },
     {
       "pmid": "41840367",
@@ -182,7 +205,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:27.496Z"
+      "fetchedAt": "2026-03-23T06:55:05.802Z"
     },
     {
       "pmid": "41840367",
@@ -205,7 +228,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:41.260Z"
+      "fetchedAt": "2026-03-23T06:55:20.288Z"
     },
     {
       "pmid": "41838252",
@@ -228,7 +251,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:41.759Z"
+      "fetchedAt": "2026-03-23T06:55:20.788Z"
     },
     {
       "pmid": "41831185",
@@ -251,7 +274,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:33.290Z"
+      "fetchedAt": "2026-03-23T06:55:11.720Z"
     },
     {
       "pmid": "41826535",
@@ -274,7 +297,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:28.059Z"
+      "fetchedAt": "2026-03-23T06:55:06.374Z"
     },
     {
       "pmid": "41826406",
@@ -297,30 +320,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:28.560Z"
-    },
-    {
-      "pmid": "41824187",
-      "title": "First molecular detection of Babesia caballi in camel associated ticks in Uzbekistan, with no evidence of Anaplasma or Rickettsia.",
-      "abstract": "Dromedary camels (Camelus dromedarius) have an important role in food and textile production in arid and semi-arid regions of the world, yet data on their tick-borne pathogens (TBPs) is scarce, especially in Central Asia. This study aimed to: (i) identify the ticks infesting camels from different regions of Uzbekistan, (ii) molecularly detect TBPs in the collected ticks for the first time. In 2024, 290 camels from three regions (Karakalpakstan, Jizzakh, and Navoi) were examined for tick infestation. Ticks were collected, morphologically identified, pooled, and screened using PCR and sequencing for Babesia., Theileria., Anaplasma., and Rickettsia. Overall, 32.6% of camels harbored ticks, with 993 specimens collected, belonging to the genera Hyalomma, Dermacentor, and Rhipicephalus, comprising at least six species. Molecular analysis revealed the presence of Babesia caballi DNA in two tick pools, marking the first report of this equine pathogen in Hyalomma ticks from camels in Uzbekistan. No evidence of other piroplasm, Anaplasma or Rickettsia. was detected. This study presents an expansion of the known geographic and host range of B. caballi and suggests considering camels in TBP surveillance. Further studies combining molecular and serological approaches in multiple host species are needed to elucidate the epidemiological significance of these findings in Central Asia. The online version contains supplementary material available at 10.1007/s11259-026-11122-6.",
-      "authors": [
-        "Safarov A",
-        "Mechouk N",
-        "Sazmand A"
-      ],
-      "journal": "Veterinary research communications",
-      "publicationDate": "Mar 13, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41824187/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-22T06:35:42.856Z"
+      "fetchedAt": "2026-03-23T06:55:06.874Z"
     },
     {
       "pmid": "41818320",
@@ -343,7 +343,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:29.127Z"
+      "fetchedAt": "2026-03-23T06:55:07.453Z"
     },
     {
       "pmid": "41814426",
@@ -366,7 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:33.843Z"
+      "fetchedAt": "2026-03-23T06:55:12.264Z"
     },
     {
       "pmid": "41808193",
@@ -389,7 +389,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:29.676Z"
+      "fetchedAt": "2026-03-23T06:55:08.006Z"
     },
     {
       "pmid": "41807010",
@@ -412,7 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:30.230Z"
+      "fetchedAt": "2026-03-23T06:55:08.608Z"
     },
     {
       "pmid": "41803837",
@@ -435,7 +435,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:35.449Z"
+      "fetchedAt": "2026-03-23T06:55:13.842Z"
     },
     {
       "pmid": "41794949",
@@ -458,7 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:36.125Z"
+      "fetchedAt": "2026-03-23T06:55:14.570Z"
     },
     {
       "pmid": "41793143",
@@ -479,7 +479,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:36.625Z"
+      "fetchedAt": "2026-03-23T06:55:15.069Z"
     },
     {
       "pmid": "41859186",
@@ -502,7 +502,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:25.266Z"
+      "fetchedAt": "2026-03-23T06:55:03.618Z"
     },
     {
       "pmid": "41859167",
@@ -525,7 +525,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:25.827Z"
+      "fetchedAt": "2026-03-23T06:55:04.157Z"
     },
     {
       "pmid": "41847018",
@@ -548,7 +548,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:40.206Z"
+      "fetchedAt": "2026-03-23T06:55:19.204Z"
     },
     {
       "pmid": "41828448",
@@ -571,7 +571,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:42.308Z"
+      "fetchedAt": "2026-03-23T06:55:21.327Z"
     },
     {
       "pmid": "41852546",
@@ -594,7 +594,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:26.377Z"
+      "fetchedAt": "2026-03-23T06:55:04.695Z"
     },
     {
       "pmid": "41847149",
@@ -617,7 +617,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:26.927Z"
+      "fetchedAt": "2026-03-23T06:55:05.231Z"
     },
     {
       "pmid": "41852546",
@@ -640,7 +640,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:38.503Z"
+      "fetchedAt": "2026-03-23T06:55:17.567Z"
     },
     {
       "pmid": "41847149",
@@ -663,7 +663,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:39.650Z"
+      "fetchedAt": "2026-03-23T06:55:18.640Z"
     },
     {
       "pmid": "41812225",
@@ -686,7 +686,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-22T06:35:34.398Z"
+      "fetchedAt": "2026-03-23T06:55:12.802Z"
     }
   ]
 }
