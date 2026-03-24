@@ -1,7 +1,53 @@
 {
-  "generatedAt": "2026-03-23T06:55:22.328Z",
+  "generatedAt": "2026-03-24T06:49:08.197Z",
   "totalPapers": 30,
   "papers": [
+    {
+      "pmid": "41871907",
+      "title": "Ticks in the Tropics: Challenging the Myth of a Lyme-Less Florida.",
+      "abstract": "Few analyses have differentiated locally acquired Lyme disease infection from travel-associated infection, limiting the ability to interpret whether case counts reflect true in-state transmission or increased detection among mobile populations. We analyzed and compared trends in Lyme disease incidence at the national level and in the state of Florida. We primarily used Lyme disease surveillance data from the Centers for Disease Control and Prevention from 2010 through 2023. The data included total case numbers, demographic characteristics, and county-level distribution maps. We stratified data by age, sex, and county in Florida. We conducted a Pearson correlation analysis to examine the association between Florida's mean annual temperature and Lyme disease incidence from 2010 through 2023. Florida recorded 84 Lyme disease cases in 2010 and 271 cases in 2023; incidence per 100 000 residents rose from 0.4 in 2010 to 1.2 in 2023. Older adults had the highest incidence of reported Lyme disease in Florida. Lyme disease incidence was slightly higher among females than among males. North Florida was a hotspot for Lyme disease transmission, and the North Central region (roughly from Jacksonville to Tallahassee) consistently yielded most of the Florida-acquired tickborne disease cases. Early detection and timely action to reduce the spread of Lyme disease is important for several intertwined clinical, economic, and ecological reasons. Further research is needed to differentiate infections acquired outside the state to clarify their influence on state trends. Establishing proactive measures in Florida's public health and education sectors for tickborne disease prevention is necessary to reduce risk as Lyme disease cases continue to increase in Florida.",
+      "authors": [
+        "Branstetter B",
+        "Clelland-Goddard A",
+        "Sagar A"
+      ],
+      "journal": "Public health reports (Washington, D.C. : 1974)",
+      "publicationDate": "Mar 23, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41871907/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-24T06:48:48.351Z"
+    },
+    {
+      "pmid": "41870193",
+      "title": "Peridomestic and Neighborhood-Level Deciduous Land Cover Associated with Lyme Disease Risk: Results from a Case-Control Study in the United States.",
+      "abstract": "Lyme disease (LD), the most common vector-borne disease in the United States, is caused by the transmission of bacteria via the bite of infected Ixodes ticks including Ixodes scapularis. Deciduous forests are a highly suitable habitat for I. scapularis survival and development. This case-control study investigated how LD risk was impacted by residential proximity to deciduous forest land cover. Participants were selected from the Optum Research Database and mailed a one-time survey regarding LD history, outdoor activities, residential characteristics, and demographics. Cases were identified through the combination of LD diagnosis codes and antibiotic treatment in claims data during January 2020-January 2022; controls were matched based on residential county and census block group housing density. The National Land Cover Database was used to identify the presence and proportion of deciduous land cover within a 50 m and 500 m radius of participants' residential addresses. LD was associated with deciduous land cover when present at both a 50 and 500 m radius (odds ratio [OR] = 1.80, 95% confidence interval [CI]: 1.33-2.44) and when present at the 500 m radius only (OR = 1.40, 95% CI: 1.04-1.88). Odds of LD also significantly increased with increasing deciduous cover. Independent of residential proximity to deciduous land cover, spending time in yards or hiking/walking/running in wooded/grassy areas was associated with LD. Stratified stepwise models showed that for individuals with deciduous land cover within both 50 and 500 m, risk was uniformly elevated regardless of activity, whereas outdoor activities were significant predictors in individuals with deciduous land cover within the 500 m radius only or within neither radius. This study identified the presence of deciduous land cover as a key indicator associated with increased LD risk, though outdoor activities conferred increased risk independent of residential land cover. Furthermore, individual behaviors were found to modulate LD risk differently across residential contexts.",
+      "authors": [
+        "Shafquat M",
+        "Fee R",
+        "White J"
+      ],
+      "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+      "publicationDate": "Mar 23, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41870193/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-24T06:48:48.934Z"
+    },
     {
       "pmid": "41860756",
       "title": "Untitled",
@@ -21,7 +67,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:10.644Z"
+      "fetchedAt": "2026-03-24T06:48:55.725Z"
     },
     {
       "pmid": "41865865",
@@ -44,7 +90,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:16.334Z"
+      "fetchedAt": "2026-03-24T06:49:01.773Z"
     },
     {
       "pmid": "41862392",
@@ -67,7 +113,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:10.107Z"
+      "fetchedAt": "2026-03-24T06:48:55.120Z"
     },
     {
       "pmid": "41805839",
@@ -90,7 +136,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:13.342Z"
+      "fetchedAt": "2026-03-24T06:48:58.623Z"
     },
     {
       "pmid": "41856815",
@@ -113,7 +159,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:16.833Z"
+      "fetchedAt": "2026-03-24T06:49:02.273Z"
     },
     {
       "pmid": "41845555",
@@ -136,7 +182,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:11.184Z"
+      "fetchedAt": "2026-03-24T06:48:56.305Z"
     },
     {
       "pmid": "41849967",
@@ -159,7 +205,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:18.105Z"
+      "fetchedAt": "2026-03-24T06:49:03.605Z"
     },
     {
       "pmid": "41843221",
@@ -182,7 +228,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:19.749Z"
+      "fetchedAt": "2026-03-24T06:49:05.382Z"
     },
     {
       "pmid": "41840367",
@@ -205,7 +251,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:05.802Z"
+      "fetchedAt": "2026-03-24T06:48:53.044Z"
     },
     {
       "pmid": "41840367",
@@ -228,7 +274,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:20.288Z"
+      "fetchedAt": "2026-03-24T06:49:05.985Z"
     },
     {
       "pmid": "41838252",
@@ -251,7 +297,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:20.788Z"
+      "fetchedAt": "2026-03-24T06:49:06.485Z"
     },
     {
       "pmid": "41831185",
@@ -274,7 +320,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:11.720Z"
+      "fetchedAt": "2026-03-24T06:48:56.883Z"
     },
     {
       "pmid": "41826535",
@@ -297,53 +343,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:06.374Z"
-    },
-    {
-      "pmid": "41826406",
-      "title": "Evaluation of immunoreactive epitopes in the sera and cerebrospinal fluid of patients with post-treatment Lyme disease syndrome.",
-      "abstract": "",
-      "authors": [
-        "Marques AR",
-        "Sanchez-Vicente S",
-        "Nagapurkar A"
-      ],
-      "journal": "Scientific reports",
-      "publicationDate": "Mar 13, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41826406/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-23T06:55:06.874Z"
-    },
-    {
-      "pmid": "41818320",
-      "title": "An Fc-silent OspA monoclonal antibody passively protects mice from tick and intradermal Borrelia burgdorferi challenge.",
-      "abstract": "The monoclonal antibody, LA-2, has played a pivotal role in the development of Outer surface protein A (OspA)-based vaccines for Lyme disease, a multisystem illness caused by the tick-borne spirochete, Borrelia burgdorferi sensu lato. Of particular significance was the demonstration more than three decades ago that LA-2 equivalent antibody titers, defined by a competitive-inhibition ELISA, serve as a reliable correlate of vaccine-induced protection across different species, including humans. In vitro characterization of LA-2 has identified both complement-dependent and -independent activities, although which of these attributes contribute to protection against B. burgdorferi remains unresolved. To address this issue, we generated and characterized an \"Fc-silent\" version of LA-2 IgG1 carrying so-called LALAPG substitutions (L234A, L235A, P329G). We demonstrate that LA-2 LALAPG retained OspA binding activity but was severely attenuated in in vitro complement deposition and complement-dependent borreliacidal assays. Nonetheless, LA-2 LALAPG was as effective as LA-2 at passively protecting C3H mice against nymphal tick-mediated B. burgdorferi sensu stricto (s.s.) B31 challenge. LA-2 LALAPG was also equivalent to LA-2 in passively protecting BALB/c mice against intradermal B. burgdorferi s.s. B31 challenge. In the intradermal challenge model, viable spirochetes were not recoverable 24 h after injection from skin biopsies of mice treated with LA-2 or LA-2 LALAPG, and an influx of pro-inflammatory cytokines and chemokines to the injection site was abrogated. Collectively, these results suggest that LA-2's primary mode of action involves direct physical interactions with the spirochete rather than complement-dependent killing. Elucidating these mechanisms may have implications for understanding the mechanistic correlates of OspA-based vaccine-induced immunity in humans.",
-      "authors": [
-        "Palmer D",
-        "Shemshadian A",
-        "Berman K"
-      ],
-      "journal": "PloS one",
-      "publicationDate": "03 12, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41818320/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-23T06:55:07.453Z"
+      "fetchedAt": "2026-03-24T06:48:53.641Z"
     },
     {
       "pmid": "41814426",
@@ -366,53 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:12.264Z"
-    },
-    {
-      "pmid": "41808193",
-      "title": "Efficacy of Simparica and Simparica TRIO for the prevention of Borrelia burgdorferi by Ixodes scapularis.",
-      "abstract": "Both Simparica&#xae; and Simparica TRIO&#xae; chewable tablets are efficacious within 12&#xa0;h against existing Ixodes scapularis infestations and within 24&#xa0;h against re-infestations for 1 month. It is therefore expected that treatment with either product prevents Lyme infections due to their efficacy against I. scapularis ticks before the anticipated transmission of Borrelia burgdorferi by infected ticks. In total, four laboratory studies were conducted in which dogs were randomly allocated to two treatment groups of 10 dogs each. On day 0, dogs were either administered a placebo treatment (Pet-Tabs&#xae; Palatable Vitamin-Mineral Supplement for Dogs), Simparica TRIO tablets at the minimum dose of 1.2&#xa0;mg/kg sarolaner, 24&#xa0;&#x3bc;g/kg moxidectin and 5&#xa0;mg/kg pyrantel (study 1 and 2) or Simparica at the minimum dose of 2&#xa0;mg/kg sarolaner (study 3 and 4). On post-treatment day 28, each dog was infested with approximately 50 unfed, wild-caught adult I. scapularis ticks with a high B. burgdorferi infection rate. Blood samples were collected from each prior dog to treatment and on post-treatment days 27, 49, 63, 77, 91 and 104, and qualitatively tested for B. burgdorferi antibodies using the SNAP&#xae; 4Dx Plus and Lyme Quant C6&#xae; antibody tests. Four skin biopsies from each dog were collected on day 104 from the most common areas of tick attachment and tested by PCR for the quantitative presence of B. burgdorferi. In all studies, at least nine out of 10 placebo-treated dogs were infected with B. burgdorferi before the end of the study. In study 1, one Simparica Trio-treated dog tested positive, whereas in the other studies none of the dogs treated with sarolaner tested positive at any time point during the study. Both Simparica and Simparica Trio at the minimum label dose prevent the transmission of B. burgdorferi infections as a direct result of killing the I. scapularis vector ticks.",
-      "authors": [
-        "Geurden T",
-        "Holzmer S",
-        "Myers JAE"
-      ],
-      "journal": "Parasites & vectors",
-      "publicationDate": "Mar 10, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41808193/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-23T06:55:08.006Z"
-    },
-    {
-      "pmid": "41807010",
-      "title": "Feasibility of an adjunctive INtervention for Debilitating symptom complexes attributed to ticks (FIND): study protocol for a randomised, waitlist-controlled feasibility trial.",
-      "abstract": "Debilitating Symptom Complexes Attributed to Ticks (DSCATT) is a new term for an unexplained Australian syndrome-people who suffer from a chronic, multifaceted and debilitating illness, characteristically attributed to tick bites, but in a country without endemic Lyme disease. Despite the profound morbidity of DSCATT, no single causative agent has been identified and there are no recognised treatments for the illness at present. An increasing body of evidence shows psychological therapies such as Acceptance and Commitment Therapy (ACT) can be effective in reducing symptom-related disability and improving quality of life for other unexplained syndromes. Here we present a study protocol to assess the feasibility of an ACT-informed intervention for patients suffering from DSCATT, to be used adjunctively to their pre-existing healthcare. The study aims to assess the acceptability, practicality and demand for the treatment. Additionally, we will examine the effects of therapy on participants' health and well-being, its safety, potential mediators of response to therapy and its preliminary cost-effectiveness. We will assess the feasibility of a 32-week, randomised, waitlist-controlled, parallel convergent mixed-methods pilot trial for DSCATT. Participants will be randomised in a 1:1 ratio to receive either 16 sessions of ACT-informed therapy adjunctive to their pre-existing healthcare, delivered one-to-one with a trial therapist within a 20-week period or be assigned to the waitlist control group where they will continue their treatments as usual. We will collect quantitative and qualitative data to address study aims, with retention rate being the primary feasibility outcome. The study has ethical approval from Austin Health Human Research Ethics Committee (HREC). The outcomes will be published in peer-reviewed journals. Data from participants who have given extended consent will be available for other HREC-approved studies. ACTRN12623000372684, prospectively registered 13 April 2023, URL: https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=385579&isReview=true; the last participant is expected to complete in November 2026.",
-      "authors": [
-        "Kanaan RAA",
-        "Macdonell R",
-        "Long M"
-      ],
-      "journal": "BMJ open",
-      "publicationDate": "Mar 10, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41807010/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-23T06:55:08.608Z"
+      "fetchedAt": "2026-03-24T06:48:57.467Z"
     },
     {
       "pmid": "41803837",
@@ -435,7 +389,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:13.842Z"
+      "fetchedAt": "2026-03-24T06:48:59.123Z"
     },
     {
       "pmid": "41794949",
@@ -458,7 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:14.570Z"
+      "fetchedAt": "2026-03-24T06:48:59.699Z"
     },
     {
       "pmid": "41793143",
@@ -479,7 +433,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:15.069Z"
+      "fetchedAt": "2026-03-24T06:49:00.199Z"
     },
     {
       "pmid": "41859186",
@@ -502,7 +456,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:03.618Z"
+      "fetchedAt": "2026-03-24T06:48:50.681Z"
+    },
+    {
+      "pmid": "41867734",
+      "title": "Untitled",
+      "abstract": "Vaccines targeting outer surface protein A (OspA) of Borrelia burgdorferi protect against Lyme disease by inducing antibodies in the host that neutralize spirochetes in the Ixodes scapularis tick midgut during engorgement before transmission occurs. We evaluated whether heterologous vaccination enhances protection compared to homologous delivery of the immunogen. C3H-HeN mice were immunized with a parainfluenza virus 5 vector (PIV5) containing a modified OspA protein (OspA BPBPk ) using three prime-boost immunization regimens: homologous PIV5 intranasal/intranasal (IN/IN), homologous rOspA BPBPk (protein) subcutaneous/subcutaneous (SC/SC), or heterologous intranasal PIV5-A BPBPk /subcutaneous rOspA BPBPk (IN/SC). Immunized mice were then challenged with nymphal I. scapularis ticks infected with 19 strains of B. burgdorferi three months post-prime vaccination. Three weeks after the last day of tick challenge, blood and tissues were collected from euthanized mice. All OspA-containing regimens elicited strong systemic IgG antibody responses that exceeded established protective thresholds. Vaccination markedly reduced B. burgdorferi loads in engorged nymphal ticks. Homologous IN/IN and SC/SC regimens produced the lowest geometric mean flaB burdens in nymphs (2.6 &#xd7; 10 3 and 1.8 &#xd7; 10 3 copies, respectively), corresponding to &#x223c;1.8-2.0 log 10 reductions relative to controls; the heterologous IN/SC regimen produced a more modest reduction (&#x223c;1.7 log 10 ; p = 0.0071 vs IN/IN, p = 0.0003 vs SC/SC). Across all vaccinated groups, no systemic infection with B. burgdorferi was observed as evidenced by absence of motile spirochetes in cultures from tissues, although one mouse (1/9, 11%) in the heterologous IN/SC regimen, had evidence of increased pepVF seroconversion and low-level flaB DNA in culture. Thus, homologous regimens yielded more consistent protective immunity with absent of signs of B. burgdorferi dissemination, suggesting that high systemic anti-OspA BPBPk IgG antibody titers, rather than alternate immunization routes, were associated with the most consistent protection outcomes. PIV5-A BPBPk is a promising vaccine candidate for development of next-generation homologous or heterologous human Lyme disease vaccines.",
+      "authors": [
+        "Kundu S",
+        "Joyner G",
+        "Abil O"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publicationDate": "Mar 04, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41867734/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-24T06:48:50.103Z"
     },
     {
       "pmid": "41859167",
@@ -525,7 +502,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:04.157Z"
+      "fetchedAt": "2026-03-24T06:48:51.303Z"
     },
     {
       "pmid": "41847018",
@@ -548,7 +525,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:19.204Z"
+      "fetchedAt": "2026-03-24T06:49:04.775Z"
     },
     {
       "pmid": "41828448",
@@ -571,7 +548,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:21.327Z"
+      "fetchedAt": "2026-03-24T06:49:07.197Z"
     },
     {
       "pmid": "41852546",
@@ -594,7 +571,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:04.695Z"
+      "fetchedAt": "2026-03-24T06:48:51.885Z"
     },
     {
       "pmid": "41847149",
@@ -617,7 +594,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:05.231Z"
+      "fetchedAt": "2026-03-24T06:48:52.467Z"
     },
     {
       "pmid": "41852546",
@@ -640,7 +617,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:17.567Z"
+      "fetchedAt": "2026-03-24T06:49:02.853Z"
     },
     {
       "pmid": "41847149",
@@ -663,7 +640,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:18.640Z"
+      "fetchedAt": "2026-03-24T06:49:04.186Z"
+    },
+    {
+      "pmid": "41869127",
+      "title": "The Hidden Face of Lyme Disease: Neuroinfection With Cranial Nerve Involvement.",
+      "abstract": "The article presents the case of a 54-year-old woman who presented to the hospital for a diagnosis of persistent headaches. The patient had been unsuccessfully treated for two months, developing further complications in the form of visual disturbances and&#xa0;abducens nerve palsy. The patient reported a recent tick bite. Imaging studies in the form of a magnetic resonance imaging (MRI) of the brain, magnetic resonance angiography (MRA), and transcranial Doppler ultrasound showed no abnormalities. In the next step, a lumbar puncture was performed, which yielded clear cerebrospinal fluid (CSF) with marked lymphocytic pleocytosis (122 cells/&#x3bc;L). CSF analysis confirmed the intrathecal synthesis of antibodies to Borrelia. Based on the clinical picture&#xa0;including the complications the patient developed, along with a history of tick bites, a diagnosis of neuroborreliosis with cranial nerve involvement was made. After starting antibiotic therapy with ceftriaxone, the patient showed significant clinical improvement after a few days. It should be remembered that in the course of Lyme disease, the nervous system can often be involved, resulting in many bothersome and unusual symptoms, which often make it difficult to make a correct diagnosis.",
+      "authors": [
+        "Sobczak M",
+        "Morajko A",
+        "Urantowka N"
+      ],
+      "journal": "Cureus",
+      "publicationDate": "Feb 16, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41869127/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-24T06:48:49.510Z"
     },
     {
       "pmid": "41812225",
@@ -686,7 +686,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-23T06:55:12.802Z"
+      "fetchedAt": "2026-03-24T06:48:58.044Z"
     }
   ]
 }
