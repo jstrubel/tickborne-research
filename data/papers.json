@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T06:49:08.197Z",
+  "generatedAt": "2026-03-25T06:47:41.997Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:48.351Z"
+      "fetchedAt": "2026-03-25T06:47:21.104Z"
     },
     {
       "pmid": "41870193",
@@ -46,7 +46,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:48.934Z"
+      "fetchedAt": "2026-03-25T06:47:21.757Z"
+    },
+    {
+      "pmid": "41872710",
+      "title": "Using blood donor surveillance and clinical case data to shape our understanding of Babesia epidemiology in Manitoba, Canada.",
+      "abstract": "Babesia is a parasite transmitted by the Ixodes tick and has the potential to be transfusion transmitted. Climate change and changing Ixodes tick distributions in Canada raised questions about the impact of Babesia on the blood supply. Following a risk-based decision making (RBDM) process, Canadian Blood Services initiated a multi-year Babesia nucleic acid test (NAT) surveillance program in 2024. The first year of the project focused on a region (Manitoba, Canada) previously determined by the RBDM analysis to be of highest risk for Babesia NAT-positive donations. The aim of this study is to provide an update on this multi-year surveillance project that will shape our understanding of Babesia epidemiology in multiple Canadian provinces. From July 11, 2024 to November 9, 2024, samples were collected in Roche Whole Blood Collection tubes at all whole blood donation sites in Manitoba. Specimens underwent one-time individual testing on the cobas Babesia NAT on the Roche cobas 6800 platform (Roche Diagnostics GmbH, Mannheim, Germany). Clinical cases of babesiosis were reviewed for the period 2013-2025. Of the 13,608 (98%) whole blood donations tested by Babesia NAT, none were positive. Clinical case rates of babesiosis in Manitoba ranged from 0 to 0.13 per 100,000 population annually. Changing climate and Ixodes tick distributions have led to concerns that the epidemiology of Babesia infection in Canadian blood donors is increasing. Babesia NAT on specimens from an elevated-risk area for Babesia infection in Canada did not identify Babesia-positive blood donors.",
+      "authors": [
+        "Drews SJ",
+        "Charlton CL",
+        "Ramirez-Arcos S"
+      ],
+      "journal": "Transfusion",
+      "publicationDate": "Mar 23, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41872710/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-25T06:47:35.903Z"
     },
     {
       "pmid": "41860756",
@@ -67,7 +90,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:55.725Z"
+      "fetchedAt": "2026-03-25T06:47:29.052Z"
     },
     {
       "pmid": "41865865",
@@ -90,7 +113,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:49:01.773Z"
+      "fetchedAt": "2026-03-25T06:47:36.515Z"
     },
     {
       "pmid": "41862392",
@@ -113,7 +136,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:55.120Z"
+      "fetchedAt": "2026-03-25T06:47:28.408Z"
     },
     {
       "pmid": "41805839",
@@ -136,7 +159,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:58.623Z"
+      "fetchedAt": "2026-03-25T06:47:32.133Z"
     },
     {
       "pmid": "41856815",
@@ -159,7 +182,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:49:02.273Z"
+      "fetchedAt": "2026-03-25T06:47:37.015Z"
     },
     {
       "pmid": "41845555",
@@ -182,7 +205,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:56.305Z"
+      "fetchedAt": "2026-03-25T06:47:29.686Z"
     },
     {
       "pmid": "41849967",
@@ -205,7 +228,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:49:03.605Z"
+      "fetchedAt": "2026-03-25T06:47:38.215Z"
     },
     {
       "pmid": "41843221",
@@ -228,7 +251,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:49:05.382Z"
+      "fetchedAt": "2026-03-25T06:47:40.402Z"
     },
     {
       "pmid": "41840367",
@@ -251,7 +274,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:53.044Z"
+      "fetchedAt": "2026-03-25T06:47:26.206Z"
     },
     {
       "pmid": "41840367",
@@ -274,30 +297,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:49:05.985Z"
-    },
-    {
-      "pmid": "41838252",
-      "title": "N-acetylcysteine as an adjunct therapy ameliorates oxidative stress and attenuates anaemia, acute phase response and hepatic injury in clinical Babesia gibsoni infection in dogs-a pilot study.",
-      "abstract": "",
-      "authors": [
-        "Khan N",
-        "Sandilya A",
-        "Eregowda CG"
-      ],
-      "journal": "Molecular biology reports",
-      "publicationDate": "Mar 16, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41838252/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-24T06:49:06.485Z"
+      "fetchedAt": "2026-03-25T06:47:40.997Z"
     },
     {
       "pmid": "41831185",
@@ -320,7 +320,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:56.883Z"
+      "fetchedAt": "2026-03-25T06:47:30.282Z"
     },
     {
       "pmid": "41826535",
@@ -343,7 +343,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:53.641Z"
+      "fetchedAt": "2026-03-25T06:47:26.805Z"
     },
     {
       "pmid": "41814426",
@@ -366,7 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:57.467Z"
+      "fetchedAt": "2026-03-25T06:47:30.938Z"
     },
     {
       "pmid": "41803837",
@@ -389,7 +389,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:59.123Z"
+      "fetchedAt": "2026-03-25T06:47:32.633Z"
     },
     {
       "pmid": "41794949",
@@ -412,7 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:59.699Z"
+      "fetchedAt": "2026-03-25T06:47:33.229Z"
     },
     {
       "pmid": "41793143",
@@ -433,7 +433,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:49:00.199Z"
+      "fetchedAt": "2026-03-25T06:47:33.729Z"
     },
     {
       "pmid": "41859186",
@@ -456,7 +456,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:50.681Z"
+      "fetchedAt": "2026-03-25T06:47:23.545Z"
     },
     {
       "pmid": "41867734",
@@ -479,7 +479,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:50.103Z"
+      "fetchedAt": "2026-03-25T06:47:22.947Z"
     },
     {
       "pmid": "41859167",
@@ -502,7 +502,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:51.303Z"
+      "fetchedAt": "2026-03-25T06:47:24.164Z"
+    },
+    {
+      "pmid": "41875463",
+      "title": "[Infecciones por Ehrlichia spp., Anaplasma spp. y Babesia spp. en Puerto Ordaz, estado Bol&#xed;var, Venezuela].",
+      "abstract": "",
+      "authors": [
+        "Forero-Pe&#xf1;a DA",
+        "Carri&#xf3;n-Nessi FS",
+        "Mu&#xf1;oz-Leal S"
+      ],
+      "journal": "Biomedica : revista del Instituto Nacional de Salud",
+      "publicationDate": "Mar 02, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41875463/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-25T06:47:35.306Z"
     },
     {
       "pmid": "41847018",
@@ -525,30 +548,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:49:04.775Z"
-    },
-    {
-      "pmid": "41828448",
-      "title": "Untitled",
-      "abstract": "Babesia divergens, a zoonotic tick-borne pathogen, causes bovine and human babesiosis in Europe. The Elongation Factor 1 alpha (EF-1&#x3b1;) protein is important in many cellular processes and has emerged as a possible target for subunit vaccine development against parasitic infections, and its intergenic region (IG) is an important tool for genetic manipulation of Babesia parasites. While the EF-1&#x3b1; locus of B. divergens has been described, structural variation between isolates was poorly defined. In order to fill this gap, we performed a comparative analysis of the EF-1&#x3b1;-IG in B. divergens human (Rouen 87 and Spanish sample) and bovine (T&#xfc;rkiye) host isolates. Our findings revealed both conserved and variable elements, particularly in TA nucleotide repeat numbers and IG sequence length. The Spanish isolate exhibited the highest TA repeat expansion, whereas the Rouen 87 strain had the shortest IG. Given the known role of repeat-rich promoter elements in gene regulation, these differences may influence EF-1&#x3b1; transcription. Additionally, these findings provide insights into the evolutionary divergence of B. divergens and its host adaptation mechanisms. This study establishes a foundation for future gene editing and transfection strategies, where selecting intergenic sequences with varying TA repeats could optimize transfection efficiency and explain phenotypic differences between isolates from different hosts or regions.",
-      "authors": [
-        "Ozubek S",
-        "Sanchez-Flores A",
-        "Montero E"
-      ],
-      "journal": "International journal of molecular sciences",
-      "publicationDate": "Feb 26, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41828448/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-24T06:49:07.197Z"
+      "fetchedAt": "2026-03-25T06:47:39.706Z"
     },
     {
       "pmid": "41852546",
@@ -571,7 +571,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:51.885Z"
+      "fetchedAt": "2026-03-25T06:47:24.765Z"
     },
     {
       "pmid": "41847149",
@@ -594,7 +594,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:52.467Z"
+      "fetchedAt": "2026-03-25T06:47:25.574Z"
     },
     {
       "pmid": "41852546",
@@ -617,7 +617,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:49:02.853Z"
+      "fetchedAt": "2026-03-25T06:47:37.614Z"
     },
     {
       "pmid": "41847149",
@@ -640,7 +640,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:49:04.186Z"
+      "fetchedAt": "2026-03-25T06:47:39.057Z"
     },
     {
       "pmid": "41869127",
@@ -663,7 +663,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:49.510Z"
+      "fetchedAt": "2026-03-25T06:47:22.352Z"
     },
     {
       "pmid": "41812225",
@@ -686,7 +686,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-24T06:48:58.044Z"
+      "fetchedAt": "2026-03-25T06:47:31.536Z"
     }
   ]
 }
