@@ -1,7 +1,52 @@
 {
-  "generatedAt": "2026-03-30T07:12:40.320Z",
-  "totalPapers": 20,
+  "generatedAt": "2026-03-31T06:59:20.441Z",
+  "totalPapers": 30,
   "papers": [
+    {
+      "pmid": "41910966",
+      "title": "Red Blood Cell Exchange Transfusion for Severe Babesiosis.",
+      "abstract": "Babesiosis is a worldwide emerging tick-borne disease with an expanding geographic range in the US, Europe, and Asia. Red blood cell exchange transfusion (ET) is often used as an adjunctive treatment for severe illness from babesiosis, particularly in patients with high parasitemia, acute organ injury, or severe hemolytic anemia. Data supporting its clinical effectiveness, however, are lacking. To test whether ET improves clinical outcomes among hospitalized adult patients with severe babesiosis. This target trial emulation used data from a multicenter cohort study of 3233 consecutive adults hospitalized with babesiosis from 2010 to 2024 at 82 sites across the northeastern US. Patients were eligible if they had parasitemia greater than 10%, or 5% to 10% with either acute organ injury or severe hemolytic anemia. Data were analyzed from April to August 2025. Treatment with ET in the first 7 days of hospitalization. A composite of in-hospital death or 30-day readmission. Outcomes were compared between patients who received ET within the first 7 days of admission and those who did not. The analysis used logistic regression, with inverse probability of treatment weighting (IPTW) to adjust for potential confounders. The analysis included 629 patients (median [IQR] age, 71 [63-79] years; 446 male [70.9%]), among whom 209 (33.2%) received ET in the first 7 days of hospitalization. Patients treated with ET were more severely ill at baseline than those not treated with ET (median parasitemia, 14.0% vs 7.2%); however, severity of illness characteristics were well balanced after applying IPTW. In the main analysis, the primary end point occurred in 3.6% of patients who received ET and in 9.8% who did not (adjusted odds ratio, 0.22; 95% CI, 0.09-0.51). The benefit of ET was confirmed in multiple sensitivity analyses. This multicenter cohort study found that among severely ill adults hospitalized with babesiosis, the adjusted risk of in-hospital death or 30-day readmission was nearly 5-fold lower in those treated with ET vs those not treated with ET. These data support ET for severely ill patients with babesiosis, although the findings may be susceptible to unmeasured confounding. Further research is needed to identify which patients are most likely to benefit.",
+      "authors": [
+        "Leaf DE",
+        "Monson AE",
+        "Dias JA"
+      ],
+      "journal": "JAMA internal medicine",
+      "publicationDate": "Mar 30, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41910966/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-31T06:59:14.331Z"
+    },
+    {
+      "pmid": "41910958",
+      "title": "Exchange Transfusion for Severe Babesiosis-Insights From a Multicenter Retrospective Analysis.",
+      "abstract": "",
+      "authors": [
+        "Meyerowitz EA",
+        "Daily JP"
+      ],
+      "journal": "JAMA internal medicine",
+      "publicationDate": "Mar 30, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41910958/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-31T06:59:14.832Z"
+    },
     {
       "pmid": "41897008",
       "title": "Molecular screening of tick-borne pathogens in host-seeking Haemaphysalis punctata Canestrini & Fanzago, 1878 (Ixodoidea: Ixodidae) in Anatolia with the first report of Burana virus.",
@@ -23,7 +68,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:34.280Z"
+      "fetchedAt": "2026-03-31T06:59:16.591Z"
     },
     {
       "pmid": "41882600",
@@ -46,7 +91,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:26.866Z"
+      "fetchedAt": "2026-03-31T06:59:07.026Z"
     },
     {
       "pmid": "41881497",
@@ -69,7 +114,76 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:34.866Z"
+      "fetchedAt": "2026-03-31T06:59:17.177Z"
+    },
+    {
+      "pmid": "41891471",
+      "title": "[Not Available].",
+      "abstract": "Lyme carditis is a rare manifestation of systemic Lyme disease, typically occurring one to two months after infection. The most common feature is conduction system disturbance, often involving the atrioventricular (AV) node. A young woman was admitted to the emergency department after experiencing palpitations. She was haemodynamically stable and had no respiratory distress. An ECG revealed an atrioventricular block with a PR interval of 380 ms. Her medical history included a recent tick bite. Potential causes of conduction disturbances were ruled out and blood cultures were negative, while Borrelia serology showed positive IgG and borderline IgM. The patient received intravenous ceftriaxone for 21 days. Follow-up ECG revealed no abnormalities. Lyme carditis should be considered in conduction disorders, particularly in younger patients without a cardiovascular history. The condition generally has a good prognosis, and early recognition and appropriate treatment can prevent unnecessary pacemaker implantation.",
+      "authors": [
+        "Mahmood BA",
+        "Jervan &#xd8;",
+        "Raouf NH"
+      ],
+      "journal": "Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke",
+      "publicationDate": "Mar 24, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41891471/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-31T06:59:02.736Z"
+    },
+    {
+      "pmid": "41871907",
+      "title": "Ticks in the Tropics: Challenging the Myth of a Lyme-Less Florida.",
+      "abstract": "Few analyses have differentiated locally acquired Lyme disease infection from travel-associated infection, limiting the ability to interpret whether case counts reflect true in-state transmission or increased detection among mobile populations. We analyzed and compared trends in Lyme disease incidence at the national level and in the state of Florida. We primarily used Lyme disease surveillance data from the Centers for Disease Control and Prevention from 2010 through 2023. The data included total case numbers, demographic characteristics, and county-level distribution maps. We stratified data by age, sex, and county in Florida. We conducted a Pearson correlation analysis to examine the association between Florida's mean annual temperature and Lyme disease incidence from 2010 through 2023. Florida recorded 84 Lyme disease cases in 2010 and 271 cases in 2023; incidence per 100 000 residents rose from 0.4 in 2010 to 1.2 in 2023. Older adults had the highest incidence of reported Lyme disease in Florida. Lyme disease incidence was slightly higher among females than among males. North Florida was a hotspot for Lyme disease transmission, and the North Central region (roughly from Jacksonville to Tallahassee) consistently yielded most of the Florida-acquired tickborne disease cases. Early detection and timely action to reduce the spread of Lyme disease is important for several intertwined clinical, economic, and ecological reasons. Further research is needed to differentiate infections acquired outside the state to clarify their influence on state trends. Establishing proactive measures in Florida's public health and education sectors for tickborne disease prevention is necessary to reduce risk as Lyme disease cases continue to increase in Florida.",
+      "authors": [
+        "Branstetter B",
+        "Clelland-Goddard A",
+        "Sagar A"
+      ],
+      "journal": "Public health reports (Washington, D.C. : 1974)",
+      "publicationDate": "Mar 23, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41871907/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-31T06:59:04.672Z"
+    },
+    {
+      "pmid": "41870193",
+      "title": "Peridomestic and Neighborhood-Level Deciduous Land Cover Associated with Lyme Disease Risk: Results from a Case-Control Study in the United States.",
+      "abstract": "Lyme disease (LD), the most common vector-borne disease in the United States, is caused by the transmission of bacteria via the bite of infected Ixodes ticks including Ixodes scapularis. Deciduous forests are a highly suitable habitat for I. scapularis survival and development. This case-control study investigated how LD risk was impacted by residential proximity to deciduous forest land cover. Participants were selected from the Optum Research Database and mailed a one-time survey regarding LD history, outdoor activities, residential characteristics, and demographics. Cases were identified through the combination of LD diagnosis codes and antibiotic treatment in claims data during January 2020-January 2022; controls were matched based on residential county and census block group housing density. The National Land Cover Database was used to identify the presence and proportion of deciduous land cover within a 50 m and 500 m radius of participants' residential addresses. LD was associated with deciduous land cover when present at both a 50 and 500 m radius (odds ratio [OR] = 1.80, 95% confidence interval [CI]: 1.33-2.44) and when present at the 500 m radius only (OR = 1.40, 95% CI: 1.04-1.88). Odds of LD also significantly increased with increasing deciduous cover. Independent of residential proximity to deciduous land cover, spending time in yards or hiking/walking/running in wooded/grassy areas was associated with LD. Stratified stepwise models showed that for individuals with deciduous land cover within both 50 and 500 m, risk was uniformly elevated regardless of activity, whereas outdoor activities were significant predictors in individuals with deciduous land cover within the 500 m radius only or within neither radius. This study identified the presence of deciduous land cover as a key indicator associated with increased LD risk, though outdoor activities conferred increased risk independent of residential land cover. Furthermore, individual behaviors were found to modulate LD risk differently across residential contexts.",
+      "authors": [
+        "Shafquat M",
+        "Fee R",
+        "White J"
+      ],
+      "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+      "publicationDate": "Mar 23, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41870193/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-31T06:59:05.280Z"
     },
     {
       "pmid": "41872710",
@@ -92,7 +206,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:35.946Z"
+      "fetchedAt": "2026-03-31T06:59:18.318Z"
+    },
+    {
+      "pmid": "41892257",
+      "title": "Ticks: Biology, Habitat, Threats and Protection Methods.",
+      "abstract": "The most common species of tick in Europe is the castor bean tick (Ixodes ricinus), which is found in forests, parks, and gardens and is active almost all year round. Ticks are among the most important arthropods and vectors of disease, transmitting a wide range of parasites that sometimes lead to the death of infected organisms. The peak incidence of tick-borne diseases occurs between May and September; however, due to global warming, people are increasingly exposed to tick-borne diseases throughout the year. In order to increase the possibility of preventing the transmission of diseases by ticks, it is necessary to become thoroughly familiar with the life cycle of ticks and the environment in which they live. Vaccines are available for some diseases, such as tick-borne encephalitis, while others require a highly specific diagnosis. Another major problem is the long period between the tick bite, which often goes unnoticed or is even ignored by the patient or the doctor, and the development of tick-borne diseases. Increasing attention is being paid to the prevention of tick-borne diseases through prevention of tick bites, quick tick removal, use of repellents, appropriate land management, vaccinations, and the use of plants as natural acaricides.",
+      "authors": [
+        "Szalata M",
+        "Wielgus K",
+        "Danielewski M"
+      ],
+      "journal": "Biology",
+      "publicationDate": "Mar 20, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41892257/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-31T06:59:02.148Z"
     },
     {
       "pmid": "41860756",
@@ -113,7 +250,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:27.951Z"
+      "fetchedAt": "2026-03-31T06:59:08.125Z"
     },
     {
       "pmid": "41865865",
@@ -136,7 +273,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:36.979Z"
+      "fetchedAt": "2026-03-31T06:59:18.939Z"
     },
     {
       "pmid": "41862392",
@@ -159,7 +296,76 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:27.366Z"
+      "fetchedAt": "2026-03-31T06:59:07.526Z"
+    },
+    {
+      "pmid": "41901780",
+      "title": "Clinical Manifestations of Lyme Borreliosis in Europe: Burden of Lyme Disease Study (BOLD), 2021-2022.",
+      "abstract": "Lyme borreliosis (LB), the most common European tick-borne disease, can manifest as an erythema migrans (EM) rash or as disseminated LB. The prospective Burden of Lyme Disease (BOLD) study evaluated the frequency of LB clinical manifestations, including signs, symptoms, and treatment patterns in 14 healthcare practices in endemic regions of six European countries: the Czech Republic, Germany, Poland, Slovakia, Slovenia, and Sweden. Between April 2021 and December 2022, patients with suspected LB were evaluated using predefined case definitions that were applied by investigators to identify medically attended LB cases. Enrolled cases were interviewed about their symptoms. Among the 797 LB cases, 615 (77.2%) had EM and 182 (22.8%) had disseminated disease; 154 of the disseminated cases had Lyme arthritis (LA), five had Lyme neuroborreliosis, and three had Lyme carditis. Geographically, the proportion of disseminated disease varied by country, from 1.1% in Slovenia to 78.0% in Slovakia. Overall, 76.3% of all LB cases in Slovakia were LA. Antibiotic use varied by country, although every country prescribed doxycycline. The frequency of LB manifestations varied substantially between countries. EM was the most common manifestation in all countries except Slovakia, where LA was most common. This study underscores the need for improved prevention strategies.",
+      "authors": [
+        "Halsby K",
+        "Loew-Baselli A",
+        "Strle F"
+      ],
+      "journal": "Pathogens (Basel, Switzerland)",
+      "publicationDate": "Mar 18, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41901780/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-31T06:59:00.301Z"
+    },
+    {
+      "pmid": "41893059",
+      "title": "Ischemic Stroke as the First Manifestation of Takayasu Arteritis: A Case Report.",
+      "abstract": "Ischemic stroke in young adults is uncommon and is frequently associated with rare etiologies, including autoimmune diseases and vasculitis. Takayasu arteritis (TA) is a chronic inflammatory large-vessel arteriopathy involving the aorta and its major branches and may result in cerebral ischemia due to arterial stenosis or thrombosis. We report the case of a 26-year-old woman with a history of suspected rheumatoid arthritis and Lyme disease who presented with acute left-sided hemiparesis and dysarthria. At admission, large-vessel vasculitis had not yet been suspected, and the patient was treated according to standard acute stroke protocols. Computed tomography angiography (CTA) revealed occlusion of the right middle cerebral artery bifurcation and the right common carotid artery, with inflammatory changes involving the brachiocephalic trunk and subclavian arteries. Intravenous thrombolysis (iv rtPA) was followed by mechanical thrombectomy (MT), resulting in neurological improvement. Further diagnostic work-up confirmed TA, and immunosuppressive therapy with cyclophosphamide and infliximab was initiated. This case underscores the importance of considering inflammatory large-vessel disease in young patients presenting with acute ischemic stroke and illustrates that endovascular reperfusion may be feasible in this clinical setting.",
+      "authors": [
+        "Jakubowicz-Lachowska D",
+        "Sarnowska M",
+        "Chor&#x105;&#x17c;y M"
+      ],
+      "journal": "Neurology international",
+      "publicationDate": "Mar 18, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41893059/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-31T06:59:01.546Z"
+    },
+    {
+      "pmid": "41890831",
+      "title": "Innate Immune Evasion of Lyme Disease Pathogen Drives Alzheimer-Like Pathology.",
+      "abstract": "The amyloid &#x3b2; (A&#x3b2;) peptide is the main component of amyloid plaques in Alzheimer's disease (AD). Growing evidence has pointed to a role for A&#x3b2; as an antimicrobial peptide (AMP). However, the interactions of A&#x3b2; with neurotropic pathogens and host evasion strategies have remained largely unexplored. Using quantitative proteomic analysis of patient cerebrospinal fluid (CSF), advanced biochemical methods, and four different 3D brain models, ranging from blood-brain barrier (BBB) microfluidic systems to 3D neurovascular networks, we show that Lyme neuroborreliosis (LNB) Borrelia spp. induce molecular and immunological alterations in the central nervous system (CNS) that resemble key pathological features of AD. These include upregulation of the complement cascade and a decrease in CSF A&#x3b2; levels. By assessing the antimicrobial action of A&#x3b2; against Borrelia spp., we demonstrate that A&#x3b2; acts as a pre-opsonin by promoting complement activation on microbial surfaces. We also show that LNB Borrelia spp. exhibit unique survival strategies that reduce A&#x3b2; binding and block oligomerization, while halting complement attack by recruiting complement regulator factor H. This facilitates bacterial adhesion to the BBB, and modulation of glial and cytokine responses, fostering CNS invasion. Our findings reveal a previously unrecognized mechanism of bacterial immune escape spanning the entire invasion pathway from the BBB to neuronal compartments, demonstrating that LNB Borrelia spp. evade A&#x3b2;-mediated antimicrobial action by interfering with opsonization and oligomerization of the peptide. Collectively, these findings provide a direct mechanistic link between pathogen immune evasion, A&#x3b2; dynamics, and neuroinflammatory cascades, advancing our understanding of infection-induced neuropathology, offering insights into novel potential therapeutic targets for AD and neuroborreliosis.",
+      "authors": [
+        "Haapasalo K",
+        "Heiland L",
+        "Kumar DKV"
+      ],
+      "journal": "Research square",
+      "publicationDate": "Mar 18, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41890831/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-31T06:59:03.482Z"
     },
     {
       "pmid": "41805839",
@@ -182,7 +388,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:30.904Z"
+      "fetchedAt": "2026-03-31T06:59:11.560Z"
     },
     {
       "pmid": "41856815",
@@ -205,7 +411,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:37.479Z"
+      "fetchedAt": "2026-03-31T06:59:19.439Z"
     },
     {
       "pmid": "41845555",
@@ -228,30 +434,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:28.537Z"
-    },
-    {
-      "pmid": "41849967",
-      "title": "Tick-borne pathogen diversity and clinical impact of tick-infestation in Serbia and North Macedonia.",
-      "abstract": "Ticks and tick-borne pathogens (TBPs) pose an expanding health threat across Europe, yet few studies link tick infection data directly to human clinical outcomes. We conducted a prospective, cross-border \"One Health\" study in Serbia and North Macedonia to assess the prevalence, diversity, and potential transmission of TBPs from ticks to humans. A total of 133 tick-infested patients were enrolled at two healthcare centers (112 in Skopje, 26 in Novi Sad), and 135 ticks were collected from these individuals, alongside paired blood and serum samples. Overall, TBP DNA was detected in 66.6 % of ticks, with Rickettsia helvetica (25.9 %) and Rickettsia monacensis (12.5 %) were most common. Mixed infections occurred in 15 % of ticks, with up to three pathogens co-occurring. Other detected TBPs included Borrelia afzelii, Borrelia garinii, Borrelia lusitaniae, Anaplasma phagocytophilum, Babesia microti, and Babesia divergens. Four patients (3 %) had detectable pathogen DNA in blood, primarily Rickettsia spp. and Anaplasma spp., yet remained asymptomatic. Most common clinical outcome during the observation period was local hypersensitivity reaction (21.1 %), while &#x3b1;-Gal sensitization was detected in two cases. Phylogenetic analysis revealed Balkan Rickettsia and Borrelia strains were mostly identical to Western and Central European lineages, with a notable exception: a Bo. garinii strain from North Macedonia clustered with strains from Russia and China, indicating possible long-distance introduction. The present study demonstrates that human exposure to multiple TBPs is common and while asymptomatic bloodstream infections do occur, local hypersensitivity reactions are much more common.",
-      "authors": [
-        "Jakimovski D",
-        "Banovi&#x107; P",
-        "Mateska S"
-      ],
-      "journal": "Ticks and tick-borne diseases",
-      "publicationDate": "Mar 17, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41849967/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-30T07:12:38.736Z"
+      "fetchedAt": "2026-03-31T06:59:08.745Z"
     },
     {
       "pmid": "41831185",
@@ -274,7 +457,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:29.154Z"
+      "fetchedAt": "2026-03-31T06:59:09.381Z"
+    },
+    {
+      "pmid": "41908963",
+      "title": "Thromboinflammation in dogs with virulent babesiosis.",
+      "abstract": "Babesia rossi infection in dogs is associated with severe hemostatic dysregulation and systemic inflammation. The close interplay between innate immunity and coagulation in pathological states, including acute infections, may lead to thrombus formation, termed thromboinflammation, and has been proposed to underlie disease severity and poor outcomes. The objectives of this study were to investigate the presence of thromboinflammation in dogs with B. rossi infection by characterizing the overall hemostatic state, using thromboelastography (TEG) and plasma-based assays, and the systemic inflammatory response using acute phase reactants as markers, and further to determine whether, if present, thromboinflammation was associated with disease severity. Ninety-seven dogs naturally infected with B. rossi and 15 healthy control dogs were included. Diagnosis of babesiosis was confirmed by reverse line blot polymerase chain reaction. Blood samples were collected at presentation, prior to any treatment. Hemostatic function was assessed using TEG, routine coagulation assays, coagulation factor activity, and fibrinolysis markers. C-reactive protein (CRP) and serum amyloid A (SAA) were measured as markers of systemic inflammation. Twelve of the Babesia-infected dogs died (12%). Babesia-infected dogs demonstrated hemostatic abnormalities marked by severe thrombocytopenia and a procoagulant state, including platelet activation, preserved clot strength, and elevated fibrinogen concentrations. Thromboelastography further revealed delayed clot initiation and propagation with maintained clot firmness, whereas conventional assays showed prolonged prothrombin time and activated partial thromboplastin time, along with markedly reduced coagulation factor activities in non-survivors. Minimal fibrinolysis was observed on TEG and was associated with elevated &#x3b1;2-antiplasmin activity and the presence of fibrin microthrombi in multiple organs. Markedly elevated CRP and SAA concentrations confirmed the simultaneous presence of systemic inflammation. B. rossi infection in dogs induced thromboinflammation characterized by thrombocytopenia, platelet activation, coagulation factor consumption, fibrinolytic shutdown and systemic inflammation. Thromboinflammation may drive endothelial injury, microthrombosis, and an increased risk of organ failure and death. Future therapeutic interventions targeting thromboinflammation may improve patient outcomes.",
+      "authors": [
+        "Goddard A",
+        "Schoeman JP",
+        "Leisewitz AL"
+      ],
+      "journal": "Frontiers in veterinary science",
+      "publicationDate": "03 12, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41908963/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-31T06:59:15.417Z"
     },
     {
       "pmid": "41814426",
@@ -297,7 +503,29 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:29.740Z"
+      "fetchedAt": "2026-03-31T06:59:10.330Z"
+    },
+    {
+      "pmid": "41884531",
+      "title": "Application of multi-channel magnetic particle immunofluorescent disc microfluidic chip for combined detection of antibodies against six common infectious diseases including visceral leishmaniasis in pastoral areas.",
+      "abstract": "This study aimed to develop a microfluidic chip for the simultaneous detection of specific antibodies against six common pathogens in pastoral areas. The specific detection targets include: visceral leishmaniasis (IgG against Leishmania soluble antigen, IgG against recombinant K39 antigen); cystic echinococcosis (IgG against Echinococcus granulosus antigen 5, IgG against Echinococcus granulosus antigen B); alveolar echinococcosis (IgG against Echinococcus multilocularis antigen 2, IgG against Echinococcus multilocularis antigen 18); brucellosis (IgG against Brucella lipopolysaccharide, IgM against Brucella lipopolysaccharide); Lyme disease (IgG against Borrelia burgdorferi, IgM against Borrelia burgdorferi); and Xinjiang hemorrhagic fever (virus-specific IgG, virus-specific IgM). Based on magnetic particle immunofluorescence, a multi-channel disc microfluidic chip and reagents were designed. Parameters (antigen-antibody microsphere ratio, sample dilution) were optimized; fluid dynamics tests verified fluid operation feasibility. Serum samples from patients with the six diseases and healthy controls were used to detect target antibodies. The chip's accuracy, dose-response curve (R2), limit of detection (LOD), precision, and specificity were evaluated. Bland-Altman analysis compared results with traditional ELISA to assess consistency. The chip exhibited normal fluidic operation. Optimized reagents/samples enhanced utilization efficiency. For the six diseases, the detection accuracy met the requirements: the coefficient of determination (R2) for all indicators was greater than 0.98, the minimum limit of detection (LOD) among the 12 detection items was 0.6 &#x3bc;g/mL, the relative standard deviation (RSD) for precision was less than 10%, and no cross-reactions occurred. Bland-Altman consistency analysis showed that the differences in detection results met clinically acceptable standards, demonstrating good consistency with enzyme-linked immunosorbent assay (ELISA). This chip exhibits stable fluid flow, low sample/reagent consumption, and excellent accuracy/precision/specificity. Its detection results are consistent with those of traditional methods, and it enables the simultaneous combined detection of the aforementioned six infectious diseases. Compared with the clinically used method (enzyme-linked immunosorbent assay, ELISA), this chip has greater advantages in application scenarios and comprehensive benefits; compared with existing disc-based microfluidic technologies, it holds superior advantages in terms of detection throughput and application objectives. It provides a rapid, sensitive, and specific technical tool for the acute-phase screening, disease course confirmation, infection staging, differentiation between bacterial and parasitic infections, and disease prognosis detection of multiple prevalent infectious diseases in pastoral areas.",
+      "authors": [
+        "Wang Y",
+        "Li J"
+      ],
+      "journal": "Frontiers in cellular and infection microbiology",
+      "publicationDate": "03 10, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41884531/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-31T06:59:04.066Z"
     },
     {
       "pmid": "41803837",
@@ -320,7 +548,30 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:31.404Z"
+      "fetchedAt": "2026-03-31T06:59:12.059Z"
+    },
+    {
+      "pmid": "41900360",
+      "title": "Untitled",
+      "abstract": "The cause of chronic neurological effects associated with Lyme disease (LD) remains unclear. We propose that bacterial extracellular vesicles (BEVs) released by Borrelia burgdorferi, the causative agent of LD, exacerbate spirochete-induced damage and serve as a persistent source of antigenic stimulation. We showed that, over a 10-day period, in vitro cultures of B. burgdorferi B31 produced 38,000 BEVs per spirochete with a distinctive double-membrane structure and median diameter of 143.3 nm. BEVs contained known immunogenic and immunomodulatory molecules such as peptidoglycan, p66, flagellar filament protein (FlaB), basic membrane proteins A/B/D, BdrV, GroEL, CRASP-1, ErpA8, glycerophosphodiester phosphodiesterase, p37, OMS28, p13, OspA/B/C, VlsE, and outer membrane glycolipids (e.g., cholesteryl 6-O acyl beta D galactopyranoside). Chromosome-encoded 16S ribosomal RNA and cp32 plasmid-encoded OspE and terminase genes were also detected in the BEVs. Of the 45 Borrelia proteins identified in the urine of a C3H/HeJ murine model of Lyme disease, 14 were associated with BEVs. In human urine samples, 31 of 289 spirochete proteins detected in patients with either acute Lyme disease or persistent borreliosis post-treatment symptoms, including p66 and FlaB, were also BEV-associated. BEV treatment of HMC3 human microglial cells reduced phagocytic activity and triggered aberrant activation of inflammatory and immunometabolic pathways, including upregulation of interferon-alpha (IFN-&#x3b1;), aconitate decarboxylase 1 (Acod1), and Toll-like receptor 2 (TLR2) gene expression. BEVs also induced NRF2 nuclear translocation. In conclusion, these findings support that BEVs can amplify spirochete-induced damage and act as antigenic debris, driving dampened phagocytic activity and dysregulated inflammation, with implications for diagnostics and therapeutics targeting vesicle-mediated pathology.",
+      "authors": [
+        "Birkaya B",
+        "Byne A",
+        "Irfan S"
+      ],
+      "journal": "Microorganisms",
+      "publicationDate": "Mar 07, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41900360/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-03-31T06:59:00.881Z"
     },
     {
       "pmid": "41794949",
@@ -343,7 +594,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:31.987Z"
+      "fetchedAt": "2026-03-31T06:59:12.643Z"
     },
     {
       "pmid": "41901745",
@@ -366,7 +617,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:33.697Z"
+      "fetchedAt": "2026-03-31T06:59:16.002Z"
     },
     {
       "pmid": "41875463",
@@ -389,53 +640,28 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:35.366Z"
+      "fetchedAt": "2026-03-31T06:59:17.676Z"
     },
     {
-      "pmid": "41852546",
-      "title": "Untitled",
-      "abstract": "This article continues the annual series on tick surveillance in Canada, tracking two of the primary tick vectors of concern in the country, Ixodes scapularis and Ixodes pacificus, which can transmit the agent of Lyme disease alongside several other tick-borne pathogens. This study analyzed passive and active tick surveillance data, including geographic distribution, pathogen prevalence and other characteristics to inform public health prevention. Passive and active surveillance data were compiled from eTick (an online, image-based platform), the National Microbiology Laboratory (Public Health Agency of Canada), provincial and local public health authorities and the Canadian Lyme Disease Research Network. Descriptive statistics of ticks and their associated pathogens are presented, including infection prevalence estimates. In 2022, a total of 7,030 I. scapularis were submitted through passive surveillance from all provinces, while 911 I. pacificus were submitted from British Columbia (n=909) and Yukon (n=2). Ixodes scapularis submissions peaked in May and again in October. For I. pacificus, submissions peaked in May with a second, smaller peak in November. Six tick-borne pathogens (Anaplasma phagocytophilum, Borrelia burgdorferi, Borrelia miyamotoi, Babesia microti, Babesia odocoilei, Powassan virus) were identified from the I. scapularis collected by dragging in Manitoba, Ontario, Qu&#xe9;bec, New Brunswick or Nova Scotia. This report provides a summary of tick surveillance data collected in 2022. Tick characteristics and tick-borne pathogen infection prevalence were similar to previous years. Tick surveillance continues to play an important role in monitoring infection prevalence among ticks and their geographic distribution, which will help inform public health prevention and intervention efforts.",
+      "pmid": "41909340",
+      "title": "Facial Paralysis Associated With Lyme Neuroborreliosis in Pediatric Patients: A Multicenter Retrospective Study in Eastern France From 2014-2020.",
+      "abstract": "Lyme neuroborreliosis (LNB) is a recognized cause of peripheral facial paralysis (PFP) in children, particularly in endemic regions. Differentiating LNB from idiopathic facial paralysis at initial presentation remains challenging, as early biological confirmation may be delayed. This study aimed to determine the proportion of LNB among children presenting with facial paralysis at two tertiary pediatric centers in Eastern France, to identify clinical, epidemiological, and biological characteristics associated with LNB, and to evaluate local diagnostic and therapeutic practices in order to propose an updated management algorithm. We conducted a multicenter retrospective study including patients under 18 years of age presenting with facial paralysis at the pediatric hospitals of Nancy (January 2014 to December 2018) and Reims (January 2014 to December 2020), France. Patients were identified using ICD-10 codes and classified according to final diagnosis. Demographic, epidemiological, clinical, biological, and therapeutic data were extracted from electronic medical records. Comparative analyses were performed to identify characteristics associated with LNB and to evaluate diagnostic and treatment practices. Among 159 children with facial paralysis, 18 (11.3%) were diagnosed with LNB. Clinical features more frequently observed in LNB included general symptoms (44.4% vs. 15.6%, p<0.05) and associated neurological signs (44.4% vs. 22%, p<0.05). Tick bite history and erythema migrans were infrequently reported. Biological findings such as positive Borrelia serology and cerebrospinal fluid lymphocytic pleocytosis were observed in patients with LNB and contributed to diagnostic confirmation. Complete recovery rates did not differ significantly between groups. In this endemic region, LNB accounted for a substantial proportion of pediatric facial paralysis cases. Early clinical features, particularly general and neurological symptoms, may help guide diagnostic evaluation before biological confirmation. These findings support the development of a structured management algorithm adapted to endemic settings to improve diagnostic accuracy and optimize patient care.",
       "authors": [
-        "Wafy G",
-        "Ahmad S",
-        "Wilson C"
+        "Kaake A"
       ],
-      "journal": "Canada communicable disease report = Releve des maladies transmissibles au Canada",
-      "publicationDate": "Feb 19, 2026",
+      "journal": "Cureus",
+      "publicationDate": "Feb 24, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41852546/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41909340/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:38.060Z"
-    },
-    {
-      "pmid": "41847149",
-      "title": "Untitled",
-      "abstract": "Ixodes scapularis and Ixodes pacificus ticks pose risk of infection with tick-borne diseases in Eastern and Pacific Western Canada, respectively. In 2021, passive and active tick surveillance programs collected ticks and associated data elements, including location, infection and other characteristics, to monitor their populations and inform public health prevention and mitigation activities. Surveillance data for ticks were compiled from the National Microbiology Laboratory (Public Health Agency of Canada), provincial public health, Canadian Lyme Disease Research Network and eTick (an image-based online platform). A descriptive analysis of tick records and infection prevalence of tick-borne pathogens is presented. Seasonal trends are described. During 2021, 6,892 I. scapularis ticks were identified across all ten provinces via passive surveillance with 777 I. pacificus ticks collected from British Columbia. Most were adult female ticks, collected from human hosts in the spring (March-May) or fall (October-November) seasons. The most common pathogen, Borrelia burgdorferi, was detected in 18.6% (95% CI: 17.2%-20.1%) of samples. Active surveillance resulted in 1,929 I. scapularis and 18 I. pacificus ticks collected in six provinces. Among I. scapularis, 22.3% were infected with B. burgdorferi, 11.8% with Babesia odocoilei and 4.3% with Anaplasma phagocytophilum. Fewer than 1% were infected with each of Borrelia miyamotoi (0.7%), Babesia microti (0.1%) and Powassan virus (0.1%). As the risk of infection with tick-borne diseases continues to grow in many parts of Canada, monitoring trends in infection prevalence and the geographical range expansion of ticks provides essential data to inform public health actions and messaging.",
-      "authors": [
-        "Ahmad S",
-        "Wafy G",
-        "Wilson C"
-      ],
-      "journal": "Canada communicable disease report = Releve des maladies transmissibles au Canada",
-      "publicationDate": "Feb 19, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41847149/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-03-30T07:12:39.319Z"
+      "fetchedAt": "2026-03-31T06:58:59.597Z"
     },
     {
       "pmid": "41812225",
@@ -458,7 +684,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-03-30T07:12:30.323Z"
+      "fetchedAt": "2026-03-31T06:59:10.913Z"
     }
   ]
 }
