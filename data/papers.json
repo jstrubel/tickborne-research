@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-04-04T06:44:01.380Z",
+  "generatedAt": "2026-04-05T06:52:07.620Z",
   "totalPapers": 30,
   "papers": [
+    {
+      "pmid": "41933495",
+      "title": "Development and validation of a pan-Plasmodium molecular assay as a confirmatory method for blood donor screening.",
+      "abstract": "Transfusion-transmitted malaria remains a concern in non-endemic regions due to asymptomatic parasitemia in donors with prior residence in or travel to malaria-endemic areas. Nucleic acid testing (NAT)-based screening has been proposed to mitigate this risk, and supplemental assays are needed to confirm reactive donations. We developed a pan-Plasmodium reverse transcription quantitative PCR (RT-qPCR) assay with species identification capability as a supplemental tool for malaria donor screening. The assay targets a conserved region of the 18S rRNA shared by all five human-infecting Plasmodium species and is compatible with whole blood lysed using Grifols' parasite transport medium (PTM). Analytical performance was evaluated using in vitro transcripts and infected red blood cells (iRBCs), with the limit of detection (LoD) determined by probit analysis. Specificity was assessed against Babesia microti and 300 non-exposed US donor samples. Clinical sensitivity was evaluated using infected specimens; species identification was performed by sequencing of RT-qPCR amplicons. The assay demonstrated high amplification efficiency (97.2%) and linearity (R2&#x2009;=&#x2009;0.99). The 95% LoD was 5.3 iRBCs/mL (95% CI: 3.2-8.6), comparable to the Procleix Plasmodium Assay. Clinical sensitivity was 100% across all five Plasmodium species, and clinical specificity was 100% (95% CI: 99-100%), with no cross-reactivity with Babesia. Amplicon sequencing enabled accurate species-level identification of all sequenced specimens. This assay provides a sensitive confirmatory tool for malaria NAT-based donor screening. Its compatibility with PTM lysates and species identification capabilities supports regulatory applications and research into asymptomatic parasitemia in semi-immune donors.",
+      "authors": [
+        "Milani P",
+        "Wen L",
+        "Montalvo L"
+      ],
+      "journal": "Transfusion",
+      "publicationDate": "Apr 03, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41933495/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-05T06:52:01.486Z"
+    },
     {
       "pmid": "41922149",
       "title": "Repulsive and precious: thinking with the tick in Canadian Lyme disease discourse.",
@@ -21,7 +44,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:43.273Z"
+      "fetchedAt": "2026-04-05T06:51:48.009Z"
     },
     {
       "pmid": "41920017",
@@ -44,7 +67,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:49.646Z"
+      "fetchedAt": "2026-04-05T06:51:55.033Z"
     },
     {
       "pmid": "41915541",
@@ -67,7 +90,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:50.184Z"
+      "fetchedAt": "2026-04-05T06:51:55.649Z"
     },
     {
       "pmid": "41910966",
@@ -90,7 +113,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:55.997Z"
+      "fetchedAt": "2026-04-05T06:52:02.663Z"
     },
     {
       "pmid": "41910958",
@@ -112,7 +135,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:56.497Z"
+      "fetchedAt": "2026-04-05T06:52:03.162Z"
     },
     {
       "pmid": "41897008",
@@ -135,7 +158,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:58.201Z"
+      "fetchedAt": "2026-04-05T06:52:04.908Z"
     },
     {
       "pmid": "41882600",
@@ -158,7 +181,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:50.723Z"
+      "fetchedAt": "2026-04-05T06:51:56.235Z"
     },
     {
       "pmid": "41881497",
@@ -181,7 +204,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:58.739Z"
+      "fetchedAt": "2026-04-05T06:52:05.533Z"
     },
     {
       "pmid": "41891471",
@@ -204,7 +227,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:47.267Z"
+      "fetchedAt": "2026-04-05T06:51:52.134Z"
     },
     {
       "pmid": "41872710",
@@ -227,7 +250,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:59.809Z"
+      "fetchedAt": "2026-04-05T06:52:06.619Z"
     },
     {
       "pmid": "41892257",
@@ -250,7 +273,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:46.708Z"
+      "fetchedAt": "2026-04-05T06:51:51.552Z"
     },
     {
       "pmid": "41860756",
@@ -271,30 +294,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:51.764Z"
-    },
-    {
-      "pmid": "41865865",
-      "title": "Strategies for developing multi-epitope subunit vaccines against tick-borne protozoa and bacteria.",
-      "abstract": "The emergence of tick-borne protozoa and bacteria poses significant threats to both livestock and human health, underscoring the urgent need for effective vaccination strategies. Multi-epitope subunit vaccines offer a promising solution, as they can elicit robust humoral and cellular immune responses. This review synthesizes current knowledge on the development of multi-epitope subunit vaccines against tick-borne protozoan and bacterial pathogens. Advances in immunoinformatics, bioinformatics, molecular biology, and proteomics have enabled the identification of key immunogenic proteins and epitopes in protozoa, including Theileria and Babesia, as well as in bacteria such as Ehrlichia spp., Anaplasma spp., Borrelia burgdorferi sensu lato, Rickettsia prowazekii, and Coxiella burnetii. Building on these findings, the integration of epitope mapping with molecular docking and stability prediction analyses allows rational vaccine design with enhanced potential efficacy. Complementary strategies, including the use of lipid nanoparticles and adjuvants, have been proposed to further improve immune responses. Despite these advances, significant challenges remain, particularly in translating in silico predictions into in vivo protection, ensuring rigorous experimental validation, and understanding mid- to long-term safety. By bringing out these developments and identifying gaps in current knowledge, this review provides a comprehensive perspective on multi-epitope vaccine design and outlines directions for future experimental validation and field application.",
-      "authors": [
-        "Ben Said M",
-        "Kratou M",
-        "Quiroz-Casta&#xf1;eda RE"
-      ],
-      "journal": "Veterinary journal (London, England : 1997)",
-      "publicationDate": "Mar 20, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41865865/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-04T06:44:00.379Z"
+      "fetchedAt": "2026-04-05T06:51:57.313Z"
     },
     {
       "pmid": "41862392",
@@ -317,7 +317,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:51.223Z"
+      "fetchedAt": "2026-04-05T06:51:56.734Z"
     },
     {
       "pmid": "41901780",
@@ -340,7 +340,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:44.990Z"
+      "fetchedAt": "2026-04-05T06:51:49.812Z"
     },
     {
       "pmid": "41893059",
@@ -363,7 +363,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:46.138Z"
+      "fetchedAt": "2026-04-05T06:51:50.971Z"
     },
     {
       "pmid": "41890831",
@@ -386,7 +386,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:47.839Z"
+      "fetchedAt": "2026-04-05T06:51:52.774Z"
     },
     {
       "pmid": "41845555",
@@ -409,7 +409,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:52.306Z"
+      "fetchedAt": "2026-04-05T06:51:57.961Z"
     },
     {
       "pmid": "41831185",
@@ -432,7 +432,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:52.879Z"
+      "fetchedAt": "2026-04-05T06:51:58.540Z"
     },
     {
       "pmid": "41908963",
@@ -455,7 +455,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:57.090Z"
+      "fetchedAt": "2026-04-05T06:52:03.747Z"
     },
     {
       "pmid": "41814426",
@@ -478,7 +478,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:53.449Z"
+      "fetchedAt": "2026-04-05T06:51:59.138Z"
     },
     {
       "pmid": "41900360",
@@ -501,7 +501,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:45.562Z"
+      "fetchedAt": "2026-04-05T06:51:50.393Z"
     },
     {
       "pmid": "41901745",
@@ -524,7 +524,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:57.667Z"
+      "fetchedAt": "2026-04-05T06:52:04.329Z"
     },
     {
       "pmid": "41875463",
@@ -547,7 +547,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:59.239Z"
+      "fetchedAt": "2026-04-05T06:52:06.032Z"
     },
     {
       "pmid": "41918643",
@@ -570,7 +570,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:43.848Z"
+      "fetchedAt": "2026-04-05T06:51:48.590Z"
     },
     {
       "pmid": "41929998",
@@ -593,7 +593,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:49.105Z"
+      "fetchedAt": "2026-04-05T06:51:54.453Z"
     },
     {
       "pmid": "41909340",
@@ -614,7 +614,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:44.419Z"
+      "fetchedAt": "2026-04-05T06:51:49.207Z"
     },
     {
       "pmid": "41929578",
@@ -637,7 +637,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:42.736Z"
+      "fetchedAt": "2026-04-05T06:51:47.430Z"
     },
     {
       "pmid": "41932198",
@@ -660,7 +660,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:55.420Z"
+      "fetchedAt": "2026-04-05T06:52:02.081Z"
     },
     {
       "pmid": "41812225",
@@ -683,7 +683,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-04T06:43:53.989Z"
+      "fetchedAt": "2026-04-05T06:51:59.753Z"
     }
   ]
 }
