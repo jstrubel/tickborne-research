@@ -1,7 +1,76 @@
 {
-  "generatedAt": "2026-04-06T07:14:36.515Z",
+  "generatedAt": "2026-04-07T07:01:49.342Z",
   "totalPapers": 30,
   "papers": [
+    {
+      "pmid": "41845555",
+      "title": "Seroprevalence of Bartonella henselae Immunoglobulin G and Associated Risk Factors Among Adults Undergoing Health Screening in Urban Korea.",
+      "abstract": "Bartonella henselae (B. henselae), the causative agent of cat-scratch disease, is a zoonotic pathogen transmitted mainly through pet-related injuries. Although infection is usually mild and self-limiting, severe complications have been reported. Despite increasing pet ownership in Korea, data on human exposure to B. henselae remain limited. This study aimed to estimate the seroprevalence of B. henselae and to identify associated factors among adults undergoing health screening in urban Korea. A total of 509 adults undergoing routine health screening between August 2023 and February 2024 were enrolled. Data on demographics and pet exposure were collected using structured questionnaires. B. henselae immunoglobulin G (IgG) was detected using an indirect immunofluorescence assay, and associations with potential risk factors were analysed. The overall seroprevalence of B. henselae was 15.7% (80/509). Seropositivity was associated with younger age (p&#x2009;=&#x2009;0.008), owning &#x2265;&#x2009;2 pets (p&#x2009;=&#x2009;0.031), and pet-related scratches (p&#x2009;=&#x2009;0.002) or bites (p&#x2009;=&#x2009;0.003). No significant associations were observed with sex, region, housing type, or underlying medical conditions. IgG seropositivity reflects prior exposure and cannot distinguish between past and current infection. This study provides insights into the distribution of B. henselae IgG seropositivity among adults undergoing routine health screening in urban Korea. Pet-related injuries, particularly scratches and bites, were more strongly associated with seropositivity than pet ownership alone and may reflect exposure history rather than causal effects.",
+      "authors": [
+        "Lee A",
+        "Kim U",
+        "Baik SY"
+      ],
+      "journal": "Zoonoses and public health",
+      "publicationDate": "May 17, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41845555/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-07T07:01:39.794Z"
+    },
+    {
+      "pmid": "41941413",
+      "title": "Lyme Neuroborreliosis With Acute Encephalopathy Despite Early Antibiotic Therapy: A Case Report.",
+      "abstract": "BACKGROUND Lyme disease is a tick-borne infection caused by spirochetes of the Borrelia burgdorferi sensu lato species complex (Bb). Lyme neuroborreliosis occurs in up to 15% of untreated Lyme disease cases and most commonly presents with painful radiculitis, cranial nerve palsy, and meningitis; progression to encephalitis occurs in approximately 3.3% to 9% of cases. Lyme neuroborreliosis can develop despite appropriate antibiotic therapy of early Lyme disease. Diagnosis of Lyme neuroborreliosis is based on a combination of compatible neurological symptoms, serologic evidence of Lyme disease, and cerebrospinal fluid (CSF) abnormalities, which can include measurement of a Bb CSF: serum antibody index. CASE REPORT We describe an 84-year-old man who developed acute encephalopathy after removal of a dead tick from under his right eyelid. Initial symptoms included periorbital swelling and right-sided facial nerve palsy. Early treatment with doxycycline was completed. His illness subsequently progressed to encephalopathy, characterized by agitation, hallucinations, and ataxia. Diagnostic evaluation revealed CSF lymphocytic pleocytosis, positive Lyme serologies, and cranial nerve enhancement on magnetic resonance imaging. The patient improved following treatment with ceftriaxone followed by a 21-day course of doxycycline, and received a diagnosis of probable Lyme neuroborreliosis. Anti-GFAP-1 antibodies were detected in CSF, but were believed to be non-contributory given clinical recovery in the absence of immunomodulatory therapy. CONCLUSIONS This case highlights a rare presentation of probable Lyme neuroborreliosis complicated by acute encephalitis despite early doxycycline treatment. The need for specific CSF testing is underscored along with the difficulties in diagnosis even with ideal testing.",
+      "authors": [
+        "Johannesson JM",
+        "Dicks KV",
+        "Perkons ME"
+      ],
+      "journal": "The American journal of case reports",
+      "publicationDate": "Apr 06, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41941413/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-07T07:01:29.821Z"
+    },
+    {
+      "pmid": "41940712",
+      "title": "Untitled",
+      "abstract": "Surveillance of tick-borne pathogens is important to inform risks to human and animal health. Through active surveillance, we have detected the continued presence of both Babesia odocoilei since its first detection in 2019 and Babesia microti in British Columbia (BC). Tick drag sampling was conducted across four regions of the province using a protocol developed by the Canadian Lyme Sentinel Network. Captured ticks were identified morphologically, and pathogens were tested for Borrelia species, Anaplasma phagocytophilum, Babesia species, and Powassan virus. B. odocoilei was detected in four Ixodes pacificus nymphs, and B. microti was detected in two Ixodes angustus ticks (1 nymph and 1 female). B. odocoilei and B. microti continue to be detected in BC ticks. Ongoing surveillance and monitoring of tick populations in BC is essential to characterize the emergence and spread of tick-borne pathogens in the province.",
+      "authors": [
+        "Iwasawa S",
+        "Stewart Q",
+        "Coatsworth H"
+      ],
+      "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+      "publicationDate": "Apr 06, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41940712/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-07T07:01:43.073Z"
+    },
     {
       "pmid": "41933495",
       "title": "Development and validation of a pan-Plasmodium molecular assay as a confirmatory method for blood donor screening.",
@@ -23,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:30.649Z"
+      "fetchedAt": "2026-04-07T07:01:44.761Z"
     },
     {
       "pmid": "41922149",
@@ -44,7 +113,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:18.335Z"
+      "fetchedAt": "2026-04-07T07:01:30.963Z"
     },
     {
       "pmid": "41920017",
@@ -67,7 +136,29 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:25.011Z"
+      "fetchedAt": "2026-04-07T07:01:36.979Z"
+    },
+    {
+      "pmid": "41940223",
+      "title": "Severe Thrombocytopenia and New Right Bundle Branch Block in Human Granulocytic Anaplasmosis: A Case Report.",
+      "abstract": "Human granulocytic anaplasmosis is an emerging tick-borne illness caused by Anaplasma phagocytophilum and transmitted by Ixodes ticks. Clinical manifestations are often nonspecific, including fever, malaise, and cytopenias, which can delay recognition and treatment. Although thrombocytopenia is common in human granulocytic anaplasmosis (HGA), profound thrombocytopenia is rarely described, and cardiac conduction abnormalities remain infrequently reported. We describe a 73-year-old woman in New England who developed fever, somnolence, acute kidney injury, transaminitis, a platelet nadir of 12 &#xd7; 10 9 / L ( 168 - 382 &#xd7; 10 9 / L ) , and a new right bundle branch block (RBBB) with modest troponin elevation. Peripheral smear revealed D&#xf6;hle bodies, vacuolated neutrophils, and giant platelets. Respiratory viral panel and blood cultures were negative. Polymerase chain reaction (PCR) confirmed A. phagocytophilum. The patient was initially treated empirically with atovaquone and azithromycin for presumed babesiosis, but therapy was narrowed to doxycycline with rapid recovery of symptoms and normalization of laboratory abnormalities. No echocardiogram or repeat electrocardiogram was performed during hospitalization despite the new conduction abnormality and elevated troponin, limiting conclusions regarding causality. This case underscores the need for heightened clinical suspicion in endemic regions, highlights an unusual severity of thrombocytopenia, and raises questions regarding potential cardiac involvement after the incidental finding of a new right bundle branch block.",
+      "authors": [
+        "Shaw Z",
+        "Zheng C"
+      ],
+      "journal": "Journal of Brown hospital medicine",
+      "publicationDate": "04 01, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41940223/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-07T07:01:43.622Z"
     },
     {
       "pmid": "41915541",
@@ -90,7 +181,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:25.547Z"
+      "fetchedAt": "2026-04-07T07:01:37.625Z"
     },
     {
       "pmid": "41910966",
@@ -113,7 +204,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:31.785Z"
+      "fetchedAt": "2026-04-07T07:01:45.898Z"
     },
     {
       "pmid": "41910958",
@@ -135,7 +226,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:32.285Z"
+      "fetchedAt": "2026-04-07T07:01:46.398Z"
     },
     {
       "pmid": "41897008",
@@ -158,7 +249,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:33.932Z"
+      "fetchedAt": "2026-04-07T07:01:48.341Z"
     },
     {
       "pmid": "41882600",
@@ -181,30 +272,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:26.081Z"
-    },
-    {
-      "pmid": "41881497",
-      "title": "Tourist attractions of southern Poland &#x2013; risk of tick infestation and exposure to tick-borne diseases.",
-      "abstract": "The southern region of Poland, rich in natural and tourist attractions, encourages outdoor recreation and spending time in nature. Ongoing climate change, including global warming, has contributed to an increased abundance of ticks and an extended period of their seasonal activity. Consequently, the number of tick-borne disease cases continues to rise, and their diagnosis and treatment are often challenging and prolonged. The aim of this study is to summarize current knowledge on the occurrence of ticks in tourist areas of southern Poland and to raise public health awareness among individuals engaged in tourism and recreation, particularly regarding tick presence and the tick-borne diseases they transmit. To achieve the above goal, a review of available scientific and review articles on tick fauna and their role in the transmission of tick-borne disease pathogens in southern Poland was conducted. Electronic databases such as PubMed and Google Scholar were used in the literature analysis. The presence of ticks belonging to the family Ixodidae (Ixodes ricinus, Ixodes vespertilionis), Amblyommidae (Dermacentor reticulatus), and Argasidae (Argas reflexus, Argas polonicus) has been confirmed. In ticks collected from vegetation and humans in southern Poland, the presence of the following pathogens has been confirmed: Borrelia burgdorferi sensu lato, Anaplasma phagocytophilum, Babesia microti, Toxoplasma gondii, tick-borne encephalitis virus, Ehrlichia chaffeensis/Ehrlichia muris, Rickettsia spp., and Coxiella burnetii, as well as various coinfections. Knowledge of tick distribution and the pathogens they transmit plays a key role in assessing the risk of human and animal exposure to tick-borne diseases. Equally important is the dissemination of information on preventive strategies and protective measures against tick bites. The presence of ticks in recreational and tourist areas underscores the need for ongoing educational activities concerning ticks and tickborne diseases in southern Poland.",
-      "authors": [
-        "Koczanowicz S",
-        "Koco&#x144; A",
-        "Asman M"
-      ],
-      "journal": "Annals of parasitology",
-      "publicationDate": "Mar 25, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41881497/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-06T07:14:34.475Z"
+      "fetchedAt": "2026-04-07T07:01:38.189Z"
     },
     {
       "pmid": "41891471",
@@ -227,30 +295,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:22.521Z"
-    },
-    {
-      "pmid": "41872710",
-      "title": "Using blood donor surveillance and clinical case data to shape our understanding of Babesia epidemiology in Manitoba, Canada.",
-      "abstract": "Babesia is a parasite transmitted by the Ixodes tick and has the potential to be transfusion transmitted. Climate change and changing Ixodes tick distributions in Canada raised questions about the impact of Babesia on the blood supply. Following a risk-based decision making (RBDM) process, Canadian Blood Services initiated a multi-year Babesia nucleic acid test (NAT) surveillance program in 2024. The first year of the project focused on a region (Manitoba, Canada) previously determined by the RBDM analysis to be of highest risk for Babesia NAT-positive donations. The aim of this study is to provide an update on this multi-year surveillance project that will shape our understanding of Babesia epidemiology in multiple Canadian provinces. From July 11, 2024 to November 9, 2024, samples were collected in Roche Whole Blood Collection tubes at all whole blood donation sites in Manitoba. Specimens underwent one-time individual testing on the cobas Babesia NAT on the Roche cobas 6800 platform (Roche Diagnostics GmbH, Mannheim, Germany). Clinical cases of babesiosis were reviewed for the period 2013-2025. Of the 13,608 (98%) whole blood donations tested by Babesia NAT, none were positive. Clinical case rates of babesiosis in Manitoba ranged from 0 to 0.13 per 100,000 population annually. Changing climate and Ixodes tick distributions have led to concerns that the epidemiology of Babesia infection in Canadian blood donors is increasing. Babesia NAT on specimens from an elevated-risk area for Babesia infection in Canada did not identify Babesia-positive blood donors.",
-      "authors": [
-        "Drews SJ",
-        "Charlton CL",
-        "Ramirez-Arcos S"
-      ],
-      "journal": "Transfusion",
-      "publicationDate": "Mar 23, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41872710/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-06T07:14:35.514Z"
+      "fetchedAt": "2026-04-07T07:01:35.073Z"
     },
     {
       "pmid": "41892257",
@@ -273,7 +318,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:21.952Z"
+      "fetchedAt": "2026-04-07T07:01:34.459Z"
     },
     {
       "pmid": "41860756",
@@ -294,7 +339,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:27.119Z"
+      "fetchedAt": "2026-04-07T07:01:39.241Z"
+    },
+    {
+      "pmid": "41939713",
+      "title": "Untitled",
+      "abstract": "Babesia, an intraerythrocytic protozoan, is globally distributed and poses a significant public health burden. In China, human babesiosis is mainly caused by Babesia microti, and the Zhejiang Province is endemic. This study aimed to determine the prevalence of B. microti in the population, reservoir hosts, and vectors; assess population exposure risks; and gain further insight into the genotype structure in Zhejiang. From May 2020 to October 2023, blood samples from local residents and blood donors, as well as blood or liver tissues from rodents and questing or host-attached ticks, were collected from seven counties in southern Zhejiang Province. DNA was extracted for the detection of B. microti and identification of the rodent and tick species. A retrospective investigation was conducted on individuals who tested positive. Positive samples were sequenced for phylogenetic analyses. In total, 4,728 samples were collected, including 2,475 local residents, 358 blood donors, 1,615 rodents, and 280 questing or host-attached ticks. B. microti was detected in six local residents, 71 rodents, and nine ticks, with infection rates of 0.24, 4.40, and 3.21%, respectively. Human infections and positive ticks were found in specific counties, whereas positive rodents were detected in all counties. All six infected individuals were asymptomatic carriers with a history of outdoor activities in forested areas, and four also reported contact with animals. A total of 17 rodent species were identified, among which Niviventer lotipes exhibited the highest risk. The tick species identified included Haemaphysalis longicornis, Ixodes granulatus, Rhipicephalus haemaphysaloides, and Rhipicephalus microplus. Positive samples were detected for both I. granulatus and R. microplus. Sequencing and phylogenetic analyses of the positive samples revealed that all the sequences belonged to the Kobe type. This study is the first comprehensive report of B. microti infection across its life cycle in Zhejiang Province, revealing a wide prevalence in rodents and ticks. Asymptomatic infections in humans have also been reported. N. lotipes appears to be the predominant rodent reservoir host. In addition, I. granulatus and R. microplus may serve as primary tick vectors. These findings provide valuable information for developing preventive strategies against babesiosis in China.",
+      "authors": [
+        "Zhang JQ",
+        "Zhang X",
+        "Xu WJ"
+      ],
+      "journal": "Frontiers in microbiology",
+      "publicationDate": "03 20, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41939713/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-07T07:01:44.208Z"
     },
     {
       "pmid": "41862392",
@@ -317,7 +385,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:26.581Z"
+      "fetchedAt": "2026-04-07T07:01:38.687Z"
     },
     {
       "pmid": "41901780",
@@ -340,7 +408,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:19.952Z"
+      "fetchedAt": "2026-04-07T07:01:32.783Z"
     },
     {
       "pmid": "41893059",
@@ -363,53 +431,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:21.138Z"
-    },
-    {
-      "pmid": "41890831",
-      "title": "Innate Immune Evasion of Lyme Disease Pathogen Drives Alzheimer-Like Pathology.",
-      "abstract": "The amyloid &#x3b2; (A&#x3b2;) peptide is the main component of amyloid plaques in Alzheimer's disease (AD). Growing evidence has pointed to a role for A&#x3b2; as an antimicrobial peptide (AMP). However, the interactions of A&#x3b2; with neurotropic pathogens and host evasion strategies have remained largely unexplored. Using quantitative proteomic analysis of patient cerebrospinal fluid (CSF), advanced biochemical methods, and four different 3D brain models, ranging from blood-brain barrier (BBB) microfluidic systems to 3D neurovascular networks, we show that Lyme neuroborreliosis (LNB) Borrelia spp. induce molecular and immunological alterations in the central nervous system (CNS) that resemble key pathological features of AD. These include upregulation of the complement cascade and a decrease in CSF A&#x3b2; levels. By assessing the antimicrobial action of A&#x3b2; against Borrelia spp., we demonstrate that A&#x3b2; acts as a pre-opsonin by promoting complement activation on microbial surfaces. We also show that LNB Borrelia spp. exhibit unique survival strategies that reduce A&#x3b2; binding and block oligomerization, while halting complement attack by recruiting complement regulator factor H. This facilitates bacterial adhesion to the BBB, and modulation of glial and cytokine responses, fostering CNS invasion. Our findings reveal a previously unrecognized mechanism of bacterial immune escape spanning the entire invasion pathway from the BBB to neuronal compartments, demonstrating that LNB Borrelia spp. evade A&#x3b2;-mediated antimicrobial action by interfering with opsonization and oligomerization of the peptide. Collectively, these findings provide a direct mechanistic link between pathogen immune evasion, A&#x3b2; dynamics, and neuroinflammatory cascades, advancing our understanding of infection-induced neuropathology, offering insights into novel potential therapeutic targets for AD and neuroborreliosis.",
-      "authors": [
-        "Haapasalo K",
-        "Heiland L",
-        "Kumar DKV"
-      ],
-      "journal": "Research square",
-      "publicationDate": "Mar 18, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41890831/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-06T07:14:23.079Z"
-    },
-    {
-      "pmid": "41845555",
-      "title": "Seroprevalence of Bartonella henselae Immunoglobulin G and Associated Risk Factors Among Adults Undergoing Health Screening in Urban Korea.",
-      "abstract": "Bartonella henselae (B. henselae), the causative agent of cat-scratch disease, is a zoonotic pathogen transmitted mainly through pet-related injuries. Although infection is usually mild and self-limiting, severe complications have been reported. Despite increasing pet ownership in Korea, data on human exposure to B. henselae remain limited. This study aimed to estimate the seroprevalence of B. henselae and to identify associated factors among adults undergoing health screening in urban Korea. A total of 509 adults undergoing routine health screening between August 2023 and February 2024 were enrolled. Data on demographics and pet exposure were collected using structured questionnaires. B. henselae immunoglobulin G (IgG) was detected using an indirect immunofluorescence assay, and associations with potential risk factors were analysed. The overall seroprevalence of B. henselae was 15.7% (80/509). Seropositivity was associated with younger age (p&#x2009;=&#x2009;0.008), owning &#x2265;&#x2009;2 pets (p&#x2009;=&#x2009;0.031), and pet-related scratches (p&#x2009;=&#x2009;0.002) or bites (p&#x2009;=&#x2009;0.003). No significant associations were observed with sex, region, housing type, or underlying medical conditions. IgG seropositivity reflects prior exposure and cannot distinguish between past and current infection. This study provides insights into the distribution of B. henselae IgG seropositivity among adults undergoing routine health screening in urban Korea. Pet-related injuries, particularly scratches and bites, were more strongly associated with seropositivity than pet ownership alone and may reflect exposure history rather than causal effects.",
-      "authors": [
-        "Lee A",
-        "Kim U",
-        "Baik SY"
-      ],
-      "journal": "Zoonoses and public health",
-      "publicationDate": "Mar 17, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41845555/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-06T07:14:27.675Z"
+      "fetchedAt": "2026-04-07T07:01:33.906Z"
     },
     {
       "pmid": "41831185",
@@ -432,7 +454,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:28.222Z"
+      "fetchedAt": "2026-04-07T07:01:40.343Z"
     },
     {
       "pmid": "41908963",
@@ -455,7 +477,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:32.821Z"
+      "fetchedAt": "2026-04-07T07:01:47.038Z"
     },
     {
       "pmid": "41814426",
@@ -478,7 +500,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:28.794Z"
+      "fetchedAt": "2026-04-07T07:01:40.986Z"
     },
     {
       "pmid": "41900360",
@@ -501,7 +523,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:20.519Z"
+      "fetchedAt": "2026-04-07T07:01:33.340Z"
     },
     {
       "pmid": "41901745",
@@ -524,30 +546,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:33.358Z"
-    },
-    {
-      "pmid": "41875463",
-      "title": "Infecciones por Ehrlichia spp., Anaplasma spp. y Babesia spp. en Puerto Ordaz, estado Bol&#xed;var, Venezuela.",
-      "abstract": "",
-      "authors": [
-        "Forero-Pe&#xf1;a DA",
-        "Carri&#xf3;n-Nessi FS",
-        "Mu&#xf1;oz-Leal S"
-      ],
-      "journal": "Biomedica : revista del Instituto Nacional de Salud",
-      "publicationDate": "Mar 02, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41875463/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-06T07:14:34.975Z"
+      "fetchedAt": "2026-04-07T07:01:47.755Z"
     },
     {
       "pmid": "41918643",
@@ -570,7 +569,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:18.872Z"
+      "fetchedAt": "2026-04-07T07:01:31.515Z"
     },
     {
       "pmid": "41929998",
@@ -593,7 +592,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:24.441Z"
+      "fetchedAt": "2026-04-07T07:01:36.428Z"
     },
     {
       "pmid": "41909340",
@@ -614,7 +613,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:19.417Z"
+      "fetchedAt": "2026-04-07T07:01:32.106Z"
     },
     {
       "pmid": "41929578",
@@ -637,7 +636,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:17.792Z"
+      "fetchedAt": "2026-04-07T07:01:30.373Z"
     },
     {
       "pmid": "41932198",
@@ -660,7 +659,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:31.228Z"
+      "fetchedAt": "2026-04-07T07:01:45.344Z"
     },
     {
       "pmid": "41812225",
@@ -683,7 +682,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-06T07:14:29.355Z"
+      "fetchedAt": "2026-04-07T07:01:41.617Z"
     }
   ]
 }
