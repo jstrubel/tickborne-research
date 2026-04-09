@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T07:03:42.072Z",
+  "generatedAt": "2026-04-09T07:07:51.434Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:31.989Z"
+      "fetchedAt": "2026-04-09T07:07:41.171Z"
     },
     {
       "pmid": "41944639",
@@ -46,7 +46,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:20.335Z"
+      "fetchedAt": "2026-04-09T07:07:31.041Z"
+    },
+    {
+      "pmid": "41947593",
+      "title": "A key regulator of missing-self innate immunity is polymorphic and under diversifying selection.",
+      "abstract": "Host-parasite co-evolution drives the diversification of host immune genes involved in the recognition of pathogen antigens and molecular patterns. In contrast, the immune genes involved in self-recognition and inhibition of immune responses against self-cells (missing-self immunity) may be evolutionarily constrained by the need to interact with self-components. However, many pathogens, such as the Lyme disease agent Borrelia, hijack these genes to evade the immune system and may therefore select for their diversification. How these contrasting but concurrent selective forces shape the evolution of missing-self regulators is not clearly understood. To fill this gap, we investigated polymorphism and molecular signatures of selection acting on a missing-self regulator, the Complement Factor H (CFH), in bank vole populations, which are an important wild reservoir for Borrelia. We then compared the geographic structuring in the CFH domain interacting with Borrelia (CCP 20) against a genomic background represented by RAD-seq markers. We found signals of positive and diversifying selection at CCP 20, suggesting that CFH evolved in response to pressures from pathogens. Additionally, we found other innate immunity genes within the alternative complement pathway, which is regulated by CFH, under diversifying selection, highlighting its involvement in host-parasite coevolution. This study demonstrates that an innate missing-self sensor in a wild vertebrate is under diversifying selection, likely driven by pathogens.",
+      "authors": [
+        "Notarnicola RF",
+        "Herdegen-Radwan M",
+        "R&#xf3;&#x17c;a&#x144;ska-Wr&#xf3;bel J"
+      ],
+      "journal": "Molecular biology and evolution",
+      "publicationDate": "Apr 06, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41947593/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-09T07:07:30.453Z"
     },
     {
       "pmid": "41941413",
@@ -69,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:20.961Z"
+      "fetchedAt": "2026-04-09T07:07:31.643Z"
     },
     {
       "pmid": "41940712",
@@ -92,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:35.567Z"
+      "fetchedAt": "2026-04-09T07:07:45.022Z"
     },
     {
       "pmid": "41933495",
@@ -115,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:37.492Z"
+      "fetchedAt": "2026-04-09T07:07:46.791Z"
     },
     {
       "pmid": "41922149",
@@ -136,7 +159,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:22.760Z"
+      "fetchedAt": "2026-04-09T07:07:32.824Z"
     },
     {
       "pmid": "41920017",
@@ -159,7 +182,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:28.827Z"
+      "fetchedAt": "2026-04-09T07:07:38.204Z"
     },
     {
       "pmid": "41940223",
@@ -181,7 +204,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:36.170Z"
+      "fetchedAt": "2026-04-09T07:07:45.629Z"
     },
     {
       "pmid": "41915541",
@@ -204,7 +227,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:29.434Z"
+      "fetchedAt": "2026-04-09T07:07:38.789Z"
     },
     {
       "pmid": "41910966",
@@ -227,7 +250,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:38.744Z"
+      "fetchedAt": "2026-04-09T07:07:48.012Z"
     },
     {
       "pmid": "41910958",
@@ -249,7 +272,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:39.243Z"
+      "fetchedAt": "2026-04-09T07:07:48.512Z"
     },
     {
       "pmid": "41897008",
@@ -272,7 +295,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:41.072Z"
+      "fetchedAt": "2026-04-09T07:07:50.433Z"
     },
     {
       "pmid": "41882600",
@@ -295,30 +318,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:30.072Z"
-    },
-    {
-      "pmid": "41892257",
-      "title": "Ticks: Biology, Habitat, Threats and Protection Methods.",
-      "abstract": "The most common species of tick in Europe is the castor bean tick (Ixodes ricinus), which is found in forests, parks, and gardens and is active almost all year round. Ticks are among the most important arthropods and vectors of disease, transmitting a wide range of parasites that sometimes lead to the death of infected organisms. The peak incidence of tick-borne diseases occurs between May and September; however, due to global warming, people are increasingly exposed to tick-borne diseases throughout the year. In order to increase the possibility of preventing the transmission of diseases by ticks, it is necessary to become thoroughly familiar with the life cycle of ticks and the environment in which they live. Vaccines are available for some diseases, such as tick-borne encephalitis, while others require a highly specific diagnosis. Another major problem is the long period between the tick bite, which often goes unnoticed or is even ignored by the patient or the doctor, and the development of tick-borne diseases. Increasing attention is being paid to the prevention of tick-borne diseases through prevention of tick bites, quick tick removal, use of repellents, appropriate land management, vaccinations, and the use of plants as natural acaricides.",
-      "authors": [
-        "Szalata M",
-        "Wielgus K",
-        "Danielewski M"
-      ],
-      "journal": "Biology",
-      "publicationDate": "Mar 20, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41892257/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-08T07:03:26.527Z"
+      "fetchedAt": "2026-04-09T07:07:39.407Z"
     },
     {
       "pmid": "41860756",
@@ -339,7 +339,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:31.353Z"
+      "fetchedAt": "2026-04-09T07:07:40.490Z"
     },
     {
       "pmid": "41939713",
@@ -362,7 +362,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:36.838Z"
+      "fetchedAt": "2026-04-09T07:07:46.209Z"
     },
     {
       "pmid": "41862392",
@@ -385,7 +385,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:30.572Z"
+      "fetchedAt": "2026-04-09T07:07:39.907Z"
     },
     {
       "pmid": "41901780",
@@ -408,7 +408,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:24.684Z"
+      "fetchedAt": "2026-04-09T07:07:34.622Z"
     },
     {
       "pmid": "41893059",
@@ -431,7 +431,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:25.922Z"
+      "fetchedAt": "2026-04-09T07:07:35.825Z"
     },
     {
       "pmid": "41831185",
@@ -454,7 +454,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:32.591Z"
+      "fetchedAt": "2026-04-09T07:07:41.910Z"
     },
     {
       "pmid": "41908963",
@@ -477,7 +477,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:39.857Z"
+      "fetchedAt": "2026-04-09T07:07:49.137Z"
     },
     {
       "pmid": "41814426",
@@ -500,7 +500,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:33.236Z"
+      "fetchedAt": "2026-04-09T07:07:42.679Z"
     },
     {
       "pmid": "41900360",
@@ -523,7 +523,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:25.303Z"
+      "fetchedAt": "2026-04-09T07:07:35.206Z"
     },
     {
       "pmid": "41901745",
@@ -546,7 +546,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:40.466Z"
+      "fetchedAt": "2026-04-09T07:07:49.755Z"
     },
     {
       "pmid": "41918643",
@@ -569,7 +569,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:23.399Z"
+      "fetchedAt": "2026-04-09T07:07:33.429Z"
     },
     {
       "pmid": "41929998",
@@ -592,7 +592,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:28.177Z"
+      "fetchedAt": "2026-04-09T07:07:37.562Z"
     },
     {
       "pmid": "41909340",
@@ -613,7 +613,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:24.044Z"
+      "fetchedAt": "2026-04-09T07:07:34.032Z"
     },
     {
       "pmid": "41929578",
@@ -636,7 +636,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:21.636Z"
+      "fetchedAt": "2026-04-09T07:07:32.225Z"
     },
     {
       "pmid": "41932198",
@@ -659,7 +659,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:38.100Z"
+      "fetchedAt": "2026-04-09T07:07:47.380Z"
     },
     {
       "pmid": "41812225",
@@ -682,7 +682,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-08T07:03:33.878Z"
+      "fetchedAt": "2026-04-09T07:07:43.303Z"
     }
   ]
 }
