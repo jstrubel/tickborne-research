@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T07:44:45.547Z",
+  "generatedAt": "2026-04-14T07:14:32.854Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:37.121Z"
+      "fetchedAt": "2026-04-14T07:14:24.305Z"
+    },
+    {
+      "pmid": "41973696",
+      "title": "Use of administrative data for evaluating trends in medically-attended Lyme disease, Manitoba, Canada, 2010-2021.",
+      "abstract": "While Lyme disease (LD) is the most common tick-borne disease reported to public health surveillance in North America and is increasingly recognized as a public health threat in Canada, it's incidence may be underreported. Our study aims to estimate medically-attended LD incidence in Manitoba, Canada, using administrative health data. We identified medically-attended LD cases in Manitoba from 2010&#x2009;-&#x2009;2021 in a claims database (Manitoba Population Research Data Repository), which contains the health records of >95% of the residents of Manitoba, using diagnostic codes, antibiotic dispensations, and laboratory results. The incidence of claims-based LD cases ranged from 8.4 to 28.5 per 100,000 population per year, 5.1 to 11.0 times higher than the incidence of surveillance-reported LD cases. The incidence of claims-based LD cases was particularly higher than the incidence of surveillance-reported LD cases in females and health regions with a low surveillance-reported incidence. Our study suggests that medically attended LD is more common than reported in surveillance. Further study is required to identify barriers to reporting. Interventions are needed to reduce the substantial burden of LD in Manitoba.",
+      "authors": [
+        "Major M",
+        "Horton S",
+        "Nightingale N"
+      ],
+      "journal": "PloS one",
+      "publicationDate": "04 13, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41973696/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-14T07:14:11.521Z"
     },
     {
       "pmid": "41965542",
@@ -46,7 +69,30 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:25.654Z"
+      "fetchedAt": "2026-04-14T07:14:13.208Z"
+    },
+    {
+      "pmid": "41974345",
+      "title": "Comprehensive molecular characterization of Theileria equi: Detection, genetic diversity, and risk factors assessment.",
+      "abstract": "Equine piroplasmosis, caused by Theileria equi, has been widely studied globally, but genetic diversity research in India remains limited. Analysis of 306 horse blood samples revealed T. equi infection in 10.78% by microscopy and 21.24% by PCR. Universal primers targeting 18S rRNA of T. equi and Babesia caballi were used, followed by species-specific primers generating 435 bp amplicons. Sequenced PCR-positive samples revealed high homology (99.52-100% in India, 95.89-100% globally), with all Indian isolates classified as genotype A. The EMA-1 gene phylogenetic analysis confirmed the insights from the 18S rRNA gene analysis. A median-joining network of 18S rRNA identified 46 global haplotypes, with Hap_1 as the most common, showing geographic clustering. Brazil had the most haplotypes (n=13), followed by Sri Lanka (n=11), Israel (n=9), South Africa and China (n=6 each), Switzerland (n=4), and India (n=3). The star-like network indicates rapid population expansion and the emergence of new haplotypes. Low overall nucleotide diversity (&#x3c0; = 0.172 &#xb1; 0.007) but high haplotype diversity (Hd = 1.0 &#xb1; 0.005) across T. equi genotypes suggests minor haplotype distinctions and recent population expansion. AMOVA highlighted greater genetic variation among genotypes (78.61%) than within (21.39%), with significant differentiation (Fst > 0.33). The logistic regression model identified summer season (OR = 3.129; p = 0.012), tick infestation (OR = 2.988; p = 0.031), presence of ruminants on the farm (OR = 5.865; p = 0.004), anaemia (OR = 4.231; p < 0.001), and red urine (OR = 4.892; p = 0.017) as significant predictors of T. equi infection in equids. The rainy season, age, sex, management, and body condition were not significant predictors (p > 0.05).",
+      "authors": [
+        "Maharana BR",
+        "Ganguly A",
+        "Malik R"
+      ],
+      "journal": "Experimental parasitology",
+      "publicationDate": "Apr 11, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41974345/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-14T07:14:26.496Z"
     },
     {
       "pmid": "41967290",
@@ -69,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:39.323Z"
+      "fetchedAt": "2026-04-14T07:14:27.075Z"
     },
     {
       "pmid": "41963387",
@@ -92,7 +138,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:39.824Z"
+      "fetchedAt": "2026-04-14T07:14:27.575Z"
     },
     {
       "pmid": "41967005",
@@ -114,7 +160,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:25.154Z"
+      "fetchedAt": "2026-04-14T07:14:12.708Z"
     },
     {
       "pmid": "41957040",
@@ -137,7 +183,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:26.236Z"
+      "fetchedAt": "2026-04-14T07:14:13.815Z"
     },
     {
       "pmid": "41952226",
@@ -160,7 +206,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:26.813Z"
+      "fetchedAt": "2026-04-14T07:14:14.416Z"
     },
     {
       "pmid": "41962605",
@@ -183,7 +229,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:40.402Z"
+      "fetchedAt": "2026-04-14T07:14:28.153Z"
     },
     {
       "pmid": "41944639",
@@ -206,7 +252,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:28.150Z"
+      "fetchedAt": "2026-04-14T07:14:15.693Z"
     },
     {
       "pmid": "41947593",
@@ -229,7 +275,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:27.390Z"
+      "fetchedAt": "2026-04-14T07:14:15.102Z"
     },
     {
       "pmid": "41941413",
@@ -252,7 +298,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:28.736Z"
+      "fetchedAt": "2026-04-14T07:14:16.270Z"
     },
     {
       "pmid": "41940712",
@@ -275,7 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:41.124Z"
+      "fetchedAt": "2026-04-14T07:14:28.766Z"
     },
     {
       "pmid": "41933495",
@@ -298,28 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:42.865Z"
-    },
-    {
-      "pmid": "41922149",
-      "title": "Repulsive and precious: thinking with the tick in Canadian Lyme disease discourse.",
-      "abstract": "The purpose of this paper is to take seriously the role of the tick in Canadian Lyme disease discourse. I analyse Public Health Agency of Canada Lyme disease awareness materials alongside patient narratives from the 2016 Canadian Conference to Develop a Federal Framework on Lyme Disease to show that the tick has a more complex, symbiotic relationship to the Lyme disease sufferer. The tick, therefore, is not just a threat, but also is essential in the making of sufferers. This analysis draws on animal studies and new materialisms to understand public health messaging about Lyme disease in terms of preserving distance and separation between humans and ticks. I argue that public health messaging that emphasises the need for excluding the tick makes space for one kind of Lyme disease experience-the acute sufferer-and simultaneously renders impossible other forms of illness experience-the chronic sufferer. In contrast to Public Health messaging that emphasises exclusion, chronic Lyme disease sufferers embrace a human/tick entanglement as a way of claiming reality of their existence. The tick, then, is not just the vector for Lyme disease, but this creature plays a central role in determining the ontological possibilities of patients and sufferers and offers certification of an identity that is often characterised as not possible in mainstream medicine.",
-      "authors": [
-        "Gaudet L"
-      ],
-      "journal": "Medical humanities",
-      "publicationDate": "Apr 01, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41922149/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-13T07:44:29.898Z"
+      "fetchedAt": "2026-04-14T07:14:30.659Z"
     },
     {
       "pmid": "41920017",
@@ -342,7 +367,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:34.209Z"
+      "fetchedAt": "2026-04-14T07:14:21.141Z"
     },
     {
       "pmid": "41940223",
@@ -364,7 +389,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:41.710Z"
+      "fetchedAt": "2026-04-14T07:14:29.346Z"
     },
     {
       "pmid": "41915541",
@@ -387,7 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:34.824Z"
+      "fetchedAt": "2026-04-14T07:14:21.755Z"
     },
     {
       "pmid": "41910966",
@@ -410,29 +435,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:44.045Z"
+      "fetchedAt": "2026-04-14T07:14:31.853Z"
     },
     {
-      "pmid": "41910958",
-      "title": "Exchange Transfusion for Severe Babesiosis-Insights From a Multicenter Retrospective Analysis.",
-      "abstract": "",
+      "pmid": "41972549",
+      "title": "Untitled",
+      "abstract": "To date, Lyme vaccine development has largely overlooked the vaccinee's human leukocyte antigen (HLA) genetic makeup on which antibody production critically depends. Here, we evaluated in silico the predicted binding affinities of 192 HLA-II alleles with all 15-mer peptide sequences of five Borrelia burgdorferi proteins to identify peptides with strong binding affinity, as they would be the best candidates for antibody production in response to vaccination. We found the following: (a) 226 of the 1067 peptides tested (21.2%) were found to bind strongly to HLA-II molecules; (b) decorin-binding protein A had the greatest number of strongly binding peptides; and (c) 69 HLA-II alleles (primarily of the DRB1 gene) bound with strong affinity to peptides from Borrelia burgdorferi proteins. Finally, we tested for possible susceptibility to autoimmunity by any one of the 226 peptides above by searching for their occurrence in ~84,000 proteins of the human proteome and found overlap with only two 8-mer peptide sequences (embedded within the 226 15-mer peptides), neither of which was characterized by strong binding to HLA-I, suggesting a reduced likelihood of autoimmunity. These findings emphasize the importance of a personalized vaccine approach based on the vaccinee's human leukocyte antigen genetic makeup and offer specific vaccine-candidate peptides that are predicted to maximize vaccine effectiveness and safety. The results of this computational study provide novel directions for future development of Lyme vaccines.",
       "authors": [
-        "Meyerowitz EA",
-        "Daily JP"
+        "Georgopoulos AP",
+        "James LM",
+        "Sanders M"
       ],
-      "journal": "JAMA internal medicine",
-      "publicationDate": "Mar 30, 2026",
+      "journal": "Biology",
+      "publicationDate": "Mar 28, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41910958/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41972549/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:44.546Z"
+      "fetchedAt": "2026-04-14T07:14:12.101Z"
     },
     {
       "pmid": "41882600",
@@ -455,7 +481,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:35.406Z"
+      "fetchedAt": "2026-04-14T07:14:22.589Z"
     },
     {
       "pmid": "41860756",
@@ -476,7 +502,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:36.531Z"
+      "fetchedAt": "2026-04-14T07:14:23.723Z"
     },
     {
       "pmid": "41939713",
@@ -499,7 +525,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:42.290Z"
+      "fetchedAt": "2026-04-14T07:14:30.074Z"
     },
     {
       "pmid": "41862392",
@@ -522,7 +548,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:35.906Z"
+      "fetchedAt": "2026-04-14T07:14:23.089Z"
     },
     {
       "pmid": "41960193",
@@ -545,7 +571,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:32.174Z"
+      "fetchedAt": "2026-04-14T07:14:19.330Z"
     },
     {
       "pmid": "41831185",
@@ -568,30 +594,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:37.708Z"
-    },
-    {
-      "pmid": "41918643",
-      "title": "Fulminant Lyme Carditis With Rapid Hemodynamic Deterioration in an Adolescent: A Case Report.",
-      "abstract": "Lyme carditis is a rare but potentially severe complication of Lyme disease caused by&#xa0;Borrelia burgdorferi. We report the case of a 16-year-old adolescent with no significant past medical history, admitted for hemodynamic instability in a febrile context associated with respiratory and gastrointestinal symptoms evolving over several days. Transthoracic echocardiography showed marked biventricular dilation with global hypokinesia and a left ventricular ejection fraction estimated at 20-25%, associated with a small pericardial effusion. Laboratory investigations revealed a significant inflammatory syndrome and progressively rising troponin levels. Appropriate antibiotic therapy combined with inotropic and vasopressor support was initiated after serological confirmation of Lyme disease. Despite initial hemodynamic improvement, secondary deterioration occurred with the development of refractory cardiogenic shock. The clinical course was rapidly unfavorable within less than 12 hours, ultimately leading to death. This case illustrates the potential severity and fulminant evolution of Lyme carditis, highlighting the importance of early diagnosis, close cardiac monitoring, and timely access to appropriate supportive therapies.",
-      "authors": [
-        "Enaimi M",
-        "Elbouti A",
-        "Hammadi H"
-      ],
-      "journal": "Cureus",
-      "publicationDate": "Feb 28, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41918643/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-13T07:44:30.476Z"
+      "fetchedAt": "2026-04-14T07:14:24.889Z"
     },
     {
       "pmid": "41958892",
@@ -614,7 +617,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:32.973Z"
+      "fetchedAt": "2026-04-14T07:14:19.952Z"
     },
     {
       "pmid": "41929998",
@@ -637,7 +640,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:33.590Z"
+      "fetchedAt": "2026-04-14T07:14:20.560Z"
     },
     {
       "pmid": "41929578",
@@ -660,7 +663,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:29.313Z"
+      "fetchedAt": "2026-04-14T07:14:16.885Z"
     },
     {
       "pmid": "41932198",
@@ -683,7 +686,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-13T07:44:43.454Z"
+      "fetchedAt": "2026-04-14T07:14:31.272Z"
     }
   ]
 }
