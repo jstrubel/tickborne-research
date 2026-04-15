@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T07:14:32.854Z",
+  "generatedAt": "2026-04-15T07:14:51.835Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:24.305Z"
+      "fetchedAt": "2026-04-15T07:14:43.263Z"
     },
     {
       "pmid": "41973696",
@@ -46,7 +46,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:11.521Z"
+      "fetchedAt": "2026-04-15T07:14:31.975Z"
+    },
+    {
+      "pmid": "41974345",
+      "title": "Comprehensive molecular characterization of Theileria equi: Detection, genetic diversity, and risk factors assessment.",
+      "abstract": "Equine piroplasmosis, caused by Theileria equi, has been widely studied globally, but genetic diversity research in India remains limited. Analysis of 306 horse blood samples revealed T. equi infection in 10.78% by microscopy and 21.24% by PCR. Universal primers targeting 18S rRNA of T. equi and Babesia caballi were used, followed by species-specific primers generating 435 bp amplicons. Sequenced PCR-positive samples revealed high homology (99.52-100% in India, 95.89-100% globally), with all Indian isolates classified as genotype A. The EMA-1 gene phylogenetic analysis confirmed the insights from the 18S rRNA gene analysis. A median-joining network of 18S rRNA identified 46 global haplotypes, with Hap_1 as the most common, showing geographic clustering. Brazil had the most haplotypes (n&#xa0;=&#xa0;13), followed by Sri Lanka (n&#xa0;=&#xa0;11), Israel (n&#xa0;=&#xa0;9), South Africa and China (n&#xa0;=&#xa0;6 each), Switzerland (n&#xa0;=&#xa0;4), and India (n&#xa0;=&#xa0;3). The star-like network indicates rapid population expansion and the emergence of new haplotypes. Low overall nucleotide diversity (&#x3c0;&#xa0;=&#xa0;0.172&#xa0;&#xb1;&#xa0;0.007) but high haplotype diversity (Hd&#xa0;=&#xa0;1.0&#xa0;&#xb1;&#xa0;0.005) across T. equi genotypes suggests minor haplotype distinctions and recent population expansion. AMOVA highlighted greater genetic variation among genotypes (78.61%) than within (21.39%), with significant differentiation (Fst >0.33). The logistic regression model identified summer season (OR&#xa0;=&#xa0;3.129; p&#xa0;=&#xa0;0.012), tick infestation (OR&#xa0;=&#xa0;2.988; p&#xa0;=&#xa0;0.031), presence of ruminants on the farm (OR&#xa0;=&#xa0;5.865; p&#xa0;=&#xa0;0.004), anaemia (OR&#xa0;=&#xa0;4.231; p&#xa0;<&#xa0;0.001), and red urine (OR&#xa0;=&#xa0;4.892; p&#xa0;=&#xa0;0.017) as significant predictors of T. equi infection in equids. The rainy season, age, sex, management, and body condition were not significant predictors (p&#xa0;>&#xa0;0.05).",
+      "authors": [
+        "Maharana BR",
+        "Ganguly A",
+        "Malik R"
+      ],
+      "journal": "Experimental parasitology",
+      "publicationDate": "Apr 12, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41974345/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-15T07:14:45.391Z"
     },
     {
       "pmid": "41965542",
@@ -69,30 +92,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:13.208Z"
-    },
-    {
-      "pmid": "41974345",
-      "title": "Comprehensive molecular characterization of Theileria equi: Detection, genetic diversity, and risk factors assessment.",
-      "abstract": "Equine piroplasmosis, caused by Theileria equi, has been widely studied globally, but genetic diversity research in India remains limited. Analysis of 306 horse blood samples revealed T. equi infection in 10.78% by microscopy and 21.24% by PCR. Universal primers targeting 18S rRNA of T. equi and Babesia caballi were used, followed by species-specific primers generating 435 bp amplicons. Sequenced PCR-positive samples revealed high homology (99.52-100% in India, 95.89-100% globally), with all Indian isolates classified as genotype A. The EMA-1 gene phylogenetic analysis confirmed the insights from the 18S rRNA gene analysis. A median-joining network of 18S rRNA identified 46 global haplotypes, with Hap_1 as the most common, showing geographic clustering. Brazil had the most haplotypes (n=13), followed by Sri Lanka (n=11), Israel (n=9), South Africa and China (n=6 each), Switzerland (n=4), and India (n=3). The star-like network indicates rapid population expansion and the emergence of new haplotypes. Low overall nucleotide diversity (&#x3c0; = 0.172 &#xb1; 0.007) but high haplotype diversity (Hd = 1.0 &#xb1; 0.005) across T. equi genotypes suggests minor haplotype distinctions and recent population expansion. AMOVA highlighted greater genetic variation among genotypes (78.61%) than within (21.39%), with significant differentiation (Fst > 0.33). The logistic regression model identified summer season (OR = 3.129; p = 0.012), tick infestation (OR = 2.988; p = 0.031), presence of ruminants on the farm (OR = 5.865; p = 0.004), anaemia (OR = 4.231; p < 0.001), and red urine (OR = 4.892; p = 0.017) as significant predictors of T. equi infection in equids. The rainy season, age, sex, management, and body condition were not significant predictors (p > 0.05).",
-      "authors": [
-        "Maharana BR",
-        "Ganguly A",
-        "Malik R"
-      ],
-      "journal": "Experimental parasitology",
-      "publicationDate": "Apr 11, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41974345/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-14T07:14:26.496Z"
+      "fetchedAt": "2026-04-15T07:14:33.705Z"
     },
     {
       "pmid": "41967290",
@@ -115,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:27.075Z"
+      "fetchedAt": "2026-04-15T07:14:45.975Z"
     },
     {
       "pmid": "41963387",
@@ -138,7 +138,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:27.575Z"
+      "fetchedAt": "2026-04-15T07:14:46.476Z"
     },
     {
       "pmid": "41967005",
@@ -160,7 +160,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:12.708Z"
+      "fetchedAt": "2026-04-15T07:14:33.204Z"
     },
     {
       "pmid": "41957040",
@@ -183,7 +183,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:13.815Z"
+      "fetchedAt": "2026-04-15T07:14:34.321Z"
     },
     {
       "pmid": "41952226",
@@ -206,7 +206,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:14.416Z"
+      "fetchedAt": "2026-04-15T07:14:34.950Z"
     },
     {
       "pmid": "41962605",
@@ -229,7 +229,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:28.153Z"
+      "fetchedAt": "2026-04-15T07:14:47.061Z"
     },
     {
       "pmid": "41944639",
@@ -252,7 +252,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:15.693Z"
+      "fetchedAt": "2026-04-15T07:14:36.164Z"
     },
     {
       "pmid": "41947593",
@@ -275,7 +275,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:15.102Z"
+      "fetchedAt": "2026-04-15T07:14:35.583Z"
     },
     {
       "pmid": "41941413",
@@ -298,7 +298,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:16.270Z"
+      "fetchedAt": "2026-04-15T07:14:36.742Z"
     },
     {
       "pmid": "41940712",
@@ -321,7 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:28.766Z"
+      "fetchedAt": "2026-04-15T07:14:47.832Z"
     },
     {
       "pmid": "41933495",
@@ -344,7 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:30.659Z"
+      "fetchedAt": "2026-04-15T07:14:49.576Z"
     },
     {
       "pmid": "41920017",
@@ -367,7 +367,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:21.141Z"
+      "fetchedAt": "2026-04-15T07:14:40.318Z"
     },
     {
       "pmid": "41940223",
@@ -389,7 +389,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:29.346Z"
+      "fetchedAt": "2026-04-15T07:14:48.412Z"
     },
     {
       "pmid": "41915541",
@@ -412,7 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:21.755Z"
+      "fetchedAt": "2026-04-15T07:14:40.941Z"
     },
     {
       "pmid": "41910966",
@@ -435,7 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:31.853Z"
+      "fetchedAt": "2026-04-15T07:14:50.834Z"
     },
     {
       "pmid": "41972549",
@@ -458,7 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:12.101Z"
+      "fetchedAt": "2026-04-15T07:14:32.589Z"
     },
     {
       "pmid": "41882600",
@@ -481,7 +481,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:22.589Z"
+      "fetchedAt": "2026-04-15T07:14:41.532Z"
     },
     {
       "pmid": "41860756",
@@ -502,7 +502,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:23.723Z"
+      "fetchedAt": "2026-04-15T07:14:42.649Z"
     },
     {
       "pmid": "41939713",
@@ -525,7 +525,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:30.074Z"
+      "fetchedAt": "2026-04-15T07:14:48.992Z"
     },
     {
       "pmid": "41862392",
@@ -548,7 +548,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:23.089Z"
+      "fetchedAt": "2026-04-15T07:14:42.033Z"
     },
     {
       "pmid": "41960193",
@@ -571,7 +571,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:19.330Z"
+      "fetchedAt": "2026-04-15T07:14:38.302Z"
     },
     {
       "pmid": "41831185",
@@ -594,7 +594,29 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:24.889Z"
+      "fetchedAt": "2026-04-15T07:14:43.844Z"
+    },
+    {
+      "pmid": "41979588",
+      "title": "Lyme disease in Poland in 2023.",
+      "abstract": "Lyme disease is a vector-borne disease transmitted by ticks of the Ixodes genus, caused by a heterogeneous group of Borrelia burgdorferi sensu lato. Human infection occurs through a tick bite and its feeding on the skin. Due to the diverse symptoms, diagnosing Lyme disease is challenging and usually involves a two-step serological approach. Currently, there is still no vaccine against Lyme disease, but in 2024, data on the immunogenicity and safety of the VLA15-221 vaccine, which is in the second phase of clinical trials, was announced. The aim of the study is to discuss the epidemiological situation of Lyme disease in Poland in 2023 compared to previous years. To assess the epidemiological situation of Lyme disease in Poland, data sent to NIPH NIH - NRI by the district Sanitary-Epidemiological Stations and published in the annual bulletin: \"Infectious diseases and poisonings in Poland in 2023\" were used. In 2023, there were 25 285 reported cases of Lyme disease and 1 155 hospitalizations. This represents a significant increase in cases by 45.58% compared to the previous year. Seasonal variations in case occurrences are evident in distinct quarters, with the number rising from 2 466 in Q1 to 11 626 in Q3, and then declining in Q4 to 5 945. The highest incidence was recorded in the Ma&#x142;opolskie voivodeship (122.9 per 100,000), Podlaskie voivodeship (96 per 100,000), and Warmi&#x144;sko-Mazurskie voivodeship (95.2 per 100,000). The number of borreliosis cases returned to pre-pandemic levels but also increased by 22.57% compared to 2019 (20 630 cases), and doubled (95.49%) compared to 2020 (12 934 cases). Seasonality has remained unchanged for years. Usually, eastern Poland (most often the Podlaskie voivodeship) is characterised by the highest incidence, however, in 2023, the highest incidence was recorded in the Ma&#x142;opolskie voivodeship at 122.9 per 100,000. Borelioza to choroba wektorowa przenoszona przez kleszcze rodzaju Ixodes, wywo&#x142;ywana przez niejednorodn&#x105; grup&#x119; Borrelia burgdorferi sensu lato. Zaka&#x17c;enie cz&#x142;owieka odbywa si&#x119; poprzez uk&#x142;ucie i &#x17c;erowaniu kleszcza na sk&#xf3;rze. Z uwagi na zr&#xf3;&#x17c;nicowane objawy, rozpoznanie choroby z Lyme jest trudne i zwykle obejmuje dwuetapowe podej&#x15b;cie serologiczne. Obecnie, nie ma jeszcze szczepionki przeciwko boreliozie, ale w 2024 roku zosta&#x142;y og&#x142;oszone dane dotycz&#x105;ce immunogenno&#x15b;ci i bezpiecze&#x144;stwa szczepionki VLA15-221 b&#x119;d&#x105;cej w drugiej fazie bada&#x144; klinicznych. Celem pracy jest om&#xf3;wienie sytuacji epidemiologicznej boreliozy w Polsce w 2023 r. w por&#xf3;wnaniu do ubieg&#x142;ych lat. Do przeprowadzenia oceny sytuacji epidemiologicznej boreliozy w Polsce wykorzystano dane nadsy&#x142;ane do NIZP PZH &#x2013; PIB przez Wojew&#xf3;dzkie Stacje Sanitarno-Epidemiologiczne i publikowane w biuletynie rocznym: &#x201e;Choroby zaka&#x17a;ne i zatrucia w Polsce w 2023 r.&#x201d;. W 2023 r. zarejestrowano 25 285 zachorowa&#x144; na borelioz&#x119; oraz 1 155 hospitalizacji z powodu tej choroby. Jest to znaczny wzrost zachorowa&#x144; o 45,58% w stosunku do poprzedniego roku. W poszczeg&#xf3;lnych kwarta&#x142;ach wida&#x107; sezonowo&#x15b;&#x107; wyst&#x119;powania przypadk&#xf3;w tzn. wzrost ich liczby z 2 466 w Q1 do 11 626 w Q3 oraz spadek w Q4 do 5 945. Najwi&#x119;ksz&#x105; zapadalno&#x15b;&#x107; odnotowano w wojew&#xf3;dztwie ma&#x142;opolskim (122,9 na 100 tys.) podlaskim (96 na 100 tys.), oraz warmi&#x144;sko-mazurskim (95.2 na 100 tys.). Liczba przypadk&#xf3;w boreliozy zg&#x142;aszanych przez lekarzy do powiatowych stacji sanitarno-epidemiologicznych nie tylko wr&#xf3;ci&#x142;a do warto&#x15b;ci sprzed pandemii, ale uzyska&#x142;a wzrost o 22,57% w por&#xf3;wnaniu do roku 2019 (20 630 przypadk&#xf3;w), oraz prawie dwukrotny wzrost (95,49%) w por&#xf3;wnaniu do roku 2020 (12 934 przypadk&#xf3;w). Sezonowo&#x15b;&#x107; pozostaje niezmienna od lat &#x2013; szczyt zachorowa&#x144; jest rejestrowany w Q3, a najmniej zachorowa&#x144; wyst&#x119;puje w Q1. Zazwyczaj najwi&#x119;ksz&#x105; zapadalno&#x15b;ci&#x105; charakteryzuje si&#x119; wschodnia cz&#x119;&#x15b;&#x107; Polski (najcz&#x119;&#x15b;ciej wojew&#xf3;dztwo podlaskie), jednak w 2023 r. najwy&#x17c;sza zapadalno&#x15b;&#x107; zosta&#x142;a odnotowana w wojew&#xf3;dztwie ma&#x142;opolskim 122,9 na 100 tys.",
+      "authors": [
+        "Zbrze&#x17c;niak JM",
+        "Paradowska-Stankiewicz I"
+      ],
+      "journal": "Przeglad epidemiologiczny",
+      "publicationDate": "Mar 03, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41979588/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-15T07:14:31.361Z"
     },
     {
       "pmid": "41958892",
@@ -617,7 +639,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:19.952Z"
+      "fetchedAt": "2026-04-15T07:14:38.898Z"
     },
     {
       "pmid": "41929998",
@@ -640,30 +662,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:20.560Z"
-    },
-    {
-      "pmid": "41929578",
-      "title": "Changing case definition: An analysis of its impact on Lyme disease surveillance in Nova Scotia.",
-      "abstract": "Nova Scotia has experienced a growing number of Lyme disease (LD) cases since 2002. From 2009 to 2022, Nova Scotia adopted a LD case definition that aligned with the Public Health Agency of Canada's definition. On January 1, 2023, Nova Scotia transitioned to a LD definition that relies on laboratory evidence alone. To describe and compare historic trends in confirmed LD case counts and incidence under the former and current LD case definitions between 2018 and 2023 and assess the impact of the case definition change on LD surveillance. Confirmed LD cases were extracted from Nova Scotia's Electronic Public Health Information System, software Panorama, according to the former case definition for the years 2018-2022 and the current case definition for the years 2019-2023. As the 2018 laboratory data in Panorama was incomplete, raw data for 2018 were obtained from Nova Scotia's Provincial Public Health Laboratory Network. Confirmed case counts and incidence rates per 100,000 population were calculated by year, sex, age group and geographic zone, under both case definitions. Seasonality was determined by the reporting date of the case. From 2018-2022, the current case definition identified 4,238 cases, a substantial increase of 2,493 cases over the 1,745 reported by the former case definition, with an additional 2,058 cases in 2023 under the current case definition. This led to a clear upward trend in confirmed incidence rates with the current case definition, unlike the variable pattern seen with the former case definition. Males and individuals aged 5-14, 40-59, and &#x2265;60 years experienced consistently higher sex and age-specific rates under both case definitions. The Western Zone consistently reported the highest incidence rates. Seasonally, both case definitions showed reporting peaks from June to September, with the peak occurring two-week later peak with the current case definition. When the current LD case definition was applied to historic surveillance data, past rates of confirmed LD increased suggesting under-reporting of clinical presentation of LD to public health in high incidence jurisdictions.",
-      "authors": [
-        "Nsitem K",
-        "Cram J",
-        "Khan A"
-      ],
-      "journal": "Canada communicable disease report = Releve des maladies transmissibles au Canada",
-      "publicationDate": "Feb 19, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41929578/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-14T07:14:16.885Z"
+      "fetchedAt": "2026-04-15T07:14:39.511Z"
     },
     {
       "pmid": "41932198",
@@ -686,7 +685,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-14T07:14:31.272Z"
+      "fetchedAt": "2026-04-15T07:14:50.187Z"
     }
   ]
 }
