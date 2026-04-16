@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T07:14:51.835Z",
+  "generatedAt": "2026-04-16T07:15:49.873Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:43.263Z"
+      "fetchedAt": "2026-04-16T07:15:42.014Z"
+    },
+    {
+      "pmid": "41983573",
+      "title": "Differentiating Clinical Presentations of Lyme Arthritis, Septic Arthritis, Toxic Synovitis, and Other Inflammatory Joint Pathologies.",
+      "abstract": "Lyme arthritis (LA) is a manifestation of Lyme disease characterized by joint swelling and pain. LA's clinical presentation mimics pathologies such as septic arthritis (SA) and toxic synovitis (TS). Despite similar presentations, the treatments vary; LA is treated medically, septic arthritis requires surgical debridement, and TS resolves with conservative therapy. Similar presentations can lead to misdiagnosis, subjecting patients to unnecessary interventions. The purpose of this study was to identify physical and laboratory findings that may help differentiate between LA, SA, and TS. Pediatric patients were selected for the study based on ICD-9/10 codes suggestive of an infectious/inflammatory/Lyme-related process. The initial group was filtered to patients who had undergone testing for an infectious process. This group was manually reviewed, and each patient was assigned to a diagnostic category. Relevant patient information was extracted from the medical records. Continuous data were summarized using simple numerical summaries, and categorical data as counts and proportions. In this study, 506 patients were analyzed. Subgroup analysis focused on LA, SA, and TS. Patients with LA had the highest proportion of joint swelling, followed by SA. Pain with short arc motion was most prevalent in the SA group, and they were least likely to bear weight. LA favored the knee, TS the hip, and SA the knee and hip; however, other joints were also involved. SA presented with the highest C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), white blood cell counts, percentage of neutrophils, and cell count values. TS had the lowest elevations in CRP, ESR, percentage of neutrophils, and cell counts, but the highest percentage of lymphocytes, while LA had the highest platelet count. As Lyme disease continues to spread, clinicians will increasingly encounter patients with LA. Clinicians must differentiate between LA and similar pathologies to ensure appropriate treatment and avoid unnecessary interventions. Key differentiating variables, such as anatomic location, CRP, and ESR, can aid in diagnosis, though there are limitations. Clinicians can use this information to guide treatment decisions for these patients. Level III.",
+      "authors": [
+        "Grant DR",
+        "Ratkowski J",
+        "Yaari J"
+      ],
+      "journal": "Journal of pediatric orthopedics",
+      "publicationDate": "Apr 15, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41983573/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-16T07:15:29.657Z"
+    },
+    {
+      "pmid": "41986819",
+      "title": "Bartonella henselae infection associated with a multisystemic thrombo-inflammatory syndrome in an immunocompetent adult.",
+      "abstract": "Bartonella henselae infection is traditionally associated with self-limited cat-scratch disease but may occasionally present with severe systemic manifestations. &#xa0;We report a 43&#xa0;year-old immunocompetent man who developed a multisystem thrombo-inflammatory syndrome with thrombocytopenia, renal involvement, thrombotic events, ocular ischemia, and transient lupus anticoagulant positivity, initially suggestive of catastrophic antiphospholipid syndrome. Extensive investigations were unrevealing until whole blood PCR detected B. henselae. Retrospective histopathology revealed small-vessel endothelial injury compatible with microangiopathy. Doxycycline therapy was followed by clinical improvement, normalization of platelet counts, and resolution of thrombotic manifestations CONCLUSION: This case highlights the diagnostic complexity of systemic Bartonella infection and the need to consider infectious triggers in unexplained thrombo-inflammatory presentations, even in immunocompetent individuals.",
+      "authors": [
+        "Gobbo G",
+        "Zacchia M",
+        "Nalesso F"
+      ],
+      "journal": "Infection",
+      "publicationDate": "Apr 15, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41986819/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-16T07:15:36.592Z"
     },
     {
       "pmid": "41973696",
@@ -46,7 +92,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:31.975Z"
+      "fetchedAt": "2026-04-16T07:15:31.634Z"
+    },
+    {
+      "pmid": "41985868",
+      "title": "The Application of Ultrastructure Expansion Microscopy Reveals the Apical Microtubule Architecture of Babesia.",
+      "abstract": "Tick-transmitted apicomplexan parasites of the genus Babesia infect vertebrate red blood cells and cause babesiosis in humans and animals. Detailed studies of their subcellular organization have been constrained by their small size and intracellular development. In this study, we report the identification of a previously unrecognized apical tubulin rosette (ATRo) in Babesia divergens - a unique rosette-like microtubule structure located at the apical pole of the parasite. The ATRo consists of 6-7 radial spines and represents a distinct architecture that appears morphologically different from the conoid of Toxoplasma and the apical polar rings described in Plasmodium. This discovery was enabled by applying Ultrastructure Expansion Microscopy (U-ExM) to Babesia. U-ExM achieved a 4.3-fold isotropic expansion of the parasite and allowed nanoscale visualization of internal structures using conventional fluorescence labeling and standard confocal microscopy. Using tubulin-specific antibodies, we obtained preliminary insights into the tubulin architecture of the B. divergens apical end. U-ExM provided resolution comparable to transmission electron microscopy (TEM), while offering easier sample preparation, higher throughput and compatibility with proteomic markers, including multiplex immunostaining. These findings establish U-ExM as a powerful new tool for studying Babesia ultrastructure and developmental dynamics and offer a new entry point for exploring invasion mechanisms and potential therapeutic targets.",
+      "authors": [
+        "Levytska V",
+        "Bondar A",
+        "Filipe AM"
+      ],
+      "journal": "International journal for parasitology",
+      "publicationDate": "Apr 13, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41985868/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-16T07:15:43.508Z"
     },
     {
       "pmid": "41974345",
@@ -69,12 +138,12 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:45.391Z"
+      "fetchedAt": "2026-04-16T07:15:44.079Z"
     },
     {
       "pmid": "41965542",
       "title": "Epidemiology, diagnosis and emerging therapies for Lyme disease of the Northern Hemisphere.",
-      "abstract": "",
+      "abstract": "Lyme disease is the most widespread tick-borne infection in the Northern Hemisphere and is challenging to diagnose and treat due to its changing clinical presentation, antigenic variation, tissue tropism, and the expanding distribution of vectors. This review includes ecology, pathogenesis, diagnostics, treatment, post-treatment, prevention, and novel translational approaches. A literature review was conducted to include literature published between January 2000 and March 2026 in PubMed/MEDLINE, Scopus, and Web of Science, with landmark studies used where applicable. Original research, clinical trials, systematic reviews, and major public health reports were prioritised. Two-tier serology is the most common diagnostic technique, but it has limited sensitivity in early infection and does not distinguish between active and past infection. Culture and PCR are only useful in a few instances. The use of new technologies such as multiomics biomarkers, metagenomics, T-cell assays, and AI-enhanced diagnostics is promising but has not yet been tested in a prospective multicentre study. Most of the early and disseminated disease can be treated with standard antibiotics, whereas the long-term therapy of PTLD is not justified and can cause more adverse effects. These preventive and curative advancements involve VLA15 vaccination, anti-tick and reservoir-specific approaches, microbiome-engineered vectors, and anti-persister/ biofilm. Lyme disease requires combined prevention, improved diagnostics, enhanced biomarker research, and well-designed PTLD trials. The short-term benefits will be based on the optimisation of existing diagnostics and vector control, and the long-term benefits will be based on rigorous validation of vaccines, biomarkers, and specific therapies. Not applicable. [Image: see text]",
       "authors": [
         "Priya S",
         "Sridhar SB",
@@ -87,12 +156,12 @@
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:33.705Z"
+      "fetchedAt": "2026-04-16T07:15:33.345Z"
     },
     {
       "pmid": "41967290",
@@ -115,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:45.975Z"
+      "fetchedAt": "2026-04-16T07:15:44.827Z"
     },
     {
       "pmid": "41963387",
@@ -138,7 +207,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:46.476Z"
+      "fetchedAt": "2026-04-16T07:15:45.327Z"
     },
     {
       "pmid": "41967005",
@@ -160,7 +229,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:33.204Z"
+      "fetchedAt": "2026-04-16T07:15:32.776Z"
     },
     {
       "pmid": "41957040",
@@ -183,7 +252,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:34.321Z"
+      "fetchedAt": "2026-04-16T07:15:34.014Z"
     },
     {
       "pmid": "41952226",
@@ -206,7 +275,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:34.950Z"
+      "fetchedAt": "2026-04-16T07:15:34.611Z"
     },
     {
       "pmid": "41962605",
@@ -229,30 +298,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:47.061Z"
-    },
-    {
-      "pmid": "41944639",
-      "title": "Testing the capacity of humanized immune system mice to induce a protective antibody response against the Lyme disease pathogen.",
-      "abstract": "Mus musculus has been a key animal model whereby important discoveries on bacterial pathogenesis of the Lyme disease (LD) pathogen, Borreliella burgdorferi (Bb), were made. In the United States alone, LD affects the lives of about half a million new patients each year, making it the most prevalent tick-borne illness. To date, however, there is no LD vaccine for humans on the market, and therefore, much research effort has focused on identifying protective Bb vaccine candidates. Because murine and human immune responses to Bb significantly differ, we evaluated humanized mice to improve the translatability of preclinical Lyme vaccine studies. Specifically, we assessed two humanized mouse models, UCB-HSC NSG and huNOG-EXL SA, for their capacity to induce protective anti-Bb antibodies. For that, we utilized an antibody-susceptible Bb (&#x2206;VlsE), which is effectively cleared by acquired anti-Bb antibodies of immunocompetent mice; and outer surface protein A (OspA), a surface Bb antigen that proved efficacious not only as part of licensed canine vaccines but also as part of a human LD vaccine that was transiently available to the public in the past. The data demonstrated that the tested models could not clear the &#x2206;VlsE infection. Likewise, OspA-vaccinated humanized mouse immune system failed to prevent wild-type challenge. Given that no better alternative preclinical model has been developed, we hope that the inherent translatability limitations of standard LD mouse models will continue to be favorably accepted. Although our results do not encourage the use of the tested humanized models for preclinical LD vaccine efficacy testing, their utility remains valuable for mechanistic studies. In this study, we assessed the ability of mice with humanized immune systems to develop protective antibodies against the bacterial agent of Lyme disease (LD), Borreliella burgdorferi. In contrast to an intact mouse immune system of classical LD models, the humanized immune system could not prevent vaccinated mice from being infected with LD spirochetes. The findings demonstrate that two tested humanized models cannot be used for preclinically testing LD vaccine candidates. Given the results, we hope that the animal-to-human translatability limitations of existing LD mouse models will be more favorably taken as there is no better alternative preclinical model developed.",
-      "authors": [
-        "Neumann N",
-        "Jacobson ML",
-        "Brehm MA"
-      ],
-      "journal": "Microbiology spectrum",
-      "publicationDate": "Apr 07, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41944639/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-15T07:14:36.164Z"
+      "fetchedAt": "2026-04-16T07:15:45.940Z"
     },
     {
       "pmid": "41947593",
@@ -275,30 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:35.583Z"
-    },
-    {
-      "pmid": "41941413",
-      "title": "Lyme Neuroborreliosis With Acute Encephalopathy Despite Early Antibiotic Therapy: A Case Report.",
-      "abstract": "BACKGROUND Lyme disease is a tick-borne infection caused by spirochetes of the Borrelia burgdorferi sensu lato species complex (Bb). Lyme neuroborreliosis occurs in up to 15% of untreated Lyme disease cases and most commonly presents with painful radiculitis, cranial nerve palsy, and meningitis; progression to encephalitis occurs in approximately 3.3% to 9% of cases. Lyme neuroborreliosis can develop despite appropriate antibiotic therapy of early Lyme disease. Diagnosis of Lyme neuroborreliosis is based on a combination of compatible neurological symptoms, serologic evidence of Lyme disease, and cerebrospinal fluid (CSF) abnormalities, which can include measurement of a Bb CSF: serum antibody index. CASE REPORT We describe an 84-year-old man who developed acute encephalopathy after removal of a dead tick from under his right eyelid. Initial symptoms included periorbital swelling and right-sided facial nerve palsy. Early treatment with doxycycline was completed. His illness subsequently progressed to encephalopathy, characterized by agitation, hallucinations, and ataxia. Diagnostic evaluation revealed CSF lymphocytic pleocytosis, positive Lyme serologies, and cranial nerve enhancement on magnetic resonance imaging. The patient improved following treatment with ceftriaxone followed by a 21-day course of doxycycline, and received a diagnosis of probable Lyme neuroborreliosis. Anti-GFAP-1 antibodies were detected in CSF, but were believed to be non-contributory given clinical recovery in the absence of immunomodulatory therapy. CONCLUSIONS This case highlights a rare presentation of probable Lyme neuroborreliosis complicated by acute encephalitis despite early doxycycline treatment. The need for specific CSF testing is underscored along with the difficulties in diagnosis even with ideal testing.",
-      "authors": [
-        "Johannesson JM",
-        "Dicks KV",
-        "Perkons ME"
-      ],
-      "journal": "The American journal of case reports",
-      "publicationDate": "Apr 06, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41941413/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-15T07:14:36.742Z"
+      "fetchedAt": "2026-04-16T07:15:35.172Z"
     },
     {
       "pmid": "41940712",
@@ -321,7 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:47.832Z"
+      "fetchedAt": "2026-04-16T07:15:46.516Z"
     },
     {
       "pmid": "41933495",
@@ -344,7 +367,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:49.576Z"
+      "fetchedAt": "2026-04-16T07:15:48.311Z"
     },
     {
       "pmid": "41920017",
@@ -367,7 +390,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:40.318Z"
+      "fetchedAt": "2026-04-16T07:15:39.130Z"
     },
     {
       "pmid": "41940223",
@@ -389,7 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:48.412Z"
+      "fetchedAt": "2026-04-16T07:15:47.080Z"
     },
     {
       "pmid": "41915541",
@@ -412,30 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:40.941Z"
-    },
-    {
-      "pmid": "41910966",
-      "title": "Red Blood Cell Exchange Transfusion for Severe Babesiosis.",
-      "abstract": "Babesiosis is a worldwide emerging tick-borne disease with an expanding geographic range in the US, Europe, and Asia. Red blood cell exchange transfusion (ET) is often used as an adjunctive treatment for severe illness from babesiosis, particularly in patients with high parasitemia, acute organ injury, or severe hemolytic anemia. Data supporting its clinical effectiveness, however, are lacking. To test whether ET improves clinical outcomes among hospitalized adult patients with severe babesiosis. This target trial emulation used data from a multicenter cohort study of 3233 consecutive adults hospitalized with babesiosis from 2010 to 2024 at 82 sites across the northeastern US. Patients were eligible if they had parasitemia greater than 10%, or 5% to 10% with either acute organ injury or severe hemolytic anemia. Data were analyzed from April to August 2025. Treatment with ET in the first 7 days of hospitalization. A composite of in-hospital death or 30-day readmission. Outcomes were compared between patients who received ET within the first 7 days of admission and those who did not. The analysis used logistic regression, with inverse probability of treatment weighting (IPTW) to adjust for potential confounders. The analysis included 629 patients (median [IQR] age, 71 [63-79] years; 446 male [70.9%]), among whom 209 (33.2%) received ET in the first 7 days of hospitalization. Patients treated with ET were more severely ill at baseline than those not treated with ET (median parasitemia, 14.0% vs 7.2%); however, severity of illness characteristics were well balanced after applying IPTW. In the main analysis, the primary end point occurred in 3.6% of patients who received ET and in 9.8% who did not (adjusted odds ratio, 0.22; 95% CI, 0.09-0.51). The benefit of ET was confirmed in multiple sensitivity analyses. This multicenter cohort study found that among severely ill adults hospitalized with babesiosis, the adjusted risk of in-hospital death or 30-day readmission was nearly 5-fold lower in those treated with ET vs those not treated with ET. These data support ET for severely ill patients with babesiosis, although the findings may be susceptible to unmeasured confounding. Further research is needed to identify which patients are most likely to benefit.",
-      "authors": [
-        "Leaf DE",
-        "Monson AE",
-        "Dias JA"
-      ],
-      "journal": "JAMA internal medicine",
-      "publicationDate": "Mar 30, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41910966/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-15T07:14:50.834Z"
+      "fetchedAt": "2026-04-16T07:15:39.696Z"
     },
     {
       "pmid": "41972549",
@@ -458,7 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:32.589Z"
+      "fetchedAt": "2026-04-16T07:15:32.195Z"
     },
     {
       "pmid": "41882600",
@@ -481,7 +481,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:41.532Z"
+      "fetchedAt": "2026-04-16T07:15:40.342Z"
     },
     {
       "pmid": "41860756",
@@ -502,7 +502,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:42.649Z"
+      "fetchedAt": "2026-04-16T07:15:41.408Z"
     },
     {
       "pmid": "41939713",
@@ -525,7 +525,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:48.992Z"
+      "fetchedAt": "2026-04-16T07:15:47.648Z"
     },
     {
       "pmid": "41862392",
@@ -548,7 +548,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:42.033Z"
+      "fetchedAt": "2026-04-16T07:15:40.842Z"
     },
     {
       "pmid": "41960193",
@@ -571,30 +571,28 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:38.302Z"
+      "fetchedAt": "2026-04-16T07:15:37.190Z"
     },
     {
-      "pmid": "41831185",
-      "title": "First report of multiple infection by Anaplasma platys, Bartonella henselae, and hemoplasmas in clinically healthy domestic cats from Southern Brazil.",
-      "abstract": "Hemoparasitoses in domestic cats are increasingly recognized as an emerging challenge for veterinary medicine and public health due to their subclinical persistence and zoonotic potential. This study aimed to detect Anaplasma platys, Bartonella henselae, and hemotropic mycoplasmas (Mycoplasma haemofelis [Mhf] and &#x2018;Candidatus Mycoplasma haemominutum&#x2019; [CMhm]) in clinically healthy cats from Pelotas, southern Brazil, using molecular assays. A total of 151 blood samples collected between 2022 and 2024 were analyzed by conventional and nested PCR. Detection rates were 21.9% (33/151) for (A) platys, 15.2% (23/151) for (B) henselae, and 21.9% (33/151) for hemoplasmas, with a higher occurrence of CMhm (17.2%; 26/151) than Mhf (4.0%; 6/151). Coinfections occurred in 10.7% (16/151) of cats, including dual infections and one triple infection (0.7%; 1/151) involving (A) platys, (B) henselae, and CMhm. Statistical analyses showed that (A) platys infection was significantly associated with adult age (p&#x2009;=&#x2009;0.01), (B) henselae was more frequent in kittens (p&#x2009;=&#x2009;0.04), and hemoplasma infection occurred more often in males (p&#x2009;=&#x2009;0.03). To our knowledge, this is the first molecular evidence of concurrent infection by (A) platys, (B) henselae, and &#x2018;Candidatus Mycoplasma haemominutum&#x2019; in a cat from Brazil. These findings highlight the influence of host factors on pathogen dynamics and reinforce the need for molecular surveillance and integrated vector control under a One Health perspective.",
+      "pmid": "41982592",
+      "title": "Autoimmune Epilepsy Temporally Associated With Lyme Disease: A Report of Two Cases.",
+      "abstract": "The relationship between Lyme-associated illness and immune-mediated seizure disorders remains incompletely characterized. Infection-triggered neurologic immune syndromes are well described in some settings, but evidence linking Borrelia burgdorferi to autoimmune epilepsy remains limited and is based primarily on isolated reports. We describe two previously healthy patients, a 25-year-old male and a 14-year-old female, who developed new-onset seizures temporally associated with Lyme-associated illness and the initiation of antimicrobial therapy. Diagnostic evaluation included serologic testing for tick-borne disease performed through outside commercial laboratories and subsequent reference laboratory testing, cerebrospinal fluid (CSF) analysis, neuroimaging, electroencephalography, neural autoantibody testing, quantitative immunoglobulins, IgG&#xa0;subclass testing, and complement studies. In both cases, seizure activity persisted despite multiple antiseizure medications and worsened after initiation of antimicrobial therapy. Laboratory evaluation demonstrated hypogammaglobulinemia with IgG subclass deficiencies and complement abnormalities in both cases. Neural autoantibody testing revealed elevated anti-dopamine receptor D1 antibodies in both patients; the adult patient also had a low-titer serum N-methyl-D-aspartate&#xa0;receptor antibody detected by a cell-based assay. Immunomodulatory therapy with systemic corticosteroids, followed by intravenous immunoglobulin, administered while antimicrobial therapy was continued, was associated with marked seizure reduction and sustained clinical improvement. These cases demonstrate a temporal association between Lyme-associated illness, antimicrobial treatment, infection-associated immune activation, and treatment-refractory seizures. The clinical deterioration observed after initiation of antimicrobial therapy may reflect an inflammatory response associated with microbial die-off, similar to a Jarisch-Herxheimer-type reaction described in spirochetal infections. Although the findings do not establish a causal relationship between Lyme disease and autoimmune epilepsy, they raise the possibility that infection-associated immune dysregulation may contribute to seizure pathogenesis in selected patients. These observations are hypothesis-generating and support maintaining a broad differential diagnosis, including neuroimmune mechanisms, in patients presenting with new-onset seizures in the setting of suspected infectious illness.",
       "authors": [
-        "Dallmann PRJ",
-        "Lima DD",
-        "Silveira CX"
+        "Cipriano PM"
       ],
-      "journal": "Veterinary research communications",
+      "journal": "Cureus",
       "publicationDate": "Mar 14, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41831185/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41982592/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:43.844Z"
+      "fetchedAt": "2026-04-16T07:15:30.221Z"
     },
     {
       "pmid": "41979588",
@@ -616,7 +614,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:31.361Z"
+      "fetchedAt": "2026-04-16T07:15:31.036Z"
     },
     {
       "pmid": "41958892",
@@ -639,7 +637,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:38.898Z"
+      "fetchedAt": "2026-04-16T07:15:37.958Z"
     },
     {
       "pmid": "41929998",
@@ -662,7 +660,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:39.511Z"
+      "fetchedAt": "2026-04-16T07:15:38.545Z"
     },
     {
       "pmid": "41932198",
@@ -685,7 +683,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-15T07:14:50.187Z"
+      "fetchedAt": "2026-04-16T07:15:48.872Z"
     }
   ]
 }
