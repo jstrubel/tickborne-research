@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T07:16:22.605Z",
+  "generatedAt": "2026-04-18T06:54:01.982Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:14.604Z"
+      "fetchedAt": "2026-04-18T06:53:54.193Z"
     },
     {
       "pmid": "41983573",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:02.450Z"
+      "fetchedAt": "2026-04-18T06:53:43.217Z"
     },
     {
       "pmid": "41986819",
@@ -69,7 +69,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:09.329Z"
+      "fetchedAt": "2026-04-18T06:53:48.873Z"
+    },
+    {
+      "pmid": "41997538",
+      "title": "Morphological and molecular evidence of Peircei-group Babesia in brown boobies (Sula leucogaster) from the Brazilian coast.",
+      "abstract": "Piroplasmids of the genus Babesia are globally distributed intraerythrocytic parasites transmitted by ticks and are recognized as significant pathogens in domestic mammals. In contrast, avian Babesia spp. remain poorly characterized, particularly in seabirds from the South Atlantic. This study describes the occurrence of Babesia sp. in brown boobies (Sula leucogaster) rescued along the Brazilian coast. Two individuals were analyzed: a juvenile from Esp&#xed;rito Santo and an archival sample from Santa Catarina. The 18S rRNA and ITS1 sequences were obtained and compared with reference datasets through maximum likelihood phylogenetics. Both samples exhibited characteristic forms of avian piroplasms, including rounded trophozoites, amoeboid stages, schizonts with residual bodies, and merozoites with variable chromatin positioning. Phylogenetic analyses placed the parasites within the \"Peircei group\", showing closest affinity to Babesia poelea and Babesia peircei. The recurrence of cases across a ten-year interval suggests persistent circulation in South Atlantic seabirds. Our findings expand the known geographic distribution of Peircei-group Babesia into the Brazilian coast and underscore the importance of rehabilitation centers as sentinel environments for detecting latent or emerging hemoparasites. The results also highlight the need for integrative taxonomic revision of avian Babesia spp. and investigation of potential tick vectors in marine ecosystems.",
+      "authors": [
+        "Acosta ICL",
+        "Vanstreels RET",
+        "Hurtado R"
+      ],
+      "journal": "Parasitology international",
+      "publicationDate": "Apr 15, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41997538/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-18T06:53:55.654Z"
     },
     {
       "pmid": "41973696",
@@ -92,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:04.357Z"
+      "fetchedAt": "2026-04-18T06:53:45.036Z"
     },
     {
       "pmid": "41985868",
@@ -115,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:16.251Z"
+      "fetchedAt": "2026-04-18T06:53:56.886Z"
     },
     {
       "pmid": "41974345",
@@ -138,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:16.835Z"
+      "fetchedAt": "2026-04-18T06:53:57.470Z"
     },
     {
       "pmid": "41965542",
@@ -161,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:06.089Z"
+      "fetchedAt": "2026-04-18T06:53:47.234Z"
     },
     {
       "pmid": "41967290",
@@ -184,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:17.406Z"
+      "fetchedAt": "2026-04-18T06:53:58.056Z"
     },
     {
       "pmid": "41963387",
@@ -207,7 +230,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:17.906Z"
+      "fetchedAt": "2026-04-18T06:53:58.555Z"
     },
     {
       "pmid": "41967005",
@@ -229,44 +252,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:05.515Z"
+      "fetchedAt": "2026-04-18T06:53:46.287Z"
     },
     {
-      "pmid": "41957040",
-      "title": "Geographical dataset of questing nymphal density for three key tick vector species of Lyme disease.",
-      "abstract": "Nymphal ticks of Ixodes pacificus, Ixodes scapularis, Ixodes ricinus, and Ixodes persulcatus are primary vectors of Lyme disease, which affects both animal and human health. Understanding their population dynamic is therefore critical for public health risk assessment. Here we present a focused dataset of questing nymph density, comprising 3579 records from 136 publications from 1980 to 2024. The dataset includes three tick species that represent major Lyme disease risk in the Northern Hemisphere. Records were compiled through systematic literature review and preserved original density measurements with their respective units (e.g., nymphs/m&#xb2;, nymphs/100&#x2009;m&#xb2;). Each record contains detailed metadata including tick species, geographical coordinates, temporal resolution and collection methods. This resource provides transparent and structured tick surveillance data essential for ecological modelling, disease risk prediction, and public health risk mapping.",
+      "pmid": "41993557",
+      "title": "A MinD-like ATPase couples flagellation and cell division in spirochetes.",
+      "abstract": "Spirochetes are evolutionarily distinct bacteria defined by their spiral morphology, unique means of motility, and periplasmic flagella (PFs). Because these filaments reside within the periplasm and are mechanically integrated with the cell body, their assembly must be precisely coordinated with cell growth and cytokinesis. However, the mechanism that couples flagellar biogenesis to cell division in spirochetes remains unclear. Using the Lyme disease spirochete Borrelia burgdorferi as a model, we identify FlhG (BB0269), a MinD-like ATPase, as a spatial regulator that links cell division to flagellar patterning. In wild-type cells, 7-11 long helical PFs originate from cell poles and assemble into ribbon-like bundles that wrap around the cell cylinder to drive motility. Deletion of flhG disrupts this ordered architecture, causing marked heterogeneity in flagellar number, defective ribbon assembly, aberrant septation, and severe motility impairment. Mechanistically, FlhG dynamically localizes to the poles and midcell during division, where it directs the positioning of FlhF, a signal recognition particle (SRP) -type GTPase controlling flagellar number and placement, and FliF, the MS-ring protein that nucleates flagellar assembly. Through this spatial regulation, FlhG coordinates flagellar assembly with cytokinetic progression. Together, these findings reveal a spatial regulatory mechanism coupling cell division to flagellation, providing insight into understanding how spirochetes coordinate their distinctive morphogenesis, flagellation and motility. Spirochetes such as Borrelia burgdorferi , the causative agent of Lyme disease, rely on periplasmic flagella for motility and cell shape, yet how these structures are coordinated with cell division has remained unclear. We identify a MinD-like ATPase, FlhG, as a spatial regulator that couples flagellar assembly to cytokinesis. In contrast to its homologs in other bacteria, FlhG does not regulate flagellar protein levels but instead directs subcellular positioning of key assembly factors. By dynamically redistributing between the cell poles and division site, FlhG synchronizes flagellar patterning with septum formation. These findings uncover a previously unrecognized mechanism linking cell morphogenesis to the cell cycle and reveal how conserved ATPases can be repurposed to organize complex bacterial architectures.",
       "authors": [
-        "Zhang Y",
-        "Sun Y",
-        "Wang J"
+        "Zhang K",
+        "Guo W",
+        "Lynch MJ"
       ],
-      "journal": "Scientific data",
-      "publicationDate": "Apr 09, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41957040/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-17T07:16:06.796Z"
-    },
-    {
-      "pmid": "41952226",
-      "title": "In vitro and in vivo acaricidal properties of orally delivered ivermectin against the blacklegged tick, Ixodes scapularis.",
-      "abstract": "The lack of effective and affordable new environmental tick control products is one of the major challenges to the existing control strategies against the blacklegged tick (Ixodes scapularis), the vector of Lyme disease affecting public health in the United States. Ivermectin is a systemic antiparasitic pesticide that has been used successfully to control biting flies and ticks infesting livestock. Ivermectin-treated corn has also been shown to be effective against adult ticks feeding on deer. The goal of this study was to assess acaricidal properties of orally delivered ivermectin against the blacklegged tick, Ixodes scapularis, for the development of a new mouse bait formulation to control immature stages of the blacklegged tick. The efficacy of orally delivered ivermectin against I. scapularis was evaluated through in vitro capillary feeding tick-feeding experiments and in vivo animal trials using laboratory-bred white-footed mouse, Peromyscus leucopus. Capillary feeding of adult females and nymphs with different concentrations (18.8-600 ppb) of ivermectin resolved in rabbit blood were performed to ascertain necessary ivermectin plasma levels to kill adult and nymphal ticks. Mouse baits dosed with two different ivermectin concentrations (24 and 48 ppm) were fed to mice to analyze the pharmacokinetic properties of ivermectin in mouse serum via HPLC analysis. Subsequent tick-challenge trials were conducted to determine the impact of ingested ivermectin mouse bait against larval or nymphal ticks feeding on the mice. Ixodes scapularis females capillary-fed with rabbit blood containing 300 and 600 ppb demonstrated a significantly higher tick mortality starting at 72 h after the start of capillary feeding. Such ivermectin concentrations also significantly reduced blood-feeding of adult females, as determined by reduced fecal production and engorgement scores. Nymphal capillary feeding experiments were unsuccessful as nymphal ticks in both the control and treatment groups died, likely because of desiccation. In the mouse trials, ivermectin reached peak serum concentrations of 650 ppb and 6715 ppb, respectively, at 2 h after consumption of a single treated pellet containing 80 &#xb5;g (24 ppm) and 160 &#xb5;g (48 ppm) ivermectin, respectively. Ivermectin was rapidly depleted from mouse blood with a half-life of < 6 h. Mouse trials showed that ivermectin activity was most effective in controlling larval and nymphal feeding when mice consumed ivermectin-treated bait 24 h before or after tick challenge, with the best results observed in mice fed 48 ppm ivermectin. When larvae were placed 48 h after mice had consumed ivermectin bait, no difference in feeding was observed compared to control. Results from in vitro and in vivo experiments demonstrated the oral efficacy of ivermectin against different developmental stages of the blacklegged tick. The acaricidal effects of ivermectin against I. scapularis nymphs and larvae feeding on white-footed mice, as observed in the mouse trials, may be considered preliminary, and further laboratory and field studies are necessary to validate the utility of an ivermectin-based mouse bait formulation for controlling of immature I. scapularis ticks feeding on mice. To our knowledge, this is the first study to show the oral efficacy and PK analysis of ivermectin in mice. This study found that, although efficacious against tick feeding in the first 24 h, ivermectin has a very short half-life in mice and therefore has a short therapeutic window. This study provides important information for the development of mouse bait to control ticks and tick-borne diseases.",
-      "authors": [
-        "van Oosterwijk JG",
-        "Richer L",
-        "Beimfohr-Griffing LK"
-      ],
-      "journal": "Parasites & vectors",
+      "journal": "bioRxiv : the preprint server for biology",
       "publicationDate": "Apr 08, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41952226/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41993557/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
@@ -275,11 +275,11 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:07.459Z"
+      "fetchedAt": "2026-04-18T06:53:42.030Z"
     },
     {
       "pmid": "41962605",
-      "title": "Successful Use of Vincristine in a Quarter Horse Gelding with Immune-Mediated Thrombocytopenia.",
+      "title": "Successful use of vincristine in a quarter horse gelding with immune-mediated thrombocytopenia.",
       "abstract": "This case reports the successful use of vincristine in a Quarter Horse with presumed immune-mediated thrombocytopenia. A 15-year-old Quarter Horse gelding presented for a pinch skin graft procedure on the left forelimb over the cannon bone. On day 10 of hospitalization, the horse developed a fever (102.6&#xb0;F, RI: 99-101&#xb0;F), and severe petechiae of the mucous membranes. A complete blood count (CBC) (Advia 2120i) revealed a severe thrombocytopenia (16,000 platelets/&#x3bc;L, RI:100,000-400,000/&#x3bc;L). Diagnostic testing was negative for Anaplasma phagocytophilum by PCR, Theileria equi and Babesia caballi by cELISA, and equine infectious anemia (EIA) virus by agar gel immunodiffusion. A sternal bone marrow aspirate was suggestive of megakaryocyte hypoplasia. However, the sample was not of good quality and was suspected not to be a good representation of the marrow. Over a 20-day treatment period, the horse received multiple immunosuppressive medications (dexamethasone, prednisolone, azathioprine) and vincristine in attempt to improve the thrombocytopenia. Following vincristine administration, the platelet count increased substantially and eventually normalized. Vincristine is thought to stimulate thrombopoiesis and increase megakaryocyte fragmentation within the bone marrow. Based on response to vincristine, exclusion of infectious agents, and lack of a consumptive process (e.g., disseminated intravascular coagulation [DIC], chronic hemorrhagic lesion), a presumptive diagnosis of immune-mediated thrombocytopenia (IMTP) was made. To the authors' knowledge, this is one of only two reported cases in equine medicine describing successful treatment of IMTP with vincristine. This case report offers novel treatment information, previously well documented in domestic small animals.",
       "authors": [
         "Salewski KE",
@@ -298,7 +298,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:18.534Z"
+      "fetchedAt": "2026-04-18T06:53:59.172Z"
     },
     {
       "pmid": "41940712",
@@ -321,30 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:19.110Z"
-    },
-    {
-      "pmid": "41933495",
-      "title": "Development and validation of a pan-Plasmodium molecular assay as a confirmatory method for blood donor screening.",
-      "abstract": "Transfusion-transmitted malaria remains a concern in non-endemic regions due to asymptomatic parasitemia in donors with prior residence in or travel to malaria-endemic areas. Nucleic acid testing (NAT)-based screening has been proposed to mitigate this risk, and supplemental assays are needed to confirm reactive donations. We developed a pan-Plasmodium reverse transcription quantitative PCR (RT-qPCR) assay with species identification capability as a supplemental tool for malaria donor screening. The assay targets a conserved region of the 18S rRNA shared by all five human-infecting Plasmodium species and is compatible with whole blood lysed using Grifols' parasite transport medium (PTM). Analytical performance was evaluated using in vitro transcripts and infected red blood cells (iRBCs), with the limit of detection (LoD) determined by probit analysis. Specificity was assessed against Babesia microti and 300 non-exposed US donor samples. Clinical sensitivity was evaluated using infected specimens; species identification was performed by sequencing of RT-qPCR amplicons. The assay demonstrated high amplification efficiency (97.2%) and linearity (R2&#x2009;=&#x2009;0.99). The 95% LoD was 5.3 iRBCs/mL (95% CI: 3.2-8.6), comparable to the Procleix Plasmodium Assay. Clinical sensitivity was 100% across all five Plasmodium species, and clinical specificity was 100% (95% CI: 99-100%), with no cross-reactivity with Babesia. Amplicon sequencing enabled accurate species-level identification of all sequenced specimens. This assay provides a sensitive confirmatory tool for malaria NAT-based donor screening. Its compatibility with PTM lysates and species identification capabilities supports regulatory applications and research into asymptomatic parasitemia in semi-immune donors.",
-      "authors": [
-        "Milani P",
-        "Wen L",
-        "Montalvo L"
-      ],
-      "journal": "Transfusion",
-      "publicationDate": "Apr 03, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41933495/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-17T07:16:21.018Z"
+      "fetchedAt": "2026-04-18T06:53:59.773Z"
     },
     {
       "pmid": "41920017",
@@ -367,7 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:11.639Z"
+      "fetchedAt": "2026-04-18T06:53:51.250Z"
     },
     {
       "pmid": "41940223",
@@ -389,7 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:19.839Z"
+      "fetchedAt": "2026-04-18T06:54:00.408Z"
     },
     {
       "pmid": "41988178",
@@ -411,7 +388,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:01.873Z"
+      "fetchedAt": "2026-04-18T06:53:42.643Z"
     },
     {
       "pmid": "41915541",
@@ -434,7 +411,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:12.251Z"
+      "fetchedAt": "2026-04-18T06:53:51.828Z"
     },
     {
       "pmid": "41972549",
@@ -457,7 +434,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:04.947Z"
+      "fetchedAt": "2026-04-18T06:53:45.673Z"
     },
     {
       "pmid": "41882600",
@@ -480,7 +457,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:12.825Z"
+      "fetchedAt": "2026-04-18T06:53:52.405Z"
     },
     {
       "pmid": "41860756",
@@ -501,7 +478,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:14.033Z"
+      "fetchedAt": "2026-04-18T06:53:53.522Z"
     },
     {
       "pmid": "41939713",
@@ -524,7 +501,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:20.447Z"
+      "fetchedAt": "2026-04-18T06:54:00.981Z"
     },
     {
       "pmid": "41862392",
@@ -547,7 +524,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:13.325Z"
+      "fetchedAt": "2026-04-18T06:53:52.905Z"
     },
     {
       "pmid": "41960193",
@@ -570,7 +547,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:09.903Z"
+      "fetchedAt": "2026-04-18T06:53:49.460Z"
     },
     {
       "pmid": "41982592",
@@ -591,7 +568,51 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:03.129Z"
+      "fetchedAt": "2026-04-18T06:53:43.833Z"
+    },
+    {
+      "pmid": "41994764",
+      "title": "Severe Babesiosis With Lyme Disease and Anaplasma Phagocytophilum Coinfection in a Dialysis-Dependent Patient Without Rash or Organomegaly.",
+      "abstract": "Babesiosis is a tick-borne intraerythrocytic protozoal infection endemic to the northeastern United States. Coinfection with other Ixodes-transmitted pathogens may occur due to shared vector exposure, although confirmed triple infection remains uncommon. Severe babesiosis, defined by parasitemia &#x2265;10% or evidence of organ dysfunction, may present atypically in immunocompromised individuals. A 73-year-old man with end-stage renal disease on hemodialysis presented with two weeks of cyclic fevers, chills, and weakness after hiking in upstate New York. Physical examination revealed asterixis without rash, jaundice, or organomegaly. Laboratory evaluation demonstrated hemoglobin 6.9 g/dL, platelet count 124 K/&#xb5;L, lactate dehydrogenase 709 U/L, and 13% parasitemia on peripheral smear. Polymerase chain reaction confirmed Babesia microti. Serologic testing revealed positive Lyme IgG and IgM antibodies and elevated Anaplasma phagocytophilum IgG titers. The patient was treated with azithromycin, atovaquone, and doxycycline, resulting in parasitemia clearance by hospital day 7 without exchange transfusion. Severe babesiosis with Ixodes-borne coinfection may occur without classic findings such as rash or hepatosplenomegaly, particularly in dialysis-dependent patients. Persistent fever in endemic regions despite doxycycline therapy should prompt evaluation for babesiosis. Early recognition and individualized management may prevent invasive interventions.",
+      "authors": [
+        "Raja M",
+        "Sharma S"
+      ],
+      "journal": "Cureus",
+      "publicationDate": "Mar 12, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41994764/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-18T06:53:41.417Z"
+    },
+    {
+      "pmid": "41994764",
+      "title": "Severe Babesiosis With Lyme Disease and Anaplasma Phagocytophilum Coinfection in a Dialysis-Dependent Patient Without Rash or Organomegaly.",
+      "abstract": "Babesiosis is a tick-borne intraerythrocytic protozoal infection endemic to the northeastern United States. Coinfection with other Ixodes-transmitted pathogens may occur due to shared vector exposure, although confirmed triple infection remains uncommon. Severe babesiosis, defined by parasitemia &#x2265;10% or evidence of organ dysfunction, may present atypically in immunocompromised individuals. A 73-year-old man with end-stage renal disease on hemodialysis presented with two weeks of cyclic fevers, chills, and weakness after hiking in upstate New York. Physical examination revealed asterixis without rash, jaundice, or organomegaly. Laboratory evaluation demonstrated hemoglobin 6.9 g/dL, platelet count 124 K/&#xb5;L, lactate dehydrogenase 709 U/L, and 13% parasitemia on peripheral smear. Polymerase chain reaction confirmed Babesia microti. Serologic testing revealed positive Lyme IgG and IgM antibodies and elevated Anaplasma phagocytophilum IgG titers. The patient was treated with azithromycin, atovaquone, and doxycycline, resulting in parasitemia clearance by hospital day 7 without exchange transfusion. Severe babesiosis with Ixodes-borne coinfection may occur without classic findings such as rash or hepatosplenomegaly, particularly in dialysis-dependent patients. Persistent fever in endemic regions despite doxycycline therapy should prompt evaluation for babesiosis. Early recognition and individualized management may prevent invasive interventions.",
+      "authors": [
+        "Raja M",
+        "Sharma S"
+      ],
+      "journal": "Cureus",
+      "publicationDate": "Mar 12, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41994764/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-18T06:53:56.266Z"
     },
     {
       "pmid": "41979588",
@@ -613,7 +634,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:03.736Z"
+      "fetchedAt": "2026-04-18T06:53:44.423Z"
     },
     {
       "pmid": "41958892",
@@ -636,7 +657,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:10.475Z"
+      "fetchedAt": "2026-04-18T06:53:50.037Z"
     },
     {
       "pmid": "41929998",
@@ -659,30 +680,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-17T07:16:11.048Z"
-    },
-    {
-      "pmid": "41932198",
-      "title": "Structure-based drug design of sanguinarine derivatives targeting Babesia microti lactate dehydrogenase through computational approaches.",
-      "abstract": "Babesia microti is a tick-borne apicomplexan parasite of emerging public health importance, particularly in the northeastern United States. Current medications (e.g., atovaquone, azithromycin, clindamycin, and quinine) display limited efficacy and frequent adverse effects, underscoring the urgent need for safer and more potent therapies. In this study, we harnessed a computational drug design pipeline to develop novel sanguinarine derivatives targeting B. microti lactate dehydrogenase (BmLDH)-an essential enzyme for parasite metabolism. We first modified the sanguinarine scaffold to create eight derivatives, followed by structural geometry optimization in Gaussian, molecular docking, and Uni-GBSA scoring to identify top binders. Next, ADMET and drug-likeness analyses demonstrated that these derivatives met essential pharmacokinetic criteria. To further characterize these compounds, DFT calculations were performed to elucidate key electronic and quantum chemical descriptors such as HOMO-LUMO energies, ionization potentials, electron affinities, and electrophilicity indices. The molecular docking docking study reveals Ligand 02 and 04 showed highest affinity with -10.2 and -10.4&#xa0;kcal&#xa0;mol respectively than the reference compound (-6.60&#xa0;kcal/mol). Additionally, the Uni-GBSA score also support the binding strength of our selected ligands. Finally, MD simulations revealed stable binding performance of the selected three complexes (Ligand 02, 04, and standard/Diminazene), as evidenced by RMSD, RMSF, Rg, MM-PBSA, PCA, and DCCM. Two derivatives (ligands 02 and 04) showed notably high binding affinities and robust dynamic stability, surpassing the standard diminazene in key metrics. These findings highlight the potential clinical impact of modified sanguinarine derivatives-offering a compelling alternative to current treatments constrained by limited efficacy and adverse effects. This in silico study confirms that our investigated molecules may provide a new opportunity for discovering anti-parasitic drugs against Babesia microti. However, further experimental validation and clinical development are required.",
-      "authors": [
-        "Ali MA",
-        "Alqahtani T",
-        "Sindi ER"
-      ],
-      "journal": "Journal of molecular graphics & modelling",
-      "publicationDate": "Feb 14, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41932198/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-17T07:16:21.604Z"
+      "fetchedAt": "2026-04-18T06:53:50.648Z"
     }
   ]
 }
