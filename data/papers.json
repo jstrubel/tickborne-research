@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T07:04:12.688Z",
+  "generatedAt": "2026-04-20T07:46:55.991Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:04.633Z"
+      "fetchedAt": "2026-04-20T07:46:48.707Z"
+    },
+    {
+      "pmid": "41999937",
+      "title": "Assembly and flexibility of B. burgdorferi periplasmic HtrA hexamers.",
+      "abstract": "The chaperone/protease HtrA from the Lyme disease pathogen Borrelia burgdorferi (BbHtrA) functions in the maturation of the periplasmic protein BB0323 involved in pathogen infectivity and in the degradation of several other key host and spirochete proteins. Hence, BbHtrA is considered an anti-borrelial drug target candidate. BbHtrA contains a N-terminal serine protease domain followed by two PDZ domains (PDZ1-2). Here, we report a 3.4 &#xc5; resolution single particle cryo-EM reconstruction of hexameric BbHtrA whose active site serine was replaced by an alanine, and the 2.0 &#xc5; and 1.5 &#xc5; resolution crystal structures of the recombinant protease catalytic domain and PDZ1-2 fragment, respectively. The BbHtrA cryo-EM structure forms an asymmetric dimer of trimers unlike the symmetric oligomers of other HtrA family members. The different conformations of the six linkers between the protease domains and their respective PDZ1-2 break the symmetry, nevertheless, pairs of PDZ2 domains mediate trimer-trimer interactions through identical interfaces unique to BbHtrA. Features associated with the cryo-EM electron potential map at each protease active site were modeled as a nine-residue peptide of unknown sequence, which could originate from the expression host organism. The crystal structures recapitulate at higher resolution trimer interactions via the catalytic domains and trimer-trimer association via PDZ2-PDZ2 interactions. The serine protease oxyanion hole that stabilizes the substrate transition state is malformed in the crystal structure and fully formed in the peptide-bound BbHtrA cryo-EM structure, suggesting a regulatory mechanism intended to avoid undesired cleavage.",
+      "authors": [
+        "Shakya AK",
+        "Gallager DT",
+        "Rana VS"
+      ],
+      "journal": "Journal of molecular biology",
+      "publicationDate": "Apr 16, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41999937/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-20T07:46:37.087Z"
     },
     {
       "pmid": "41983573",
@@ -46,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:03:53.050Z"
+      "fetchedAt": "2026-04-20T07:46:39.493Z"
     },
     {
       "pmid": "41986819",
@@ -69,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:03:59.044Z"
+      "fetchedAt": "2026-04-20T07:46:43.639Z"
     },
     {
       "pmid": "41997538",
@@ -92,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:06.229Z"
+      "fetchedAt": "2026-04-20T07:46:49.959Z"
     },
     {
       "pmid": "41973696",
@@ -115,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:03:54.879Z"
+      "fetchedAt": "2026-04-20T07:46:41.170Z"
     },
     {
       "pmid": "41985868",
@@ -138,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:07.399Z"
+      "fetchedAt": "2026-04-20T07:46:51.137Z"
     },
     {
       "pmid": "41974345",
@@ -161,30 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:08.095Z"
-    },
-    {
-      "pmid": "41965542",
-      "title": "Epidemiology, diagnosis and emerging therapies for Lyme disease of the Northern Hemisphere.",
-      "abstract": "Lyme disease is the most widespread tick-borne infection in the Northern Hemisphere and is challenging to diagnose and treat due to its changing clinical presentation, antigenic variation, tissue tropism, and the expanding distribution of vectors. This review includes ecology, pathogenesis, diagnostics, treatment, post-treatment, prevention, and novel translational approaches. A literature review was conducted to include literature published between January 2000 and March 2026 in PubMed/MEDLINE, Scopus, and Web of Science, with landmark studies used where applicable. Original research, clinical trials, systematic reviews, and major public health reports were prioritised. Two-tier serology is the most common diagnostic technique, but it has limited sensitivity in early infection and does not distinguish between active and past infection. Culture and PCR are only useful in a few instances. The use of new technologies such as multiomics biomarkers, metagenomics, T-cell assays, and AI-enhanced diagnostics is promising but has not yet been tested in a prospective multicentre study. Most of the early and disseminated disease can be treated with standard antibiotics, whereas the long-term therapy of PTLD is not justified and can cause more adverse effects. These preventive and curative advancements involve VLA15 vaccination, anti-tick and reservoir-specific approaches, microbiome-engineered vectors, and anti-persister/ biofilm. Lyme disease requires combined prevention, improved diagnostics, enhanced biomarker research, and well-designed PTLD trials. The short-term benefits will be based on the optimisation of existing diagnostics and vector control, and the long-term benefits will be based on rigorous validation of vaccines, biomarkers, and specific therapies. Not applicable. [Image: see text]",
-      "authors": [
-        "Priya S",
-        "Sridhar SB",
-        "Shareef J"
-      ],
-      "journal": "International journal of emergency medicine",
-      "publicationDate": "Apr 11, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41965542/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-19T07:03:57.160Z"
+      "fetchedAt": "2026-04-20T07:46:51.721Z"
     },
     {
       "pmid": "41967290",
@@ -207,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:08.680Z"
+      "fetchedAt": "2026-04-20T07:46:52.290Z"
     },
     {
       "pmid": "41963387",
@@ -230,7 +230,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:09.179Z"
+      "fetchedAt": "2026-04-20T07:46:52.789Z"
     },
     {
       "pmid": "41967005",
@@ -252,7 +252,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:03:56.531Z"
+      "fetchedAt": "2026-04-20T07:46:42.336Z"
     },
     {
       "pmid": "41993557",
@@ -275,7 +275,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:03:51.486Z"
+      "fetchedAt": "2026-04-20T07:46:38.355Z"
     },
     {
       "pmid": "41962605",
@@ -298,7 +298,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:09.825Z"
+      "fetchedAt": "2026-04-20T07:46:53.340Z"
     },
     {
       "pmid": "41940712",
@@ -321,7 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:10.409Z"
+      "fetchedAt": "2026-04-20T07:46:53.902Z"
     },
     {
       "pmid": "41920017",
@@ -344,7 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:01.586Z"
+      "fetchedAt": "2026-04-20T07:46:46.017Z"
     },
     {
       "pmid": "41940223",
@@ -366,7 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:11.071Z"
+      "fetchedAt": "2026-04-20T07:46:54.446Z"
     },
     {
       "pmid": "41988178",
@@ -388,7 +388,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:03:52.177Z"
+      "fetchedAt": "2026-04-20T07:46:38.902Z"
     },
     {
       "pmid": "41915541",
@@ -411,7 +411,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:02.183Z"
+      "fetchedAt": "2026-04-20T07:46:46.563Z"
     },
     {
       "pmid": "41972549",
@@ -434,7 +434,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:03:55.506Z"
+      "fetchedAt": "2026-04-20T07:46:41.755Z"
     },
     {
       "pmid": "41882600",
@@ -457,7 +457,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:02.803Z"
+      "fetchedAt": "2026-04-20T07:46:47.113Z"
     },
     {
       "pmid": "41860756",
@@ -478,7 +478,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:03.891Z"
+      "fetchedAt": "2026-04-20T07:46:48.162Z"
     },
     {
       "pmid": "41939713",
@@ -501,7 +501,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:11.688Z"
+      "fetchedAt": "2026-04-20T07:46:54.990Z"
     },
     {
       "pmid": "41862392",
@@ -524,7 +524,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:03.302Z"
+      "fetchedAt": "2026-04-20T07:46:47.612Z"
     },
     {
       "pmid": "41960193",
@@ -547,7 +547,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:03:59.633Z"
+      "fetchedAt": "2026-04-20T07:46:44.187Z"
     },
     {
       "pmid": "41982592",
@@ -568,7 +568,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:03:53.674Z"
+      "fetchedAt": "2026-04-20T07:46:40.034Z"
     },
     {
       "pmid": "41994764",
@@ -590,7 +590,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:03:50.898Z"
+      "fetchedAt": "2026-04-20T07:46:37.799Z"
     },
     {
       "pmid": "41994764",
@@ -612,7 +612,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:06.812Z"
+      "fetchedAt": "2026-04-20T07:46:50.547Z"
     },
     {
       "pmid": "41979588",
@@ -634,7 +634,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:03:54.295Z"
+      "fetchedAt": "2026-04-20T07:46:40.592Z"
     },
     {
       "pmid": "41958892",
@@ -657,7 +657,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:00.223Z"
+      "fetchedAt": "2026-04-20T07:46:44.758Z"
     },
     {
       "pmid": "41929998",
@@ -680,7 +680,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-19T07:04:00.849Z"
+      "fetchedAt": "2026-04-20T07:46:45.362Z"
     }
   ]
 }
