@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T07:18:48.202Z",
+  "generatedAt": "2026-04-22T07:17:03.359Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,98 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:44.885Z"
+      "fetchedAt": "2026-04-22T07:17:00.214Z"
+    },
+    {
+      "pmid": "42013167",
+      "title": "Broadly conserved protective epitopes on the lyme disease vaccine antigen, OspA.",
+      "abstract": "Lyme disease, caused by the spirochete, Borrelia burgdorferi sensu latu (Bbsl), is a tickborne infection of increasing incidence in North America, Europe and Asia. While vaccines based on Outer surface protein A (OspA) have proven highly efficacious at blocking Bbsl tick-to-human transmission, the high degree of antigenic variability among the major OspA serotypes (ST) has made the development of a broadly cross protective vaccine difficult. Recent profiling of protective human monoclonal antibodies (mAbs) has suggested the existence of conserved epitopes situated within OspA's central &#x3b2;-sheet (CBS), although direct comparisons of cross-serotype functionality has been hindered by biological differences among the major Bbsl genospecies. To address these issues, we developed a panel of isogenic B. burgdorferi reporter strains expressing the seven major OspA serotypes (ST1-7) and probed them with CBS-targeting mAbs to evaluate their complement-dependent borreliacidal activity. The mAbs segregated into three distinct classes: class 1 mAbs exhibited potent killing against all seven OspA serotypes, while classes 2 and 3 had restricted or no activity against two of the seven serotypes. Structural analysis of Fabs derived from each class of mAbs in complex with OspA ST1 showed that they target overlapping epitopes spanning &#x3b2;-strands 6-10 and involve contact with largely invariant residues. Further analysis of B. burgdorferi reporter strains expressing OspA variants from 17 additional Bbsl genospecies identified Lys-107 as a determinant of susceptibility for nearly all CBS mAbs. Taken together, these findings raise the prospect of structure-based design of a broadly protective monovalent Lyme disease vaccine.",
+      "authors": [
+        "Willsey GG",
+        "Rudolph MJ",
+        "Piazza CL"
+      ],
+      "journal": "PLoS pathogens",
+      "publicationDate": "Apr 21, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42013167/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-22T07:16:44.114Z"
+    },
+    {
+      "pmid": "42012276",
+      "title": "Untitled",
+      "abstract": "Antibodies against Outer surface protein A (OspA) block tick-to-mammal transmission of the Lyme disease spirochete, Borrelia burgdorferi. Evidence suggests that antibodies ingested by a tick during a blood meal entrap OspA-expressing B. burgdorferi within the tick midgut and prevent spirochete migration to the salivary gland and host dermis. In this study, we employed a recently described Transwell system to quantitate the impact of OspA antibodies on B. burgdorferi transmigration. We demonstrate that spirochete movement from the lower Transwell chamber to the upper chamber over a 20-h period was reduced by >99% in the presence of the transmission-blocking mouse monoclonal IgG antibody (mAb) LA-2. In the case of LA-2, transmigration inhibition coincided with the formation of large antibody-induced bacterial aggregates in the lower Transwell chamber, as determined by dark field microscopy and flow cytometry. Further examination of a panel of human OspA mAbs of varying affinities and epitope specificities revealed that virtually all could block B. burgdorferi transmigration although most did so in the absence of measurable spirochete agglutination. We propose that transmigration arrest may represent a possible mechanism by which OspA antibodies entrap B. burgdorferi in the tick midgut and limit transmission to mammalian hosts.",
+      "authors": [
+        "Bhattacharyya A",
+        "Mantis NJ"
+      ],
+      "journal": "Infection and immunity",
+      "publicationDate": "Apr 21, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42012276/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-22T07:16:44.832Z"
+    },
+    {
+      "pmid": "42012197",
+      "title": "Evaluation of standard and modified two-tiered testing algorithms using well-characterized early Lyme disease samples.",
+      "abstract": "Current laboratory testing for Lyme disease (LD) relies on serology. We evaluated the performance of standard two-tiered testing (STTT) and modified two-tiered testing (MTTT) algorithms using samples obtained from well-characterized patients with early LD in the U.S. East Coast and Upper Midwest. Participants with signs and symptoms of early LD (cases) and controls were enrolled by Lyme Disease Biobank. We compared the performance of four FDA-cleared STTT or MTTT algorithms using serum samples from 251 participants (107 cases, 69 with a convalescent draw; 144 endemic controls). At the initial blood draw, algorithm sensitivity ranged from 22% to 36%, with specificity ranging from 98% to 100%. MTTT algorithms showed higher sensitivity compared with STTT algorithms (P &#x2264; 0.05). One STTT algorithm was less sensitive than the other (P = 0.035), and there was no significant difference in sensitivity between MTTT algorithms. There was also discordance between algorithms; only 22 of the 45 samples classified as laboratory confirmed by Lyme Disease Biobank testing were positive using all algorithms evaluated. Likelihood of positive two-tiered serology among cases with a suspected erythema migrans (EM) skin lesion increased with longer lesion duration and/or when presenting with >1 constitutional symptom. Participants with suspected EM without constitutional symptoms were unlikely to test positive by any algorithm evaluated. Testing convalescent samples did not improve LD detection, and seroconversion was rare. While MTTT confirmed more early LD cases than STTT, all two-tiered algorithms evaluated were insensitive in this population. Novel diagnostics that improve laboratory confirmation for early LD are urgently needed. This study confirms that two-tiered serologic testing algorithms are insensitive in early Lyme disease, particularly within the first 2 weeks after symptom onset or when erythema migrans is not accompanied by constitutional symptoms. It also demonstrates that seroconversion is rare after antibiotic treatment. These results highlight the need for novel diagnostics for early Lyme disease that do not rely on serologic testing.",
+      "authors": [
+        "Horn EJ",
+        "Menefee B",
+        "Schotthoefer AM"
+      ],
+      "journal": "Journal of clinical microbiology",
+      "publicationDate": "Apr 21, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42012197/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-22T07:16:45.389Z"
+    },
+    {
+      "pmid": "42013046",
+      "title": "Severe Optic Neuroretinitis and Vitreous Hemorrhage in Pediatric Cat-Scratch Disease: A Case With Irreversible Visual Impairment.",
+      "abstract": "BACKGROUND Cases of cat-scratch disease involving both systemic and ocular manifestations typically have a favorable prognosis and usually resolve spontaneously within 1-2 months. However, rare cases with severe ocular involvement may result in irreversible visual impairment. We report a pediatric case in which severe optic neuroretinitis and vitreous hemorrhage developed unilaterally, leading to poor visual recovery. CASE REPORT A 6-year-old girl presented with decreased vision in her right eye 2 months after a febrile illness. Best-corrected visual acuity was counting fingers at 10 cm in the right eye. Fundus examination revealed optic disc edema, serous retinal detachment, vitreous hemorrhage, and multiple exudates extending to the periphery. Magnetic resonance imaging, blood tests, and fluorescein angiography were performed to differentiate optic neuroretinitis, but no disease-specific findings were identified. Due to a history of cat scratches, cat-scratch disease was suspected, and treatment with oral azithromycin (300 mg/day) and prednisolone (0.5 mg/kg/day) was initiated. The vitreous hemorrhage, serous detachment, and exudates gradually improved. Serological testing subsequently confirmed Bartonella henselae infection (IgM 1: 40, IgG &#x2265;1: 1024). After 19 months, her best-corrected visual acuity improved to 20/100, but a central relative scotoma remained. CONCLUSIONS This case highlights that a delayed recognition of visual loss in pediatric patients with cat-scratch disease may allow severe inflammation to persist, ultimately leading to irreversible visual impairment, despite administering combined antibiotic and corticosteroid therapy.",
+      "authors": [
+        "Koga S",
+        "Iida K",
+        "Onouchi H"
+      ],
+      "journal": "The American journal of case reports",
+      "publicationDate": "Apr 21, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42013046/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-22T07:16:50.606Z"
     },
     {
       "pmid": "42003617",
@@ -46,7 +137,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:28.520Z"
+      "fetchedAt": "2026-04-22T07:16:47.108Z"
+    },
+    {
+      "pmid": "42008791",
+      "title": "Neuroretinitis: Etiologies, Treatment Approaches, and Visual Outcomes from a Tertiary Referral Center.",
+      "abstract": "To evaluate the clinical characteristics, etiologies, treatment strategies, and visual outcomes in patients diagnosed with neuroretinitis at a tertiary referral center. This retrospective case series included 21 patients (25 eyes) diagnosed with neuroretinitis between January 2014 and February 2025. All patients underwent comprehensive ophthalmologic examination, multimodal imaging, and extensive laboratory investigations. Treatment regimens were individualized based on suspected or confirmed etiologies. The mean age of patients was 31.9&#x2009;&#xb1;&#x2009;15.5&#x2009;years. Bartonella henselae infection was the most frequent etiology (42.9%), followed by Toxoplasma gondii infection (14.3%) and Beh&#xe7;et's disease (BD)-associated neuroretinitis. Despite a thorough evaluation, 33.3% of cases were classified as idiopathic. Empirical antibiotic therapy was initiated in most patients (85.7%) pending serological results. All patients received systemic corticosteroids, and selected cases required immunosuppressive therapy, including azathioprine or biologic agents. The mean baseline best-corrected visual acuity was 0.84&#x2009;&#xb1;&#x2009;0.67 logMAR, improving significantly to 0.08&#x2009;&#xb1;&#x2009;0.17 logMAR at final follow-up (p&#x2009;<&#x2009;0.001). Visual recovery was favorable in nearly all eyes, with a final BCVA&#x2009;>0.3 logMAR in only two cases. This case series highlights the etiologic spectrum encountered in a tertiary referral center and underscores the importance of careful exposure history and targeted serologic testing in facilitating etiologic differentiation. Neuroretinitis may also represent an ocular manifestation of systemic inflammatory diseases such as BD, while empirical treatment may be considered when infectious causes cannot be confidently excluded at presentation.",
+      "authors": [
+        "&#xc7;am F",
+        "Altintas A",
+        "Celiker H"
+      ],
+      "journal": "Ocular immunology and inflammation",
+      "publicationDate": "Apr 20, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42008791/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-22T07:16:51.286Z"
     },
     {
       "pmid": "42007715",
@@ -69,7 +183,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:41.623Z"
+      "fetchedAt": "2026-04-22T07:16:57.415Z"
     },
     {
       "pmid": "41999937",
@@ -92,30 +206,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:29.409Z"
-    },
-    {
-      "pmid": "41983573",
-      "title": "Differentiating Clinical Presentations of Lyme Arthritis, Septic Arthritis, Toxic Synovitis, and Other Inflammatory Joint Pathologies.",
-      "abstract": "Lyme arthritis (LA) is a manifestation of Lyme disease characterized by joint swelling and pain. LA's clinical presentation mimics pathologies such as septic arthritis (SA) and toxic synovitis (TS). Despite similar presentations, the treatments vary; LA is treated medically, septic arthritis requires surgical debridement, and TS resolves with conservative therapy. Similar presentations can lead to misdiagnosis, subjecting patients to unnecessary interventions. The purpose of this study was to identify physical and laboratory findings that may help differentiate between LA, SA, and TS. Pediatric patients were selected for the study based on ICD-9/10 codes suggestive of an infectious/inflammatory/Lyme-related process. The initial group was filtered to patients who had undergone testing for an infectious process. This group was manually reviewed, and each patient was assigned to a diagnostic category. Relevant patient information was extracted from the medical records. Continuous data were summarized using simple numerical summaries, and categorical data as counts and proportions. In this study, 506 patients were analyzed. Subgroup analysis focused on LA, SA, and TS. Patients with LA had the highest proportion of joint swelling, followed by SA. Pain with short arc motion was most prevalent in the SA group, and they were least likely to bear weight. LA favored the knee, TS the hip, and SA the knee and hip; however, other joints were also involved. SA presented with the highest C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), white blood cell counts, percentage of neutrophils, and cell count values. TS had the lowest elevations in CRP, ESR, percentage of neutrophils, and cell counts, but the highest percentage of lymphocytes, while LA had the highest platelet count. As Lyme disease continues to spread, clinicians will increasingly encounter patients with LA. Clinicians must differentiate between LA and similar pathologies to ensure appropriate treatment and avoid unnecessary interventions. Key differentiating variables, such as anatomic location, CRP, and ESR, can aid in diagnosis, though there are limitations. Clinicians can use this information to guide treatment decisions for these patients. Level III.",
-      "authors": [
-        "Grant DR",
-        "Ratkowski J",
-        "Yaari J"
-      ],
-      "journal": "Journal of pediatric orthopedics",
-      "publicationDate": "Apr 15, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41983573/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-21T07:18:31.738Z"
+      "fetchedAt": "2026-04-22T07:16:47.653Z"
     },
     {
       "pmid": "41986819",
@@ -138,7 +229,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:35.620Z"
+      "fetchedAt": "2026-04-22T07:16:52.392Z"
     },
     {
       "pmid": "41997538",
@@ -161,30 +252,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:42.846Z"
-    },
-    {
-      "pmid": "41973696",
-      "title": "Use of administrative data for evaluating trends in medically-attended Lyme disease, Manitoba, Canada, 2010-2021.",
-      "abstract": "While Lyme disease (LD) is the most common tick-borne disease reported to public health surveillance in North America and is increasingly recognized as a public health threat in Canada, it's incidence may be underreported. Our study aims to estimate medically-attended LD incidence in Manitoba, Canada, using administrative health data. We identified medically-attended LD cases in Manitoba from 2010&#x2009;-&#x2009;2021 in a claims database (Manitoba Population Research Data Repository), which contains the health records of >95% of the residents of Manitoba, using diagnostic codes, antibiotic dispensations, and laboratory results. The incidence of claims-based LD cases ranged from 8.4 to 28.5 per 100,000 population per year, 5.1 to 11.0 times higher than the incidence of surveillance-reported LD cases. The incidence of claims-based LD cases was particularly higher than the incidence of surveillance-reported LD cases in females and health regions with a low surveillance-reported incidence. Our study suggests that medically attended LD is more common than reported in surveillance. Further study is required to identify barriers to reporting. Interventions are needed to reduce the substantial burden of LD in Manitoba.",
-      "authors": [
-        "Major M",
-        "Horton S",
-        "Nightingale N"
-      ],
-      "journal": "PloS one",
-      "publicationDate": "04 13, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41973696/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-21T07:18:33.528Z"
+      "fetchedAt": "2026-04-22T07:16:58.507Z"
     },
     {
       "pmid": "41985868",
@@ -207,7 +275,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:44.061Z"
+      "fetchedAt": "2026-04-22T07:16:59.670Z"
     },
     {
       "pmid": "41967290",
@@ -230,7 +298,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:45.563Z"
+      "fetchedAt": "2026-04-22T07:17:00.762Z"
     },
     {
       "pmid": "41963387",
@@ -253,7 +321,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:46.063Z"
+      "fetchedAt": "2026-04-22T07:17:01.263Z"
     },
     {
       "pmid": "41993557",
@@ -276,7 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:30.556Z"
+      "fetchedAt": "2026-04-22T07:16:48.795Z"
     },
     {
       "pmid": "41962605",
@@ -299,7 +367,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:46.630Z"
+      "fetchedAt": "2026-04-22T07:17:01.811Z"
     },
     {
       "pmid": "41940712",
@@ -322,7 +390,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:47.200Z"
+      "fetchedAt": "2026-04-22T07:17:02.358Z"
     },
     {
       "pmid": "42005843",
@@ -344,7 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:34.936Z"
+      "fetchedAt": "2026-04-22T07:16:51.848Z"
     },
     {
       "pmid": "42003942",
@@ -367,7 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:42.252Z"
+      "fetchedAt": "2026-04-22T07:16:57.958Z"
     },
     {
       "pmid": "41920017",
@@ -390,7 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:37.886Z"
+      "fetchedAt": "2026-04-22T07:16:54.833Z"
     },
     {
       "pmid": "41988178",
@@ -412,7 +480,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:31.137Z"
+      "fetchedAt": "2026-04-22T07:16:49.356Z"
     },
     {
       "pmid": "41915541",
@@ -435,7 +503,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:38.479Z"
+      "fetchedAt": "2026-04-22T07:16:55.500Z"
     },
     {
       "pmid": "41882600",
@@ -458,51 +526,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:39.051Z"
+      "fetchedAt": "2026-04-22T07:16:56.127Z"
     },
     {
-      "pmid": "41860756",
-      "title": "Untitled",
-      "abstract": "The cat flea (Ctenocephalides felis) is the primary arthropod vector responsible for the transmission of Bartonella henselae, the etiologic agent of cat scratch disease. Although domestic cats serve as the principal reservoir host, maintaining long-term intraerythrocytic bacteremia, the spread of B. henselae within feline populations relies entirely on flea-mediated acquisition and transmission. Early work demonstrated that fleas readily acquire the bacterium while feeding on bacteremic cats and can subsequently infect na&#xef;ve hosts; however, the underlying biological mechanisms remain only partially understood. This review synthesizes current knowledge of how B. henselae interacts with its flea vector, tracing the process from acquisition through midgut colonization, persistence, and transmission via contaminated feces. By integrating findings from artificial feeding systems, natural infection models, and recent advances in bacterial and vector biology, this review provides an updated assessment of the field and identifies key knowledge gaps that must be addressed to fully elucidate this vector-pathogen relationship.",
+      "pmid": "42011473",
+      "title": "Guillain-Barr&#xe9; Syndrome as the Initial Manifestation of Lyme Disease: Diagnostic Challenges.",
+      "abstract": "Lyme disease is a common tick-borne infection in the United States and Europe that may involve the nervous system during the disseminated stage. Guillain-Barr&#xe9; syndrome (GBS) is an acute immune-mediated polyneuropathy usually triggered by infection; however, its association with Borrelia burgdorferi is uncommon and can pose diagnostic challenges. We report the case of a previously healthy 61-year-old female patient who presented with progressive ascending weakness and areflexia suggestive of GBS. During hospitalisation, she developed bilateral facial nerve palsy, prompting further evaluation. Cerebrospinal fluid (CSF) findings and electrophysiological studies supported acute inflammatory demyelinating polyneuropathy, while serologic testing confirmed Lyme disease. The patient received intravenous immunoglobulin (IVIG) followed by intravenous ceftriaxone and achieved complete neurological recovery. This case emphasises the need to consider Lyme disease in patients presenting with acute inflammatory neuropathy, particularly in endemic regions, as early diagnosis and targeted therapy can significantly improve outcomes.",
       "authors": [
-        "Brown LD"
+        "Elnour A",
+        "Sultan N",
+        "Monem A"
       ],
-      "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+      "journal": "Cureus",
       "publicationDate": "Mar 20, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41860756/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42011473/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:40.108Z"
-    },
-    {
-      "pmid": "41862392",
-      "title": "Bilateral diffuse retinal vasculitis secondary to Bartonella henselae infection.",
-      "abstract": "",
-      "authors": [
-        "Ucan Gunduz G",
-        "Akalin H",
-        "Yalcinbayir O"
-      ],
-      "journal": "Journal francais d'ophtalmologie",
-      "publicationDate": "Mar 19, 2026",
-      "articleType": "Letter",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41862392/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-21T07:18:39.551Z"
+      "fetchedAt": "2026-04-22T07:16:45.947Z"
     },
     {
       "pmid": "41960193",
@@ -525,7 +572,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:36.207Z"
+      "fetchedAt": "2026-04-22T07:16:52.944Z"
     },
     {
       "pmid": "42005153",
@@ -548,28 +595,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:27.915Z"
-    },
-    {
-      "pmid": "41982592",
-      "title": "Autoimmune Epilepsy Temporally Associated With Lyme Disease: A Report of Two Cases.",
-      "abstract": "The relationship between Lyme-associated illness and immune-mediated seizure disorders remains incompletely characterized. Infection-triggered neurologic immune syndromes are well described in some settings, but evidence linking Borrelia burgdorferi to autoimmune epilepsy remains limited and is based primarily on isolated reports. We describe two previously healthy patients, a 25-year-old male and a 14-year-old female, who developed new-onset seizures temporally associated with Lyme-associated illness and the initiation of antimicrobial therapy. Diagnostic evaluation included serologic testing for tick-borne disease performed through outside commercial laboratories and subsequent reference laboratory testing, cerebrospinal fluid (CSF) analysis, neuroimaging, electroencephalography, neural autoantibody testing, quantitative immunoglobulins, IgG&#xa0;subclass testing, and complement studies. In both cases, seizure activity persisted despite multiple antiseizure medications and worsened after initiation of antimicrobial therapy. Laboratory evaluation demonstrated hypogammaglobulinemia with IgG subclass deficiencies and complement abnormalities in both cases. Neural autoantibody testing revealed elevated anti-dopamine receptor D1 antibodies in both patients; the adult patient also had a low-titer serum N-methyl-D-aspartate&#xa0;receptor antibody detected by a cell-based assay. Immunomodulatory therapy with systemic corticosteroids, followed by intravenous immunoglobulin, administered while antimicrobial therapy was continued, was associated with marked seizure reduction and sustained clinical improvement. These cases demonstrate a temporal association between Lyme-associated illness, antimicrobial treatment, infection-associated immune activation, and treatment-refractory seizures. The clinical deterioration observed after initiation of antimicrobial therapy may reflect an inflammatory response associated with microbial die-off, similar to a Jarisch-Herxheimer-type reaction described in spirochetal infections. Although the findings do not establish a causal relationship between Lyme disease and autoimmune epilepsy, they raise the possibility that infection-associated immune dysregulation may contribute to seizure pathogenesis in selected patients. These observations are hypothesis-generating and support maintaining a broad differential diagnosis, including neuroimmune mechanisms, in patients presenting with new-onset seizures in the setting of suspected infectious illness.",
-      "authors": [
-        "Cipriano PM"
-      ],
-      "journal": "Cureus",
-      "publicationDate": "Mar 14, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41982592/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-21T07:18:32.382Z"
+      "fetchedAt": "2026-04-22T07:16:46.505Z"
     },
     {
       "pmid": "41994764",
@@ -591,7 +617,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:29.998Z"
+      "fetchedAt": "2026-04-22T07:16:48.235Z"
     },
     {
       "pmid": "41994764",
@@ -613,29 +639,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:43.502Z"
-    },
-    {
-      "pmid": "41979588",
-      "title": "Lyme disease in Poland in 2023.",
-      "abstract": "Lyme disease is a vector-borne disease transmitted by ticks of the Ixodes genus, caused by a heterogeneous group of Borrelia burgdorferi sensu lato. Human infection occurs through a tick bite and its feeding on the skin. Due to the diverse symptoms, diagnosing Lyme disease is challenging and usually involves a two-step serological approach. Currently, there is still no vaccine against Lyme disease, but in 2024, data on the immunogenicity and safety of the VLA15-221 vaccine, which is in the second phase of clinical trials, was announced. The aim of the study is to discuss the epidemiological situation of Lyme disease in Poland in 2023 compared to previous years. To assess the epidemiological situation of Lyme disease in Poland, data sent to NIPH NIH - NRI by the district Sanitary-Epidemiological Stations and published in the annual bulletin: \"Infectious diseases and poisonings in Poland in 2023\" were used. In 2023, there were 25 285 reported cases of Lyme disease and 1 155 hospitalizations. This represents a significant increase in cases by 45.58% compared to the previous year. Seasonal variations in case occurrences are evident in distinct quarters, with the number rising from 2 466 in Q1 to 11 626 in Q3, and then declining in Q4 to 5 945. The highest incidence was recorded in the Ma&#x142;opolskie voivodeship (122.9 per 100,000), Podlaskie voivodeship (96 per 100,000), and Warmi&#x144;sko-Mazurskie voivodeship (95.2 per 100,000). The number of borreliosis cases returned to pre-pandemic levels but also increased by 22.57% compared to 2019 (20 630 cases), and doubled (95.49%) compared to 2020 (12 934 cases). Seasonality has remained unchanged for years. Usually, eastern Poland (most often the Podlaskie voivodeship) is characterised by the highest incidence, however, in 2023, the highest incidence was recorded in the Ma&#x142;opolskie voivodeship at 122.9 per 100,000. Borelioza to choroba wektorowa przenoszona przez kleszcze rodzaju Ixodes, wywo&#x142;ywana przez niejednorodn&#x105; grup&#x119; Borrelia burgdorferi sensu lato. Zaka&#x17c;enie cz&#x142;owieka odbywa si&#x119; poprzez uk&#x142;ucie i &#x17c;erowaniu kleszcza na sk&#xf3;rze. Z uwagi na zr&#xf3;&#x17c;nicowane objawy, rozpoznanie choroby z Lyme jest trudne i zwykle obejmuje dwuetapowe podej&#x15b;cie serologiczne. Obecnie, nie ma jeszcze szczepionki przeciwko boreliozie, ale w 2024 roku zosta&#x142;y og&#x142;oszone dane dotycz&#x105;ce immunogenno&#x15b;ci i bezpiecze&#x144;stwa szczepionki VLA15-221 b&#x119;d&#x105;cej w drugiej fazie bada&#x144; klinicznych. Celem pracy jest om&#xf3;wienie sytuacji epidemiologicznej boreliozy w Polsce w 2023 r. w por&#xf3;wnaniu do ubieg&#x142;ych lat. Do przeprowadzenia oceny sytuacji epidemiologicznej boreliozy w Polsce wykorzystano dane nadsy&#x142;ane do NIZP PZH &#x2013; PIB przez Wojew&#xf3;dzkie Stacje Sanitarno-Epidemiologiczne i publikowane w biuletynie rocznym: &#x201e;Choroby zaka&#x17a;ne i zatrucia w Polsce w 2023 r.&#x201d;. W 2023 r. zarejestrowano 25 285 zachorowa&#x144; na borelioz&#x119; oraz 1 155 hospitalizacji z powodu tej choroby. Jest to znaczny wzrost zachorowa&#x144; o 45,58% w stosunku do poprzedniego roku. W poszczeg&#xf3;lnych kwarta&#x142;ach wida&#x107; sezonowo&#x15b;&#x107; wyst&#x119;powania przypadk&#xf3;w tzn. wzrost ich liczby z 2 466 w Q1 do 11 626 w Q3 oraz spadek w Q4 do 5 945. Najwi&#x119;ksz&#x105; zapadalno&#x15b;&#x107; odnotowano w wojew&#xf3;dztwie ma&#x142;opolskim (122,9 na 100 tys.) podlaskim (96 na 100 tys.), oraz warmi&#x144;sko-mazurskim (95.2 na 100 tys.). Liczba przypadk&#xf3;w boreliozy zg&#x142;aszanych przez lekarzy do powiatowych stacji sanitarno-epidemiologicznych nie tylko wr&#xf3;ci&#x142;a do warto&#x15b;ci sprzed pandemii, ale uzyska&#x142;a wzrost o 22,57% w por&#xf3;wnaniu do roku 2019 (20 630 przypadk&#xf3;w), oraz prawie dwukrotny wzrost (95,49%) w por&#xf3;wnaniu do roku 2020 (12 934 przypadk&#xf3;w). Sezonowo&#x15b;&#x107; pozostaje niezmienna od lat &#x2013; szczyt zachorowa&#x144; jest rejestrowany w Q3, a najmniej zachorowa&#x144; wyst&#x119;puje w Q1. Zazwyczaj najwi&#x119;ksz&#x105; zapadalno&#x15b;ci&#x105; charakteryzuje si&#x119; wschodnia cz&#x119;&#x15b;&#x107; Polski (najcz&#x119;&#x15b;ciej wojew&#xf3;dztwo podlaskie), jednak w 2023 r. najwy&#x17c;sza zapadalno&#x15b;&#x107; zosta&#x142;a odnotowana w wojew&#xf3;dztwie ma&#x142;opolskim 122,9 na 100 tys.",
-      "authors": [
-        "Zbrze&#x17c;niak JM",
-        "Paradowska-Stankiewicz I"
-      ],
-      "journal": "Przeglad epidemiologiczny",
-      "publicationDate": "Mar 03, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41979588/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-21T07:18:32.942Z"
+      "fetchedAt": "2026-04-22T07:16:59.077Z"
     },
     {
       "pmid": "41958892",
@@ -658,7 +662,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:36.766Z"
+      "fetchedAt": "2026-04-22T07:16:53.497Z"
     },
     {
       "pmid": "41929998",
@@ -681,7 +685,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-21T07:18:37.326Z"
+      "fetchedAt": "2026-04-22T07:16:54.065Z"
     }
   ]
 }
