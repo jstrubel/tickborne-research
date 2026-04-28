@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-27T08:00:44.035Z",
-  "totalPapers": 30,
+  "generatedAt": "2026-04-28T08:01:14.428Z",
+  "totalPapers": 29,
   "papers": [
     {
       "pmid": "42034947",
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:39.076Z"
+      "fetchedAt": "2026-04-28T08:01:10.432Z"
     },
     {
       "pmid": "42034946",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:39.631Z"
+      "fetchedAt": "2026-04-28T08:01:11.033Z"
     },
     {
       "pmid": "42034950",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:31.219Z"
+      "fetchedAt": "2026-04-28T08:01:01.452Z"
     },
     {
       "pmid": "42034950",
@@ -92,7 +92,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:38.519Z"
+      "fetchedAt": "2026-04-28T08:01:09.839Z"
+    },
+    {
+      "pmid": "42037395",
+      "title": "Evaluating acridones as novel therapeutics for human babesiosis.",
+      "abstract": "Human babesiosis is an emerging tick-borne disease caused by Babesia parasites, most notably Babesia microti and Babesia duncani in North America and Babesia divergens in Europe. Infections can be severe or persistent or relapse despite treatment, and current therapeutic options remain limited, underscoring the urgent need for new and effective treatment options. Acridone derivatives originally developed as potent antimalarial agents against multiple life cycle stages of the malaria parasites were evaluated for their antibabesial activity using continuous in vitro culture systems of B. duncani and B. divergens. Lead candidates were assessed for selectivity against human cell lines to establish preliminary safety profiles, and select compounds were further advanced into preliminary in vivo efficacy studies using murine models of B. duncani and B. microti babesiosis to assess their therapeutic potential. A set of prioritized acridone derivatives demonstrated potent in vitro activity against both B. duncani and B. divergens and displayed favorable selectivity indices relative to human cell lines. However, in vivo evaluation of representative compounds did not achieve parasite clearance in murine models. Structure-activity relationship (SAR) analyses highlight key structural features that are critical for maintaining antibabesial potency and offer guidance for further lead optimization. Acridone derivatives show strong in vitro antibabesial activity and represent promising lead chemotypes for therapeutic development. To advance these candidates, future studies focused on optimizing their pharmacokinetic properties and evaluating synergistic combination regimens will be essential for progressing toward effective treatments for human babesiosis.",
+      "authors": [
+        "Vydyam P",
+        "Zhang E",
+        "Pal AC"
+      ],
+      "journal": "Antimicrobial agents and chemotherapy",
+      "publicationDate": "Apr 27, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42037395/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-28T08:01:08.631Z"
     },
     {
       "pmid": "42035833",
@@ -115,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:24.817Z"
+      "fetchedAt": "2026-04-28T08:00:56.164Z"
     },
     {
       "pmid": "42035832",
@@ -138,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:37.926Z"
+      "fetchedAt": "2026-04-28T08:01:09.237Z"
     },
     {
       "pmid": "42029096",
@@ -161,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:40.727Z"
+      "fetchedAt": "2026-04-28T08:01:12.232Z"
     },
     {
       "pmid": "42030593",
@@ -184,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:40.185Z"
+      "fetchedAt": "2026-04-28T08:01:11.631Z"
     },
     {
       "pmid": "42013167",
@@ -207,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:25.909Z"
+      "fetchedAt": "2026-04-28T08:00:57.373Z"
     },
     {
       "pmid": "42012276",
@@ -229,7 +252,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:26.495Z"
+      "fetchedAt": "2026-04-28T08:00:58.188Z"
     },
     {
       "pmid": "42012197",
@@ -252,7 +275,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:27.030Z"
+      "fetchedAt": "2026-04-28T08:00:58.943Z"
     },
     {
       "pmid": "42013046",
@@ -275,30 +298,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:31.788Z"
-    },
-    {
-      "pmid": "42003617",
-      "title": "Untitled",
-      "abstract": "Immune responses to tick-transmitted Borrelia burgdorferi (Bb) have not been characterized in vivo. We analyzed the reservoir host's local and systemic immune responses to Bb during tick feeding. C3H/HeN mice were challenged via infected or uninfected nymphal Ixodes scapularis ticks or by subcutaneous injection of cultured multi-strain Bb. Skin and spleen tissues were evaluated by flow cytometry, serum was evaluated by cytokine proteome array, and all data were analyzed by comparison between each of the three challenged groups against the subcutaneously inoculated PBS control. Flow cytometry profiling shows that neutrophils, Langerhans cells, macrophages, B cells, and Natural Killer cells were mobilized in the three challenged groups in the skin and spleen, dendritic cells were increased in tick-transmitted groups, and T cells were engaged in Bb-challenged groups. Regarding soluble chemotaxis mediators in blood, all chemokines and cytokines induced by subcutaneously delivered Bb and uninfected tick were also induced by tick-transmitted Bb. However, tick-transmitted Bb induced unique factors absent in the other groups, which included chemokines involved in recruitment of phagocytic cells and T cell engagement, and cytokines associated with broader T cell activation. Regarding anti-inflammatory mediators, although IL-1ra was increased in the three challenged groups, IL-10 was only increased in tick-challenged groups with or without Bb. The data suggest that tick-transmitted Bb induced much more dynamic but regulated immune responses during tick-feeding, compared to subcutaneously delivered Bb, which may explain Bb persistence in the reservoir host.IMPORTANCECurrent knowledge on immune cell interactions with Borrelia burgdorferi (Bb) derives mostly from studies done in vitro and ex vivo, which cannot assess host immunity to natural tick-delivered Bb within the complex architecture of host tissues. We report the first in vivo study on local and systemic immune responses to Bb during tick feeding on a surrogate reservoir host, in comparison with uninfected-tick and subcutaneously delivered Bb. We show that uninfected-tick and tick-transmitted Bb engaged mixed type-1/type-2/type-17 immune responses in the presence of anti-inflammatory IL-10, in contrast to a type-1 response induced by subcutaneously delivered Bb. Analyses of immune responses to tick-transmitted Bb in a reservoir host can enlighten immunity mechanisms that mediate persistence of Bb.",
-      "authors": [
-        "Kundu S",
-        "Joyner G",
-        "Gomes-Solecki M"
-      ],
-      "journal": "mBio",
-      "publicationDate": "Apr 20, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42003617/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-27T08:00:28.646Z"
+      "fetchedAt": "2026-04-28T08:01:02.069Z"
     },
     {
       "pmid": "42008791",
@@ -321,7 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:32.328Z"
+      "fetchedAt": "2026-04-28T08:01:02.668Z"
     },
     {
       "pmid": "42007715",
@@ -344,21 +344,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:41.304Z"
+      "fetchedAt": "2026-04-28T08:01:12.828Z"
     },
     {
-      "pmid": "41999937",
-      "title": "Assembly and flexibility of B. burgdorferi periplasmic HtrA hexamers.",
-      "abstract": "The chaperone/protease HtrA from the Lyme disease pathogen Borrelia burgdorferi (BbHtrA) functions in the maturation of the periplasmic protein BB0323 involved in pathogen infectivity and in the degradation of several other key host and spirochete proteins. Hence, BbHtrA is considered an anti-borrelial drug target candidate. BbHtrA contains a N-terminal serine protease domain followed by two PDZ domains (PDZ1-2). Here, we report a 3.4 &#xc5; resolution single particle cryo-EM reconstruction of hexameric BbHtrA whose active site serine was replaced by an alanine, and the 2.0 &#xc5; and 1.5 &#xc5; resolution crystal structures of the recombinant protease catalytic domain and PDZ1-2 fragment, respectively. The BbHtrA cryo-EM structure forms an asymmetric dimer of trimers unlike the symmetric oligomers of other HtrA family members. The different conformations of the six linkers between the protease domains and their respective PDZ1-2 break the symmetry, nevertheless, pairs of PDZ2 domains mediate trimer-trimer interactions through identical interfaces unique to BbHtrA. Features associated with the cryo-EM electron potential map at each protease active site were modeled as a nine-residue peptide of unknown sequence, which could originate from the expression host organism. The crystal structures recapitulate at higher resolution trimer interactions via the catalytic domains and trimer-trimer association via PDZ2-PDZ2 interactions. The serine protease oxyanion hole that stabilizes the substrate transition state is malformed in the crystal structure and fully formed in the peptide-bound BbHtrA cryo-EM structure, suggesting a regulatory mechanism intended to avoid undesired cleavage.",
+      "pmid": "42039481",
+      "title": "Untitled",
+      "abstract": "Blocking transmission of Borrelia burgdorferi ( Bb ), the causative agent of Lyme disease (LD), from reservoir hosts to humans via Ixodes scapularis ticks represents an alternative strategy to reduce LD incidence. Here, we evaluated P urified B orrelial L ipoproteins (PBL) with a combination of adjuvants, for their ability to limit Bb transmission using C3H/HeN mice and Peromyscus leucopus reservoir models. Immunization with PBL as oral gavage, either alone or nanoparticle-encapsulated, elicited increased antibody responses and reduced pathogen burden in fed larvae and select host tissues. A formulation combining PBL with a recombinant fusion protein adjuvant consisting of C holera Toxin B subunit, O uter surface protein A, and two-tandem repeats of an M -cell-targeting peptide (rCOM) induced durable protective immunity for up to 10 months in C3H/HeN mice. This oral regimen significantly reduced Bb burden in host tissues, in fed larvae from vaccinated hosts, molted nymphs, and nymph-challenged na&#xef;ve mice. Immunization with PBL+rCOM elevated peripheral levels of Bb -specific IgG isotypes and increased antigen-specific T cell responses producing IFN-&#x3b3; and IL-4 at days 28 and 65 post-immunization. Significant protective responses were observed in P. leucopus , including strong antibody responses, reduced Bb burden in tissues and reduced Bb transmission to na&#xef;ve larvae, independent of sex but influenced by challenge dose. Sodium chloride content in oral formulation modulated vaccine induced protective responses. Notably, Bb burden in infected nymphs was reduced during the bloodmeal on vaccinated hosts with decreased pathogen transmission to both vertebrate hosts. These findings support PBL+rCOM as a promising oral, reservoir-targeted, transmission-blocking biologic for controlling Lyme disease. Numerous vertebrate hosts serve as reservoirs of pathogens that are transmitted to humans via the bite of blood feeding vectors such as ticks. Lyme disease, caused by Borrelia burgdorferi ( Bb ), is the most common tick-borne disease in the US. Bb is transmitted to humans following the bite of infected Ixodes scapularis ticks. In nature, ticks acquire Bb and other pathogens from a variety of reservoir hosts, notably Peromyscus leucopus . Therefore, strategies that limit pathogen burden in reservoir hosts or block their transmission via ticks are options to prevent human infectious diseases, circumventing need for human vaccines and therapeutics. An oral, reservoir host-targeted, pathogen-derived, biologic prepared by extracting immunogenic lipoproteins (Purified Borrelial Lipoproteins) from Bb and combining them with a mucosal adjuvant derived by fusing Cholera-Toxin B subunit, Outer surface protein A of Bb and 2 repeats of an M-cell targeting peptide was tested in C3H/HeN mice and Peromyscus leucopus hosts. Single or two dose regimens via the oral route resulted in significant increases in peripheral Bb specific antibody responses, select T cell responses, blocking the transmission of Bb to na&#xef;ve Is larvae, reducing pathogen burden in vaccinated hosts, and interfering with the infectious cycle of the agent of Lyme disease.",
       "authors": [
-        "Shakya AK",
-        "Gallager DT",
-        "Rana VS"
+        "Kumaresan V",
+        "Starling-Lin JF",
+        "MacMackin Ingle T"
       ],
-      "journal": "Journal of molecular biology",
-      "publicationDate": "Apr 16, 2026",
+      "journal": "bioRxiv : the preprint server for biology",
+      "publicationDate": "Apr 18, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41999937/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42039481/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
@@ -367,7 +367,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:29.185Z"
+      "fetchedAt": "2026-04-28T08:00:54.357Z"
     },
     {
       "pmid": "41986819",
@@ -390,30 +390,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:33.595Z"
+      "fetchedAt": "2026-04-28T08:01:03.881Z"
     },
     {
-      "pmid": "41997538",
-      "title": "Morphological and molecular evidence of Peircei-group Babesia in brown boobies (Sula leucogaster) from the Brazilian coast.",
-      "abstract": "Piroplasmids of the genus Babesia are globally distributed intraerythrocytic parasites transmitted by ticks and are recognized as significant pathogens in domestic mammals. In contrast, avian Babesia spp. remain poorly characterized, particularly in seabirds from the South Atlantic. This study describes the occurrence of Babesia sp. in brown boobies (Sula leucogaster) rescued along the Brazilian coast. Two individuals were analyzed: a juvenile from Esp&#xed;rito Santo and an archival sample from Santa Catarina. The 18S rRNA and ITS1 sequences were obtained and compared with reference datasets through maximum likelihood phylogenetics. Both samples exhibited characteristic forms of avian piroplasms, including rounded trophozoites, amoeboid stages, schizonts with residual bodies, and merozoites with variable chromatin positioning. Phylogenetic analyses placed the parasites within the \"Peircei group\", showing closest affinity to Babesia poelea and Babesia peircei. The recurrence of cases across a ten-year interval suggests persistent circulation in South Atlantic seabirds. Our findings expand the known geographic distribution of Peircei-group Babesia into the Brazilian coast and underscore the importance of rehabilitation centers as sentinel environments for detecting latent or emerging hemoparasites. The results also highlight the need for integrative taxonomic revision of avian Babesia spp. and investigation of potential tick vectors in marine ecosystems.",
+      "pmid": "42040593",
+      "title": "Untitled",
+      "abstract": "Perinatal transmission of Borrelia burgdorferi sensu lato (Bb), the spirochetal agent of Lyme disease, is an issue of public health importance and research significance. This alternate mode of transmission and the potential risk of adverse pregnancy outcomes were communicated within public health spheres following the first suspected case in 1985. Subsequent studies in reservoir and non-reservoir animal hosts, in addition to case reports of perinatal morbidity and mortality in humans brought further attention to the field. Decades later, however, the incidence and epidemiologic impact of perinatal transmission of Bb, as well as the clinical spectrum and potential long-term health sequelae of gestationally exposed children, remain understudied and poorly defined. In June 2022, a Banbury Conference on Perinatal Transmission of Lyme disease was convened at Cold Spring Harbor Laboratory in New York. This manuscript conveys conference findings and research recommendations to advance scientific and clinical understanding of this important issue.",
       "authors": [
-        "Acosta ICL",
-        "Vanstreels RET",
-        "Hurtado R"
+        "Faber S",
+        "Mao C",
+        "Darling E"
       ],
-      "journal": "Parasitology international",
-      "publicationDate": "Apr 15, 2026",
+      "journal": "Frontiers in medicine",
+      "publicationDate": "04 09, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41997538/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42040593/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:42.481Z"
+      "fetchedAt": "2026-04-28T08:00:53.754Z"
     },
     {
       "pmid": "42023246",
@@ -436,7 +436,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:25.367Z"
+      "fetchedAt": "2026-04-28T08:00:56.772Z"
     },
     {
       "pmid": "42005843",
@@ -458,7 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:33.026Z"
+      "fetchedAt": "2026-04-28T08:01:03.281Z"
     },
     {
       "pmid": "42003942",
@@ -481,7 +481,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:41.893Z"
+      "fetchedAt": "2026-04-28T08:01:13.427Z"
     },
     {
       "pmid": "41920017",
@@ -504,30 +504,76 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:36.044Z"
+      "fetchedAt": "2026-04-28T08:01:06.312Z"
     },
     {
-      "pmid": "41915541",
-      "title": "Diagnosis of Cat-Scratch Disease by Metagenomic Next-Generation Sequencing.",
-      "abstract": "Cat-scratch disease caused by Bartonella henselae is a worldwide distributed zoonotic disease. Cats are the major reservoirs of B. henselae, and human infection cases are usually resulted from contact with pet cats. In this study, a 49-year-old woman presented to the hospital after 10 days of fever. She also complaint lymph node enlargement and pain. Laboratory tests indicated liver dysfunction and inflammation. Pathological examination of the lymph node suggested the possibility of cat-scratch disease, and then doxycycline was used. Metagenomic next-generation sequencing showed that 59496 sequences of B. henselae were identified, confirming the diagnosis of cat-scratch disease. Meanwhile, Acinetobacter towneri and Epstein-Barr virus were also identified. Doxycycline therapy was continued, and the enlargement of lymph node was apparently alleviated. Epidemiological investigation showed that she had a pet cat, and she was possibly infected through direct contact with the cat. Cat-scratch disease in China may be an underestimated disease. Although multiple methods for detecting B. henselae have been established, low bacteremia is still a key challenge to molecular diagnosis. mNGS is a preferable choice for the diagnosis of cat-scratch disease due to its feasibility, sensitivity, and timeliness.",
+      "pmid": "42037946",
+      "title": "Lyme Neuroborreliosis Presenting As Diplopia and Syndrome of Inappropriate Antidiuretic Hormone Secretion.",
+      "abstract": "Lyme neuroborreliosis represents the neurologic manifestations of disseminated Lyme disease, typically presenting as meningitis, cranial neuropathy, or radiculoneuropathy. Although syndrome of inappropriate antidiuretic hormone secretion (SIADH) is a recognized complication of central nervous system infections, it is not commonly associated with Lyme neuroborreliosis, and only a few linked cases have been reported in the literature. This case describes a male in his 50s who presented to the emergency department with severe headache, diplopia with inability to abduct the right eye, back pain, and hyponatremia secondary to SIADH. Initial neuroimaging revealed optic neuritis, and CSF&#xa0;analysis revealed lymphocytic pleocytosis, elevated protein, and an increased total nucleated cell count. Oligoclonal bands were also detected in the CSF. While multiple sclerosis was initially clinically suspected, Lyme disease screening via enzyme-linked immunosorbent assay (ELISA) was performed because of the patient's location in the Northeastern United States and returned positive. Subsequent confirmatory Western blot analysis was positive for IgG and negative for IgM. The patient was treated with IV ceftriaxone followed by a 21-day course of doxycycline, after which his neurologic symptoms, headache, and hyponatremia resolved.",
       "authors": [
-        "Yue Y",
-        "Kang YJ",
-        "Wang H"
+        "Johnson H",
+        "Abbas H",
+        "Ly TT"
       ],
-      "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
-      "publicationDate": "Mar 31, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41915541/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
+      "journal": "Cureus",
+      "publicationDate": "Mar 25, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42037946/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:36.629Z"
+      "fetchedAt": "2026-04-28T08:00:54.965Z"
+    },
+    {
+      "pmid": "42037825",
+      "title": "Beyond Hemolysis: Babesiosis-Associated Atraumatic Splenic Infarction in an Immunocompetent Patient.",
+      "abstract": "Babesiosis is a protozoan infection transmitted by the tick,&#xa0;Ixodes scapularis. The disease presentation varies from asymptomatic to fatal illness. Usually, severe illness occurs in asplenic and immunocompromised patients. In rare cases, the complication of splenic injury, including infarcts and rupture, has been observed in young individuals. We present the case of a middle-aged woman who presented with abdominal pain and fatigue. She was found to be febrile and hypotensive with thrombocytopenia, hemolytic anemia, and elevated transaminases. Imaging of the abdomen demonstrated multiple splenic infarcts. The patient denied a history of abdominal trauma and tick exposure. Autoimmune and infective endocarditis workup was negative. Subsequently, she tested positive for&#xa0;Babesia microti&#xa0;by polymerase chain reaction (PCR) test, and peripheral smear was remarkable for intracellular and extracellular ring forms consistent with&#xa0;Babesia&#xa0;with a parasitemia index of 1%. She tested negative for Lyme disease and anaplasmosis by enzyme-linked immunosorbent assay (ELISA) and PCR, respectively. She was started on atovaquone and azithromycin. On day 8 of hospitalization, she was transfused with one unit of packed red blood cells due to a hemoglobin level of 6.8 g/dL. Repeat parasitemia index on discharge was 0.01%. She was later discharged without further need for blood transfusions or surgical interventions. This case highlights the importance of considering babesiosis as a cause of acute splenic infarcts in endemic regions, even without reported exposure.",
+      "authors": [
+        "Joseph J",
+        "Bharat B",
+        "Huh P"
+      ],
+      "journal": "Cureus",
+      "publicationDate": "Mar 25, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42037825/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-28T08:00:55.565Z"
+    },
+    {
+      "pmid": "42037825",
+      "title": "Beyond Hemolysis: Babesiosis-Associated Atraumatic Splenic Infarction in an Immunocompetent Patient.",
+      "abstract": "Babesiosis is a protozoan infection transmitted by the tick,&#xa0;Ixodes scapularis. The disease presentation varies from asymptomatic to fatal illness. Usually, severe illness occurs in asplenic and immunocompromised patients. In rare cases, the complication of splenic injury, including infarcts and rupture, has been observed in young individuals. We present the case of a middle-aged woman who presented with abdominal pain and fatigue. She was found to be febrile and hypotensive with thrombocytopenia, hemolytic anemia, and elevated transaminases. Imaging of the abdomen demonstrated multiple splenic infarcts. The patient denied a history of abdominal trauma and tick exposure. Autoimmune and infective endocarditis workup was negative. Subsequently, she tested positive for&#xa0;Babesia microti&#xa0;by polymerase chain reaction (PCR) test, and peripheral smear was remarkable for intracellular and extracellular ring forms consistent with&#xa0;Babesia&#xa0;with a parasitemia index of 1%. She tested negative for Lyme disease and anaplasmosis by enzyme-linked immunosorbent assay (ELISA) and PCR, respectively. She was started on atovaquone and azithromycin. On day 8 of hospitalization, she was transfused with one unit of packed red blood cells due to a hemoglobin level of 6.8 g/dL. Repeat parasitemia index on discharge was 0.01%. She was later discharged without further need for blood transfusions or surgical interventions. This case highlights the importance of considering babesiosis as a cause of acute splenic infarcts in endemic regions, even without reported exposure.",
+      "authors": [
+        "Joseph J",
+        "Bharat B",
+        "Huh P"
+      ],
+      "journal": "Cureus",
+      "publicationDate": "Mar 25, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42037825/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-28T08:01:08.030Z"
     },
     {
       "pmid": "42011473",
@@ -550,7 +596,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:27.573Z"
+      "fetchedAt": "2026-04-28T08:00:59.542Z"
     },
     {
       "pmid": "41960193",
@@ -573,74 +619,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:34.136Z"
-    },
-    {
-      "pmid": "42005153",
-      "title": "Rare Lyme Carditis Presenting With Complete Heart Block in a Young Adult.",
-      "abstract": "Lyme carditis is a rare, yet highly treatable, manifestation of early disseminated Lyme disease, most commonly presenting as varying degrees of atrioventricular block.&#xa0;We report the case of a 27-year-old male who presented to the emergency department in Michigan, USA, on July 16, complaining of orthostatic dizziness and right-sided upper back pain. An electrocardiogram revealed third-degree atrioventricular block, requiring immediate temporary transvenous pacing and hospitalization. Intravenous ceftriaxone was then initiated. The patient's heart block progressively resolved; the temporary pacemaker was removed on day five of admission, and he was discharged on day six to complete a 21-day course&#xa0;of intravenous antibiotics. Approximately two weeks prior to this visit, he had developed a severe headache, neck stiffness, and tingling in his fingers. He was evaluated in a primary care setting, where serological testing confirmed the diagnosis of Lyme disease, and he began oral doxycycline on July 12. Despite initial improvement in his headache, he presented to the emergency department with orthostatic dizziness and high-grade conduction delay.&#xa0;This case highlights the importance of recognizing subtle extracardiac symptoms of Lyme disease in endemic and at-risk areas to prevent unnecessary permanent pacemaker implantation.",
-      "authors": [
-        "Farah SM",
-        "Ahmed LM",
-        "Alali L"
-      ],
-      "journal": "Cureus",
-      "publicationDate": "Mar 17, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42005153/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-27T08:00:28.109Z"
-    },
-    {
-      "pmid": "41994764",
-      "title": "Severe Babesiosis With Lyme Disease and Anaplasma Phagocytophilum Coinfection in a Dialysis-Dependent Patient Without Rash or Organomegaly.",
-      "abstract": "Babesiosis is a tick-borne intraerythrocytic protozoal infection endemic to the northeastern United States. Coinfection with other Ixodes-transmitted pathogens may occur due to shared vector exposure, although confirmed triple infection remains uncommon. Severe babesiosis, defined by parasitemia &#x2265;10% or evidence of organ dysfunction, may present atypically in immunocompromised individuals. A 73-year-old man with end-stage renal disease on hemodialysis presented with two weeks of cyclic fevers, chills, and weakness after hiking in upstate New York. Physical examination revealed asterixis without rash, jaundice, or organomegaly. Laboratory evaluation demonstrated hemoglobin 6.9 g/dL, platelet count 124 K/&#xb5;L, lactate dehydrogenase 709 U/L, and 13% parasitemia on peripheral smear. Polymerase chain reaction confirmed Babesia microti. Serologic testing revealed positive Lyme IgG and IgM antibodies and elevated Anaplasma phagocytophilum IgG titers. The patient was treated with azithromycin, atovaquone, and doxycycline, resulting in parasitemia clearance by hospital day 7 without exchange transfusion. Severe babesiosis with Ixodes-borne coinfection may occur without classic findings such as rash or hepatosplenomegaly, particularly in dialysis-dependent patients. Persistent fever in endemic regions despite doxycycline therapy should prompt evaluation for babesiosis. Early recognition and individualized management may prevent invasive interventions.",
-      "authors": [
-        "Raja M",
-        "Sharma S"
-      ],
-      "journal": "Cureus",
-      "publicationDate": "Mar 12, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41994764/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-27T08:00:29.815Z"
-    },
-    {
-      "pmid": "41994764",
-      "title": "Severe Babesiosis With Lyme Disease and Anaplasma Phagocytophilum Coinfection in a Dialysis-Dependent Patient Without Rash or Organomegaly.",
-      "abstract": "Babesiosis is a tick-borne intraerythrocytic protozoal infection endemic to the northeastern United States. Coinfection with other Ixodes-transmitted pathogens may occur due to shared vector exposure, although confirmed triple infection remains uncommon. Severe babesiosis, defined by parasitemia &#x2265;10% or evidence of organ dysfunction, may present atypically in immunocompromised individuals. A 73-year-old man with end-stage renal disease on hemodialysis presented with two weeks of cyclic fevers, chills, and weakness after hiking in upstate New York. Physical examination revealed asterixis without rash, jaundice, or organomegaly. Laboratory evaluation demonstrated hemoglobin 6.9 g/dL, platelet count 124 K/&#xb5;L, lactate dehydrogenase 709 U/L, and 13% parasitemia on peripheral smear. Polymerase chain reaction confirmed Babesia microti. Serologic testing revealed positive Lyme IgG and IgM antibodies and elevated Anaplasma phagocytophilum IgG titers. The patient was treated with azithromycin, atovaquone, and doxycycline, resulting in parasitemia clearance by hospital day 7 without exchange transfusion. Severe babesiosis with Ixodes-borne coinfection may occur without classic findings such as rash or hepatosplenomegaly, particularly in dialysis-dependent patients. Persistent fever in endemic regions despite doxycycline therapy should prompt evaluation for babesiosis. Early recognition and individualized management may prevent invasive interventions.",
-      "authors": [
-        "Raja M",
-        "Sharma S"
-      ],
-      "journal": "Cureus",
-      "publicationDate": "Mar 12, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41994764/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-27T08:00:43.034Z"
+      "fetchedAt": "2026-04-28T08:01:04.495Z"
     },
     {
       "pmid": "41958892",
@@ -663,7 +642,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:34.676Z"
+      "fetchedAt": "2026-04-28T08:01:05.103Z"
     },
     {
       "pmid": "41929998",
@@ -686,7 +665,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-27T08:00:35.498Z"
+      "fetchedAt": "2026-04-28T08:01:05.707Z"
     }
   ]
 }
