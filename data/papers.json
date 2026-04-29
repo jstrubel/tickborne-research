@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T08:01:14.428Z",
+  "generatedAt": "2026-04-29T07:55:34.268Z",
   "totalPapers": 29,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:10.432Z"
+      "fetchedAt": "2026-04-29T07:55:30.437Z"
     },
     {
       "pmid": "42034946",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:11.033Z"
+      "fetchedAt": "2026-04-29T07:55:31.013Z"
     },
     {
       "pmid": "42034950",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:01.452Z"
+      "fetchedAt": "2026-04-29T07:55:21.963Z"
     },
     {
       "pmid": "42034950",
@@ -92,7 +92,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:09.839Z"
+      "fetchedAt": "2026-04-29T07:55:29.858Z"
+    },
+    {
+      "pmid": "42049716",
+      "title": "Heritable immunization of mice against Lyme disease enables ecological disease prevention.",
+      "abstract": "Heritable immunization is a promising approach to controlling infectious diseases by embedding immunity directly into the genomes of wild species that spread human pathogens. Here, we report the genetic engineering of Mus musculus to genomically encode a single-chain antibody against Borrelia burgdorferi, the causative agent of Lyme disease. After optimization of the antibody format, engineered mice stably produce a LA-2 scFv-albumin fusion protein targeting the Borrelia outer surface protein A (OspA) across multiple generations, demonstrating robust heritability and stability of gene expression. Following sequential challenges with infected and uninfected ticks, heterozygous mice exhibit strong resistance to infection, effectively interrupting the Borrelia burgdorferi disease transmission cycle. Having recently established protocols to genetically engineer the white-footed mouse Peromyscus leucopus, a key reservoir of Lyme disease, these findings demonstrate the feasibility of heritable immunization as a potential strategy for mitigating Lyme disease transmission in the environment. Engineered reservoir immunity may offer a promising approach to controlling vector-borne and zoonotic disease.",
+      "authors": [
+        "Buchthal J",
+        "Chory EJ",
+        "Hill Z"
+      ],
+      "journal": "Nature communications",
+      "publicationDate": "Apr 28, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42049716/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-29T07:55:15.101Z"
+    },
+    {
+      "pmid": "42048927",
+      "title": "Reducing tick density along recreational trails in Ottawa, Canada: results from an ecotone modification study using deltamethrin-treated and untreated woodchips.",
+      "abstract": "Expanding tick populations and increasing Lyme disease incidence in Ottawa, Ontario, highlight the need for effective strategies to reduce human exposure in recreational areas. Ixodes scapularis is the primary tick vector of Borrelia burgdorferi sensu stricto (s.s.), the causative agent of Lyme disease in this region. We conducted a two-year experimental field trial (2022-2023) in Ottawa's Greenbelt to evaluate whether modifying trailside ecotones with woodchip borders could reduce questing tick density. Twenty 50-m trail segments across two sites were randomly assigned to intervention groups: untreated woodchip borders, deltamethrin-treated woodchip borders, and ten assigned to untreated controls. Pre-treatment tick drags were conducted at the start of each study year, and environmental variables (canopy cover, canopy type, soil moisture, leaf litter depth) were recorded. Post-intervention sampling was performed weekly for six weeks during peak nymphal activity (June-July). The effects of deltamethrin-treated or untreated woodchip borders on tick density compared to controls were analyzed using mixed-effects negative binomial regression accounting for study design. A total of 440 ticks were collected, including 322 adult and nymphal I. scapularis. Of 293 ticks tested, 34.5 % were positive for B. burgdorferi. Treated woodchips reduced I. scapularis adult and nymph density by 99 % (incidence rate ratio (IRR) = 0.01, 95 % CI: 0.001-0.08) relative to controls, while untreated woodchips achieved a 48 % reduction (IRR = 0.52, 95 % CI: 0.34-0.78). This study demonstrates that modifying trailsides with woodchip borders, deltamethrin-treated or untreated, substantially reduces questing tick density, offering a tool for integrated tick management in recreational settings.",
+      "authors": [
+        "Ost K",
+        "McKay R",
+        "Stone A"
+      ],
+      "journal": "Ticks and tick-borne diseases",
+      "publicationDate": "Apr 27, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42048927/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-04-29T07:55:15.649Z"
     },
     {
       "pmid": "42037395",
@@ -115,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:08.631Z"
+      "fetchedAt": "2026-04-29T07:55:28.724Z"
     },
     {
       "pmid": "42035833",
@@ -138,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:00:56.164Z"
+      "fetchedAt": "2026-04-29T07:55:18.648Z"
     },
     {
       "pmid": "42035832",
@@ -161,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:09.237Z"
+      "fetchedAt": "2026-04-29T07:55:29.312Z"
     },
     {
       "pmid": "42029096",
@@ -184,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:12.232Z"
+      "fetchedAt": "2026-04-29T07:55:32.133Z"
     },
     {
       "pmid": "42030593",
@@ -207,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:11.631Z"
+      "fetchedAt": "2026-04-29T07:55:31.562Z"
     },
     {
       "pmid": "42013167",
@@ -230,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:00:57.373Z"
+      "fetchedAt": "2026-04-29T07:55:19.882Z"
     },
     {
       "pmid": "42012276",
@@ -252,30 +298,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:00:58.188Z"
-    },
-    {
-      "pmid": "42012197",
-      "title": "Evaluation of standard and modified two-tiered testing algorithms using well-characterized early Lyme disease samples.",
-      "abstract": "Current laboratory testing for Lyme disease (LD) relies on serology. We evaluated the performance of standard two-tiered testing (STTT) and modified two-tiered testing (MTTT) algorithms using samples obtained from well-characterized patients with early LD in the U.S. East Coast and Upper Midwest. Participants with signs and symptoms of early LD (cases) and controls were enrolled by Lyme Disease Biobank. We compared the performance of four FDA-cleared STTT or MTTT algorithms using serum samples from 251 participants (107 cases, 69 with a convalescent draw; 144 endemic controls). At the initial blood draw, algorithm sensitivity ranged from 22% to 36%, with specificity ranging from 98% to 100%. MTTT algorithms showed higher sensitivity compared with STTT algorithms (P &#x2264; 0.05). One STTT algorithm was less sensitive than the other (P = 0.035), and there was no significant difference in sensitivity between MTTT algorithms. There was also discordance between algorithms; only 22 of the 45 samples classified as laboratory confirmed by Lyme Disease Biobank testing were positive using all algorithms evaluated. Likelihood of positive two-tiered serology among cases with a suspected erythema migrans (EM) skin lesion increased with longer lesion duration and/or when presenting with >1 constitutional symptom. Participants with suspected EM without constitutional symptoms were unlikely to test positive by any algorithm evaluated. Testing convalescent samples did not improve LD detection, and seroconversion was rare. While MTTT confirmed more early LD cases than STTT, all two-tiered algorithms evaluated were insensitive in this population. Novel diagnostics that improve laboratory confirmation for early LD are urgently needed. This study confirms that two-tiered serologic testing algorithms are insensitive in early Lyme disease, particularly within the first 2 weeks after symptom onset or when erythema migrans is not accompanied by constitutional symptoms. It also demonstrates that seroconversion is rare after antibiotic treatment. These results highlight the need for novel diagnostics for early Lyme disease that do not rely on serologic testing.",
-      "authors": [
-        "Horn EJ",
-        "Menefee B",
-        "Schotthoefer AM"
-      ],
-      "journal": "Journal of clinical microbiology",
-      "publicationDate": "Apr 21, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42012197/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-28T08:00:58.943Z"
+      "fetchedAt": "2026-04-29T07:55:20.433Z"
     },
     {
       "pmid": "42013046",
@@ -298,7 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:02.069Z"
+      "fetchedAt": "2026-04-29T07:55:22.586Z"
     },
     {
       "pmid": "42008791",
@@ -321,7 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:02.668Z"
+      "fetchedAt": "2026-04-29T07:55:23.134Z"
     },
     {
       "pmid": "42007715",
@@ -344,7 +367,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:12.828Z"
+      "fetchedAt": "2026-04-29T07:55:32.687Z"
     },
     {
       "pmid": "42039481",
@@ -367,7 +390,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:00:54.357Z"
+      "fetchedAt": "2026-04-29T07:55:16.941Z"
     },
     {
       "pmid": "41986819",
@@ -390,7 +413,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:03.881Z"
+      "fetchedAt": "2026-04-29T07:55:24.288Z"
     },
     {
       "pmid": "42040593",
@@ -413,7 +436,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:00:53.754Z"
+      "fetchedAt": "2026-04-29T07:55:16.222Z"
     },
     {
       "pmid": "42023246",
@@ -436,7 +459,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:00:56.772Z"
+      "fetchedAt": "2026-04-29T07:55:19.201Z"
     },
     {
       "pmid": "42005843",
@@ -458,7 +481,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:03.281Z"
+      "fetchedAt": "2026-04-29T07:55:23.678Z"
     },
     {
       "pmid": "42003942",
@@ -481,7 +504,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:13.427Z"
+      "fetchedAt": "2026-04-29T07:55:33.267Z"
     },
     {
       "pmid": "41920017",
@@ -504,7 +527,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:06.312Z"
+      "fetchedAt": "2026-04-29T07:55:26.626Z"
     },
     {
       "pmid": "42037946",
@@ -527,7 +550,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:00:54.965Z"
+      "fetchedAt": "2026-04-29T07:55:17.518Z"
     },
     {
       "pmid": "42037825",
@@ -550,7 +573,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:00:55.565Z"
+      "fetchedAt": "2026-04-29T07:55:18.099Z"
     },
     {
       "pmid": "42037825",
@@ -573,30 +596,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:08.030Z"
-    },
-    {
-      "pmid": "42011473",
-      "title": "Guillain-Barr&#xe9; Syndrome as the Initial Manifestation of Lyme Disease: Diagnostic Challenges.",
-      "abstract": "Lyme disease is a common tick-borne infection in the United States and Europe that may involve the nervous system during the disseminated stage. Guillain-Barr&#xe9; syndrome (GBS) is an acute immune-mediated polyneuropathy usually triggered by infection; however, its association with Borrelia burgdorferi is uncommon and can pose diagnostic challenges. We report the case of a previously healthy 61-year-old female patient who presented with progressive ascending weakness and areflexia suggestive of GBS. During hospitalisation, she developed bilateral facial nerve palsy, prompting further evaluation. Cerebrospinal fluid (CSF) findings and electrophysiological studies supported acute inflammatory demyelinating polyneuropathy, while serologic testing confirmed Lyme disease. The patient received intravenous immunoglobulin (IVIG) followed by intravenous ceftriaxone and achieved complete neurological recovery. This case emphasises the need to consider Lyme disease in patients presenting with acute inflammatory neuropathy, particularly in endemic regions, as early diagnosis and targeted therapy can significantly improve outcomes.",
-      "authors": [
-        "Elnour A",
-        "Sultan N",
-        "Monem A"
-      ],
-      "journal": "Cureus",
-      "publicationDate": "Mar 20, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42011473/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-04-28T08:00:59.542Z"
+      "fetchedAt": "2026-04-29T07:55:28.151Z"
     },
     {
       "pmid": "41960193",
@@ -619,7 +619,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:04.495Z"
+      "fetchedAt": "2026-04-29T07:55:24.884Z"
     },
     {
       "pmid": "41958892",
@@ -642,7 +642,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:05.103Z"
+      "fetchedAt": "2026-04-29T07:55:25.458Z"
     },
     {
       "pmid": "41929998",
@@ -665,7 +665,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-04-28T08:01:05.707Z"
+      "fetchedAt": "2026-04-29T07:55:26.036Z"
     }
   ]
 }
