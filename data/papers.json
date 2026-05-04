@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T07:43:51.279Z",
+  "generatedAt": "2026-05-04T08:12:03.343Z",
   "totalPapers": 29,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:39.691Z"
+      "fetchedAt": "2026-05-04T08:11:50.868Z"
     },
     {
       "pmid": "42064646",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:39.065Z"
+      "fetchedAt": "2026-05-04T08:11:50.120Z"
     },
     {
       "pmid": "42034947",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:49.077Z"
+      "fetchedAt": "2026-05-04T08:12:01.120Z"
     },
     {
       "pmid": "42033285",
@@ -92,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:40.891Z"
+      "fetchedAt": "2026-05-04T08:11:52.187Z"
     },
     {
       "pmid": "42034946",
@@ -115,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:49.677Z"
+      "fetchedAt": "2026-05-04T08:12:01.730Z"
     },
     {
       "pmid": "42034950",
@@ -138,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:40.293Z"
+      "fetchedAt": "2026-05-04T08:11:51.532Z"
     },
     {
       "pmid": "42034950",
@@ -161,7 +161,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:48.478Z"
+      "fetchedAt": "2026-05-04T08:12:00.476Z"
+    },
+    {
+      "pmid": "42068383",
+      "title": "Assembled and annotated reference genome and demographic history of the eastern chipmunk (Tamias striatus).",
+      "abstract": "The eastern chipmunk (Tamias striatus) is an abundant North American sciurid rodent and the only extant member of the subgenus Tamias. Despite its abundance, a reference genome has not been produced for this species. Here we present an assembled and annotated reference genome for the eastern chipmunk using PacBio HiFi long read sequencing data. We sequenced the genome of a vouchered male eastern chipmunk collected in Maine and stored at the National Museum. We compared the eastern chipmunk's genome with the genome of the Siberian chipmunk (Tamias sibiricus; subgenus Eutamias), the only other species in the Tamias genus with an annotated reference genome. The genomes were similar with 55.45% of genes showing collinearity and chromosomal rearrangements only occurring between chromosomes 4 and 8. We identified 219 genes under positive selection in the eastern chipmunk relative to the Siberian chipmunk. A coalescent analysis inferred the effective population size of the Maine eastern chipmunk may have steadily decreased through the Pleistocene epoch, consistent with a reduction in available habitat. We also generated short-read Illumina sequencing data from two additional eastern chipmunks collected in New Castle County, Delaware and Carbon County, Pennsylvania. We calculated nucleotide diversity over 10&#xa0;kb windows across the genome (mean&#x2009;=&#x2009;0.0014&#x2009;&#xb1;&#x2009;0.0012&#xa0;s.d.) and identified genes with high nucleotide diversity. The eastern chipmunk reference genome will facilitate future population genetic and evolutionary studies including those investigating its role as a reservoir host for the bacterium that causes Lyme disease.",
+      "authors": [
+        "Shifflett SA",
+        "Weyer E",
+        "MacDonald ML"
+      ],
+      "journal": "Molecular genetics and genomics : MGG",
+      "publicationDate": "May 02, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42068383/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-04T08:11:41.700Z"
     },
     {
       "pmid": "42067991",
@@ -184,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:38.462Z"
+      "fetchedAt": "2026-05-04T08:11:49.244Z"
     },
     {
       "pmid": "42060566",
@@ -207,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:31.489Z"
+      "fetchedAt": "2026-05-04T08:11:42.434Z"
     },
     {
       "pmid": "42059878",
@@ -230,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:32.086Z"
+      "fetchedAt": "2026-05-04T08:11:43.046Z"
     },
     {
       "pmid": "42062921",
@@ -253,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:44.819Z"
+      "fetchedAt": "2026-05-04T08:11:56.667Z"
     },
     {
       "pmid": "42049716",
@@ -276,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:32.670Z"
+      "fetchedAt": "2026-05-04T08:11:43.689Z"
     },
     {
       "pmid": "42048927",
@@ -299,7 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:33.249Z"
+      "fetchedAt": "2026-05-04T08:11:44.295Z"
     },
     {
       "pmid": "42055158",
@@ -322,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:45.405Z"
+      "fetchedAt": "2026-05-04T08:11:57.305Z"
     },
     {
       "pmid": "42037395",
@@ -345,12 +368,12 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:47.223Z"
+      "fetchedAt": "2026-05-04T08:11:59.192Z"
     },
     {
       "pmid": "42035833",
       "title": "Seroprevalence of zoonotic vector-borne pathogens in domestic dogs from rural areas in northern Peru.",
-      "abstract": "This study was performed to determine the seroprevalence of zoonotic vector-borne diseases (ehrlichiosis, anaplasmosis, dirofilariasis, and Lyme disease) in domestic dogs in northern Peru, in rural areas of the Tumbes department. Blood samples were collected from dogs (n&#x202f;=&#x202f;169) from three districts of the province of Tumbes: Garbanzal (n&#x202f;=&#x202f;59), Puerto Pizarro (n&#x202f;=&#x202f;59) and Rica Playa (n&#x202f;=&#x202f;51). The samples were tested using a commercial enzyme-linked immunosorbent assay to check for Ehrlichia spp., Anaplasma spp., Borrelia burgdorferi, and Dirofilaria immitis. The results showed a seroprevalence of 77.5% (131/169) for Ehrlichia spp., 37.9% (64/169) for Anaplasma spp., and 26% (44/169) for D. immitis. No positive dogs for B. burgdorferi antibodies were detected in this study. A statistically significant association was found between dogs seropositive for Ehrlichia spp. and the variables age (p&#x202f;=&#x202f;0.002), breeding place (p&#x202f;=&#x202f;0.003), and breed type (p&#x202f;=&#x202f;0.032). Furthermore, dogs infected with D. immitis were associated with the age (p&#x202f;=&#x202f;0.001), locality (p < 0.001), and breeding place (p&#x202f;=&#x202f;0.001). These findings confirm a high prevalence of zoonotic vector-borne diseases affecting domestic dogs in rural areas of northern Peru.",
+      "abstract": "This study was performed to determine the seroprevalence of zoonotic vector-borne diseases (ehrlichiosis, anaplasmosis, dirofilariasis, and Lyme disease) in domestic dogs in northern Peru, in rural areas of the Tumbes department. Blood samples were collected from dogs (n = 169) from three districts of the province of Tumbes: Garbanzal (n = 59), Puerto Pizarro (n = 59) and Rica Playa (n = 51). The samples were tested using a commercial enzyme-linked immunosorbent assay to check for Ehrlichia spp., Anaplasma spp., Borrelia burgdorferi, and Dirofilaria immitis. The results showed a seroprevalence of 77.5% (131/169) for Ehrlichia spp., 37.9% (64/169) for Anaplasma spp., and 26% (44/169) for D. immitis. No positive dogs for B. burgdorferi antibodies were detected in this study. A statistically significant association was found between dogs seropositive for Ehrlichia spp. and the variables age (p = 0.002), breeding place (p = 0.003), and breed type (p = 0.032). Furthermore, dogs infected with D. immitis were associated with the age (p = 0.001), locality (p < 0.001), and breeding place (p = 0.001). These findings confirm a high prevalence of zoonotic vector-borne diseases affecting domestic dogs in rural areas of northern Peru.",
       "authors": [
         "Julca LA",
         "Salas-Fajardo MY",
@@ -368,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:36.267Z"
+      "fetchedAt": "2026-05-04T08:11:47.377Z"
     },
     {
       "pmid": "42054780",
@@ -391,7 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:46.008Z"
+      "fetchedAt": "2026-05-04T08:11:57.948Z"
     },
     {
       "pmid": "42035832",
@@ -414,7 +437,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:47.808Z"
+      "fetchedAt": "2026-05-04T08:11:59.854Z"
     },
     {
       "pmid": "42030593",
@@ -437,7 +460,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:50.278Z"
+      "fetchedAt": "2026-05-04T08:12:02.342Z"
     },
     {
       "pmid": "42013046",
@@ -460,7 +483,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:41.491Z"
+      "fetchedAt": "2026-05-04T08:11:52.795Z"
     },
     {
       "pmid": "42008791",
@@ -483,7 +506,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:42.090Z"
+      "fetchedAt": "2026-05-04T08:11:53.458Z"
     },
     {
       "pmid": "42039481",
@@ -506,7 +529,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:34.455Z"
+      "fetchedAt": "2026-05-04T08:11:45.506Z"
     },
     {
       "pmid": "41986819",
@@ -529,7 +552,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:43.320Z"
+      "fetchedAt": "2026-05-04T08:11:54.877Z"
     },
     {
       "pmid": "42040593",
@@ -552,30 +575,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:33.849Z"
-    },
-    {
-      "pmid": "42023246",
-      "title": "Untitled",
-      "abstract": "Borrelia burgdorferi (Bb), the spirochetal agent of Lyme disease, has a large array of lipoproteins that play a significant role in mediating host-pathogen interactions within ticks and vertebrates. While prior work has established that borrelial lipoproteins (BbLP) modulate immune signaling pathways, the broader transcriptional and proteomic programs induced by these molecules in macrophages are unclear. Here, we used integrated multi-omics approaches to characterize host signaling pathways activated specifically by purified borrelial lipoproteins in murine bone marrow derived macrophages (BMDMs). Single-cell RNA-Seq (scRNA-Seq) performed on BMDMs treated with various concentrations of borrelial lipoproteins revealed macrophage subsets within the BMDMs. Differential expression analysis showed that genes encoding various receptors, type I IFN-stimulated genes, signaling chemokines are upregulated while mitochondrial and ribosomal genes are downregulated in BMDMs in response to lipoproteins. Unbiased proteomics analysis of lysates of BMDMs treated with lipoproteins corroborated several of these findings. Notably, dual specificity phosphatase 1 (Dusp1) gene was upregulated during the early stages of BMDM exposure to BbLP. Pharmacological inhibition with benzylidene-3-cyclohexylamino-1-indanone hydrochloride (BCI), an inhibitor of both DUSP1 and 6 prior to exposure to BbLP, demonstrated that DUSP1 negatively regulates NLRP3-mediated pro-inflammatory signaling and positively regulates the expression of interferon-stimulated genes and those encoding Ccl5, Il1b, and Cd274. Using human monocytic reporter cell lines, we showed MyD88- and IKK-dependent pathways contribute to mitochondrial alterations upon stimulation with lipoproteins. Extracellular flux analysis using the Seahorse assay revealed decreased oxygen consumption rate (OCR) and increased extracellular acidification rate (ECAR), indicating time-dependent metabolic reprogramming and a shift toward a glycolytic, pro-inflammatory metabolic state in BMDMs following BbLP stimulation. Collectively, these findings define signaling networks, regulatory nodes and metabolic alterations induced by borrelial lipoproteins in macrophages and highlight DUSP1 as a key modulator of lipoprotein-driven innate immune responses. This work provides a mechanistic framework for understanding how borrelial lipoproteins shape macrophage signaling, independent of the broader complexity of infection with intact pathogen.",
-      "authors": [
-        "Kumaresan V",
-        "Pahari S",
-        "Hung CY"
-      ],
-      "journal": "Frontiers in immunology",
-      "publicationDate": "04 07, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42023246/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-03T07:43:36.868Z"
+      "fetchedAt": "2026-05-04T08:11:44.894Z"
     },
     {
       "pmid": "42005843",
@@ -597,7 +597,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:42.671Z"
+      "fetchedAt": "2026-05-04T08:11:54.122Z"
     },
     {
       "pmid": "42037946",
@@ -620,7 +620,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:35.064Z"
+      "fetchedAt": "2026-05-04T08:11:46.121Z"
     },
     {
       "pmid": "42037825",
@@ -643,7 +643,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:35.666Z"
+      "fetchedAt": "2026-05-04T08:11:46.761Z"
     },
     {
       "pmid": "42037825",
@@ -666,7 +666,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-03T07:43:46.609Z"
+      "fetchedAt": "2026-05-04T08:11:58.560Z"
     }
   ]
 }
