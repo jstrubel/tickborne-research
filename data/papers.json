@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T07:50:24.264Z",
+  "generatedAt": "2026-05-07T08:09:40.174Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:12.789Z"
+      "fetchedAt": "2026-05-07T08:09:28.778Z"
     },
     {
       "pmid": "42064646",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:11.940Z"
+      "fetchedAt": "2026-05-07T08:09:28.182Z"
     },
     {
       "pmid": "42033285",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:14.070Z"
+      "fetchedAt": "2026-05-07T08:09:29.978Z"
     },
     {
       "pmid": "42034950",
@@ -92,12 +92,58 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:13.326Z"
+      "fetchedAt": "2026-05-07T08:09:29.376Z"
+    },
+    {
+      "pmid": "42092101",
+      "title": "Contrasting epigenetics of Ixodes scapularis populations.",
+      "abstract": "Hard ticks are a source of public health concern, in part due to their ability to inhabit different environments. In the United States (US), blacklegged ticks (Ixodes scapularis Say), the primary vector of Lyme disease, exhibit various phenotypes depending on their geographic origin (i.e. northern and southern US ticks). Although genetics may partially explain how blacklegged tick populations acclimate to different environmental conditions across the US, epigenetics may also contribute to their success. Epigenetic mechanisms, such as DNA methylation, might modulate gene expression allowing for rapid adaptation. To gain insight into the potential contribution of DNA methylation, an Enzyme-Linked Immunosorbent Assay (ELISA) was utilized to evaluate differences in DNA methylation levels between blacklegged ticks collected from Minnesota (northern region) and Texas (southern region). DNA methylation profiles from both populations were characterized using bisulfite and nanopore sequencing. Our results revealed significant variability in global methylation levels between southern and northern tick populations, as well as highly variable relative expression of genes encoding DNA methyltransferases and demethylases. Overall, northern blacklegged ticks exhibit lower global DNA methylation levels than southern ticks. Basic proline-rich protein, zinc finger protein 501-like protein, and an uncharacterized protein LOC115333191 are among the genes that exhibit lower DNA methylation. Our findings revealed that blacklegged tick populations possess distinctive DNA methylation profiles, which may contribute to their phenotypic plasticity across the US. This study aims to pave the way for future research into the potential molecular mechanisms that allow ticks to successfully acclimatize to environmental changes.",
+      "authors": [
+        "Guzman-Valencia S",
+        "Cassens J",
+        "Saelao P"
+      ],
+      "journal": "Scientific reports",
+      "publicationDate": "May 06, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42092101/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-07T08:09:19.296Z"
+    },
+    {
+      "pmid": "42086599",
+      "title": "Monovalent and multivalent OspA mRNA-LNP vaccines elicit functional antibodies and protect against Borrelia burgdorferi in mice.",
+      "abstract": "Outer surface protein A (OspA) is a&#x2009;~30&#x2009;kDa lipoprotein displayed on the surface of Borrelia burgdorferi sensu lato, the etiological agent of Lyme disease. Here we report on the preclinical evaluation of OspA-encoding nucleoside-modified mRNA lipid nanoparticle (OspA mRNA-LNP) vaccines for the prevention of Lyme disease. Crystallographic and binding studies using a panel of transmission-blocking antibodies confirmed that the mRNA-encoded OspA serotype 1 (ST1) expressed in mammalian cells assumes its native structure and retains known protective epitopes. Immunization of mice with OspA ST1 mRNA-LNP elicited functional serum antibodies that promoted spirochete agglutination and complement-dependent borreliacidal activity in vitro. We also examined the impact of combining ST1 OspA mRNA with OspA STs 2-7, which are associated with predominant Borrelia genospecies in Europe (B. garinii, B. afzelii, and B. bavariensis). The additional six STs mRNA did not interfere with ST1 antibody titers and functionality. Finally, mice vaccinated two or three times with different dose levels of OspA ST1 mRNA-LNP or with the heptavalent mRNA vaccine were protected against B. burgdorferi infection in a tick-mediated challenge model. The monovalent and the heptavalent OspA mRNA vaccines (mRNA-1982 and mRNA-1975, respectively) are currently undergoing testing in a Phase 1 clinical trial (NCT05975099).",
+      "authors": [
+        "Finn MB",
+        "Willsey G",
+        "Piazza CL"
+      ],
+      "journal": "NPJ vaccines",
+      "publicationDate": "May 05, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42086599/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-07T08:09:19.899Z"
     },
     {
       "pmid": "42082535",
       "title": "Development and field evaluation of a rapid detection method for Babesia microti using fluorescent recombinase polymerase amplification(RPA) technology.",
-      "abstract": "",
+      "abstract": "The frequent occurrences of Babesia microti (B. microti) infection have emerged as a significant global public health safety concern. The diagnosis of patients constitutes a crucial component in the prevention and control of babesiosis, necessitating the urgent establishment of efficient and accurate molecular biology diagnostic methods for B. microti detection. This study aimed to develop a sensitive, specific, and rapid fluorescent recombinase polymerase amplification (RPA) technique for the detection of B. microti (B. microti) and assess its suitability for field use. This study developed and optimized a fluorescent RPA assay targeting the B. microti 18&#xa0;S rRNA gene fragment. The method&#x2019;s sensitivity (detection limit down to 10&#xa0;fg/&#xb5;L genomic DNA), specificity (distinguishing Plasmodium samples), and detection limit for spiked mouse blood samples (across varying parasitemia levels) were evaluated. The detection capability was validated using samples from an infected mouse model (tail-tip blood collected 3&#x2013;21 days post-infection) and two confirmed human cases. Furthermore, 119 blood samples from patients presenting with fever accompanied by thrombocytopenia were tested using both nested PCR and the newly developed fluorescent RPA assay. The agreement between the two methods was analyzed using the Kappa value, and the significance of their difference was assessed using McNemar&#x2019;s test. A fluorescent RPA assay was developed targeting two B. microti 18&#xa0;S rRNA fragments (243&#xa0;bp/191&#xa0;bp). The 191&#xa0;bp fragment demonstrated superior sensitivity (detection limit: 1&#xa0;fg/&#xb5;L genomic DNA) and was selected for assay establishment. Optimized at 39&#xa0;&#xb0;C for 20&#xa0;min, its detection threshold was defined by the lowest detectable concentration (1&#xa0;fg/&#xb5;L). Specificity testing with 8 P. falciparum and 8 P. ovale samples showed fluorescence below this threshold. The assay achieved a detection limit of 0.046 parasites/&#xb5;L blood, demonstrating a 600-fold increase in sensitivity compared to nested PCR, which detects 28.49 parasites/&#xb5;L. In infected mice, both RPA and nested PCR detected parasites by day 9 post-infection (microscopy: day 15), with RPA showing higher positivity. The method confirmed infection in 2 patients. Among 119 febrile patients with thrombocytopenia from Xinyang City, Henan Province, nested PCR detected 20 B. microti-positive cases while fluorescent RPA detected 21. The Kappa value for agreement between the methods was 97.05% (91.31% &#x2212;&#x2009;100%), and McNemar&#x2019;s test indicated no statistically significant difference in their detection rates (S&#x2009;=&#x2009;1, P&#x2009;>&#x2009;0.1). Based on the combined results of both tests, the molecular positivity rate for B. microti in this sample set was 17.65%, with co-infections involving Bunya virus present, accounting for 10.08% of the tested samples. The fluorescence RPA method provides a rapid, sensitive, and specific tool for detecting B. microti and is effective for field screening. The online version contains supplementary material available at 10.1038/s41598-026-42288-3.",
       "authors": [
         "Cai Y",
         "Yang HY",
@@ -110,12 +156,58 @@
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:17.910Z"
+      "fetchedAt": "2026-05-07T08:09:34.624Z"
+    },
+    {
+      "pmid": "42083024",
+      "title": "Surveillance of tick-borne pathogens in ticks collected from Swiss residents.",
+      "abstract": "Tick-borne diseases (TBDs) represent an increasing public health threat globally. Climate change has facilitated tick range expansion and extended active seasons, contributing to rising TBD incidence rates. In Switzerland, TBDs represent a major health concern. This study aims to characterise patterns in spatio-temporal distribution of tick-borne pathogens (TBPs) in ticks removed from humans across Switzerland, examine associations between tick developmental stages and TBP infection prevalence, and analyse co-infection patterns amongst different TBPs. We employed the \"Tick Prevention\" citizen science app to collect spatial and temporal data on tick bite incidents and to obtain tick specimens for pathogen screening throughout Switzerland during 2018-2020. Specimens underwent DNA extraction for TBP detection. Quantitative PCR targeted different TBPs at genus and species levels. Data analysis examined TBP infection prevalence in submitted ticks across geographic regions, seasons, and tick developmental stages, including co-infection patterns in ticks. Of 1056 tick specimens, 352 (33.3%) tested positive for at least one TBP, with Borrelia spp. (16.3%) and Rickettsia spp. (12.69%) showing higher infection prevalence than other TBPs, including Neoehrlichia mikurensis (5%), Anaplasma phagocytophilum (1.8%), Chlamydiales (1.8%), and Babesia spp. (1.7%). Co-infections occurred in 59 specimens (5.6%), predominantly dual infections (5.2%), with Borrelia spp. and N. mikurensis representing the most common co-infection pattern. Among 58 larvae, 898 nymphs, and 96 adult ticks examined, tick infection prevalence increased with developmental stage, rising from larvae (18.9%) to nymphs (32.6%) to adults (48.9%), consistent with pathogen acquisition through successive blood meals during tick development. Spatially, TBPs were detected across 70 of 76 Swiss administrative regions, with most TBPs displaying uniform distribution. Temporally, tick-human encounters peaked during May-June (59.7% of announced events), with TBP detection rates remaining steady (28-37%) across the tick-active months from April to September. One-third of examined ticks harboured at least one TBP, with weighted models indicating infection prevalence in submitted ticks could reach 45% in certain Swiss Plateau regions. These findings emphasise the importance of continued tick and TBP surveillance programmes to inform public health interventions and prevention.",
+      "authors": [
+        "Ghasemian E",
+        "Marquis B",
+        "Tagini F"
+      ],
+      "journal": "Parasites & vectors",
+      "publicationDate": "May 04, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42083024/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-07T08:09:33.869Z"
+    },
+    {
+      "pmid": "42088292",
+      "title": "Surveillance of Zoonotic Pathogens in Small Mammals Across Forests With Different Levels of Anthropization in Eastern France.",
+      "abstract": "The emergence of infectious diseases associated with land-use changes is well-documented. However, the presence and dynamics of zoonotic pathogens in small mammals within European forests, whether from rural development or urban greening, remain underexplored. To describe zoonotic hazards in these ecosystems, and to assess the influence of biotic and abiotic factors on their distribution, we analyzed 1549 individuals from 18 small mammal species sampled across forest types representing different levels of anthropization using both targeted and broad-spectrum serological and molecular methods. We detected nine bacteria and five Apicomplexa that are potentially pathogenic to humans. Zoonotic pathogen richness and community composition varied significantly across host species, sites, and sampling periods. Richness was lower in forested urban parks, possibly due to the absence of vectors or intermediate hosts within cities. It was higher in urban adapter species, even within a given forested habitat, emphasizing the important role of specific life-history traits. Pathogen community structure was shaped by forest anthropization and host ecology, with marked differences between urban and rural forested environments and between urban adapter and dweller species within forested urban parks. The seroprevalence of key pathogens (e.g., Bartonella, Orthopoxvirus, Neoehrlichia mikurensis, and Sarcocystidae) showed spatial, temporal, and host-specific variation. Epidemiological differences between sites often exceeded those between habitat types, in particular when comparing protected and managed forests, highlighting the importance of local ecological context. Nevertheless, some patterns reflected the influence of forest anthropization and species urban adaptation strategies for certain zoonotic agents. High anthropization in forests was associated with elevated Bartonella prevalence, driven by urban-adapter species rather than forest dwellers, emphasizing local ecological interactions between hosts and pathogens. Besides, higher levels of Orthopoxvirus seroprevalence were associated with adapter species in protected forests where they might be more abundant. Altogether, these findings underscore the need for integrated and multipathogen wildlife surveillance to anticipate and mitigate disease risks at the human-environment-animal interface.",
+      "authors": [
+        "Bouilloud M",
+        "Galan M",
+        "Bordes A"
+      ],
+      "journal": "Transboundary and emerging diseases",
+      "publicationDate": "05 03, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42088292/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-07T08:09:26.378Z"
     },
     {
       "pmid": "42068383",
@@ -138,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:06.955Z"
+      "fetchedAt": "2026-05-07T08:09:24.386Z"
     },
     {
       "pmid": "42082101",
@@ -161,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:18.502Z"
+      "fetchedAt": "2026-05-07T08:09:35.220Z"
     },
     {
       "pmid": "42067991",
@@ -184,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:11.396Z"
+      "fetchedAt": "2026-05-07T08:09:27.583Z"
     },
     {
       "pmid": "42060566",
@@ -207,30 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:08.236Z"
-    },
-    {
-      "pmid": "42059878",
-      "title": "How Medically Important Antimicrobials Bind to the 30S Ribosomal Subunit in a Bacterial Pathogen.",
-      "abstract": "Ribosomes translate the genetic code in mRNA to synthesize proteins in all living organisms. Decoding of mRNA occurs in the small subunit of the ribosome and is mediated by tRNA anticodons. Regions near the decoding center are a target for antibiotics, such as aminoglycosides and tetracyclines, where their presence results in errors in protein synthesis. More than two decades of high-resolution structural studies have shown how such medically important antimicrobials (MIAs) bind to the small subunit of the bacterial ribosome. Here, we comprehensively analyze these previously reported structures to help understand the variability with which MIAs bind to small subunits of bacterial ribosomes. We previously solved the hibernating 70S ribosome structure of the bacterial pathogen Borrelia burgdorferi (Bbu), the causative agent of Lyme disease, but there is no structure of any MIA bound to this ribosome reported. Our structural analysis makes it possible to use inexpensive computational methods to predict the binding of these MIAs to the Bbu ribosomal 30S small subunit. For this, we used structural analogy, restrained energy minimization, and single-point binding free energy computations. We find the single-point binding free energy of the MIAs to be very sensitive to small conformational changes in the MIA and its environment. Incorporating this knowledge in structure-guided design could aid in the development of narrow-spectrum MIAs targeting specific bacterial pathogens.",
-      "authors": [
-        "Manjari SR",
-        "Mallery C",
-        "Banavali NK"
-      ],
-      "journal": "Biochemistry",
-      "publicationDate": "Apr 30, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42059878/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-05T07:50:08.829Z"
+      "fetchedAt": "2026-05-07T08:09:25.000Z"
     },
     {
       "pmid": "42062921",
@@ -253,76 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:22.055Z"
-    },
-    {
-      "pmid": "42049716",
-      "title": "Heritable immunization of mice against Lyme disease enables ecological disease prevention.",
-      "abstract": "Heritable immunization is a promising approach to controlling infectious diseases by embedding immunity directly into the genomes of wild species that spread human pathogens. Here, we report the genetic engineering of Mus musculus to genomically encode a single-chain antibody against Borrelia burgdorferi, the causative agent of Lyme disease. After optimization of the antibody format, engineered mice stably produce a LA-2 scFv-albumin fusion protein targeting the Borrelia outer surface protein A (OspA) across multiple generations, demonstrating robust heritability and stability of gene expression. Following sequential challenges with infected and uninfected ticks, heterozygous mice exhibit strong resistance to infection, effectively interrupting the Borrelia burgdorferi disease transmission cycle. Having recently established protocols to genetically engineer the white-footed mouse Peromyscus leucopus, a key reservoir of Lyme disease, these findings demonstrate the feasibility of heritable immunization as a potential strategy for mitigating Lyme disease transmission in the environment. Engineered reservoir immunity may offer a promising approach to controlling vector-borne and zoonotic disease.",
-      "authors": [
-        "Buchthal J",
-        "Chory EJ",
-        "Hill Z"
-      ],
-      "journal": "Nature communications",
-      "publicationDate": "Apr 28, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42049716/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-05T07:50:09.426Z"
-    },
-    {
-      "pmid": "42055158",
-      "title": "Molecular characterization and functional analysis of thioredoxin peroxidase-2 from Babesia duncani.",
-      "abstract": "Human babesiosis caused by Babesia duncani is an emerging zoonotic disease that poses a growing threat to public health. Since the first reported case in 1991, knowledge of this pathogen has remained limited. Recent completion of the B. duncani genome sequence has accelerated research aimed at elucidating its molecular biology. During its intraerythrocytic life cycle, B. duncani is exposed to oxidative stress generated by redox reactions. In this study, we identified and characterized an antioxidant enzyme from B. duncani-thioredoxin peroxidase-2 (BdTPx-2), a member of the peroxiredoxin family. BdTPx-2 gene was amplified from both cDNA and gDNA of B. duncani, revealing an open reading frame of 792&#xa0;bp with no introns. The native form, cellular localization, and immunogenicity of BdTPx-2 were determined using polyclonal antibodies raised against recombinant BdTPx-2 (rBdTPx-2) and sera from B. duncani-infected mice. Antioxidant activity was assessed using a mixed-function oxidation (MFO) assay. BdTPx-2 was recognized by sera from mice infected with B. duncani or B. microti, dogs infected with B. gibsoni, and water buffalo infected with B. orientalis, indicating that TPx-2 is conserved and exhibits cross-reactivity among Babesia species. A native protein of approximately 35&#xa0;kDa was specifically detected in B. duncani lysates. The MFO assay demonstrated that BdTPx-2 inhibits the oxidation of plasmid DNA by a DTT/FeCl&#x2083; mixture, preventing its conversion from the supercoiled to the nicked form. In BALB/c mice immunized with rBdTPx-2 and subsequently challenged with Babesia, parasite burden was significantly reduced, accompanied by elevated levels of the proinflammatory cytokine IFN-&#x3b3;, suggesting a protective immune response induced by rBdTPx-2. This work characterizes TPx-2 as an antioxidant enzyme in B. duncani and provides insights into a key mechanism by which the parasite defends against oxidative stress during its intraerythrocytic stage.",
-      "authors": [
-        "Guo J",
-        "Zhao X",
-        "Wang Q"
-      ],
-      "journal": "Parasitology international",
-      "publicationDate": "Apr 27, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42055158/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-05T07:50:22.647Z"
-    },
-    {
-      "pmid": "42054780",
-      "title": "In vitro cultivation of Babesia caballi genotype B2 and its genetic, growth, and morphological characterization.",
-      "abstract": "The genotypic diversity of Babesia caballi, comprising three genotypes, namely A, B1, and B2, presents challenges for managing equine piroplasmosis. Therefore, research on individual B. caballi genotype is essential, but has been constrained by the lack of in vitro cultures representing genotypes other than the widely studied genotype A. In the present study, we established in vitro cultures of two B. caballi isolates from donkeys in Sri Lanka. Based on 18S rRNA and rhoptry associated protein-1 (rap-1) gene sequences, the isolates were identified as genotypes B2 and A, and designated NRCPD-B2 and NRCPD-A, respectively. NRCPD-B2 represents the first successful in vitro culture of a genotype B2 strain. Genetic characteristics, growth dynamics, and morphological features of NRCPD-B2 were evaluated in comparison with NRCPD-A and the long-term culture-adapted USDA strain (genotype A). Analyses of nuclear and mitochondrial gene sequences revealed substantial divergence between genotype B2 and genotype A, suggesting a deeper evolutionary separation than previously recognized. While the NRCPD-B2 and NRCPD-A grew similarly in vitro, both had lower parasitemia than the USDA strain, likely reflecting long-term adaptation of the latter to in vitro conditions. Microscopic examination revealed that the dimensions of paired and single pyriforms, as well as ring forms, were comparable among all three strains. The establishment of NRCPD-B2 in the present study provides the first in vitro platform for genotype B2 and will support improved diagnostics, genotype-specific drug testing, and refinement of B. caballi taxonomy.",
-      "authors": [
-        "Mwaki DM",
-        "Mumbi NNM",
-        "Ahedor B"
-      ],
-      "journal": "Veterinary parasitology",
-      "publicationDate": "Apr 24, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42054780/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-05T07:50:23.263Z"
+      "fetchedAt": "2026-05-07T08:09:39.174Z"
     },
     {
       "pmid": "42079258",
@@ -345,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:03.136Z"
+      "fetchedAt": "2026-05-07T08:09:20.791Z"
     },
     {
       "pmid": "42013046",
@@ -368,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:14.661Z"
+      "fetchedAt": "2026-05-07T08:09:30.577Z"
     },
     {
       "pmid": "42008791",
@@ -391,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:15.519Z"
+      "fetchedAt": "2026-05-07T08:09:31.184Z"
     },
     {
       "pmid": "42075764",
@@ -414,30 +414,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:03.733Z"
+      "fetchedAt": "2026-05-07T08:09:21.399Z"
     },
     {
-      "pmid": "41986819",
-      "title": "Bartonella henselae infection associated with a multisystemic thrombo-inflammatory syndrome in an immunocompetent adult.",
-      "abstract": "Bartonella henselae infection is traditionally associated with self-limited cat-scratch disease but may occasionally present with severe systemic manifestations. &#xa0;We report a 43&#xa0;year-old immunocompetent man who developed a multisystem thrombo-inflammatory syndrome with thrombocytopenia, renal involvement, thrombotic events, ocular ischemia, and transient lupus anticoagulant positivity, initially suggestive of catastrophic antiphospholipid syndrome. Extensive investigations were unrevealing until whole blood PCR detected B. henselae. Retrospective histopathology revealed small-vessel endothelial injury compatible with microangiopathy. Doxycycline therapy was followed by clinical improvement, normalization of platelet counts, and resolution of thrombotic manifestations CONCLUSION: This case highlights the diagnostic complexity of systemic Bartonella infection and the need to consider infectious triggers in unexplained thrombo-inflammatory presentations, even in immunocompetent individuals.",
+      "pmid": "42085797",
+      "title": "Environmental differentiation between the invasive cattle fever&#xa0;ticks Rhipicephalus (Boophilus) microplus and Rhipicephalus (Boophilus) annulatus revealed by comparative geographical ecology.",
+      "abstract": "Cattle fever ticks, Rhipicephalus (Boophilus) microplus and R. (B.) annulatus, are major constraints on cattle production worldwide because they directly reduce productivity and transmit the agents of bovine babesiosis and anaplasmosis. Despite their shared hosts and similar vector capacity, their environmental preferences and the extent to which they occupy comparable climatic space remain unclear. We compiled historical occurrence records from global sources and, after quality control and spatial thinning, retained 2338 records for R. (B.) microplus and 527 for R. (B.) annulatus. Using climate, vegetation and soil variables, we characterized occupied environments, reconstructed geographically accessible areas with dispersal simulations, and compared climatic niches using methods that approximate fundamental and realized components. Both species were recorded across all major terrestrial biomes except tundra and in all livestock production systems. Environmental profiles nevertheless differed significantly: R. (B.) microplus occurred more often in warmer, wetter and more vegetated settings with moister soils and more stable surface temperatures, whereas R. (B.) annulatus was more frequently associated with drier environments and a broader range of thermal extremes. Climatic niche similarity was low to moderate and was statistically supported mainly for temperature-based niches. These results indicate that cattle fever ticks are not as environmentally distinct as often assumed, but they differ in how they partition environmental space. This information complements existing knowledge about the ecology and distribution of cattle fever ticks and motivate testable hypotheses about species interactions.",
       "authors": [
-        "Gobbo G",
-        "Zacchia M",
-        "Nalesso F"
+        "Mauricio VU",
+        "Diego SA",
+        "Rodolfo LQ"
       ],
-      "journal": "Infection",
+      "journal": "Veterinary parasitology",
       "publicationDate": "Apr 15, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41986819/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42085797/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:16.712Z"
+      "fetchedAt": "2026-05-07T08:09:33.275Z"
     },
     {
       "pmid": "42075745",
@@ -460,7 +460,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:04.272Z"
+      "fetchedAt": "2026-05-07T08:09:21.992Z"
     },
     {
       "pmid": "42075744",
@@ -483,7 +483,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:10.860Z"
+      "fetchedAt": "2026-05-07T08:09:26.985Z"
     },
     {
       "pmid": "42074725",
@@ -506,7 +506,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:06.081Z"
+      "fetchedAt": "2026-05-07T08:09:23.786Z"
     },
     {
       "pmid": "42075735",
@@ -528,7 +528,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:04.882Z"
+      "fetchedAt": "2026-05-07T08:09:22.592Z"
     },
     {
       "pmid": "42075720",
@@ -551,7 +551,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:05.477Z"
+      "fetchedAt": "2026-05-07T08:09:23.189Z"
     },
     {
       "pmid": "42005843",
@@ -573,7 +573,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:16.124Z"
+      "fetchedAt": "2026-05-07T08:09:31.781Z"
     },
     {
       "pmid": "42075710",
@@ -596,7 +596,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:19.097Z"
+      "fetchedAt": "2026-05-07T08:09:35.826Z"
     },
     {
       "pmid": "42075709",
@@ -619,7 +619,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:19.632Z"
+      "fetchedAt": "2026-05-07T08:09:36.437Z"
     },
     {
       "pmid": "42075703",
@@ -642,7 +642,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:20.272Z"
+      "fetchedAt": "2026-05-07T08:09:37.236Z"
     },
     {
       "pmid": "42075697",
@@ -663,7 +663,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:20.864Z"
+      "fetchedAt": "2026-05-07T08:09:37.873Z"
     },
     {
       "pmid": "42075692",
@@ -686,7 +686,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-05T07:50:21.460Z"
+      "fetchedAt": "2026-05-07T08:09:38.574Z"
     }
   ]
 }
