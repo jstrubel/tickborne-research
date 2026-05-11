@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T07:51:41.997Z",
+  "generatedAt": "2026-05-11T08:53:03.389Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:29.617Z"
+      "fetchedAt": "2026-05-11T08:52:49.995Z"
     },
     {
       "pmid": "42064646",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:29.028Z"
+      "fetchedAt": "2026-05-11T08:52:49.412Z"
     },
     {
       "pmid": "42033285",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:31.497Z"
+      "fetchedAt": "2026-05-11T08:52:51.190Z"
     },
     {
       "pmid": "42034950",
@@ -92,7 +92,74 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:30.224Z"
+      "fetchedAt": "2026-05-11T08:52:50.604Z"
+    },
+    {
+      "pmid": "42107047",
+      "title": "Culture-Negative Infective Endocarditis Presenting as ANCA-Positive Glomerulonephritis.",
+      "abstract": "BACKGROUND Infective endocarditis is challenging to diagnose when blood cultures are negative, and its symptoms are nonspecific. Bartonella species are fastidious intracellular bacteria that can cause culture-negative endocarditis and immune-mediated complications such as glomerulonephritis, often mimicking ANCA-associated glomerulonephritis. CASE REPORT A 25-year-old man who underwent a Ross procedure for congenital aortic stenosis performed in childhood presented with 1 month of night sweats, abdominal pain, and intermittent nausea. Initial evaluation revealed elevated creatinine, pancytopenia, proteinuria, microscopic hematuria, and splenomegaly. Serologies showed positive c-ANCA and elevated PR3 antibodies. A presumed diagnosis of ANCA-associated glomerulonephritis led to initiation of high-dose steroids and planned rituximab. Kidney biopsy demonstrated crescentic glomerulonephritis with C3-dominant immune complex deposition, atypical for pauci-immune disease, prompting discontinuation of steroids. Further infectious workup revealed high Bartonella henselae IgM and IgG titers. The patient met the criteria for possible infective endocarditis under the 2023 Duke-ISCVID criteria. Transesophageal echocardiography showed valvular abnormalities without definite vegetations, although only a prior transthoracic echocardiogram was available for comparison. The patient was treated with doxycycline and rifampin for 12 weeks, resulting in clinical and laboratory improvement. CONCLUSIONS This case demonstrates that Bartonella endocarditis can closely mimic ANCA-associated glomerulonephritis and rapidly progressive glomerulonephritis. In patients with systemic symptoms, positive ANCA serologies, and negative cultures, occult infection must be a key consideration, especially in patients at high risk for infective endocarditis. A careful exposure history, including pets, travel, and dental procedures, can provide crucial diagnostic clues. Early recognition and targeted antimicrobial therapy are essential to prevent irreversible organ damage and avoid inappropriate immunosuppression.",
+      "authors": [
+        "Kyhan ME",
+        "Bressler AM"
+      ],
+      "journal": "The American journal of case reports",
+      "publicationDate": "May 10, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42107047/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-11T08:52:46.180Z"
+    },
+    {
+      "pmid": "42105311",
+      "title": "Current practices in the diagnosis of Lyme disease.",
+      "abstract": "Lyme disease (LD) is the most prevalent vector-borne disease in the Northern Hemisphere. The bacterial pathogen responsible for the disease is transmitted to humans and other mammals via the arthropod vector Ixodes spp. whose hematophagy lends itself to the acquisition and transmission of this pathogen. The spirochete pathogen responsible for LD belongs to the genus Borrelia burgdorferi sensu lato complex, who can be found in North America, South America, Eurasia, and Africa. The initial clinical presentation of LD typically manifests with an erythema migrans skin lesion (bull's-eye rash), and if left untreated, can develop into disseminated LD that can be accompanied by neuritis, meningitis, carditis, and/or arthritis. Diagnosis of LD is typically done via serological testing in the clinical laboratory. Advances in this area include the characterization and refinement of antigen targets utilized by immunoassays, more recent expansion of the testing algorithm to allow for the use of immunoassays over immunoblots, and the development of highly sensitive assays that readily allow for automation. Research into future directions for diagnostic testing in the clinical laboratory include the application of transcriptomics, proteomics, and metabolomics, many of which demonstrate promise for potential future application. Each of these areas will be discussed in detail to provide a broad understanding of the disease process, the diagnostic testing modalities currently available to the clinical laboratory, and where future research may lead one day.",
+      "authors": [
+        "Walsh ME",
+        "Brunelle LA"
+      ],
+      "journal": "Critical reviews in clinical laboratory sciences",
+      "publicationDate": "May 09, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42105311/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-11T08:52:37.494Z"
+    },
+    {
+      "pmid": "42106483",
+      "title": "Individual activity of forest rodents correlates to pathogen communities.",
+      "abstract": "Animal personality influences organismal interactions and individual habitat use. Rodents are zoonoses reservoirs and often exposed to several pathogens simultaneously, potentially resulting in interdependence of infections and susceptibility to infection. Still, entire pathogen communities are rarely investigated, even though, given rodents ubiquity in human settlements, understanding the link between animal personality and pathogenesis is an important public health issue. We investigated the association of animal personality with pathogen communities in wild rodents, analysing ectoparasite occurrence and pathogenic bacteria of 93 individuals belonging to 3 species from urban and forest areas around Potsdam, Germany. Individual personality was quantified using a combination of open-field and dark-light test. Rodents were then euthanised and screened for pathogens in the spleen through 16&#xa0;S rRNA amplicon sequencing, and ectoparasites were collected. We detected 6 pathogenic bacteria and 3 ectoparasite taxa. Host species and sampling time explained most of the variation in pathogen associations, but within each genus, 7-9% of the variation was explained by animal personality. Active rodents were more likely infected by Bartonella than less active ones. Bold animals had lower tick infestation probabilities. Thus, animal personality contributes to the distribution and prevalence of pathogens in wild rodents, and should be considered in epidemiology and disease management.",
+      "authors": [
+        "A Eccard J",
+        "Firozpoor J",
+        "Escobar M"
+      ],
+      "journal": "Scientific reports",
+      "publicationDate": "May 09, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42106483/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-11T08:52:46.789Z"
     },
     {
       "pmid": "42101881",
@@ -115,7 +182,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:19.558Z"
+      "fetchedAt": "2026-05-11T08:52:38.081Z"
     },
     {
       "pmid": "42101751",
@@ -138,7 +205,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:36.708Z"
+      "fetchedAt": "2026-05-11T08:52:58.159Z"
     },
     {
       "pmid": "42103323",
@@ -161,7 +228,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:35.485Z"
+      "fetchedAt": "2026-05-11T08:52:53.410Z"
     },
     {
       "pmid": "42102585",
@@ -184,7 +251,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:36.075Z"
+      "fetchedAt": "2026-05-11T08:52:54.098Z"
     },
     {
       "pmid": "42095911",
@@ -207,7 +274,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:37.301Z"
+      "fetchedAt": "2026-05-11T08:52:58.744Z"
     },
     {
       "pmid": "42092101",
@@ -230,7 +297,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:20.192Z"
+      "fetchedAt": "2026-05-11T08:52:38.759Z"
     },
     {
       "pmid": "42086599",
@@ -253,7 +320,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:20.843Z"
+      "fetchedAt": "2026-05-11T08:52:39.365Z"
     },
     {
       "pmid": "42082535",
@@ -276,7 +343,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:39.065Z"
+      "fetchedAt": "2026-05-11T08:53:00.505Z"
     },
     {
       "pmid": "42083024",
@@ -299,7 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:38.478Z"
+      "fetchedAt": "2026-05-11T08:52:59.918Z"
     },
     {
       "pmid": "42088292",
@@ -322,30 +389,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:26.596Z"
-    },
-    {
-      "pmid": "42068383",
-      "title": "Assembled and annotated reference genome and demographic history of the eastern chipmunk (Tamias striatus).",
-      "abstract": "The eastern chipmunk (Tamias striatus) is an abundant North American sciurid rodent and the only extant member of the subgenus Tamias. Despite its abundance, a reference genome has not been produced for this species. Here we present an assembled and annotated reference genome for the eastern chipmunk using PacBio HiFi long read sequencing data. We sequenced the genome of a vouchered male eastern chipmunk collected in Maine and stored at the National Museum. We compared the eastern chipmunk's genome with the genome of the Siberian chipmunk (Tamias sibiricus; subgenus Eutamias), the only other species in the Tamias genus with an annotated reference genome. The genomes were similar with 55.45% of genes showing collinearity and chromosomal rearrangements only occurring between chromosomes 4 and 8. We identified 219 genes under positive selection in the eastern chipmunk relative to the Siberian chipmunk. A coalescent analysis inferred the effective population size of the Maine eastern chipmunk may have steadily decreased through the Pleistocene epoch, consistent with a reduction in available habitat. We also generated short-read Illumina sequencing data from two additional eastern chipmunks collected in New Castle County, Delaware and Carbon County, Pennsylvania. We calculated nucleotide diversity over 10&#xa0;kb windows across the genome (mean&#x2009;=&#x2009;0.0014&#x2009;&#xb1;&#x2009;0.0012&#xa0;s.d.) and identified genes with high nucleotide diversity. The eastern chipmunk reference genome will facilitate future population genetic and evolutionary studies including those investigating its role as a reservoir host for the bacterium that causes Lyme disease.",
-      "authors": [
-        "Shifflett SA",
-        "Weyer E",
-        "MacDonald ML"
-      ],
-      "journal": "Molecular genetics and genomics : MGG",
-      "publicationDate": "May 02, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42068383/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-10T07:51:25.233Z"
+      "fetchedAt": "2026-05-11T08:52:47.378Z"
     },
     {
       "pmid": "42082101",
@@ -368,7 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:39.663Z"
+      "fetchedAt": "2026-05-11T08:53:01.089Z"
     },
     {
       "pmid": "42067991",
@@ -391,7 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:28.435Z"
+      "fetchedAt": "2026-05-11T08:52:48.825Z"
     },
     {
       "pmid": "42079258",
@@ -414,7 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:21.669Z"
+      "fetchedAt": "2026-05-11T08:52:39.961Z"
     },
     {
       "pmid": "42013046",
@@ -437,30 +481,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:32.253Z"
-    },
-    {
-      "pmid": "42008791",
-      "title": "Neuroretinitis: Etiologies, Treatment Approaches, and Visual Outcomes from a Tertiary Referral Center.",
-      "abstract": "To evaluate the clinical characteristics, etiologies, treatment strategies, and visual outcomes in patients diagnosed with neuroretinitis at a tertiary referral center. This retrospective case series included 21 patients (25 eyes) diagnosed with neuroretinitis between January 2014 and February 2025. All patients underwent comprehensive ophthalmologic examination, multimodal imaging, and extensive laboratory investigations. Treatment regimens were individualized based on suspected or confirmed etiologies. The mean age of patients was 31.9&#x2009;&#xb1;&#x2009;15.5&#x2009;years. Bartonella henselae infection was the most frequent etiology (42.9%), followed by Toxoplasma gondii infection (14.3%) and Beh&#xe7;et's disease (BD)-associated neuroretinitis. Despite a thorough evaluation, 33.3% of cases were classified as idiopathic. Empirical antibiotic therapy was initiated in most patients (85.7%) pending serological results. All patients received systemic corticosteroids, and selected cases required immunosuppressive therapy, including azathioprine or biologic agents. The mean baseline best-corrected visual acuity was 0.84&#x2009;&#xb1;&#x2009;0.67 logMAR, improving significantly to 0.08&#x2009;&#xb1;&#x2009;0.17 logMAR at final follow-up (p&#x2009;<&#x2009;0.001). Visual recovery was favorable in nearly all eyes, with a final BCVA&#x2009;>0.3 logMAR in only two cases. This case series highlights the etiologic spectrum encountered in a tertiary referral center and underscores the importance of careful exposure history and targeted serologic testing in facilitating etiologic differentiation. Neuroretinitis may also represent an ocular manifestation of systemic inflammatory diseases such as BD, while empirical treatment may be considered when infectious causes cannot be confidently excluded at presentation.",
-      "authors": [
-        "&#xc7;am F",
-        "Altintas A",
-        "Celiker H"
-      ],
-      "journal": "Ocular immunology and inflammation",
-      "publicationDate": "Apr 20, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42008791/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-10T07:51:32.839Z"
+      "fetchedAt": "2026-05-11T08:52:51.807Z"
     },
     {
       "pmid": "42075764",
@@ -483,7 +504,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:22.271Z"
+      "fetchedAt": "2026-05-11T08:52:40.545Z"
     },
     {
       "pmid": "42085797",
@@ -506,7 +527,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:37.889Z"
+      "fetchedAt": "2026-05-11T08:52:59.333Z"
     },
     {
       "pmid": "42075745",
@@ -529,7 +550,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:22.863Z"
+      "fetchedAt": "2026-05-11T08:52:41.128Z"
     },
     {
       "pmid": "42075744",
@@ -552,7 +573,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:27.844Z"
+      "fetchedAt": "2026-05-11T08:52:47.961Z"
     },
     {
       "pmid": "42074725",
@@ -575,7 +596,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:24.637Z"
+      "fetchedAt": "2026-05-11T08:52:42.905Z"
     },
     {
       "pmid": "42075735",
@@ -597,7 +618,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:23.449Z"
+      "fetchedAt": "2026-05-11T08:52:41.711Z"
     },
     {
       "pmid": "42075720",
@@ -620,29 +641,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:24.039Z"
-    },
-    {
-      "pmid": "42005843",
-      "title": "Untitled",
-      "abstract": "Bartonella are gram-negative, facultative intracellular bacteria. Infection by Bartonella manifests as different clinical syndromes collectively known as bartonellosis. The well-known diseases caused by these bacteria are cat scratch disease (Bartonella henselae), trench fever (Bartonella quintana) and Carrion's disease (Bartonella bacilliformis). Excluding B. bacilliformis, which is evolutionarily more distinct than the other species, Bartonella infections result in self-limiting disease that is often undiagnosed and untreated. However, individuals with compromised immune systems or other undefined conditions may experience clinical manifestations, which can become life-threatening and need to be treated with effective antibiotics. To date, there is no standard treatment course for these infections, and many doctors prescribe antibiotics based on limited case studies. Within the host, Bartonella can grow extracellularly, intracellularly, and in biofilms. To determine an effective antibiotic strategy, it is important to understand Bartonella susceptibility in each of these growth conditions. We hypothesized that combination antibiotic treatments are required to effectively eliminate Bartonella henselae growth, particularly in biofilm and intracellular environments. Our previous work has shown that B. henselae treatment with single antibiotics in different media, as well as in DH82 canine macrophages, was ineffective in eliminating bacteria. We expanded this work with different antibiotics supported by case reports, as well as double and triple combinations. The following antibiotics were tested: doxycycline, gentamicin, azithromycin, azlocillin, rifampin, and clarithromycin. We found that while monotherapy may inhibit growth extracellularly, it is ineffective when used against intracellular bacteria or pre-existing biofilms. Gentamicin in combination with either rifampin or azlocillin significantly reduced bacterial growth in multiple microenvironments. The effectiveness of combination therapy supports the notion that Bartonella species utilize host cells and biofilms as antibiotic evasion strategies.",
-      "authors": [
-        "Olsen EL",
-        "Embers ME"
-      ],
-      "journal": "Frontiers in microbiology",
-      "publicationDate": "04 02, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42005843/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-10T07:51:33.947Z"
+      "fetchedAt": "2026-05-11T08:52:42.317Z"
     },
     {
       "pmid": "42075710",
@@ -665,7 +664,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:40.409Z"
+      "fetchedAt": "2026-05-11T08:53:01.684Z"
     },
     {
       "pmid": "42075709",
@@ -688,7 +687,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-10T07:51:40.996Z"
+      "fetchedAt": "2026-05-11T08:53:02.389Z"
     }
   ]
 }
