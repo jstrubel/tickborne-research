@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-05-17T08:05:43.382Z",
+  "generatedAt": "2026-05-18T09:34:22.736Z",
   "totalPapers": 30,
   "papers": [
+    {
+      "pmid": "42143044",
+      "title": "Developing a durable, memory-driven, CspZ-targeting Lyme disease vaccine by rationale adjuvant selection.",
+      "abstract": "Rational adjuvant selection is a systematic approach based on adjuvant-mediated immunomodulation to identify safe vaccine regimens that enhance protective immunity. Transmitted through ticks and caused by the bacterium Borrelia burgdorferi (Bb), Lyme disease (LD) is the most common vector-borne disease in the Northern hemisphere. There are no approved human vaccines, making it suitable for testing the concept of rational adjuvant selection. Here, we formulated our previously developed and effective LD vaccine antigen, CspZ-YAC187S, with different adjuvants suitable for human use; we analyzed the immune response by transcriptomics and tested the vaccine efficacy after Bb infection. We identified Alum-CpG and Alum-&#x3b1;Gal to elicit the highest titers of CspZ-YAC187S-dependent protective antibodies and robust levels of protection, but through distinct mechanisms of immunomodulation. We demonstrated that immunization with Alum-CpG formulated CspZ-YAC187S provided up to nine months of protective bactericidal antibody titers, as well as recall-memory response to prevent LD after natural infection. Immunity was linked to elevated levels of IgG1 memory cells in the vaccine-triggered immune responses. This work thus identified a durable, memory immunity-driven LD vaccine, ultimately paving the road to understand the mechanisms of rationale adjuvant selection for vaccine development.",
+      "authors": [
+        "McCarty M",
+        "Hern&#xe1;ndez SA",
+        "Malfetano J"
+      ],
+      "journal": "NPJ vaccines",
+      "publicationDate": "May 16, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42143044/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-18T09:34:02.723Z"
+    },
     {
       "pmid": "42130363",
       "title": "Untitled",
@@ -23,7 +46,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:29.495Z"
+      "fetchedAt": "2026-05-18T09:34:09.925Z"
+    },
+    {
+      "pmid": "42142691",
+      "title": "Molecular Epidemiology of Tick-Borne (Anaplasma, Babesia, Theileria) and Non-Tick-Borne (Toxoplasma gondii) Pathogens in Goats from Southern Punjab, Pakistan.",
+      "abstract": "Pakistan ranks third globally in goat population, with approximately 89 million goats in 2025; however, despite this large population base, the apparent prevalence of hemoparasitic and bacterial pathogens in goats based on PCR remains largely underexplored. This study aimed to report the molecular prevalence and phylogenetic characteristics of Anaplasma ovis, Anaplasma marginale, Babesia ovis, Theileria ovis and Toxoplasma gondii in goat blood samples (n&#x202f;=&#x202f;247) collected from two districts (Muzaffargarh and Multan) in Punjab between August till November 2025. Results indicated a significant variation in the infection rates of the five screened pathogens among the enrolled goats (P < 0.001). Anaplasma ovis exhibited the highest apparent prevalence based on PCR (20.6%), followed by B. ovis (8.5%), T. gondii (8.1%), A. marginale (6.9%) and T. ovis (5.7%) respectively. Instances of co-infection with two and three pathogens were also recorded. DNA sequencing and BLAST analysis confirmed the presence of all screened pathogens. Phylogenetic analysis showed that these isolates are genetically closely related to strains reported from various countries worldwide. We observed higher PCR detected T. gondii infection in smaller herds (P&#x202f;=&#x202f;0.02) and in herds with dogs (P&#x202f;=&#x202f;0.03), among Rajanpuri breed (P&#x202f;=&#x202f;0.005) and goats from Muzaffargarh district (P&#x202f;=&#x202f;0.04). In contrast, T. ovis infection was more common among small goat herds (P&#x202f;=&#x202f;0.04). In conclusion, this study reports a high apparent prevalence of A. ovis while moderate to low PCR based prevalence of A. marginale, B. ovis, T. ovis and T. gondii infections in goats from Punjab, Pakistan. Comprehensive multi-regional studies are warranted to clarify the epidemiology, genetic diversity, and host-parasite dynamics of these pathogens to support effective control strategies in goats.",
+      "authors": [
+        "Iqbal A",
+        "Tariq M",
+        "Zubair A"
+      ],
+      "journal": "Acta tropica",
+      "publicationDate": "May 15, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42142691/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-18T09:34:16.265Z"
     },
     {
       "pmid": "42140107",
@@ -46,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:36.579Z"
+      "fetchedAt": "2026-05-18T09:34:16.924Z"
     },
     {
       "pmid": "42133703",
@@ -69,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:21.522Z"
+      "fetchedAt": "2026-05-18T09:34:03.328Z"
     },
     {
       "pmid": "42134817",
@@ -92,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:37.207Z"
+      "fetchedAt": "2026-05-18T09:34:17.509Z"
     },
     {
       "pmid": "42127999",
@@ -115,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:22.777Z"
+      "fetchedAt": "2026-05-18T09:34:04.515Z"
     },
     {
       "pmid": "42127974",
@@ -138,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:23.404Z"
+      "fetchedAt": "2026-05-18T09:34:05.102Z"
     },
     {
       "pmid": "42127128",
@@ -161,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:30.753Z"
+      "fetchedAt": "2026-05-18T09:34:11.137Z"
     },
     {
       "pmid": "42127999",
@@ -184,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:37.838Z"
+      "fetchedAt": "2026-05-18T09:34:18.186Z"
     },
     {
       "pmid": "42117477",
@@ -207,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:31.381Z"
+      "fetchedAt": "2026-05-18T09:34:11.732Z"
     },
     {
       "pmid": "42116639",
@@ -229,7 +275,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:32.024Z"
+      "fetchedAt": "2026-05-18T09:34:12.423Z"
     },
     {
       "pmid": "42127483",
@@ -252,7 +298,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:38.465Z"
+      "fetchedAt": "2026-05-18T09:34:18.793Z"
     },
     {
       "pmid": "42115648",
@@ -275,7 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:24.079Z"
+      "fetchedAt": "2026-05-18T09:34:05.690Z"
     },
     {
       "pmid": "42114248",
@@ -298,7 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:25.337Z"
+      "fetchedAt": "2026-05-18T09:34:06.866Z"
     },
     {
       "pmid": "42113646",
@@ -319,7 +365,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:25.966Z"
+      "fetchedAt": "2026-05-18T09:34:07.456Z"
     },
     {
       "pmid": "42113574",
@@ -342,30 +388,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:26.465Z"
-    },
-    {
-      "pmid": "42113092",
-      "title": "The Journey of Adult Patients with Lyme Disease in the United States: A Qualitative Interview Study and Patient-Reported, Health-Related Quality-of-Life Assessment.",
-      "abstract": "Lyme disease (LD) is the most common tick-borne illness in the USA, with an estimated 476,000 cases diagnosed and treated annually. Common signs, symptoms, and manifestations of LD are well described; however, there is limited qualitative understanding of the signs and symptoms patients experience during their illness and the associated impacts patients endure along the way. Thus, we aimed to explore the patient journey and experience with LD, including patient-reported signs and symptoms and impacts to health-related quality of life (HRQOL). No a priori hypotheses were evaluated. In-depth, one-on-one, semi-structured interviews were conducted with US adults aged&#x2009;&#x2265;&#x2009;18&#xa0;years who had physician-diagnosed LD in 2023 to explore their experience with LD diagnosis, management, and treatment. The EQ-5D (a standardised HRQOL measure) was administered, and a patient journey map was developed. Interview transcripts were analysed via inductive and deductive coding, using an experiential, realist approach. Twenty-five participants with LD were interviewed (female, 13/25, 52%; male, 12/25, 48%), including those classified as having localised (10/25, 40%), disseminated (10/25, 40%), and indeterminate (5/25, 20%) LD. Participants reported various impacts at diagnosis, such as fear and anxiety, difficulty exercising, needing time off work, and spending increased time indoors. Most participants (19/25, 76%) stated that their symptoms resolved after antibiotic therapy; however, nearly a quarter (6/25, 24%) reported persistent symptoms. Most (15/25, 60%) reported continued emotional impacts after treatment, including fear of future LD infection, fear of the outdoors, and LD-related anxiety. As reported, all EQ-5D domains were worst at diagnosis, but most participants returned to their pre-LD score by the time of the interview. The patient journey with LD is highly varied and individualised, and this study highlights the range of signs, symptoms, physical and emotional impacts that many individuals with LD experience throughout their journey.",
-      "authors": [
-        "Gould LH",
-        "Mercadante AR",
-        "Marshall C"
-      ],
-      "journal": "Advances in therapy",
-      "publicationDate": "May 11, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42113092/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-17T08:05:27.093Z"
+      "fetchedAt": "2026-05-18T09:34:07.955Z"
     },
     {
       "pmid": "42113286",
@@ -388,7 +411,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:39.087Z"
+      "fetchedAt": "2026-05-18T09:34:19.389Z"
     },
     {
       "pmid": "42107047",
@@ -410,7 +433,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:32.924Z"
+      "fetchedAt": "2026-05-18T09:34:13.107Z"
     },
     {
       "pmid": "42114648",
@@ -433,7 +456,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:24.707Z"
+      "fetchedAt": "2026-05-18T09:34:06.273Z"
     },
     {
       "pmid": "42106483",
@@ -456,7 +479,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:33.548Z"
+      "fetchedAt": "2026-05-18T09:34:13.706Z"
     },
     {
       "pmid": "42101751",
@@ -479,7 +502,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:41.129Z"
+      "fetchedAt": "2026-05-18T09:34:21.142Z"
     },
     {
       "pmid": "42103323",
@@ -502,7 +525,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:39.725Z"
+      "fetchedAt": "2026-05-18T09:34:19.975Z"
     },
     {
       "pmid": "42102585",
@@ -525,7 +548,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:40.505Z"
+      "fetchedAt": "2026-05-18T09:34:20.556Z"
     },
     {
       "pmid": "42095911",
@@ -548,7 +571,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:41.757Z"
+      "fetchedAt": "2026-05-18T09:34:21.736Z"
     },
     {
       "pmid": "42127721",
@@ -571,7 +594,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:30.124Z"
+      "fetchedAt": "2026-05-18T09:34:10.517Z"
     },
     {
       "pmid": "42139320",
@@ -594,7 +617,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:28.870Z"
+      "fetchedAt": "2026-05-18T09:34:09.338Z"
     },
     {
       "pmid": "42088292",
@@ -617,30 +640,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:34.172Z"
-    },
-    {
-      "pmid": "42085797",
-      "title": "Environmental differentiation between the invasive cattle fever&#xa0;ticks Rhipicephalus (Boophilus) microplus and Rhipicephalus (Boophilus) annulatus revealed by comparative geographical ecology.",
-      "abstract": "Cattle fever ticks, Rhipicephalus (Boophilus) microplus and R. (B.) annulatus, are major constraints on cattle production worldwide because they directly reduce productivity and transmit the agents of bovine babesiosis and anaplasmosis. Despite their shared hosts and similar vector capacity, their environmental preferences and the extent to which they occupy comparable climatic space remain unclear. We compiled historical occurrence records from global sources and, after quality control and spatial thinning, retained 2338 records for R. (B.) microplus and 527 for R. (B.) annulatus. Using climate, vegetation and soil variables, we characterized occupied environments, reconstructed geographically accessible areas with dispersal simulations, and compared climatic niches using methods that approximate fundamental and realized components. Both species were recorded across all major terrestrial biomes except tundra and in all livestock production systems. Environmental profiles nevertheless differed significantly: R. (B.) microplus occurred more often in warmer, wetter and more vegetated settings with moister soils and more stable surface temperatures, whereas R. (B.) annulatus was more frequently associated with drier environments and a broader range of thermal extremes. Climatic niche similarity was low to moderate and was statistically supported mainly for temperature-based niches. These results indicate that cattle fever ticks are not as environmentally distinct as often assumed, but they differ in how they partition environmental space. This information complements existing knowledge about the ecology and distribution of cattle fever ticks and motivate testable hypotheses about species interactions.",
-      "authors": [
-        "Mauricio VU",
-        "Diego SA",
-        "Rodolfo LQ"
-      ],
-      "journal": "Veterinary parasitology",
-      "publicationDate": "Apr 15, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42085797/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-17T08:05:42.382Z"
+      "fetchedAt": "2026-05-18T09:34:14.293Z"
     },
     {
       "pmid": "42075744",
@@ -663,7 +663,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:34.799Z"
+      "fetchedAt": "2026-05-18T09:34:14.882Z"
     },
     {
       "pmid": "42130937",
@@ -686,7 +686,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-17T08:05:22.150Z"
+      "fetchedAt": "2026-05-18T09:34:03.919Z"
     }
   ]
 }
