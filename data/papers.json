@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T08:45:11.499Z",
+  "generatedAt": "2026-05-23T08:01:44.570Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,51 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:45:07.966Z"
+      "fetchedAt": "2026-05-23T08:01:41.812Z"
+    },
+    {
+      "pmid": "42172191",
+      "title": "Editorial Note: Detection of relapsing fever Borrelia spp., Bartonella spp. and Anaplasmataceae bacteria in argasid ticks in Algeria.",
+      "abstract": "",
+      "authors": [
+        "Unknown Author"
+      ],
+      "journal": "PLoS neglected tropical diseases",
+      "publicationDate": "May 22, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42172191/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-23T08:01:31.494Z"
+    },
+    {
+      "pmid": "42168870",
+      "title": "Computational immunoinformatics and molecular modeling approaches for designing a multi-epitope vaccine against Babesia microti.",
+      "abstract": "Babesia microti is an emerging tick-transmitted agent causing babesiosis in humans, becoming a major concern to public health due to the lack of a vaccine. In silico methods such as reverse vaccinology and immunoinformatics offer a convenient tool for identifying promising vaccine targets. Using computational immunoinformatics and molecular modelling tools, the current study aims to develop a multi-epitope vaccination against B. microti. For identifying the antigenic proteins, subtractive proteomics, NCBI, and PPGA were used, whereas for their screening, ProtParam (ExPASy), VaxiJen 2.0, AllerTOP v2.0, and BLASTp were utilized. For B-cell epitope prediction, IEDB (BepiPred 2.0) was used, and for T-cell epitope prediction, NetMHCpan 4.1 was used, along with other characteristics such as antigenicity, allergenicity, toxicity, and solubility, which were predicted later. A multi-epitope vaccine construct was designed using the selected epitopes linked together with the help of EAAAK and GPGPG linkers, with &#x3b2;-defensin as an adjuvant. For structural modeling and refinement, Scratch Protein Predictor and GalaxyRefine were used, followed by validation using PROCHECK. Further, molecular docking was done using ClusPro, while molecular dynamics simulations were done using AMBER 22. In addition, immune simulation and cloning were conducted. From a total of 3601 proteins, four non-homologous and non-allergenic proteins were selected for use in the design process, from which a total of seven epitopes were selected (MHC class I&#x2009;-&#x2009;4; MHC class II&#x2009;-&#x2009;3). Structural analysis of the designed vaccine revealed good stability, which further increased when the vaccine was modified using disulfide bonds. Population coverage revealed that the vaccine had good global coverage (99.74%). Docking revealed good binding of the designed vaccine with the toll-like receptors TLR-2 and TLR-4. Analysis of molecular dynamics and binding energies of TLR-2 (-135.11&#xa0;kcal/mol), and TLR-4 (-157.27&#xa0;kcal/mol) receptors further supported the stability of complexes. In summary, the in silico and biophysical studies show that the designed multi-epitope vaccine for B. microti may have desirable stability, immunogenicity, and positive interaction with TLR-2 and TLR-4 receptors. Nevertheless, experimental validation is needed to establish its safety and effectiveness.",
+      "authors": [
+        "Alruwaili M",
+        "Alruwaili I",
+        "Alruwaili Y"
+      ],
+      "journal": "BMC microbiology",
+      "publicationDate": "May 21, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42168870/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-23T08:01:38.316Z"
     },
     {
       "pmid": "42167054",
@@ -46,7 +90,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:45:04.945Z"
+      "fetchedAt": "2026-05-23T08:01:38.885Z"
     },
     {
       "pmid": "42167569",
@@ -69,7 +113,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:44:51.006Z"
+      "fetchedAt": "2026-05-23T08:01:21.571Z"
     },
     {
       "pmid": "42159387",
@@ -90,7 +134,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:44:51.714Z"
+      "fetchedAt": "2026-05-23T08:01:22.293Z"
     },
     {
       "pmid": "42156055",
@@ -112,7 +156,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:44:52.943Z"
+      "fetchedAt": "2026-05-23T08:01:26.247Z"
     },
     {
       "pmid": "42156748",
@@ -135,7 +179,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:44:52.371Z"
+      "fetchedAt": "2026-05-23T08:01:25.169Z"
     },
     {
       "pmid": "42157595",
@@ -158,7 +202,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:45:06.818Z"
+      "fetchedAt": "2026-05-23T08:01:40.652Z"
     },
     {
       "pmid": "42155156",
@@ -181,7 +225,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:44:53.515Z"
+      "fetchedAt": "2026-05-23T08:01:26.836Z"
     },
     {
       "pmid": "42148664",
@@ -204,7 +248,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:44:54.094Z"
+      "fetchedAt": "2026-05-23T08:01:27.454Z"
     },
     {
       "pmid": "42155156",
@@ -227,7 +271,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:45:07.395Z"
+      "fetchedAt": "2026-05-23T08:01:41.233Z"
     },
     {
       "pmid": "42148766",
@@ -250,7 +294,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:45:08.663Z"
+      "fetchedAt": "2026-05-23T08:01:42.387Z"
     },
     {
       "pmid": "42160804",
@@ -273,7 +317,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:45:06.100Z"
+      "fetchedAt": "2026-05-23T08:01:40.073Z"
     },
     {
       "pmid": "42130363",
@@ -296,30 +340,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:44:58.628Z"
-    },
-    {
-      "pmid": "42142691",
-      "title": "Molecular Epidemiology of Tick-Borne (Anaplasma, Babesia, Theileria) and Non-Tick-Borne (Toxoplasma gondii) Pathogens in Goats from Southern Punjab, Pakistan.",
-      "abstract": "Pakistan ranks third globally in goat population, with approximately 89 million goats in 2025; however, despite this large population base, the apparent prevalence of hemoparasitic and bacterial pathogens in goats based on PCR remains largely underexplored. This study aimed to report the molecular prevalence and phylogenetic characteristics of Anaplasma ovis, Anaplasma marginale, Babesia ovis, Theileria ovis and Toxoplasma gondii in goat blood samples (n&#x202f;=&#x202f;247) collected from two districts (Muzaffargarh and Multan) in Punjab between August till November 2025. Results indicated a significant variation in the infection rates of the five screened pathogens among the enrolled goats (P < 0.001). Anaplasma ovis exhibited the highest apparent prevalence based on PCR (20.6%), followed by B. ovis (8.5%), T. gondii (8.1%), A. marginale (6.9%) and T. ovis (5.7%) respectively. Instances of co-infection with two and three pathogens were also recorded. DNA sequencing and BLAST analysis confirmed the presence of all screened pathogens. Phylogenetic analysis showed that these isolates are genetically closely related to strains reported from various countries worldwide. We observed higher PCR detected T. gondii infection in smaller herds (P&#x202f;=&#x202f;0.02) and in herds with dogs (P&#x202f;=&#x202f;0.03), among Rajanpuri breed (P&#x202f;=&#x202f;0.005) and goats from Muzaffargarh district (P&#x202f;=&#x202f;0.04). In contrast, T. ovis infection was more common among small goat herds (P&#x202f;=&#x202f;0.04). In conclusion, this study reports a high apparent prevalence of A. ovis while moderate to low PCR based prevalence of A. marginale, B. ovis, T. ovis and T. gondii infections in goats from Punjab, Pakistan. Comprehensive multi-regional studies are warranted to clarify the epidemiology, genetic diversity, and host-parasite dynamics of these pathogens to support effective control strategies in goats.",
-      "authors": [
-        "Iqbal A",
-        "Tariq M",
-        "Zubair A"
-      ],
-      "journal": "Acta tropica",
-      "publicationDate": "May 15, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42142691/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-22T08:45:10.497Z"
+      "fetchedAt": "2026-05-23T08:01:33.214Z"
     },
     {
       "pmid": "42148179",
@@ -342,7 +363,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:45:09.287Z"
+      "fetchedAt": "2026-05-23T08:01:42.977Z"
     },
     {
       "pmid": "42127128",
@@ -365,7 +386,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:44:59.778Z"
+      "fetchedAt": "2026-05-23T08:01:34.356Z"
+    },
+    {
+      "pmid": "42168832",
+      "title": "Discordant ANCA Positivity in Immune Complex Glomerulonephritis Secondary to Bartonella henselae Prosthetic Valve Endocarditis.",
+      "abstract": "Bartonella henselae is an intracellular bacterium which classically causes cat scratch disease as well as culture-negative endocarditis. We report a man in his 60s, with a mechanical aortic valve replacement who presented with a 6-month fever of unknown origin (FUO), splenomegaly and acute kidney injury. Investigations showed discordant ANCA serologies, screening anti-MPO positivity followed by confirmatory anti-PR3 positivity, raising concern for ANCA-associated vasculitis (AAV). However, renal biopsy demonstrated immune complex deposition, inconsistent with the pauci-immune glomerulonephritis typical of AAV. Subsequent investigations revealed positive Bartonella serology and PCR. Transoesophageal echocardiography confirmed the diagnosis of B. henselae prosthetic valve endocarditis. He was treated with a prolonged course of rifampicin and doxycycline which led to clinical improvement. This case illustrates how B. henselae can mimic AAV, with discordant ANCA results contributing to diagnostic uncertainty, and reinforces the need to consider alternative causes of ANCA positivity.",
+      "authors": [
+        "Yow BLH",
+        "Kittaka RC",
+        "Yeung CSJ"
+      ],
+      "journal": "Nephrology (Carlton, Vic.)",
+      "publicationDate": "May 12, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42168832/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-23T08:01:32.069Z"
     },
     {
       "pmid": "42117477",
@@ -388,7 +432,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:45:00.405Z"
+      "fetchedAt": "2026-05-23T08:01:34.934Z"
     },
     {
       "pmid": "42116639",
@@ -410,7 +454,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:45:01.002Z"
+      "fetchedAt": "2026-05-23T08:01:35.507Z"
     },
     {
       "pmid": "42107047",
@@ -432,7 +476,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:45:01.580Z"
+      "fetchedAt": "2026-05-23T08:01:36.081Z"
     },
     {
       "pmid": "42106483",
@@ -455,7 +499,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:45:02.259Z"
+      "fetchedAt": "2026-05-23T08:01:36.759Z"
     },
     {
       "pmid": "42147198",
@@ -478,7 +522,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:44:54.672Z"
+      "fetchedAt": "2026-05-23T08:01:28.064Z"
     },
     {
       "pmid": "42145620",
@@ -501,7 +545,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:44:55.901Z"
+      "fetchedAt": "2026-05-23T08:01:29.380Z"
     },
     {
       "pmid": "42146559",
@@ -524,7 +568,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:44:55.263Z"
+      "fetchedAt": "2026-05-23T08:01:28.634Z"
     },
     {
       "pmid": "42146559",
@@ -547,7 +591,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:45:09.924Z"
+      "fetchedAt": "2026-05-23T08:01:43.570Z"
     },
     {
       "pmid": "42145611",
@@ -570,7 +614,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:44:56.519Z"
+      "fetchedAt": "2026-05-23T08:01:29.950Z"
     },
     {
       "pmid": "42127721",
@@ -593,7 +637,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:44:59.204Z"
+      "fetchedAt": "2026-05-23T08:01:33.787Z"
     },
     {
       "pmid": "42164492",
@@ -616,7 +660,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:45:05.516Z"
+      "fetchedAt": "2026-05-23T08:01:39.471Z"
     },
     {
       "pmid": "42139320",
@@ -639,53 +683,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-22T08:44:58.045Z"
-    },
-    {
-      "pmid": "42088292",
-      "title": "Surveillance of Zoonotic Pathogens in Small Mammals Across Forests With Different Levels of Anthropization in Eastern France.",
-      "abstract": "The emergence of infectious diseases associated with land-use changes is well-documented. However, the presence and dynamics of zoonotic pathogens in small mammals within European forests, whether from rural development or urban greening, remain underexplored. To describe zoonotic hazards in these ecosystems, and to assess the influence of biotic and abiotic factors on their distribution, we analyzed 1549 individuals from 18 small mammal species sampled across forest types representing different levels of anthropization using both targeted and broad-spectrum serological and molecular methods. We detected nine bacteria and five Apicomplexa that are potentially pathogenic to humans. Zoonotic pathogen richness and community composition varied significantly across host species, sites, and sampling periods. Richness was lower in forested urban parks, possibly due to the absence of vectors or intermediate hosts within cities. It was higher in urban adapter species, even within a given forested habitat, emphasizing the important role of specific life-history traits. Pathogen community structure was shaped by forest anthropization and host ecology, with marked differences between urban and rural forested environments and between urban adapter and dweller species within forested urban parks. The seroprevalence of key pathogens (e.g., Bartonella, Orthopoxvirus, Neoehrlichia mikurensis, and Sarcocystidae) showed spatial, temporal, and host-specific variation. Epidemiological differences between sites often exceeded those between habitat types, in particular when comparing protected and managed forests, highlighting the importance of local ecological context. Nevertheless, some patterns reflected the influence of forest anthropization and species urban adaptation strategies for certain zoonotic agents. High anthropization in forests was associated with elevated Bartonella prevalence, driven by urban-adapter species rather than forest dwellers, emphasizing local ecological interactions between hosts and pathogens. Besides, higher levels of Orthopoxvirus seroprevalence were associated with adapter species in protected forests where they might be more abundant. Altogether, these findings underscore the need for integrated and multipathogen wildlife surveillance to anticipate and mitigate disease risks at the human-environment-animal interface.",
-      "authors": [
-        "Bouilloud M",
-        "Galan M",
-        "Bordes A"
-      ],
-      "journal": "Transboundary and emerging diseases",
-      "publicationDate": "05 03, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42088292/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-22T08:45:02.831Z"
-    },
-    {
-      "pmid": "42075744",
-      "title": "Untitled",
-      "abstract": "Haematopota pluvialis is a widely distributed hematophagic insect occurring across Eurasia. This horse fly may be a highly efficient mechanical vector of pathogens, including viruses, bacteria, and protozoa. Furthermore, its painful bites can cause local skin lesions and systemic symptoms. The aim of this study was to determine human exposure to H. pluvialis attacks in various types of open space habitats in Eastern Poland and to perform molecular screening of these tabanids for the presence of hematopathogens: Bartonella spp. and Anaplasma phagocytophilum. Specimens of H. pluvialis were collected at three distinct sites in Eastern Poland. The presence of Bartonella spp. and A. phagocytophilum was investigated using PCR-based methods. In total, 141 H. pluvialis females were analyzed. The molecular analysis of the rpoB gene fragment yielded one new haplotype of Bartonella sp. in 0.7% (1) of all studied samples, which may hypothetically exhibit zoonotic potential. Anaplasma phagocytophilum was not detected in the studied material. Moreover, a high level of human and animals exposure to horse fly bites was noted in the studied areas of Eastern Poland. The present results highlight the need for further targeted research on H. pluvialis to quantify pathogen prevalence, transmission efficiencies, and conditions facilitating pathogen transmission in natural settings.",
-      "authors": [
-        "Bartosik K",
-        "&#x15a;wis&#x142;ocka-Cutter M",
-        "Werszko J"
-      ],
-      "journal": "Pathogens (Basel, Switzerland)",
-      "publicationDate": "Apr 13, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42075744/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-22T08:45:03.405Z"
+      "fetchedAt": "2026-05-23T08:01:32.641Z"
     }
   ]
 }
