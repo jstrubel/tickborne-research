@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T08:13:06.232Z",
+  "generatedAt": "2026-05-25T09:43:03.485Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:54.788Z"
+      "fetchedAt": "2026-05-25T09:42:51.443Z"
     },
     {
       "pmid": "42150808",
@@ -46,7 +46,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:13:03.399Z"
+      "fetchedAt": "2026-05-25T09:43:00.705Z"
+    },
+    {
+      "pmid": "42176436",
+      "title": "Evaluation of EcoCRM, virus-like particles, and mRNA as vaccine platforms against Borrelia burgdorferi.",
+      "abstract": "Lyme disease (LD) is the most prevalent vector-borne disease in the United States, impacting &#x223c;476,000 individuals annually with increasing incidence. Prevention relies on personal protective measures such as insecticides and tick checks, underscoring the need for new preventatives such as vaccines. In this work, the importance of vaccine platform in LD vaccine development efforts was evaluated using non-lipidated OspA as model antigen. Recombinant OspA conjugated to CRM197 (EcoCRM OspA), a virus-like particle vaccine utilizing SpyTag and SpyCatcher (OspA-SpyVLP), and an mRNA-based vaccine construct (OspA mRNA) were evaluated and compared in C3H mice using the needle injection challenge model. To determine immunogenicity, anti-OspA and anti-B. burgdorferi antibodies were quantified via ELISA and further assessed by measuring IgG subclass, antibody avidity, and presence of antibody secreting cells. All vaccine formulations were immunogenic and led to the release of similar levels of antigen-specific IgG in serum during the duration of the experiment. However, there were significant differences around two week post-boost in the presence of antibody secreting cells, ratio of IgG1/IgG2 subclasses, and antibody avidity between platforms. Protection was measured using PCR and darkfield microscopy to determine organ positivity post-challenge. Vaccination with recombinant non-lipidated OspA and OspA-SpyVLP significantly reduced the number of positive organs compared to the PBS challenged control group. Lastly, in vitro borreliacidal activity was quantified via darkfield microscopy and the highest borreliacidal activity was observed using OspA-SpyVLP sera, with titers 16-fold higher than recombinant OspA. Altogether, these data indicated that selection of vaccine platform/formulation influenced the immunogenicity and efficacy of OspA-based LD vaccines and should be considered during development.",
+      "authors": [
+        "Rocuskie-Marker CM",
+        "Huckaby AB",
+        "Conaway OM"
+      ],
+      "journal": "Vaccine",
+      "publicationDate": "May 23, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42176436/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-25T09:42:41.634Z"
+    },
+    {
+      "pmid": "42176260",
+      "title": "Lyme Disease Knowledge, Attitudes, and Practices Among Surveyed Clinicians in Western North Carolina, 2022-2023.",
+      "abstract": "Lyme disease has expanded into western North Carolina. We sought to document knowledge, attitudes, and practices among clinicians in this region. A survey was administered to clinicians in western North Carolina. Frequencies summarized Lyme-related care. Fisher's exact test compared low-knowledge items (<75% correct) by provider type, clinical experience, and regional tenure. Likert-type items measured attitudes; open-ended responses identified education barriers. Among 28 participants, 59% (16/27) saw a suspected Lyme case in the past year. The median knowledge score was 59% (interquartile range: 47-73%), with low confidence interpreting test results (median Likert score = 2, interquartile range: 1-3). Correct identification of erythema migrans timing differed by regional tenure (&#x2264;5 years: 16/18 [89%]; >5 years: 3/8 [38%]; p = 0.014). Recognition of when testing is not recommended differed by provider type (physician: 11/20 [55%], nurse practitioner: 0/6 [0%]; p = 0.024). Perceived education barriers included cost, time, and small patient population. Overall, knowledge was limited, particularly for diagnostic testing. Clinicians in emerging communities should be prioritized for educational interventions.",
+      "authors": [
+        "Pretsch PK",
+        "Rudrappa P",
+        "Tyrlik-Olk K"
+      ],
+      "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+      "publicationDate": "May 23, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42176260/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-25T09:42:42.209Z"
     },
     {
       "pmid": "42172191",
@@ -67,7 +113,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:52.331Z"
+      "fetchedAt": "2026-05-25T09:42:48.111Z"
     },
     {
       "pmid": "42168870",
@@ -90,7 +136,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:59.610Z"
+      "fetchedAt": "2026-05-25T09:42:57.179Z"
     },
     {
       "pmid": "42167054",
@@ -113,7 +159,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:13:00.275Z"
+      "fetchedAt": "2026-05-25T09:42:57.752Z"
     },
     {
       "pmid": "42167569",
@@ -136,7 +182,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:45.208Z"
+      "fetchedAt": "2026-05-25T09:42:42.709Z"
     },
     {
       "pmid": "42159387",
@@ -157,7 +203,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:45.917Z"
+      "fetchedAt": "2026-05-25T09:42:43.285Z"
     },
     {
       "pmid": "42156055",
@@ -179,7 +225,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:47.172Z"
+      "fetchedAt": "2026-05-25T09:42:44.459Z"
     },
     {
       "pmid": "42156748",
@@ -202,7 +248,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:46.542Z"
+      "fetchedAt": "2026-05-25T09:42:43.862Z"
     },
     {
       "pmid": "42157595",
@@ -225,7 +271,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:13:02.160Z"
+      "fetchedAt": "2026-05-25T09:42:59.516Z"
     },
     {
       "pmid": "42155156",
@@ -248,7 +294,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:47.779Z"
+      "fetchedAt": "2026-05-25T09:42:45.034Z"
     },
     {
       "pmid": "42148664",
@@ -271,7 +317,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:48.388Z"
+      "fetchedAt": "2026-05-25T09:42:45.608Z"
     },
     {
       "pmid": "42155156",
@@ -294,7 +340,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:13:02.780Z"
+      "fetchedAt": "2026-05-25T09:43:00.104Z"
     },
     {
       "pmid": "42148766",
@@ -317,7 +363,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:13:04.000Z"
+      "fetchedAt": "2026-05-25T09:43:01.300Z"
     },
     {
       "pmid": "42160804",
@@ -340,7 +386,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:13:01.547Z"
+      "fetchedAt": "2026-05-25T09:42:58.902Z"
     },
     {
       "pmid": "42130363",
@@ -363,7 +409,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:54.178Z"
+      "fetchedAt": "2026-05-25T09:42:49.937Z"
     },
     {
       "pmid": "42148179",
@@ -386,7 +432,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:13:04.623Z"
+      "fetchedAt": "2026-05-25T09:43:01.910Z"
     },
     {
       "pmid": "42127128",
@@ -409,7 +455,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:55.483Z"
+      "fetchedAt": "2026-05-25T09:42:52.197Z"
     },
     {
       "pmid": "42168832",
@@ -432,7 +478,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:52.956Z"
+      "fetchedAt": "2026-05-25T09:42:48.788Z"
     },
     {
       "pmid": "42117477",
@@ -455,7 +501,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:56.135Z"
+      "fetchedAt": "2026-05-25T09:42:52.770Z"
     },
     {
       "pmid": "42116639",
@@ -477,7 +523,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:56.742Z"
+      "fetchedAt": "2026-05-25T09:42:53.362Z"
     },
     {
       "pmid": "42107047",
@@ -499,7 +545,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:57.361Z"
+      "fetchedAt": "2026-05-25T09:42:55.169Z"
     },
     {
       "pmid": "42106483",
@@ -522,7 +568,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:57.998Z"
+      "fetchedAt": "2026-05-25T09:42:55.741Z"
     },
     {
       "pmid": "42147198",
@@ -545,30 +591,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:48.994Z"
-    },
-    {
-      "pmid": "42145620",
-      "title": "Clinician Suspicion for Lyme Disease and Clinical Decision-Making in Children with Monoarthritis.",
-      "abstract": "In this large multi-center cohort of children evaluated for Lyme disease in a Lyme-endemic emergency department, we assessed the diagnostic accuracy of clinician suspicion and subsequent clinical decision-making for children presenting with monoarthritis. Among 1,582 children with monoarthritis evaluated for Lyme disease, 623 (39%) had Lyme arthritis and 32 (2%) had septic arthritis. Overall, 313 (20%) had an invasive joint procedure (arthrocentesis or arthroscopy), 194 (12%) received parenteral antibiotics, and 376 (24%) were hospitalized. Clinician suspicion had moderate discriminative ability for Lyme disease (area under the receiver operating characteristics curve: 0.75, 95% confidence interval: 0.72-0.77). Children with higher clinician suspicion were less likely to receive parenteral antibiotics or to be hospitalized, although invasive procedure rates were similar. Our findings highlight the challenge of clinically distinguishing Lyme from septic arthritis. Better diagnostic tools are needed to improve timely diagnosis and minimize invasive testing among children with monoarthritis in Lyme-endemic regions.",
-      "authors": [
-        "Geanacopoulos AT",
-        "Green RS",
-        "Chapman LL"
-      ],
-      "journal": "medRxiv : the preprint server for health sciences",
-      "publicationDate": "May 08, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42145620/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-24T08:12:50.235Z"
+      "fetchedAt": "2026-05-25T09:42:46.181Z"
     },
     {
       "pmid": "42146559",
@@ -591,7 +614,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:49.608Z"
+      "fetchedAt": "2026-05-25T09:42:46.761Z"
     },
     {
       "pmid": "42146559",
@@ -614,30 +637,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:13:05.231Z"
-    },
-    {
-      "pmid": "42145611",
-      "title": "A direct, urine-based test to diagnose acute Lyme disease using actively secreted peptidoglycan as a biomarker.",
-      "abstract": "Lyme disease is a growing and prominent human health problem caused by a group of spirochaetal bacteria that belong to the Borrelia genus. Persistent Lyme disease infection produces a multi-system disorder that may result in severe arthritis, carditis, neurological problems, and even death. Preventing severe disease requires immediate treatment, but current approaches to diagnose Lyme disease are indirect, serology-based assays that may fail early in infection. All Lyme disease-causing Borrelia species shed distinct and unique fragments of their peptidoglycan cell wall during growth. We exploited this fundamental biological process to develop an acute, urine-based diagnostic test. Using a cocktail of unique and highly specific monoclonal antibodies, our ELISA-mediated approach accurately reports on the status of an active, acute infection, in a laboratory animal model of Lyme disease, as well as humans. This rapid, simple, and innovative approach detects an active infection in as few as 3 days of transmission and in 88% of human patients yet to seroconvert-more than &#x223c;2 weeks before serology would be positive.",
-      "authors": [
-        "Ebohon O",
-        "Ahmad SS",
-        "Dressler J"
-      ],
-      "journal": "medRxiv : the preprint server for health sciences",
-      "publicationDate": "May 06, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42145611/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-24T08:12:50.844Z"
+      "fetchedAt": "2026-05-25T09:43:02.484Z"
     },
     {
       "pmid": "42164492",
@@ -660,7 +660,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:13:00.892Z"
+      "fetchedAt": "2026-05-25T09:42:58.328Z"
     },
     {
       "pmid": "42139320",
@@ -683,7 +683,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-24T08:12:53.568Z"
+      "fetchedAt": "2026-05-25T09:42:49.364Z"
     }
   ]
 }
