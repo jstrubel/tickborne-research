@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-05-26T09:29:56.573Z",
+  "generatedAt": "2026-05-27T08:56:06.260Z",
   "totalPapers": 30,
   "papers": [
+    {
+      "pmid": "42189606",
+      "title": "The behavioural spillover effect: modelling behavioural interdependencies in multi-pathogen dynamics.",
+      "abstract": "During the recent pandemic, a rise in COVID-19 cases was followed by a decline in influenza. In the absence of cross-immunity, a potential explanation for the observed pattern is behavioural: non-pharmaceutical interventions (NPIs) designed and promoted for one disease also reduce the spread of others. We study short-term and long-term dynamics of two pathogens where NPIs targeting one pathogen indirectly influence the spread of another - a phenomenon we term behavioural spillover. We examine how perceived risk of and response to one disease substantially alter the spread of other pathogens, revealing how waves of different pathogens emerge over time as a result of behavioural interdependencies and human response. Our analysis identifies the parameter space where two diseases simultaneously co-exist, and where shifts in prevalence occur. Our findings are consistent with observations from the COVID-19 pandemic, where NPIs contributed to significant declines in infections such as influenza, pneumonia, and Lyme disease.",
+      "authors": [
+        "LeJeune L",
+        "Saucedo O",
+        "Childs LM"
+      ],
+      "journal": "Journal of biological dynamics",
+      "publicationDate": "Dec 31, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42189606/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-27T08:55:45.705Z"
+    },
     {
       "pmid": "42127721",
       "title": "Peripheral neurological involvement due to Bartonella henselae in an immunocompetent adolescent: a case report and literature review.",
@@ -23,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:45.713Z"
+      "fetchedAt": "2026-05-27T08:55:54.236Z"
     },
     {
       "pmid": "42150808",
@@ -46,7 +69,51 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:53.848Z"
+      "fetchedAt": "2026-05-27T08:56:04.678Z"
+    },
+    {
+      "pmid": "42191169",
+      "title": "Lyme disease cases in England rise 20% in a year.",
+      "abstract": "",
+      "authors": [
+        "Rimmer A"
+      ],
+      "journal": "BMJ (Clinical research ed.)",
+      "publicationDate": "May 26, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42191169/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-27T08:55:44.924Z"
+    },
+    {
+      "pmid": "42186064",
+      "title": "Mapping tick-borne hazard across gradients of urban intensity in metropolitan regions.",
+      "abstract": "Urban greenspaces are ecologically novel habitats where wildlife movement can shape vector-borne disease risk. Understanding how landscape structure influences tick presence and infection risk is essential for improving hazard assessment in metropolitan regions. We assessed Lyme disease hazard, defined as the density of Borrelia-infected Ixodes scapularis nymphs, across 141 greenspaces in New York City-Long Island (NYC-LI) and Greater Boston during 2023-2024. Sites were selected using a stratified design along gradients of housing density and wildlife functional connectivity. Active tick surveillance data were analyzed using spatial generalized linear mixed models that accounted for landscape composition, landscape configuration, and weather-related variables, as well as spatial autocorrelation. Continuous hazard maps were generated for each region. Tick hazard declined with increasing housing density across both metropolitan regions. Percent tree canopy cover at the 100-m scale was positively associated with tick presence and nymph density, whereas percent impervious surface cover at the 1000-m scale showed a consistent negative association with hazard. Functional connectivity modified these relationships, with greenspaces embedded in more connected landscapes maintaining elevated hazard under higher levels of urbanization. Despite overall tick densities being lower in 2024, the spatial pattern of hazard in NYC-LI were similar between years, with higher hazard concentrated in eastern Long Island and central Staten Island. External validation in Greater Boston demonstrated comparable spatial patterns and good model performance, supporting cross-region transferability. Landscape composition and configuration jointly shape the distribution of tick vectors in urban environments. This standardized, reproducible, spatially explicit workflow advances tick hazard assessment in urban setting and, when integrated with human behavioral data, can improve exposure estimation and inform more targeted Lyme disease prevention.",
+      "authors": [
+        "Fu W",
+        "Lilly MV",
+        "Lee SJ"
+      ],
+      "journal": "Parasites & vectors",
+      "publicationDate": "May 25, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42186064/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-27T08:55:46.280Z"
     },
     {
       "pmid": "42176436",
@@ -69,7 +136,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:36.914Z"
+      "fetchedAt": "2026-05-27T08:55:47.526Z"
     },
     {
       "pmid": "42176260",
@@ -92,7 +159,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:37.555Z"
+      "fetchedAt": "2026-05-27T08:55:48.097Z"
     },
     {
       "pmid": "42172191",
@@ -113,7 +180,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:43.264Z"
+      "fetchedAt": "2026-05-27T08:55:51.806Z"
     },
     {
       "pmid": "42168870",
@@ -136,7 +203,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:50.280Z"
+      "fetchedAt": "2026-05-27T08:56:00.947Z"
     },
     {
       "pmid": "42167054",
@@ -159,7 +226,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:50.855Z"
+      "fetchedAt": "2026-05-27T08:56:01.519Z"
     },
     {
       "pmid": "42167569",
@@ -182,7 +249,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:38.054Z"
+      "fetchedAt": "2026-05-27T08:55:48.597Z"
     },
     {
       "pmid": "42159387",
@@ -203,7 +270,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:38.636Z"
+      "fetchedAt": "2026-05-27T08:55:49.174Z"
     },
     {
       "pmid": "42156055",
@@ -225,7 +292,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:39.904Z"
+      "fetchedAt": "2026-05-27T08:55:50.329Z"
     },
     {
       "pmid": "42156748",
@@ -248,7 +315,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:39.326Z"
+      "fetchedAt": "2026-05-27T08:55:49.755Z"
+    },
+    {
+      "pmid": "42188870",
+      "title": "Tafenoquine: A Breakthrough Option for Babesiosis Treatment.",
+      "abstract": "Babesiosis is a zoonosis caused by protozoan parasites of the genus Babesia. It has a worldwide distribution and affects many kinds of mammals, principally domestic animals and humans. Because there are no safe and effective vaccines available, the treatment and control for babesiosis continues to involve the use of chemotherapeutics. For years, only a few drugs have been used for clinical treatment, namely atovaquone plus azithromycin or clindamycin plus quinine for human, and imidocarb dipropionate and diminazene aceturate for domestic animals. Although screening and developing alternative drugs are continuously pursued, only a few drugs have been prospected to have clinical applications. Of these, tafenoquine has shown wide and potent antibabesial activity, offering a new option to control babesiosis. This article aims to present the current clinical therapeutic strategies for babesiosis and their limitations, as well as the prospect of tafenoquine as a promising drug to treat babesiosis.",
+      "authors": [
+        "Ma D",
+        "Zhou M",
+        "Cao S"
+      ],
+      "journal": "Tropical medicine and infectious disease",
+      "publicationDate": "May 19, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42188870/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-27T08:56:00.367Z"
     },
     {
       "pmid": "42157595",
@@ -271,53 +361,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:52.583Z"
-    },
-    {
-      "pmid": "42155156",
-      "title": "Survey of tick species and tick-borne pathogens in pet dogs and cats in mainland China.",
-      "abstract": "Ticks are major vectors of zoonotic diseases, harboring and transmitting various bacteria, viruses and parasites. In mainland China, the rapidly growing population of companion animals has rendered pets important tick hosts and a critical bridge for tick-borne pathogens to infiltrate domestic environments, yet no systematic investigations have been conducted on tick species parasitizing pets and the pathogens they carry.This study was conducted from May 2024 to August 2025. We collected ticks from the body surfaces of outpatient dogs and cats at 231 pet hospitals across 27 Chinese provinces and municipalities. Tick species were identified, and four key tick-borne pathogens (Babesia spp., Anaplasma phagocytophilum, Ehrlichia spp., and Lyme disease spirochetes) were detected via polymerase chain reaction (PCR); positive samples were further sequenced and subjected to phylogenetic analysis.A total of 2158 ticks were collected, 1942 (90.0%) from dogs and 216 (10.0%) from cats, belonging to 16 species of four genera. Haemaphysalis longicornis (40.6%) and Rhipicephalus sanguineus sensu lato (35.5%) were the dominant species. A. phagocytophilum was not detected in any samples. Babesia spp. had the highest infection rate (1.44%), including B. vogeli and B. gibsoni; Ehrlichia spp. and Lyme disease spirochetes were detected at 0.37% and 0.28%, respectively, with multiple species/genotypes identified for both. Pathogen distribution exhibited distinct tick-species specificity and spatial clustering.This is the first systematic survey of the diversity of pet-parasitizing ticks and the prevalence of four key tick-borne pathogens in mainland China, confirming that pets face persistent and diverse threats from tick-borne diseases. Our findings highlight the need for regionally differentiated surveillance, year-round tick control measures, and enhanced prevention and control awareness among veterinarians and pet owners, providing a scientific basis for clinical diagnosis, treatment and public health prevention and control.",
-      "authors": [
-        "Ye Q",
-        "Zhang G",
-        "Wang R"
-      ],
-      "journal": "Veterinary parasitology",
-      "publicationDate": "May 18, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42155156/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-26T09:29:40.639Z"
-    },
-    {
-      "pmid": "42148664",
-      "title": "Designing studies for post-treatment Lyme disease and other infection-associated chronic illnesses.",
-      "abstract": "Infection-associated chronic illnesses (IACIs) encompass a spectrum of poorly understood syndromes often marked by significant neurologic and multisystem symptoms following an infectious event. This review focuses on several diseases representative of the IACI spectrum. These are post-treatment Lyme disease syndrome (PTLDS), long COVID, myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) and multiple sclerosis (MS). Their clinical and biological complexity, combined with a lack of clear diagnostic criteria and objective available laboratory biomarkers, makes them difficult to distinguish from conditions with overlapping features. This presents challenges for research studies, as well as diagnosis and clinical management. This diagnostic ambiguity, coupled with heterogeneous patient presentations, has led to challenges in research, including misclassification of study participants and inconsistent or irreproducible findings. Some PTLDS research exemplifies these issues, which also extend to other IACIs. To advance the field, we highlight key methodological refinements and approaches for studying IACIs, including rigorous participant selection, standardized sample collection protocols, and the use of appropriate control groups, including those with microbiologic proof of the initial infection when known and technologically feasible. We also address broader influences on research quality, such as stigma, historical neglect, and the urgency to find treatments, which have contributed to the proliferation of poorly controlled studies and questionable practices. Drawing lessons from past challenges, we propose a path forward grounded in fit-for-purpose methodological rigour to improve scientific understanding and support evidence-based therapeutic development for IACIs.",
-      "authors": [
-        "Arnaboldi PM",
-        "Becker J",
-        "Nath A"
-      ],
-      "journal": "Brain : a journal of neurology",
-      "publicationDate": "May 18, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42148664/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-26T09:29:41.213Z"
+      "fetchedAt": "2026-05-27T08:56:03.260Z"
     },
     {
       "pmid": "42155156",
@@ -340,7 +384,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:53.158Z"
+      "fetchedAt": "2026-05-27T08:56:04.107Z"
     },
     {
       "pmid": "42148766",
@@ -363,7 +407,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:54.418Z"
+      "fetchedAt": "2026-05-27T08:56:05.260Z"
     },
     {
       "pmid": "42160804",
@@ -386,7 +430,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:52.006Z"
+      "fetchedAt": "2026-05-27T08:56:02.689Z"
     },
     {
       "pmid": "42130363",
@@ -409,30 +453,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:45.141Z"
-    },
-    {
-      "pmid": "42148179",
-      "title": "Serum Sialic Acid as a Biomarker of Inflammation and Infection: Insights From Veterinary Medicine.",
-      "abstract": "Serum sialic acid (SSA) levels, including total sialic acid (TSA), lipid-bound sialic acid (LBSA), and protein-bound sialic acid (PBSA), have been extensively studied as biomarkers of inflammation and infection across various species and diseases. In parasitemic sheep, elevated SSA levels likely reflect host-pathogen interactions and immune activation. Contrasting findings in bovine theileriosis demonstrated increased sialic acid (SA) levels during acute infections but decreased levels in severe parasitemia, suggesting variable responses based on parasitemia rates. SSA and LBSA levels in dogs significantly increase in babesiosis and dirofilariasis, indicating tissue damage and oxidative stress. Babesiosis, a tick-borne infection, shows SA elevations associated with inflammation and red blood cell destruction. Dirofilariasis, a heartworm disease, shows elevated SSA and LBSA levels, highlighting the importance of acute-phase proteins in disease severity. In avian species, diseases like Newcastle disease virus (NDV) infection, infectious bronchitis virus (IBV) infection, and bacterial challenges caused significant increases in SSA, LBSA, and PBSA levels, with LBSA showing the most pronounced changes, indicating its high sensitivity to inflammatory processes. Japanese quail with omphalitis also demonstrated elevated LBSA, highlighting its diagnostic potential in avian inflammation. Cattle with conditions such as traumatic reticuloperitonitis, acute metritis, pneumonia, and babesiosis exhibited markedly elevated SA and APP levels, consistent with findings in mastitis, colisepticemia, and leptospirosis, where APP levels correlated with disease severity. Tissue damage associated with increased SA is closely linked to inflammation and infection. These changes may also influence receptor-ligand interactions during infection, supporting SA as a useful biomarker for disease monitoring.",
-      "authors": [
-        "Yaghoobpour T",
-        "Faraji M",
-        "Nazifi S"
-      ],
-      "journal": "Veterinary medicine international",
-      "publicationDate": "05 14, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42148179/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-26T09:29:55.000Z"
+      "fetchedAt": "2026-05-27T08:55:53.664Z"
     },
     {
       "pmid": "42182422",
@@ -455,7 +476,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:36.323Z"
+      "fetchedAt": "2026-05-27T08:55:46.904Z"
     },
     {
       "pmid": "42127128",
@@ -478,7 +499,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:46.288Z"
+      "fetchedAt": "2026-05-27T08:55:54.807Z"
     },
     {
       "pmid": "42168832",
@@ -501,7 +522,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:43.845Z"
+      "fetchedAt": "2026-05-27T08:55:52.519Z"
     },
     {
       "pmid": "42117477",
@@ -524,7 +545,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:46.867Z"
+      "fetchedAt": "2026-05-27T08:55:55.385Z"
     },
     {
       "pmid": "42116639",
@@ -546,7 +567,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:47.534Z"
+      "fetchedAt": "2026-05-27T08:55:55.974Z"
     },
     {
       "pmid": "42107047",
@@ -568,7 +589,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:48.109Z"
+      "fetchedAt": "2026-05-27T08:55:56.551Z"
     },
     {
       "pmid": "42106483",
@@ -591,53 +612,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:48.720Z"
-    },
-    {
-      "pmid": "42147198",
-      "title": "A deformylase inhibitor expands therapeutic options for Lyme disease.",
-      "abstract": "Lyme disease incidence continues to rise globally. This vector-borne infection remains a major public health burden. Broad-spectrum doxycycline and ceftriaxone disrupt the gut microbiome, drive resistance in commensals, and offer suboptimal efficacy against neuroborreliosis. Here we show that forazemin, previously known as BB-83698, is an orally bioavailable peptide deformylase inhibitor with potent and selective bactericidal activity against spirochaetes, including diverse Borrelia species. Targeting the deformylation of nascent peptides, forazemin halted protein synthesis, thereby killing the spirochaetes. In murine models of Lyme borreliosis and neuroborreliosis, short oral dosing regimens cleared infection, and forazemin was more effective than doxycycline in tick-bite prophylaxis. Forazemin preserved microbiome diversity and spared beneficial gut symbionts. These findings support forazemin as a candidate for the treatment and prevention of Lyme disease.",
-      "authors": [
-        "Lewis K",
-        "Patil P",
-        "Liang HW"
-      ],
-      "journal": "Research square",
-      "publicationDate": "May 08, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42147198/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-26T09:29:41.787Z"
-    },
-    {
-      "pmid": "42146559",
-      "title": "Untitled",
-      "abstract": "The black legged tick, Ixodes scapularis , is a vector of the bacterium that causes Lyme disease and several other illnesses, including anaplasmosis, babesiosis, and tick-borne encephalitis. Although high-quality genome annotations are available for I. scapularis , functional understanding of I. scapularis genes is limited. To address this, we developed a platform for genome-wide CRISPR-Cas9 knockout screening in I. scapularis cells. To evaluate the platform, we performed a screen to identify genes associated with cellular fitness, and screens for resistance to treatment with copper chloride, Antimycin A, or Destruxin A (DA), a cyclic hexadepsipeptide produced by the pathogenic fungus Metarhizium anisopliae . In each case, the screens implicate specific sets of conserved and non-conserved I. scapularis genes in relevant cellular functions, providing the first experimental evidence of function for a large set of I. scapularis genes. Altogether, in this first-of-its-kind effort for the arthropod subclass Acari, we present an unbiased genome-wide CRISPR-Cas9 knockout cell screening platform, related resources, and datasets that will be broadly useful to efficiently uncover cellular functions of I. scapularis genes.",
-      "authors": [
-        "Butnaru M",
-        "McKenna W",
-        "Goswami S"
-      ],
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationDate": "May 07, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42146559/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-26T09:29:55.573Z"
+      "fetchedAt": "2026-05-27T08:55:57.220Z"
     },
     {
       "pmid": "42164492",
@@ -660,7 +635,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:51.425Z"
+      "fetchedAt": "2026-05-27T08:56:02.117Z"
     },
     {
       "pmid": "42139320",
@@ -683,7 +658,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-26T09:29:44.564Z"
+      "fetchedAt": "2026-05-27T08:55:53.091Z"
+    },
+    {
+      "pmid": "42188913",
+      "title": "Untitled",
+      "abstract": "Ticks of the genus Hyalomma are major ectoparasites of dromedary camels and serve as important vectors for diverse tick-borne pathogens (TBPs) affecting both animals and humans. In this study, we determined the tick species diversity and distribution and estimated the prevalence of TBPs in those ticks. A total of 780 ticks collected from camels in Bol, Chad, were identified into four species: Hyalomma dromedarii (49.0%), H. rufipes (22.6%), H. impeltatum (19.1%), and H. truncatum (9.4%). Sixty ticks were selected proportionally across the four Hyalomma species and screened for TBPs using PCR. Coxiella burnetii was detected in 11.7% of the ticks, and Rickettsia aeschlimannii in 1.7%. Anaplasmataceae-specific 16S rRNA primers detected Candidatus Midichloria mitochondrii, a tick endosymbiont, in 10% of the ticks. No protozoan pathogens (Theileria or Babesia) were detected. This study highlights the need for integrated surveillance of ticks and their associated microorganisms in Chadian camels to mitigate zoonotic and veterinary risks. Strengthening such efforts will support camel health and pastoral livelihoods in the region.",
+      "authors": [
+        "Aziz MU",
+        "Cassens J",
+        "Allawa&#xef;-Sanigue J"
+      ],
+      "journal": "Veterinary sciences",
+      "publicationDate": "Apr 30, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42188913/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-27T08:55:59.799Z"
     }
   ]
 }
