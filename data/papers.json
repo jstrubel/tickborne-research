@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T08:56:06.260Z",
+  "generatedAt": "2026-05-28T09:39:34.836Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:45.705Z"
+      "fetchedAt": "2026-05-28T09:39:15.468Z"
     },
     {
       "pmid": "42127721",
@@ -46,30 +46,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:54.236Z"
+      "fetchedAt": "2026-05-28T09:39:23.917Z"
     },
     {
-      "pmid": "42150808",
-      "title": "Circulation of Anaplasma platys, Babesia vogeli and Ehrlichia canis in dogs from eastern Salta Province, Argentina.",
-      "abstract": "The objective of this study was to investigated the presence of Rickettsiales bacteria and Piroplasmida protozoa in canine blood samples from different peri-urban/rural localities in eastern Salta Province, Argentina. Complete DNA was extracted from 77 blood samples and analysed by conventional PCR assays targeting fragments of the genes for 16S rRNA (Anaplasmataceae), 18S rRNA (Piroplasmida) and gltA (Rickettsia). Also, a real-time PCR assay for direct detection of Ehrlichia canis and phylogenetic analyses of obtained gene sequences were applied. The analyses resulted in the detection of Anaplasma platys (10.91%), Babesia vogeli (2.6%) and E. canis (14.29%). A co-infection with different microorganism and rickettsial infection was not observed. The detection of B. vogeli represents the northernmost finding of this protozoa in Argentina. These results demonstrate the circulation canine vector-borne diseases agents in eastern Salta Province and expand the knowledge of the geographical distribution of these pathogens.",
+      "pmid": "42199349",
+      "title": "Untitled",
+      "abstract": "Lyme disease (LD), a multifaceted condition caused by Borrelia burgdorferi (Bb), remains poorly understood, particularly regarding metabolic pathways. This study aimed to evaluate the role of glycolysis-related genes (GRGs) in LD pathogenesis and identify key genes and mechanisms relevant to diagnosis and therapy. Differentially expressed GRGs were identified and further analyzed by correlation analysis and Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment analyses. Key genes were screened using least absolute shrinkage and selection operator (LASSO) and support vector machine-recursive feature elimination, followed by gene set enrichment analysis, gene set variation analysis and immune infiltration analysis using CIBERSORT. Diagnostic value was assessed by receiver operating characteristic and nomogram analyses, and a competing endogenous RNA network and protein-drug interaction predictions were constructed. The expression of key genes was further validated by reverse transcription-quantitative PCR (RT-qPCR) in Bb-infected THP-1 cells, and glucose and lactate concentrations in the culture supernatants were measured using commercial colorimetric assay kits. A total of 63 differentially expressed GRGs were identified. Of note, two key genes [lactate dehydrogenase A (LDHA) and thioredoxin (TXN)] exhibited a strong diagnostic performance. Immune infiltration analysis revealed that these genes were associated with regulatory T cells (r=0.33, P=0.05), gamma delta T cells (r=-0.34, P=0.042), CD4 memory resting T cells (r=-0.4, P=0.016) and monocytes (r=-0.36, P=0.03). The potential glycolysis-targeting drugs were predicted. RT-qPCR analysis revealed increased LDHA and TXN expression in Bb-infected THP-1 cells. In addition, Bb stimulation reduced extracellular glucose levels and increased lactate accumulation in culture supernatants. Overall, this integrative analysis revealed notable alterations in glycolytic genes during Bb infection, suggesting that dysregulation of glycolysis contributes to LD immunopathology. The identified key genes (LDHA and TXN) may serve as infection-related transcriptional response markers, offering insights into LD mechanisms and potential precision-based strategies.",
       "authors": [
-        "Garc&#xed;a R&#xed;os IJM",
-        "Sebastian PS",
-        "Vaschalde PJ"
+        "Dong Y",
+        "Chen Y",
+        "Luo Y"
       ],
-      "journal": "Veterinary parasitology, regional studies and reports",
-      "publicationDate": "Jun 23, 2026",
+      "journal": "Experimental and therapeutic medicine",
+      "publicationDate": "Jul 12, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42150808/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42199349/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:56:04.678Z"
+      "fetchedAt": "2026-05-28T09:39:14.335Z"
     },
     {
       "pmid": "42191169",
@@ -90,7 +90,30 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:44.924Z"
+      "fetchedAt": "2026-05-28T09:39:14.834Z"
+    },
+    {
+      "pmid": "42198879",
+      "title": "Transgenic selection and underlying mechanisms in apicomplexan parasites.",
+      "abstract": "The field of apicomplexan transgenics has been transformed by selectable markers that couple metabolism, drug action, and genetic engineering. This review consolidates three decades of progress across model parasites, Toxoplasma, Plasmodium, Cryptosporidium, Neospora, Eimeria, Babesia, and Theileria, illustrating how selection markers have enabled genome engineering. We dissect the rationale and mechanisms underlying positive and negative drug selections and emphasize marker recycling. Practical guidance is paired with failure diagnostics that determine whether transgenic selections succeed in vitro or in vivo. Looking forward, we outline new directions for expanding the toolkit: exploiting auxotrophy, importing orthogonal resistance genes, and leveraging CRISPR-based marker-free editing. We discuss translational constraints, especially the need for self-excising or transient markers in vaccine research, adapting selection in nonmodel species and the value of selection marker cocktails for pathway-scale engineering. By integrating models, mechanisms, methods, and modalities, this article provides a rigorous framework for parasite engineering and a clear path to novel orthogonal, host-sparing selection strategies.",
+      "authors": [
+        "Peddiraju S",
+        "Lohia R",
+        "Gupta N"
+      ],
+      "journal": "The FEBS journal",
+      "publicationDate": "May 26, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42198879/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-28T09:39:28.313Z"
     },
     {
       "pmid": "42186064",
@@ -113,7 +136,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:46.280Z"
+      "fetchedAt": "2026-05-28T09:39:16.077Z"
     },
     {
       "pmid": "42176436",
@@ -136,7 +159,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:47.526Z"
+      "fetchedAt": "2026-05-28T09:39:17.613Z"
     },
     {
       "pmid": "42176260",
@@ -159,7 +182,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:48.097Z"
+      "fetchedAt": "2026-05-28T09:39:18.221Z"
     },
     {
       "pmid": "42172191",
@@ -180,7 +203,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:51.806Z"
+      "fetchedAt": "2026-05-28T09:39:21.469Z"
     },
     {
       "pmid": "42168870",
@@ -203,7 +226,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:56:00.947Z"
+      "fetchedAt": "2026-05-28T09:39:32.000Z"
     },
     {
       "pmid": "42167054",
@@ -226,7 +249,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:56:01.519Z"
+      "fetchedAt": "2026-05-28T09:39:32.616Z"
     },
     {
       "pmid": "42167569",
@@ -249,7 +272,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:48.597Z"
+      "fetchedAt": "2026-05-28T09:39:18.721Z"
     },
     {
       "pmid": "42159387",
@@ -270,52 +293,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:49.174Z"
-    },
-    {
-      "pmid": "42156055",
-      "title": "[Lyme Disease: Spirochaetota].",
-      "abstract": "Lyme disease is a multisystemic zoonotic infection transmitted by the bite of infected Ixodes ticks. It displays highly diverse clinical manifestations, potentially affecting a wide array of organ systems. An infection that involves the nervous system is specifically categorized as Lyme neuroborreliosis, which can compromise both the peripheral and central nervous systems. Clinical diagnosis is often challenging and time-consuming because some patients do not present with the easily identifiable pathognomonic skin lesion, erythema migrans, during physical examination. Therefore, when clinical suspicion arises, patients should be carefully evaluated for other systemic findings that support the diagnosis. Given the risk for long-term sequelae, clinicians should maintain a high index of suspicion and initiate appropriate antimicrobial therapy without delay when clinical presentation supports this diagnosis.",
-      "authors": [
-        "Inamori Y",
-        "Watanabe M"
-      ],
-      "journal": "Brain and nerve = Shinkei kenkyu no shinpo",
-      "publicationDate": "May 20, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42156055/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-27T08:55:50.329Z"
-    },
-    {
-      "pmid": "42156748",
-      "title": "Dual site targeting of the bacterial 70S ribosome by tetracyclines.",
-      "abstract": "The tetracycline class of antibiotics is widely used for treating bacterial diseases including Lyme disease, anthrax, acne vulgaris, and pneumonia. Using a series of high-resolution cryo-electron microscopy (cryo-EM) structures, we show that tetracyclines can simultaneously target the mRNA decoding center in the 30S subunit and the nascent peptide exit tunnel (NPET) in the 50S subunit of the bacterial ribosome. Among the tested tetracyclines, Doxycycline was distinct in its ability to dimerize and bind the NPET at multiple locations. Structural comparison of Doxycycline, Minocycline, and Sarecycline bound to the Escherichia coli and Cutibacterium acnes 70S ribosome revealed species-specific differences affecting drug interaction and occupancy. Our results reveal a dual site mechanism of action for tetracyclines and provide a structural basis for rational design of narrow spectrum tetracyclines to overcome the rising threat of antibiotic resistance.",
-      "authors": [
-        "Devarkar SC",
-        "Lomakin IB",
-        "Wang J"
-      ],
-      "journal": "Nature communications",
-      "publicationDate": "May 19, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42156748/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-27T08:55:49.755Z"
+      "fetchedAt": "2026-05-28T09:39:19.331Z"
     },
     {
       "pmid": "42188870",
@@ -338,76 +316,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:56:00.367Z"
-    },
-    {
-      "pmid": "42157595",
-      "title": "A case-control study of blood group antigen expression in Babesia microti infected patients in the United States.",
-      "abstract": "Babesia and Plasmodium are intraerythrocytic parasites that cause babesiosis and malaria, respectively. Significant associations between human blood group antigens and malaria are known; however, few studies have examined the relationship between blood group antigens and babesiosis. From June to August 2025, 100 Babesia polymerase chain reaction (PCR)- and 100 B. microti PCR+ human patient samples tested at a national reference laboratory underwent ABO and D phenotyping and red blood cell (RBC) genotyping of 37 antigens. The predicted phenotype of S-s+ was found in 32% and 50% of Babesia- and B. microti+ patients, respectively (&#x3c7;2&#x2009;=&#x2009;5.97, p&#x2009;=&#x2009;.015, odds ratio&#x2009;=&#x2009;2.125, 95% confidence interval 1.18-3.78). Two B. microti+ patients had the predicted phenotype of Fy(a-b-), meaning that Duffy is unlikely to be an essential invasion receptor. There were no statistically significant differences in ABO or D expression between the groups. Because multiple testing corrections were not applied to the statistical analyses, the S/s predicted phenotype results must be viewed as hypothesis-generating. This may be the first study to link B. microti infection to human RBC S/s antigens, which are known to impact B. divergens and P. falciparum. Additional studies are needed to understand the impact of the babesiosis patient's blood type on B. microti infection and whether the transfusion of RBCs expressing specific antigens can impact the disease.",
-      "authors": [
-        "Jajosky RP",
-        "Adjodha M",
-        "Berdan EL"
-      ],
-      "journal": "Transfusion",
-      "publicationDate": "May 19, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42157595/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-27T08:56:03.260Z"
-    },
-    {
-      "pmid": "42155156",
-      "title": "Survey of tick species and tick-borne pathogens in pet dogs and cats in mainland China.",
-      "abstract": "Ticks are major vectors of zoonotic diseases, harboring and transmitting various bacteria, viruses and parasites. In mainland China, the rapidly growing population of companion animals has rendered pets important tick hosts and a critical bridge for tick-borne pathogens to infiltrate domestic environments, yet no systematic investigations have been conducted on tick species parasitizing pets and the pathogens they carry.This study was conducted from May 2024 to August 2025. We collected ticks from the body surfaces of outpatient dogs and cats at 231 pet hospitals across 27 Chinese provinces and municipalities. Tick species were identified, and four key tick-borne pathogens (Babesia spp., Anaplasma phagocytophilum, Ehrlichia spp., and Lyme disease spirochetes) were detected via polymerase chain reaction (PCR); positive samples were further sequenced and subjected to phylogenetic analysis.A total of 2158 ticks were collected, 1942 (90.0%) from dogs and 216 (10.0%) from cats, belonging to 16 species of four genera. Haemaphysalis longicornis (40.6%) and Rhipicephalus sanguineus sensu lato (35.5%) were the dominant species. A. phagocytophilum was not detected in any samples. Babesia spp. had the highest infection rate (1.44%), including B. vogeli and B. gibsoni; Ehrlichia spp. and Lyme disease spirochetes were detected at 0.37% and 0.28%, respectively, with multiple species/genotypes identified for both. Pathogen distribution exhibited distinct tick-species specificity and spatial clustering.This is the first systematic survey of the diversity of pet-parasitizing ticks and the prevalence of four key tick-borne pathogens in mainland China, confirming that pets face persistent and diverse threats from tick-borne diseases. Our findings highlight the need for regionally differentiated surveillance, year-round tick control measures, and enhanced prevention and control awareness among veterinarians and pet owners, providing a scientific basis for clinical diagnosis, treatment and public health prevention and control.",
-      "authors": [
-        "Ye Q",
-        "Zhang G",
-        "Wang R"
-      ],
-      "journal": "Veterinary parasitology",
-      "publicationDate": "May 18, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42155156/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-27T08:56:04.107Z"
-    },
-    {
-      "pmid": "42148766",
-      "title": "Untitled",
-      "abstract": "We are reporting a nearly complete Piroplasmida, Babesia caballi, genome containing five nuclear chromosomes, a mitochondrial genome, and an apicoplast genome from the NVSL reference isolate. This report includes a gapless assembly consisting of seven genetic molecules.",
-      "authors": [
-        "Grimsley M",
-        "Hicks J",
-        "Camp P"
-      ],
-      "journal": "Microbiology resource announcements",
-      "publicationDate": "May 18, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42148766/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-27T08:56:05.260Z"
+      "fetchedAt": "2026-05-28T09:39:31.393Z"
     },
     {
       "pmid": "42160804",
@@ -430,7 +339,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:56:02.689Z"
+      "fetchedAt": "2026-05-28T09:39:33.836Z"
     },
     {
       "pmid": "42130363",
@@ -453,7 +362,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:53.664Z"
+      "fetchedAt": "2026-05-28T09:39:23.305Z"
+    },
+    {
+      "pmid": "42198653",
+      "title": "The Comparative Study for Detection of Canine Vector-Borne Pathogens Between Companion and Stray Dogs in Bangkok and Vicinities, Thailand.",
+      "abstract": "This study investigated the prevalence and molecular characteristics of canine vector-borne pathogens (CVBPs) circulating in diverse dog populations in Thailand by using molecular diagnostic methods. A total of 400 blood samples were collected from four groups (n = 100 each): stray dogs (Group A), vector-borne disease-suspected companion dogs (Group B), healthy companion dogs presenting for routine examination (Group C), and companion dogs presenting with non-vector-borne illnesses (Group D). The overall infection rate was 46.25%. Ehrlichia spp. were the most frequently detected pathogens (23.5%), followed by Babesia spp. (16.5%), Rickettsia spp. (15.0%), and Anaplasma spp. (11.5%). The prevalence differed markedly among groups, including group A (88.0%), group B (54.0%), group C (27.0%) and group D (16.0%) (p < 0.05). DNA sequence analysis showed 100% identity with GenBank&#x2122; reference sequences, confirming the presence of Ehrlichia canis, Rickettsia asembonensis, Babesia vogeli, and Anaplasma platys. The detection of CVBPs across all groups demonstrates free-roaming and owned dogs serve as reservoirs for substantial ongoing infections and pose potential zoonotic implications to humans. Overall, these findings emphasize the importance of sustained molecular surveillance, improved vector control strategies, and proactive monitoring of high-risk dog populations to reduce the burden of CVBPs in Thailand.",
+      "authors": [
+        "Pham BX",
+        "Phoosangwalthong P",
+        "Inkaew T"
+      ],
+      "journal": "Pathogens (Basel, Switzerland)",
+      "publicationDate": "May 14, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42198653/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-28T09:39:28.925Z"
     },
     {
       "pmid": "42182422",
@@ -476,7 +408,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:46.904Z"
+      "fetchedAt": "2026-05-28T09:39:16.969Z"
     },
     {
       "pmid": "42127128",
@@ -499,7 +431,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:54.807Z"
+      "fetchedAt": "2026-05-28T09:39:24.529Z"
     },
     {
       "pmid": "42168832",
@@ -522,7 +454,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:52.519Z"
+      "fetchedAt": "2026-05-28T09:39:22.082Z"
     },
     {
       "pmid": "42117477",
@@ -545,7 +477,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:55.385Z"
+      "fetchedAt": "2026-05-28T09:39:25.399Z"
     },
     {
       "pmid": "42116639",
@@ -567,7 +499,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:55.974Z"
+      "fetchedAt": "2026-05-28T09:39:26.005Z"
+    },
+    {
+      "pmid": "42198637",
+      "title": "Accelerating Progress on Ticks and Tick-Borne Diseases in Southeast Asia: Regional Challenges, Evidence Gaps, and Priorities (2023-2025).",
+      "abstract": "Southeast Asia (SEA) faces persistent gaps in regional understanding and control of ticks and tick-borne diseases (TBDs) despite recent advances (2023-2025). The second international symposium on ticks and TBDs in SEA (Singapore, August 2025), following the inaugural 2023 meeting in Cambodia, served as a catalyst for regional exchange that informed this perspective. SEA's ecological and host diversity supports complex tick-host-pathogen networks, yet evidence remains fragmented due to uneven sampling that has largely focused on livestock and peri-urban environments. Key constraints include limited taxonomic resolution driven by outdated or incomplete identification keys, under-sampling of soft ticks (Argasidae), and the absence of harmonized, open-access regional reference resources (including DNA barcodes and MALDI-TOF MS spectral databases). While MALDI-TOF MS, proteomics, AI-assisted identification, and next-generation sequencing/metagenomics are increasingly applied, their broader regional uptake is limited by the absence of harmonized, open-access reference resources (including DNA barcodes and MALDI-TOF MS spectral databases). Broad ecological surveys and integrated animal and human surveillance remain limited, and vector competence studies are constrained by the scarcity of SEA-derived tick colonies and cell lines. Regional data and recent findings (2024-2026) confirm circulation of multiple TBPs (including Anaplasma, Babesia, Borrelia, Coxiella, Ehrlichia, Rickettsia, and Theileria) and highlight emerging viral findings, including southward reports of Bandavirus dabieense. Human infestations and non-communicable tick bite outcomes (e.g., tick paralysis and alpha-gal syndrome) are recognized but remain under-reported due to low clinical awareness and limited diagnostics. Importantly, the diagnostic chain is further disrupted by missed/insufficient specimen collection at the point of care, and by constrained capacity to identify (especially immature) ticks to species level-limitations compounded by the absence of harmonized, open-access regional reference resources. The symposium identified six priorities: (1) full completion and regional validation of tick identification keys for adults (in progress) and immatures (to be initiated), plus an open-access DNA barcode library anchored by curated, voucher-based collections from all SEA countries; (2) harmonization of molecular and proteomic diagnostic platforms, including expansion of regional MALDI-TOF MS and NGS protocols and reference databases; (3) development of tick colonies and cell lines from locally prevalent species to support vector competence, vaccine, and acaricide testing; (4) expansion of One Health surveillance with enhanced ecological sampling at wildlife-livestock-human interfaces; (5) establishment of open-access, region-wide data platforms for integrated tick, TBP, and ecological metadata sharing; and (6) sustained investment in human resources, training, and policy advocacy to raise research and public health visibility of ticks and TBDs.",
+      "authors": [
+        "Malleret B",
+        "Kwak ML",
+        "Chavatte JM"
+      ],
+      "journal": "Pathogens (Basel, Switzerland)",
+      "publicationDate": "May 11, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42198637/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-28T09:39:29.559Z"
     },
     {
       "pmid": "42107047",
@@ -589,30 +544,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:56.551Z"
+      "fetchedAt": "2026-05-28T09:39:26.617Z"
     },
     {
-      "pmid": "42106483",
-      "title": "Individual activity of forest rodents correlates to pathogen communities.",
-      "abstract": "Animal personality influences organismal interactions and individual habitat use. Rodents are zoonoses reservoirs and often exposed to several pathogens simultaneously, potentially resulting in interdependence of infections and susceptibility to infection. Still, entire pathogen communities are rarely investigated, even though, given rodents ubiquity in human settlements, understanding the link between animal personality and pathogenesis is an important public health issue. We investigated the association of animal personality with pathogen communities in wild rodents, analysing ectoparasite occurrence and pathogenic bacteria of 93 individuals belonging to 3 species from urban and forest areas around Potsdam, Germany. Individual personality was quantified using a combination of open-field and dark-light test. Rodents were then euthanised and screened for pathogens in the spleen through 16&#xa0;S rRNA amplicon sequencing, and ectoparasites were collected. We detected 6 pathogenic bacteria and 3 ectoparasite taxa. Host species and sampling time explained most of the variation in pathogen associations, but within each genus, 7-9% of the variation was explained by animal personality. Active rodents were more likely infected by Bartonella than less active ones. Bold animals had lower tick infestation probabilities. Thus, animal personality contributes to the distribution and prevalence of pathogens in wild rodents, and should be considered in epidemiology and disease management.",
+      "pmid": "42198626",
+      "title": "Six Decades of Global Research on Bovine Babesiosis Vaccines: A Comprehensive Systematic Review and Meta-Analysis.",
+      "abstract": "Bovine babesiosis is a tick-borne disease that poses significant economic losses to global cattle production, and diverse vaccine platforms have been developed to combat it. This work critically evaluates global research on bovine babesiosis vaccines, integrating historical milestones with recent advances in antigen discovery and immunization approaches and assessing their protective efficacy through meta-analysis. Using comprehensive database searches, we identified 413 publications on bovine babesiosis vaccines, of which 168 met the inclusion criteria, spanning from 1960 to August 2025. Analysis revealed that B. bovis dominated the research output, followed by B. bigemina and B. divergens. Five key methodological approaches emerged: field trials, controlled experiments, immunogenicity assessments, in vitro assays, and in silico antigen analyses, with a notable shift toward immunogenicity and computational studies post-2000. Frequently studied antigens included RAP-1, MSA-2c, AMA-1, 11C5, and 12D3 (B. bovis); RAP-1 and GP45 (B. bigemina); and Bd37 (B. divergens). Geographically, research was concentrated in the United States, Australia, Argentina, Mexico, and France, which were identified as the top contributors in that order, primarily focusing on live and recombinant vaccines, with minimal African participation despite high cattle populations. Bibliometric analysis showed increasing publication output, with leading journals such as Veterinary Parasitology, Infection and Immunity, and Parasites & Vectors as the top three. Thematic evolution highlighted a transition from live vaccines to recombinant and multi-epitope strategies, with increasing emphasis on conserved antigens and novel platforms. However, more field evaluations are required to determine whether these new technologies can achieve protective efficacy comparable to that of live vaccines. This work underscores the need for sustained investment, intersectoral collaboration, and validation using standardized and comparable metrics in field trials to translate laboratory innovations into effective, safe, and globally accessible vaccines against bovine babesiosis.",
       "authors": [
-        "A Eccard J",
-        "Firozpoor J",
-        "Escobar M"
+        "Valdez-Espinoza UM",
+        "P&#xe9;rez-Almeida C",
+        "C&#xe1;rdenas-Flores A"
       ],
-      "journal": "Scientific reports",
-      "publicationDate": "May 09, 2026",
+      "journal": "Pathogens (Basel, Switzerland)",
+      "publicationDate": "May 06, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42106483/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42198626/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:57.220Z"
+      "fetchedAt": "2026-05-28T09:39:30.167Z"
     },
     {
       "pmid": "42164492",
@@ -635,7 +590,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:56:02.117Z"
+      "fetchedAt": "2026-05-28T09:39:33.226Z"
     },
     {
       "pmid": "42139320",
@@ -658,7 +613,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:53.091Z"
+      "fetchedAt": "2026-05-28T09:39:22.690Z"
     },
     {
       "pmid": "42188913",
@@ -681,7 +636,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-27T08:55:59.799Z"
+      "fetchedAt": "2026-05-28T09:39:30.781Z"
+    },
+    {
+      "pmid": "42201089",
+      "title": "Cardiovascular Manifestations Documented in Patients with Lyme Disease: Clinical Presentation, Management Strategies, and Outcomes.",
+      "abstract": "Lyme disease is a tick-borne zoonosis caused by Borrelia burgdorferi that can affect multiple organ systems. Although cardiovascular involvement is considered uncommon, it may lead to severe and potentially life-threatening complications, particularly conduction disturbances and inflammatory cardiac conditions. This review aims to describe the spectrum of cardiovascular manifestations documented in patients with Lyme disease, focusing on clinical presentation, diagnostic approaches, management strategies, and reported outcomes. A narrative literature review was performed using PubMed, MEDLINE, and Google Scholar. Articles published between January 2000 and July 2025 in English or Spanish were screened. Eligible studies included original research articles, systematic and narrative reviews, case series, and case reports describing confirmed Lyme disease with cardiovascular involvement. A total of 30 studies were included. The available evidence was predominantly based on case reports and small case series, with considerable heterogeneity in study design, patient populations, and reported outcomes. Data on clinical manifestations, diagnostic methods, treatment strategies, and outcomes were extracted and synthesized. Atrioventricular conduction disturbances were the most frequently reported cardiovascular manifestation, ranging from first-degree block to complete heart block, often presenting abruptly with syncope or bradycardia. Other reported manifestations included atrial and ventricular arrhythmias, myocarditis, pericarditis, myopericarditis, valvular endocarditis, aortitis, and vasculitis. Diagnosis relied on a combination of clinical suspicion, epidemiologic exposure, serologic testing, electrocardiographic monitoring, and cardiac imaging. Most patients were treated with antimicrobial therapy, commonly intravenous ceftriaxone followed by oral doxycycline, with temporary pacemaker support required in selected cases. Overall, clinical outcomes were favorable when treatment was initiated promptly. Cardiovascular involvement in Lyme disease, although infrequent, encompasses a broad clinical spectrum with potentially serious consequences. Early recognition, appropriate diagnostic evaluation, and timely antimicrobial therapy are essential to ensure reversibility of cardiac manifestations and favorable outcomes. However, the available evidence is limited by heterogeneity and the predominance of low-level-evidence studies.",
+      "authors": [
+        "Cortes Islas LA",
+        "Bartolo Gomez PM",
+        "Cuevas Obispo ND"
+      ],
+      "journal": "Infectious disease reports",
+      "publicationDate": "Apr 27, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42201089/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-28T09:39:13.721Z"
+    },
+    {
+      "pmid": "42197353",
+      "title": "Antimicrobial Resistance Genes (ARGs) Monitoring and Gut Microbiota Profiling in Honey Bees from an Intensive Livestock Farming Area in Northwestern Italy.",
+      "abstract": "Antimicrobial resistance (AMR) is a growing global concern, exacerbated by the overuse of antibiotics in livestock farming. Honey bees (Apis mellifera), widely used as bioindicators of environmental contamination, may also serve as sentinels for monitoring the environmental spread of antibiotic resistance genes (ARGs). This study investigated the presence of ARGs and the gut microbiota composition of honey bees sampled from 11 apiaries located in a region of Northwestern Italy characterized by intensive livestock farming. PCR and Sanger sequencing analyses revealed a widespread presence of tetracycline resistance genes-particularly tetB and tetC-as well as occasional detection of blaTEM, qnrB, and int1 genes. tetB and tetC were also identified in three bacterial colonies isolated from bee guts, notably in Hafnia spp. 16S rRNA gene sequencing of the gut microbiota revealed dominance of genera such as Bartonella, Snodgrassella, Gilliamella, Bombilactobacillus, and Lactobacillus. Some samples showed shifts in the microbial diversity. The findings confirm the potential of honey bees as bioindicators for environmental AMR surveillance and underscore the need for further research to elucidate correlations between ARG presence and microbial community structure in honey bees from various ecological contexts.",
+      "authors": [
+        "Olivieri S",
+        "Zoccola R",
+        "Beltramo C"
+      ],
+      "journal": "Microorganisms",
+      "publicationDate": "Apr 25, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42197353/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-05-28T09:39:20.969Z"
     }
   ]
 }
