@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T08:31:21.403Z",
+  "generatedAt": "2026-06-01T11:02:56.888Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:02.896Z"
+      "fetchedAt": "2026-06-01T11:02:36.267Z"
     },
     {
       "pmid": "42127721",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:10.706Z"
+      "fetchedAt": "2026-06-01T11:02:45.017Z"
     },
     {
       "pmid": "42199349",
@@ -69,7 +69,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:01.807Z"
+      "fetchedAt": "2026-06-01T11:02:35.164Z"
+    },
+    {
+      "pmid": "42218469",
+      "title": "Molecular detection of zoonotic pathogens in fleas collected from dogs and cats in Portugal.",
+      "abstract": "Fleas are common ectoparasites of companion animals and key vectors of pathogens of veterinary and zoonotic relevance. Although flea infestations are highly prevalent in dogs and cats in Portugal, nationwide data on flea-borne pathogens are limited. This study aimed to estimate the prevalence and characterize the molecular diversity of Bartonella spp., Rickettsia spp., and Dipylidium caninum in fleas collected from dogs and cats in mainland Portugal, and to identify associated epidemiological factors. Fleas collected from dogs and cats across mainland Portugal were screened using conventional polymerase chain reaction (PCR) assays targeting the 16S-23S ribosomal RNA (rRNA) intergenic spacer region of Bartonella spp., the ompB gene of Rickettsia spp., and the 28S rRNA gene region of D. caninum. Positive amplicons were sequenced and analyzed phylogenetically. Associations between pathogen detection and epidemiological variables, including host species, host lifestyle, flea species, and geographic region, were evaluated using multivariable logistic regression models. A total of 1261 fleas were analyzed, with 24.7% positive for at least one pathogen. Bartonella spp. DNA was detected in 8.3% of fleas and was significantly more frequent in fleas from cats, particularly stray/sheltered animals, with regional differences also observed. Identified species included B. clarridgeiae, B. henselae, and B. rochalimae. Rickettsia spp. DNA was detected in 16.2% of fleas, predominantly in Ctenocephalides felis, with flea species, host species, and geographic region identified as independent predictors of positivity. Most sequences corresponded to R. felis, while R. asembonensis and Candidatus R. senegalensis, the latter reported for the first time in Europe, were also identified. Dipylidium caninum DNA was detected in 1.8% of fleas, all C. felis, with both canine- and feline-associated genotypes circulating in fleas from dogs and cats. Co-detection of pathogen DNA occurred in 2.1% of fleas, mostly Bartonella spp./Rickettsia spp. Fleas infesting companion animals in Portugal frequently harbor pathogens of veterinary and zoonotic relevance, with C. felis playing a central role in pathogen circulation at the human-animal interface. These findings reinforce the need for sustained surveillance and effective ectoparasite control within a One Health framework to reduce pathogen circulation and mitigate risks to both animal and public health.",
+      "authors": [
+        "Pereira A",
+        "Cruz A",
+        "Cruz J"
+      ],
+      "journal": "Parasites & vectors",
+      "publicationDate": "May 30, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42218469/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-01T11:02:40.900Z"
     },
     {
       "pmid": "42210239",
@@ -92,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:14.576Z"
+      "fetchedAt": "2026-06-01T11:02:48.100Z"
     },
     {
       "pmid": "42208901",
@@ -115,7 +138,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:00.658Z"
+      "fetchedAt": "2026-06-01T11:02:33.961Z"
+    },
+    {
+      "pmid": "42217308",
+      "title": "Molecular epidemiology and genetic profiling of Anaplasma ovis, Bartonella sp., and Toxoplasma gondii in domestic cats.",
+      "abstract": "Cats are among the most common and cherished domestic animals globally. Being our common companion, they are frequently exposed to the environment and encounter different vectors, that makes them carriers of numerous pathogens. Present study was aimed to determine the PCR based prevalence and phylogenetic analysis of Anaplasma ovis, Bartonella sp. and Toxoplasma gondii in pet cats from Pakistan. A total of 144 cat blood samples were collected from two districts in Khyber Pakhtunkhwa (KPK), namely Lower Dir (n&#x202f;=&#x202f;74) and Buner (n&#x202f;=&#x202f;70) during September 2024 till May 2025. Polymerase Chain Reaction (PCR) based analysis revealed that 15%, 7% and 4% cats were infected with A. ovis, T. gondii and Bartonella sp., respectively. Co-infections involving two pathogens were also detected. The presence of all three pathogens was confirmed through Sanger sequencing followed by BLAST analysis and they were similar to sequences deposited from countries worldwide. Prevalence of all three pathogens did not vary between the sampling sites or with the cat sex. Bartonella spp. infection was linked to reduced red cell distribution width-coefficient of variation and platelet counts, indicating possible hematological alterations Overall, our findings indicated moderate infection rates of A. ovis, Bartonella sp. and T. gondii in cats from Pakistan. These findings highlight the need to include local cat populations in future disease surveillance programs across Pakistan, following the One Health approach.",
+      "authors": [
+        "Rehman FT",
+        "Ahmad U",
+        "Sardar R"
+      ],
+      "journal": "Comparative immunology, microbiology and infectious diseases",
+      "publicationDate": "May 27, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42217308/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-01T11:02:41.498Z"
     },
     {
       "pmid": "42191169",
@@ -136,7 +182,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:02.307Z"
+      "fetchedAt": "2026-06-01T11:02:35.663Z"
     },
     {
       "pmid": "42198879",
@@ -159,7 +205,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:15.148Z"
+      "fetchedAt": "2026-06-01T11:02:48.762Z"
     },
     {
       "pmid": "42186064",
@@ -182,7 +228,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:03.469Z"
+      "fetchedAt": "2026-06-01T11:02:36.863Z"
     },
     {
       "pmid": "42176436",
@@ -205,7 +251,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:04.669Z"
+      "fetchedAt": "2026-06-01T11:02:38.093Z"
     },
     {
       "pmid": "42176260",
@@ -228,7 +274,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:05.245Z"
+      "fetchedAt": "2026-06-01T11:02:38.700Z"
     },
     {
       "pmid": "42172191",
@@ -249,7 +295,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:08.407Z"
+      "fetchedAt": "2026-06-01T11:02:42.604Z"
     },
     {
       "pmid": "42168870",
@@ -272,7 +318,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:19.209Z"
+      "fetchedAt": "2026-06-01T11:02:54.678Z"
     },
     {
       "pmid": "42167054",
@@ -295,7 +341,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:19.792Z"
+      "fetchedAt": "2026-06-01T11:02:55.285Z"
     },
     {
       "pmid": "42167569",
@@ -318,7 +364,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:05.745Z"
+      "fetchedAt": "2026-06-01T11:02:39.201Z"
     },
     {
       "pmid": "42188870",
@@ -341,7 +387,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:18.637Z"
+      "fetchedAt": "2026-06-01T11:02:51.783Z"
     },
     {
       "pmid": "42130363",
@@ -364,7 +410,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:10.128Z"
+      "fetchedAt": "2026-06-01T11:02:44.417Z"
     },
     {
       "pmid": "42198653",
@@ -387,7 +433,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:15.732Z"
+      "fetchedAt": "2026-06-01T11:02:49.366Z"
     },
     {
       "pmid": "42182422",
@@ -410,7 +456,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:04.039Z"
+      "fetchedAt": "2026-06-01T11:02:37.478Z"
     },
     {
       "pmid": "42127128",
@@ -433,7 +479,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:11.287Z"
+      "fetchedAt": "2026-06-01T11:02:45.618Z"
     },
     {
       "pmid": "42168832",
@@ -456,7 +502,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:08.980Z"
+      "fetchedAt": "2026-06-01T11:02:43.207Z"
     },
     {
       "pmid": "42117477",
@@ -479,29 +525,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:11.861Z"
-    },
-    {
-      "pmid": "42116639",
-      "title": "Probable Bartonella clarridgeiae Prosthetic Valve Endocarditis and Aortic Root Abscess, Australia, 2020.",
-      "abstract": "We describe a case of endocarditis and aortic root abscess caused by Bartonella clarridgeiae bacteria in a patient in Australia. The patient initially sought care for leg pain and was found to have bilateral tibioperoneal trunk mycotic aneurysms. 16S rRNA PCR on excised aneurysm tissue identified the cause as B. clarridgeiae.",
-      "authors": [
-        "Cribb M",
-        "Coghill S"
-      ],
-      "journal": "Emerging infectious diseases",
-      "publicationDate": "May 12, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42116639/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-31T08:31:12.471Z"
+      "fetchedAt": "2026-06-01T11:02:46.230Z"
     },
     {
       "pmid": "42198637",
@@ -524,29 +548,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:16.302Z"
-    },
-    {
-      "pmid": "42107047",
-      "title": "Culture-Negative Infective Endocarditis Presenting as ANCA-Positive Glomerulonephritis.",
-      "abstract": "BACKGROUND Infective endocarditis is challenging to diagnose when blood cultures are negative, and its symptoms are nonspecific. Bartonella species are fastidious intracellular bacteria that can cause culture-negative endocarditis and immune-mediated complications such as glomerulonephritis, often mimicking ANCA-associated glomerulonephritis. CASE REPORT A 25-year-old man who underwent a Ross procedure for congenital aortic stenosis performed in childhood presented with 1 month of night sweats, abdominal pain, and intermittent nausea. Initial evaluation revealed elevated creatinine, pancytopenia, proteinuria, microscopic hematuria, and splenomegaly. Serologies showed positive c-ANCA and elevated PR3 antibodies. A presumed diagnosis of ANCA-associated glomerulonephritis led to initiation of high-dose steroids and planned rituximab. Kidney biopsy demonstrated crescentic glomerulonephritis with C3-dominant immune complex deposition, atypical for pauci-immune disease, prompting discontinuation of steroids. Further infectious workup revealed high Bartonella henselae IgM and IgG titers. The patient met the criteria for possible infective endocarditis under the 2023 Duke-ISCVID criteria. Transesophageal echocardiography showed valvular abnormalities without definite vegetations, although only a prior transthoracic echocardiogram was available for comparison. The patient was treated with doxycycline and rifampin for 12 weeks, resulting in clinical and laboratory improvement. CONCLUSIONS This case demonstrates that Bartonella endocarditis can closely mimic ANCA-associated glomerulonephritis and rapidly progressive glomerulonephritis. In patients with systemic symptoms, positive ANCA serologies, and negative cultures, occult infection must be a key consideration, especially in patients at high risk for infective endocarditis. A careful exposure history, including pets, travel, and dental procedures, can provide crucial diagnostic clues. Early recognition and targeted antimicrobial therapy are essential to prevent irreversible organ damage and avoid inappropriate immunosuppression.",
-      "authors": [
-        "Kyhan ME",
-        "Bressler AM"
-      ],
-      "journal": "The American journal of case reports",
-      "publicationDate": "May 10, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42107047/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-05-31T08:31:13.046Z"
+      "fetchedAt": "2026-06-01T11:02:49.966Z"
     },
     {
       "pmid": "42198626",
@@ -569,7 +571,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:17.278Z"
+      "fetchedAt": "2026-06-01T11:02:50.566Z"
     },
     {
       "pmid": "42164492",
@@ -592,7 +594,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:20.402Z"
+      "fetchedAt": "2026-06-01T11:02:55.888Z"
     },
     {
       "pmid": "42139320",
@@ -615,7 +617,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:09.555Z"
+      "fetchedAt": "2026-06-01T11:02:43.812Z"
     },
     {
       "pmid": "42188913",
@@ -638,7 +640,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:18.069Z"
+      "fetchedAt": "2026-06-01T11:02:51.170Z"
     },
     {
       "pmid": "42201089",
@@ -661,7 +663,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:01.237Z"
+      "fetchedAt": "2026-06-01T11:02:34.563Z"
     },
     {
       "pmid": "42197353",
@@ -684,7 +686,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-05-31T08:31:07.908Z"
+      "fetchedAt": "2026-06-01T11:02:42.103Z"
     }
   ]
 }
