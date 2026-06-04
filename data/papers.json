@@ -1,30 +1,7 @@
 {
-  "generatedAt": "2026-06-03T10:28:31.207Z",
+  "generatedAt": "2026-06-04T09:38:37.379Z",
   "totalPapers": 30,
   "papers": [
-    {
-      "pmid": "42189606",
-      "title": "The behavioural spillover effect: modelling behavioural interdependencies in multi-pathogen dynamics.",
-      "abstract": "During the recent pandemic, a rise in COVID-19 cases was followed by a decline in influenza. In the absence of cross-immunity, a potential explanation for the observed pattern is behavioural: non-pharmaceutical interventions (NPIs) designed and promoted for one disease also reduce the spread of others. We study short-term and long-term dynamics of two pathogens where NPIs targeting one pathogen indirectly influence the spread of another - a phenomenon we term behavioural spillover. We examine how perceived risk of and response to one disease substantially alter the spread of other pathogens, revealing how waves of different pathogens emerge over time as a result of behavioural interdependencies and human response. Our analysis identifies the parameter space where two diseases simultaneously co-exist, and where shifts in prevalence occur. Our findings are consistent with observations from the COVID-19 pandemic, where NPIs contributed to significant declines in infections such as influenza, pneumonia, and Lyme disease.",
-      "authors": [
-        "LeJeune L",
-        "Saucedo O",
-        "Childs LM"
-      ],
-      "journal": "Journal of biological dynamics",
-      "publicationDate": "Dec 31, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42189606/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-03T10:28:12.146Z"
-    },
     {
       "pmid": "42127721",
       "title": "Peripheral neurological involvement due to Bartonella henselae in an immunocompetent adolescent: a case report and literature review.",
@@ -46,7 +23,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:22.015Z"
+      "fetchedAt": "2026-06-04T09:38:29.531Z"
+    },
+    {
+      "pmid": "42232821",
+      "title": "First Description of Nonlupus Full-House Nephropathy in Systemic Juvenile Idiopathic Arthritis Responsive to High-Dose Tocilizumab.",
+      "abstract": "Nonlupus full-house nephropathy (NL-FHN) is a distinct clinicopathological entity defined as the concurrent positive staining for immunoglobulin A, immunoglobulin G, immunoglobulin M, C3, and C1q at immunofluorescence or immunohistochemistry on kidney biopsy samples with lupus nephritis light microscopy lesions without clinical and laboratory features of systemic lupus erythematosus. Secondary forms of NL-FHN are mainly infectious in &#x223c;40% of cases (human immunodeficiency virus and Bartonella being the leading infectious causes). Autoimmune diseases represent less than 20% of secondary NL-FHNs. The renal prognosis is usually poor because NL-FHN has been reported as an independent risk factor for end-stage renal disease in clinical studies. To our knowledge, we report the first case of NL-FHN associated with systemic juvenile idiopathic arthritis. Interestingly, despite the poor prognosis of NL-FHN reported in the literature, we observed a complete renal response after early identification and subsequent tocilizumab regimen tailored by clinical manifestations and disease activity. This observation highlights the importance of early diagnosis and the potential link between underlying autoimmune disease and the development of NL-FHN in some patients.",
+      "authors": [
+        "Jacobs L",
+        "Badot V",
+        "Nagant C"
+      ],
+      "journal": "Kidney medicine",
+      "publicationDate": "Jul 29, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42232821/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-04T09:38:24.139Z"
     },
     {
       "pmid": "42199349",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:11.045Z"
+      "fetchedAt": "2026-06-04T09:38:22.743Z"
     },
     {
       "pmid": "42226911",
@@ -92,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:25.148Z"
+      "fetchedAt": "2026-06-04T09:38:32.753Z"
     },
     {
       "pmid": "42226915",
@@ -115,7 +115,122 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:24.547Z"
+      "fetchedAt": "2026-06-04T09:38:32.150Z"
+    },
+    {
+      "pmid": "42236358",
+      "title": "Babesia microti: Breaking the culture barrier.",
+      "abstract": "Babesia microti poses a significant threat to human health, underscoring the need for an improved in vitro culture system to reduce reliance on animal models and support drug and vaccine screening. Key challenges include the tropism of preferential host red blood cells (RBCs), parasite metabolic needs, culture medium formulation, and optimization of the microaerophilic environment (oxygenation).",
+      "authors": [
+        "Vydyam P",
+        "Beri D",
+        "Lobo CA"
+      ],
+      "journal": "Trends in parasitology",
+      "publicationDate": "Jun 04, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42236358/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-04T09:38:30.931Z"
+    },
+    {
+      "pmid": "42234535",
+      "title": "Untitled",
+      "abstract": "Lyme disease (LD), caused by Borrelia burgdorferi (Bb), is the most common vector-borne disease in the United States. Novel strategies to control transmission of Bb to humans via ticks are critical for the prevention of LD. One such strategy is to leverage non-infectious mutant strains of Bb for pathogen-derived biologics to block Bb transmission during the natural infectious cycle. Deletion of Borrelia host-adaptation Regulator (&#x394;badR) and replacement of eight conserved residues with alanines in Carbon Storage Regulator A of Bb (8S) resulted in mutants with upregulation of RpoS and several immunogenic lipoproteins, that were incapable of colonization in C3H/HeN mice. Intradermal vaccination of mice with the live mutant strains resulted in significant anti-borrelial antibody responses and a reduction in Bb acquisition by na&#xef;ve Ixodes scapularis larvae following needle challenge with Bb B31-A3. While vaccination with the &#x394;badR mutant conferred a significant reduction in the percentage of infected mice, ML23 and 8S mutants conferred variable levels of protection. Comparative proteomic analysis of purified borrelial lipoproteins (PBLs) from parental and mutant strains revealed similar and unique antigenic components. Infection-derived mouse serum and serum from Lyme disease patients exhibited reactivity to lysates and PBLs from these mutants. Immunization with PBLs from B31-A3 and 8S strains conferred significant protection against challenge with Bb-infected nymphs, underscoring the utility of PBLs as protective formulations. Overall, non-infectious mutant strains, or their lipoproteins, can be exploited as biologics to block the acquisition of Bb by na&#xef;ve larvae from reservoir hosts, thereby disrupting the enzootic transmission cycle of the agent of Lyme disease.",
+      "authors": [
+        "Kumaresan V",
+        "Smith TC",
+        "Lumbreras M"
+      ],
+      "journal": "Infection and immunity",
+      "publicationDate": "Jun 03, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42234535/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-04T09:38:17.329Z"
+    },
+    {
+      "pmid": "42233734",
+      "title": "Untitled",
+      "abstract": "RNA-binding proteins (RBPs) play key roles in regulating gene expression across all domains of life. However, relatively few RBPs have been discovered and characterized in Borrelia (Borreliella) burgdorferi, the causative agent of Lyme disease. We utilized gradient profiling to identify putative RBPs that co-sediment with small RNAs (sRNAs) and nascent mRNAs. The previously hypothetical proteins BB0749, BB0713 and BB0796, as well as the chemotaxis-related protein CheY2 and the flagella-associated protein FlgV demonstrated RNA unwinding (structural remodelling), RNA annealing, and strand displacement activity. Moreover, in vivo co-IP assays demonstrated BB0749 binds RNA in B. burgdorferi.",
+      "authors": [
+        "Van Gundy T",
+        "Schneider C",
+        "Ebmeier CC"
+      ],
+      "journal": "RNA biology",
+      "publicationDate": "Jun 03, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42233734/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-04T09:38:17.934Z"
+    },
+    {
+      "pmid": "42233700",
+      "title": "Autonomous Uncertainty Quantification for Computational Point-of-Care Sensors.",
+      "abstract": "Computational point-of-care (POC) sensors enable rapid, low-cost, and accessible diagnostics in emergency, remote, and resource-limited areas that lack access to centralized medical facilities. These systems can use neural network-based algorithms to accurately infer diagnoses from signals generated by rapid diagnostic tests or sensors. However, neural network-based diagnostic models are subject to hallucinations and can produce erroneous predictions, posing a risk of misdiagnosis and inaccurate clinical decisions. To address this challenge, here we present an autonomous uncertainty quantification technique developed for POC diagnostics. As our test bed, we used a paper-based, computational vertical flow assay (xVFA) platform developed for rapid POC diagnosis of Lyme disease, the most prevalent tick-borne disease globally. The xVFA platform integrates a disposable paper-based assay, a hand-held optical reader, and a neural network-based inference algorithm, providing rapid and cost-effective Lyme disease diagnostics in under 20 min using only 20 &#x3bc;L of patient serum. By incorporating a Monte Carlo dropout (MCDO)-based uncertainty quantification approach into the diagnostics pipeline with minimal computational and memory overhead, we identified and excluded erroneous predictions with high uncertainty, significantly improving the sensitivity and reliability of the xVFA in an autonomous manner, without access to the ground truth diagnostic information on patients. Blinded testing using new patient samples demonstrated an increase in diagnostic sensitivity from 88.2% to 95.7%, indicating the effectiveness of MCDO-based uncertainty quantification in enhancing the robustness of neural network-driven computational POC sensing systems.",
+      "authors": [
+        "Goncharov A",
+        "Ghosh R",
+        "Joung HA"
+      ],
+      "journal": "ACS nano",
+      "publicationDate": "Jun 03, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42233700/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-04T09:38:18.536Z"
+    },
+    {
+      "pmid": "42234515",
+      "title": "Untitled",
+      "abstract": "Human babesiosis is an emerging disease caused by intraerythrocytic Babesia parasites, primarily transmitted through tick bites. Among the species of Babesia that infect humans, Babesia duncani causes severe disease in murine models, associated with excessive cytokine responses that contribute to immunopathology. The parasite factors that mediate host immune activation remain poorly defined. Here, we show that B. duncani, similar to B. microti, exports antigens through vesicle-mediated pathways. Screening a panel of 105 known and predicted secreted proteins using sera from B. duncani-infected and uninfected mice identified multiple immunodominant antigens. We further characterized two representative antigens and demonstrate using differential centrifugation, vesicle enrichment, immunofluorescence microscopy, and transmission electron microscopy that these antigens localize to vesicles released by B. duncani-infected erythrocytes into the extracellular environment. These findings reveal vesicle-mediated antigen export as a key feature of B. duncani infection and suggest a pathway through which parasite-derived antigens may be delivered to the host immune system. Such findings may guide future studies aimed at developing diagnostic or vaccine strategies.",
+      "authors": [
+        "Singh P",
+        "Pal AC",
+        "Choi J-Y"
+      ],
+      "journal": "Infection and immunity",
+      "publicationDate": "Jun 03, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42234515/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-04T09:38:31.532Z"
     },
     {
       "pmid": "42223267",
@@ -138,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:09.242Z"
+      "fetchedAt": "2026-06-04T09:38:20.947Z"
     },
     {
       "pmid": "42229791",
@@ -161,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:16.380Z"
+      "fetchedAt": "2026-06-04T09:38:24.754Z"
     },
     {
       "pmid": "42226901",
@@ -184,7 +299,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:25.747Z"
+      "fetchedAt": "2026-06-04T09:38:33.353Z"
+    },
+    {
+      "pmid": "42232762",
+      "title": "Lyme Disease Presenting as Rupture Baker's Cyst: Case Report and Literature Review.",
+      "abstract": "Baker's cysts, also known as popliteal cysts, are fluid-filled sacs that are found in the posterior region of the knee, behind the medial head of the gastrocnemius and the semimembranosus. The prevalence has been found to increase with age, with some ultrasonographic studies showing a prevalence as high as 25% of adults with knee pain. We discuss an interesting case of a 14-year- old male with a ruptured cyst found to be secondary to Lyme disease. The patient was treated with clindamycin and his symptoms had resolved. We discuss cases of ruptured baker's cysts in the literature found to be secondary to Lyme disease with their respective treatments and outcomes.",
+      "authors": [
+        "Ghali A",
+        "Mody-Bailey N",
+        "Jabin M"
+      ],
+      "journal": "Clinical medicine insights. Case reports",
+      "publicationDate": "05 31, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42232762/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-04T09:38:19.744Z"
     },
     {
       "pmid": "42218469",
@@ -207,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:16.991Z"
+      "fetchedAt": "2026-06-04T09:38:25.355Z"
     },
     {
       "pmid": "42210239",
@@ -230,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:26.969Z"
+      "fetchedAt": "2026-06-04T09:38:34.567Z"
     },
     {
       "pmid": "42208901",
@@ -253,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:09.848Z"
+      "fetchedAt": "2026-06-04T09:38:21.546Z"
     },
     {
       "pmid": "42217308",
@@ -276,28 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:18.343Z"
-    },
-    {
-      "pmid": "42191169",
-      "title": "Lyme disease cases in England rise 20% in a year.",
-      "abstract": "",
-      "authors": [
-        "Rimmer A"
-      ],
-      "journal": "BMJ (Clinical research ed.)",
-      "publicationDate": "May 26, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42191169/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-03T10:28:11.545Z"
+      "fetchedAt": "2026-06-04T09:38:25.984Z"
     },
     {
       "pmid": "42198879",
@@ -320,76 +437,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:27.574Z"
-    },
-    {
-      "pmid": "42186064",
-      "title": "Mapping tick-borne hazard across gradients of urban intensity in metropolitan regions.",
-      "abstract": "Urban greenspaces are ecologically novel habitats where wildlife movement can shape vector-borne disease risk. Understanding how landscape structure influences tick presence and infection risk is essential for improving hazard assessment in metropolitan regions. We assessed Lyme disease hazard, defined as the density of Borrelia-infected Ixodes scapularis nymphs, across 141 greenspaces in New York City-Long Island (NYC-LI) and Greater Boston during 2023-2024. Sites were selected using a stratified design along gradients of housing density and wildlife functional connectivity. Active tick surveillance data were analyzed using spatial generalized linear mixed models that accounted for landscape composition, landscape configuration, and weather-related variables, as well as spatial autocorrelation. Continuous hazard maps were generated for each region. Tick hazard declined with increasing housing density across both metropolitan regions. Percent tree canopy cover at the 100-m scale was positively associated with tick presence and nymph density, whereas percent impervious surface cover at the 1000-m scale showed a consistent negative association with hazard. Functional connectivity modified these relationships, with greenspaces embedded in more connected landscapes maintaining elevated hazard under higher levels of urbanization. Despite overall tick densities being lower in 2024, the spatial pattern of hazard in NYC-LI were similar between years, with higher hazard concentrated in eastern Long Island and central Staten Island. External validation in Greater Boston demonstrated comparable spatial patterns and good model performance, supporting cross-region transferability. Landscape composition and configuration jointly shape the distribution of tick vectors in urban environments. This standardized, reproducible, spatially explicit workflow advances tick hazard assessment in urban setting and, when integrated with human behavioral data, can improve exposure estimation and inform more targeted Lyme disease prevention.",
-      "authors": [
-        "Fu W",
-        "Lilly MV",
-        "Lee SJ"
-      ],
-      "journal": "Parasites & vectors",
-      "publicationDate": "May 25, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42186064/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-03T10:28:12.863Z"
-    },
-    {
-      "pmid": "42176436",
-      "title": "Evaluation of EcoCRM, virus-like particles, and mRNA as vaccine platforms against Borrelia burgdorferi.",
-      "abstract": "Lyme disease (LD) is the most prevalent vector-borne disease in the United States, impacting &#x223c;476,000 individuals annually with increasing incidence. Prevention relies on personal protective measures such as insecticides and tick checks, underscoring the need for new preventatives such as vaccines. In this work, the importance of vaccine platform in LD vaccine development efforts was evaluated using non-lipidated OspA as model antigen. Recombinant OspA conjugated to CRM197 (EcoCRM OspA), a virus-like particle vaccine utilizing SpyTag and SpyCatcher (OspA-SpyVLP), and an mRNA-based vaccine construct (OspA mRNA) were evaluated and compared in C3H mice using the needle injection challenge model. To determine immunogenicity, anti-OspA and anti-B. burgdorferi antibodies were quantified via ELISA and further assessed by measuring IgG subclass, antibody avidity, and presence of antibody secreting cells. All vaccine formulations were immunogenic and led to the release of similar levels of antigen-specific IgG in serum during the duration of the experiment. However, there were significant differences around two week post-boost in the presence of antibody secreting cells, ratio of IgG1/IgG2 subclasses, and antibody avidity between platforms. Protection was measured using PCR and darkfield microscopy to determine organ positivity post-challenge. Vaccination with recombinant non-lipidated OspA and OspA-SpyVLP significantly reduced the number of positive organs compared to the PBS challenged control group. Lastly, in vitro borreliacidal activity was quantified via darkfield microscopy and the highest borreliacidal activity was observed using OspA-SpyVLP sera, with titers 16-fold higher than recombinant OspA. Altogether, these data indicated that selection of vaccine platform/formulation influenced the immunogenicity and efficacy of OspA-based LD vaccines and should be considered during development.",
-      "authors": [
-        "Rocuskie-Marker CM",
-        "Huckaby AB",
-        "Conaway OM"
-      ],
-      "journal": "Vaccine",
-      "publicationDate": "May 23, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42176436/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-03T10:28:14.071Z"
-    },
-    {
-      "pmid": "42176260",
-      "title": "Lyme Disease Knowledge, Attitudes, and Practices Among Surveyed Clinicians in Western North Carolina, 2022-2023.",
-      "abstract": "Lyme disease has expanded into western North Carolina. We sought to document knowledge, attitudes, and practices among clinicians in this region. A survey was administered to clinicians in western North Carolina. Frequencies summarized Lyme-related care. Fisher's exact test compared low-knowledge items (<75% correct) by provider type, clinical experience, and regional tenure. Likert-type items measured attitudes; open-ended responses identified education barriers. Among 28 participants, 59% (16/27) saw a suspected Lyme case in the past year. The median knowledge score was 59% (interquartile range: 47-73%), with low confidence interpreting test results (median Likert score = 2, interquartile range: 1-3). Correct identification of erythema migrans timing differed by regional tenure (&#x2264;5 years: 16/18 [89%]; >5 years: 3/8 [38%]; p = 0.014). Recognition of when testing is not recommended differed by provider type (physician: 11/20 [55%], nurse practitioner: 0/6 [0%]; p = 0.024). Perceived education barriers included cost, time, and small patient population. Overall, knowledge was limited, particularly for diagnostic testing. Clinicians in emerging communities should be prioritized for educational interventions.",
-      "authors": [
-        "Pretsch PK",
-        "Rudrappa P",
-        "Tyrlik-Olk K"
-      ],
-      "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
-      "publicationDate": "May 23, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42176260/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-03T10:28:14.680Z"
+      "fetchedAt": "2026-06-04T09:38:35.166Z"
     },
     {
       "pmid": "42172191",
@@ -410,7 +458,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:19.511Z"
+      "fetchedAt": "2026-06-04T09:38:27.086Z"
     },
     {
       "pmid": "42130363",
@@ -433,7 +481,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:21.369Z"
+      "fetchedAt": "2026-06-04T09:38:28.905Z"
+    },
+    {
+      "pmid": "42232803",
+      "title": "Untitled",
+      "abstract": "In Japan, Lyme disease and tick-borne encephalitis (TBE) are primarily in the northernmost prefecture Hokkaido, where their primary vectors Ixodes ovatus and Ixodes persulcatus are most abundant. Recently, tick surveillance activities have collected both species across Japan, indicating potential expansion of their tick-borne pathogens (TBPs). We built a machine-learning (ML) model using available tick surveillance and environmental data to predict suitable habitat areas for I. ovatus and I. persulcatus and identify potential higher-risk areas of Lyme disease and TBE across Japan. Data on the occurrence and abundance of 11 vector tick species between 1990 and 2023 were extracted from studies identified via systematic literature search in two online databases or provided by local experts for ML development. After multiple iterations and permutations, separate Random Forest ML algorithms for I. ovatus and I. persulcatus were trained via 26 abiotic variables of climate and topography based on the occurrence and abundance respective to each species. Data on 93,289 ticks from 57 sources were extracted, and the ML algorithms' area under the curves were high (>&#xa0;0.89). Climate-related variables were the strongest predictors (>&#xa0;90% cumulative model importance) for both I. ovatus and I. persulcatus. High suitability for both species was identified in Hokkaido and cooler, wetter regions in central Honshu, while I. ovatus had a broader ecological niche than I. persulcatus, with moderate suitability in mountainous regions of central Kyushu and surrounding the Tokyo Bay area. Our ML models suggest high suitability areas for Ixodes vectors may be widespread in Japan, indicating expanding potential risks of TBPs.",
+      "authors": [
+        "Kelly PH",
+        "Marick HM",
+        "Davis J"
+      ],
+      "journal": "Current research in parasitology & vector-borne diseases",
+      "publicationDate": "05 14, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42232803/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-04T09:38:19.145Z"
     },
     {
       "pmid": "42198653",
@@ -456,53 +527,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:28.186Z"
-    },
-    {
-      "pmid": "42182422",
-      "title": "Untitled",
-      "abstract": "The transmembrane export apparatus is a conserved core of bacterial type III secretion systems, shared by the flagellum and injectisome. Powered by the proton-motive force (PMF), this machinery translocates protein substrates across the bacterial envelope to support motility and virulence. However, its assembly and operation within native membranes remain poorly understood. Here, using in-situ single-particle cryo-electron microscopy, we resolve near-atomic-resolution structures of the flagellar export apparatus within the periplasmic flagellar motor of the Lyme disease spirochete Borrelia burgdorferi . Structural and genetic analyses suggest that coordinated, stepwise assembly of the flagellar export apparatus and MS-ring drives local deformation of the cytoplasmic membrane through extensive protein-lipid-protein interactions, constructing a funnel-shaped conduit optimal for substrate translocation. In addition, a conserved hydrophilic pathway lies within core export protein FlhA, with key acidic residues essential for export activity and supporting PMF-driven substrate translocation. Together, these findings establish a mechanistic framework for export apparatus assembly and energy transduction, defining core principles of type III secretion.",
-      "authors": [
-        "Yue J",
-        "Manne A",
-        "Guo W"
-      ],
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationDate": "May 13, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42182422/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-03T10:28:13.460Z"
-    },
-    {
-      "pmid": "42127128",
-      "title": "Phlebotomine sand fly fauna characterization and Bartonella bacilliformis DNA detection in Pintomyia (Pifanomyia) robusta at the Ecuador-Peru frontier.",
-      "abstract": "Phlebotomine sand flies are blood-sucking dipterans widely distributed in tropical and subtropical areas of the Americas and are important vectors of leishmaniasis caused by Leishmania spp. parasites and Carrion's disease caused by the bacteria Bartonella bacilliformis. Both are a significant economic burden in rural areas and a major risk to military personnel deployed to endemic areas. To better understand transmission of these pathogens and epidemiological trends, sand flies were collected from nine sites across the Ecuador-Peru border region in 2015 and 2017 and screened for Leishmania using PCR targeting kinetoplast DNA, and Bartonella using PCR targeting the 16S-23S internal transcribed spacer (ITS) region, citrate synthase (gltA) gene, and NADH dehydrogenase subunit G (nuoG) gene. A total of 548 sand flies belonging to 15 species and 2,711 sand flies belonging to 11 species were collected in Ecuador and Peru, respectively. Pintomyia (Pifanomyia) robusta was generally the most abundant species found across sites sampled in Ecuador and Peru. In the Chinchipe River basin, Pi. (Pif.) robusta, Pintomyia (Pifanomyia) maranonensis, and Lutzomyia (Helcocyrtomyia) castanea were collected on both sides in Zamora-Chinchipe, Ecuador, and Namballe, Peru. Of the 637 phlebotomine sand fly pools screened, no Leishmania positives were found; however, nine pools of Pi. (Pif.) robusta collected in Ecuador were positive for B. bacilliformis based on phylogenetic analysis of the gltA gene. One Pi. (Pif.) maranonensis from Peru and one Pi. (Pif.) robusta from Ecuador were positive for Bartonella DNA sequences that were close to Candidatus Bartonella rondoniensis based on gltA. This is the first reported detection of B. bacilliformis DNA in Pi. (Pif.) robusta, providing evidence for the role of this sand fly species in transmission of this pathogen at the Ecuador-Peru border.",
-      "authors": [
-        "Zorrilla VO",
-        "Carrazco-Montalvo A",
-        "Espada LJ"
-      ],
-      "journal": "PLoS neglected tropical diseases",
-      "publicationDate": "May 13, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42127128/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-03T10:28:22.614Z"
+      "fetchedAt": "2026-06-04T09:38:35.779Z"
     },
     {
       "pmid": "42168832",
@@ -525,7 +550,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:20.115Z"
+      "fetchedAt": "2026-06-04T09:38:27.687Z"
     },
     {
       "pmid": "42198637",
@@ -548,30 +573,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:28.786Z"
+      "fetchedAt": "2026-06-04T09:38:36.379Z"
     },
     {
-      "pmid": "42198626",
-      "title": "Six Decades of Global Research on Bovine Babesiosis Vaccines: A Comprehensive Systematic Review and Meta-Analysis.",
-      "abstract": "Bovine babesiosis is a tick-borne disease that poses significant economic losses to global cattle production, and diverse vaccine platforms have been developed to combat it. This work critically evaluates global research on bovine babesiosis vaccines, integrating historical milestones with recent advances in antigen discovery and immunization approaches and assessing their protective efficacy through meta-analysis. Using comprehensive database searches, we identified 413 publications on bovine babesiosis vaccines, of which 168 met the inclusion criteria, spanning from 1960 to August 2025. Analysis revealed that B. bovis dominated the research output, followed by B. bigemina and B. divergens. Five key methodological approaches emerged: field trials, controlled experiments, immunogenicity assessments, in vitro assays, and in silico antigen analyses, with a notable shift toward immunogenicity and computational studies post-2000. Frequently studied antigens included RAP-1, MSA-2c, AMA-1, 11C5, and 12D3 (B. bovis); RAP-1 and GP45 (B. bigemina); and Bd37 (B. divergens). Geographically, research was concentrated in the United States, Australia, Argentina, Mexico, and France, which were identified as the top contributors in that order, primarily focusing on live and recombinant vaccines, with minimal African participation despite high cattle populations. Bibliometric analysis showed increasing publication output, with leading journals such as Veterinary Parasitology, Infection and Immunity, and Parasites & Vectors as the top three. Thematic evolution highlighted a transition from live vaccines to recombinant and multi-epitope strategies, with increasing emphasis on conserved antigens and novel platforms. However, more field evaluations are required to determine whether these new technologies can achieve protective efficacy comparable to that of live vaccines. This work underscores the need for sustained investment, intersectoral collaboration, and validation using standardized and comparable metrics in field trials to translate laboratory innovations into effective, safe, and globally accessible vaccines against bovine babesiosis.",
+      "pmid": "42232415",
+      "title": "Acute cervical myelomeningitis secondary to Lyme neuroborreliosis.",
+      "abstract": "Lyme disease, caused by the bacterium Borrelia burgdorferi, can cause multi-systemic signs and symptoms, including peripheral and central nervous system disease. Lyme neuroborreliosis rarely presents with spinal cord involvement. We describe a case of a 62-year-old man presenting with fever, meningeal syndrome, rapidly progressive flaccid tetraplegia with preserved sensory function, and urinary and fecal incontinence. Cervical magnetic resonance imaging (MRI) demonstrated extensive intramedullary T2 hyperintensity associated with diffuse circumferential pachymeningeal enhancement on contrast-enhanced T1-weighted images. Serum and cerebrospinal fluid analyses revealed positive anti-B. burgdorferi immunoglobulin G (IgG) and IgM antibodies, confirming a diagnosis. Lyme neuroborreliosis should be considered in patients presenting with acute myelomeningitis. MRI plays a crucial role in diagnosis, and early recognition is essential to initiate appropriate antibiotic therapy.",
       "authors": [
-        "Valdez-Espinoza UM",
-        "P&#xe9;rez-Almeida C",
-        "C&#xe1;rdenas-Flores A"
+        "Laaguili J",
+        "Tlemcani ZC",
+        "Mandour C"
       ],
-      "journal": "Pathogens (Basel, Switzerland)",
-      "publicationDate": "May 06, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42198626/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
+      "journal": "Surgical neurology international",
+      "publicationDate": "05 08, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42232415/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:29.606Z"
+      "fetchedAt": "2026-06-04T09:38:20.346Z"
     },
     {
       "pmid": "42139320",
@@ -594,30 +619,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:20.714Z"
-    },
-    {
-      "pmid": "42188913",
-      "title": "Untitled",
-      "abstract": "Ticks of the genus Hyalomma are major ectoparasites of dromedary camels and serve as important vectors for diverse tick-borne pathogens (TBPs) affecting both animals and humans. In this study, we determined the tick species diversity and distribution and estimated the prevalence of TBPs in those ticks. A total of 780 ticks collected from camels in Bol, Chad, were identified into four species: Hyalomma dromedarii (49.0%), H. rufipes (22.6%), H. impeltatum (19.1%), and H. truncatum (9.4%). Sixty ticks were selected proportionally across the four Hyalomma species and screened for TBPs using PCR. Coxiella burnetii was detected in 11.7% of the ticks, and Rickettsia aeschlimannii in 1.7%. Anaplasmataceae-specific 16S rRNA primers detected Candidatus Midichloria mitochondrii, a tick endosymbiont, in 10% of the ticks. No protozoan pathogens (Theileria or Babesia) were detected. This study highlights the need for integrated surveillance of ticks and their associated microorganisms in Chadian camels to mitigate zoonotic and veterinary risks. Strengthening such efforts will support camel health and pastoral livelihoods in the region.",
-      "authors": [
-        "Aziz MU",
-        "Cassens J",
-        "Allawa&#xef;-Sanigue J"
-      ],
-      "journal": "Veterinary sciences",
-      "publicationDate": "Apr 30, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42188913/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-03T10:28:30.207Z"
+      "fetchedAt": "2026-06-04T09:38:28.298Z"
     },
     {
       "pmid": "42201089",
@@ -640,7 +642,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:10.447Z"
+      "fetchedAt": "2026-06-04T09:38:22.145Z"
     },
     {
       "pmid": "42197353",
@@ -663,7 +665,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:19.012Z"
+      "fetchedAt": "2026-06-04T09:38:26.587Z"
     },
     {
       "pmid": "42221449",
@@ -686,7 +688,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-03T10:28:26.346Z"
+      "fetchedAt": "2026-06-04T09:38:33.950Z"
     }
   ]
 }
