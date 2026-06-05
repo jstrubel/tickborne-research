@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-06-04T09:38:37.379Z",
+  "generatedAt": "2026-06-05T09:00:27.212Z",
   "totalPapers": 30,
   "papers": [
     {
-      "pmid": "42127721",
-      "title": "Peripheral neurological involvement due to Bartonella henselae in an immunocompetent adolescent: a case report and literature review.",
-      "abstract": "This report describes a rare case of post-infectious meningoradiculitis caused by Bartonella henselae in a healthy 17-year-old male. The patient presented with bilateral peripheral facial palsy, paresthesia and absent deep tendon reflexes, following axillary lymphadenopathy related to cat scratches. Lumbar puncture showed lymphocytic pleocytosis, and serological results showed high titers of both IgG and IgM for Bartonella henselae. Electroneuromyography revealed prolonged F waves. Treatment included intravenous immunoglobulins and doxycycline, with gradual clinical improvement. A systematic literature review identified 20 cases of peripheral neurological involvement associated with Bartonella henselae, highlighting the diversity of neurological manifestations beyond encephalitis and neuroretinitis. This case illustrates the importance of considering Bartonella henselae in the differential diagnosis of inflammatory radiculopathies, especially in individuals who have had contact with cats and when more common causes are ruled out.",
+      "pmid": "42238847",
+      "title": "Untitled",
+      "abstract": "Bartonella infections are emerging zoonotic pathogens, primarily transmitted through arthropod vectors or direct contact with animals. Immunocompromised individuals are at increased risk of developing severe complications. In this cross-sectional study, a total of 370 blood samples were collected from immunocompromised individuals including patients with HIV, AIDS, common variable immunodeficiency (CVID), liver and kidney transplant recipients, and a control group in Imam Khomeini Hospital in Tehran from May 2024 to February 2025. Overall, Bartonella spp. were detected in 7 out of 370 participants (1.89%). All positive cases were among HIV+ (2.8) and AIDS patients (3.9%). Phylogenetic analysis identified all isolates as Bartonella quintana. Univariate analysis suggested that a history of drug abuse and flea infestation seemed to be associated with infection, but due to the rarity of events, multivariate penalized logistic regression did not confirm these as independent risk factors. Cautious interpretation is warranted. This study provides the first molecular evidence of Bartonella quintana infection among immunocompromised patients in Iran, with a notable prevalence observed in HIV-infected individuals, highlighting the need for increased clinical awareness in this population.",
       "authors": [
-        "Arabeyre C",
-        "Lheritier S",
-        "Rached A"
+        "Tahmasebi Ashtiani Z",
+        "Hasannezhad M",
+        "Latifian M"
       ],
-      "journal": "Diagnostic microbiology and infectious disease",
-      "publicationDate": "Sep 06, 2026",
+      "journal": "New microbes and new infections",
+      "publicationDate": "Aug 22, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42127721/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42238847/",
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
@@ -23,7 +23,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:29.531Z"
+      "fetchedAt": "2026-06-05T09:00:11.577Z"
+    },
+    {
+      "pmid": "42238846",
+      "title": "Prevalence of tick-borne pathogens in ixodid ticks collected from domestic animals in southeast Iran.",
+      "abstract": "Tick-borne pathogens (TBPs) pose a significant threat to livestock production in Kerman Province, Iran. Despite the high prevalence of TBPs, our understanding of specific pathogens circulating within local tick populations remains limited. Furthermore, the potential for co-infections with multiple microorganisms complicates the diagnosis and disease management. This study aimed to investigate the prevalence of TBPs in ticks collected from domestic animals in Kerman province using real-time quantitative PCR (qPCR). Tick collection was conducted between April and June 2022 from 199 domestic animals (63 cattle, 63 sheep, 63 goats, and 10 dogs) across 65 villages in three counties of Kerman Province, Iran. Collected ticks were subjected to qPCR assays targeting Coxiella burnetii, Bartonella spp., Rickettsia spp., Francisella spp., Borrelia spp., and Ehrlichia spp. Phylogenetic analysis of the amplified DNA sequences was performed to elucidate the genetic relationships among the detected pathogens. In this study, 707 ixodid ticks was collected included Hyalomma marginatum marginatum (70.7%, 108 pools) and Rhipicephalus linnaei (29.2%, 27 pools). Based on molecular analysis, Rickettsia spp., Ehrlichia spp, C. burnetii and Bartonella spp. were detected in 55.5%, 9.6%, 8.1% and 0.7%, respectively. Rickettsia aeschlimannii, R. sibirica, R. conorii subsp. israelensis and R. africae were identified based on sequencing and phylogenetical analysis.Co-infections were also observed: 5.9% of the pools (8 pools) were co-infected with Ehrlichia spp. and Rickettsia spp., 3.7% (5 pools) with Rickettsia spp. and C. burnetii, and 0.7% (1 pool) with Rickettsia spp. and Bartonella spp. No infections with Francisella spp. or Borrelia spp. were detected. This study demonstrates the presence of multiple tick-borne pathogens of veterinary and public health significance in ruminants from Kerman Province, highlighting the need for further research on tick-borne diseases affecting both animal and human populations in this and surrounding regions.",
+      "authors": [
+        "Seidi S",
+        "Latifian M",
+        "Moradkasani S"
+      ],
+      "journal": "New microbes and new infections",
+      "publicationDate": "Aug 21, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42238846/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-05T09:00:12.184Z"
     },
     {
       "pmid": "42232821",
@@ -46,30 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:24.139Z"
-    },
-    {
-      "pmid": "42199349",
-      "title": "Untitled",
-      "abstract": "Lyme disease (LD), a multifaceted condition caused by Borrelia burgdorferi (Bb), remains poorly understood, particularly regarding metabolic pathways. This study aimed to evaluate the role of glycolysis-related genes (GRGs) in LD pathogenesis and identify key genes and mechanisms relevant to diagnosis and therapy. Differentially expressed GRGs were identified and further analyzed by correlation analysis and Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment analyses. Key genes were screened using least absolute shrinkage and selection operator (LASSO) and support vector machine-recursive feature elimination, followed by gene set enrichment analysis, gene set variation analysis and immune infiltration analysis using CIBERSORT. Diagnostic value was assessed by receiver operating characteristic and nomogram analyses, and a competing endogenous RNA network and protein-drug interaction predictions were constructed. The expression of key genes was further validated by reverse transcription-quantitative PCR (RT-qPCR) in Bb-infected THP-1 cells, and glucose and lactate concentrations in the culture supernatants were measured using commercial colorimetric assay kits. A total of 63 differentially expressed GRGs were identified. Of note, two key genes [lactate dehydrogenase A (LDHA) and thioredoxin (TXN)] exhibited a strong diagnostic performance. Immune infiltration analysis revealed that these genes were associated with regulatory T cells (r=0.33, P=0.05), gamma delta T cells (r=-0.34, P=0.042), CD4 memory resting T cells (r=-0.4, P=0.016) and monocytes (r=-0.36, P=0.03). The potential glycolysis-targeting drugs were predicted. RT-qPCR analysis revealed increased LDHA and TXN expression in Bb-infected THP-1 cells. In addition, Bb stimulation reduced extracellular glucose levels and increased lactate accumulation in culture supernatants. Overall, this integrative analysis revealed notable alterations in glycolytic genes during Bb infection, suggesting that dysregulation of glycolysis contributes to LD immunopathology. The identified key genes (LDHA and TXN) may serve as infection-related transcriptional response markers, offering insights into LD mechanisms and potential precision-based strategies.",
-      "authors": [
-        "Dong Y",
-        "Chen Y",
-        "Luo Y"
-      ],
-      "journal": "Experimental and therapeutic medicine",
-      "publicationDate": "Jul 12, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42199349/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-04T09:38:22.743Z"
+      "fetchedAt": "2026-06-05T09:00:12.792Z"
     },
     {
       "pmid": "42226911",
@@ -92,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:32.753Z"
+      "fetchedAt": "2026-06-05T09:00:23.729Z"
     },
     {
       "pmid": "42226915",
@@ -115,7 +115,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:32.150Z"
+      "fetchedAt": "2026-06-05T09:00:23.096Z"
+    },
+    {
+      "pmid": "42241371",
+      "title": "Notes from the Field: Borrelia mayonii Lyme Disease - New York, 2025.",
+      "abstract": "",
+      "authors": [
+        "Nafiz TN",
+        "Prusinski MA",
+        "Gubbala S"
+      ],
+      "journal": "MMWR. Morbidity and mortality weekly report",
+      "publicationDate": "Jun 04, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42241371/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-05T09:00:04.199Z"
     },
     {
       "pmid": "42236358",
@@ -138,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:30.931Z"
+      "fetchedAt": "2026-06-05T09:00:21.822Z"
     },
     {
       "pmid": "42234535",
@@ -161,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:17.329Z"
+      "fetchedAt": "2026-06-05T09:00:05.535Z"
     },
     {
       "pmid": "42233734",
@@ -184,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:17.934Z"
+      "fetchedAt": "2026-06-05T09:00:06.223Z"
     },
     {
       "pmid": "42233700",
@@ -207,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:18.536Z"
+      "fetchedAt": "2026-06-05T09:00:06.870Z"
     },
     {
       "pmid": "42234515",
@@ -230,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:31.532Z"
+      "fetchedAt": "2026-06-05T09:00:22.431Z"
     },
     {
       "pmid": "42223267",
@@ -253,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:20.947Z"
+      "fetchedAt": "2026-06-05T09:00:09.333Z"
     },
     {
       "pmid": "42229791",
@@ -276,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:24.754Z"
+      "fetchedAt": "2026-06-05T09:00:13.495Z"
     },
     {
       "pmid": "42226901",
@@ -299,7 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:33.353Z"
+      "fetchedAt": "2026-06-05T09:00:24.336Z"
     },
     {
       "pmid": "42232762",
@@ -322,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:19.744Z"
+      "fetchedAt": "2026-06-05T09:00:08.107Z"
     },
     {
       "pmid": "42218469",
@@ -345,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:25.355Z"
+      "fetchedAt": "2026-06-05T09:00:15.940Z"
     },
     {
       "pmid": "42210239",
@@ -368,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:34.567Z"
+      "fetchedAt": "2026-06-05T09:00:25.599Z"
     },
     {
       "pmid": "42208901",
@@ -391,7 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:21.546Z"
+      "fetchedAt": "2026-06-05T09:00:09.942Z"
     },
     {
       "pmid": "42217308",
@@ -414,7 +437,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:25.984Z"
+      "fetchedAt": "2026-06-05T09:00:16.591Z"
     },
     {
       "pmid": "42198879",
@@ -437,7 +460,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:35.166Z"
+      "fetchedAt": "2026-06-05T09:00:26.211Z"
+    },
+    {
+      "pmid": "42239376",
+      "title": "A lipid compendium of a metabolically compromised bacterium provides insights into lipid acquisition, biosynthesis, and metabolism.",
+      "abstract": "The Lyme disease agent Borrelia burgdorferi belongs to a class of metabolically compromised bacteria that cannot survive without host-derived lipids. Survival of the agent in tick and vertebrate hosts requires substantial nutrient acquisition and potential cell envelope remodeling. While prior studies identified cholesterol, cholesterol glycolipids, and phosphatidylcholines as membrane lipids in B. burgdorferi , the identity of many other membrane lipids, their origin, and their physiological relevance remain unknown. Here, we used a suite of untargeted and targeted high-resolution mass spectrometry methods to reveal a complex lipid profile of the pathogen and to identify the origin of its lipids. The analysis detected more than 500 lipids in B. burgdorferi , the majority of which are sourced from the environment. However, the bacterium selectively accumulates certain lipids while excluding others, suggesting discriminatory uptake. These include cholesteryl esters and triglycerides that are organized in foci within the pathogen. Intriguingly, the pathogen also synthesizes predominantly eukaryotic lipids such as the lysosomal bis(monoacylglycerol)phosphate and the plant glycolipid sulfoquinovosyl diacylglycerol (SQDG). The biosynthesis of the latter is carried out by enzymes that exhibit structural homology to plant oxidoreductases and galactosyltransferases, yet their closest orthologs are found in bacteria. This hints that the capability of SQDG synthesis is more widespread in spirochaetes and other bacteria. Together, the comprehensive lipid profiling we report here uncovers novel aspects of the physiology of the metabolically challenged B. burgdorferi and highlights lipid acquisition and synthesis pathways as potentially critical for pathogen survival.",
+      "authors": [
+        "Chatterjee P",
+        "Shin HE",
+        "Tuncel MI"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publicationDate": "May 23, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42239376/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-05T09:00:04.909Z"
     },
     {
       "pmid": "42172191",
@@ -458,30 +504,52 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:27.086Z"
+      "fetchedAt": "2026-06-05T09:00:17.700Z"
     },
     {
-      "pmid": "42130363",
+      "pmid": "42238799",
       "title": "Untitled",
-      "abstract": "A 13-year-old boy with Bartonella henselae meningitis is reported. He presented with recurrent fever with no history of cat scratches and no lymphadenopathy. Cerebrospinal fluid analysis showed an elevated white blood cell count, and Bartonella henselae infection was confirmed by metagenomic next-generation sequencing. Bone marrow examination revealed hemophagocytosis predominantly involving nucleated erythrocytes; to our knowledge, this bone marrow morphological abnormality is the first reported worldwide in association with Bartonella henselae infection. Transient bilateral hip pain occurred during the illness and was considered infection-related joint involvement. The patient improved with treatment and had no neurological sequelae. This case expands the spectrum of clinical and bone marrow manifestations of Bartonella henselae infection and warrants vigilance for possible central nervous system and bone marrow involvement in cases of fever of infectious etiology presenting without typical lymphadenopathy. &#x8be5;&#x6587;&#x62a5;&#x9053;1&#x4f8b;13&#x5c81;&#x7537;&#x6027;&#x6c49;&#x8d5b;&#x5df4;&#x5c14;&#x901a;&#x4f53;&#x8111;&#x819c;&#x708e;&#x75c5;&#x4f8b;&#x3002;&#x60a3;&#x513f;&#x4ee5;&#x53cd;&#x590d;&#x53d1;&#x70ed;&#x8d77;&#x75c5;&#xff0c;&#x65e0;&#x732b;&#x6293;&#x4f24;&#x53f2;&#xff0c;&#x65e0;&#x6dcb;&#x5df4;&#x7ed3;&#x80bf;&#x5927;&#x3002;&#x8111;&#x810a;&#x6db2;&#x68c0;&#x67e5;&#x63d0;&#x793a;&#x767d;&#x7ec6;&#x80de;&#x6570;&#x5347;&#x9ad8;&#xff0c;&#x7ecf;&#x5b8f;&#x57fa;&#x56e0;&#x7ec4;&#x4e8c;&#x4ee3;&#x6d4b;&#x5e8f;&#x786e;&#x8bca;&#x4e3a;&#x6c49;&#x8d5b;&#x5df4;&#x5c14;&#x901a;&#x4f53;&#x611f;&#x67d3;&#x3002;&#x60a3;&#x513f;&#x9aa8;&#x9ad3;&#x8c61;&#x53ef;&#x89c1;&#x4ee5;&#x541e;&#x566c;&#x6709;&#x6838;&#x7ea2;&#x7ec6;&#x80de;&#x4e3a;&#x4e3b;&#x7684;&#x566c;&#x8840;&#x73b0;&#x8c61;&#xff0c;&#x8be5;&#x9aa8;&#x9ad3;&#x5f62;&#x6001;&#x5b66;&#x6539;&#x53d8;&#x4e3a;&#x5168;&#x7403;&#x9996;&#x6b21;&#x62a5;&#x9053;&#x7684;&#x4e0e;&#x6c49;&#x8d5b;&#x5df4;&#x5c14;&#x901a;&#x4f53;&#x611f;&#x67d3;&#x76f8;&#x5173;&#x7684;&#x5f02;&#x5e38;&#x8868;&#x73b0;&#x3002;&#x60a3;&#x513f;&#x75c5;&#x7a0b;&#x4e2d;&#x51fa;&#x73b0;&#x4e00;&#x8fc7;&#x6027;&#x53cc;&#x9acb;&#x5173;&#x8282;&#x75bc;&#x75db;&#xff0c;&#x8003;&#x8651;&#x4e3a;&#x611f;&#x67d3;&#x6240;&#x81f4;&#x5173;&#x8282;&#x53d7;&#x7d2f;&#x3002;&#x7ecf;&#x6cbb;&#x7597;&#x540e;&#x597d;&#x8f6c;&#xff0c;&#x65e0;&#x795e;&#x7ecf;&#x7cfb;&#x7edf;&#x540e;&#x9057;&#x75c7;&#x3002;&#x8be5;&#x75c5;&#x4f8b;&#x62d3;&#x5c55;&#x4e86;&#x6c49;&#x8d5b;&#x5df4;&#x5c14;&#x901a;&#x4f53;&#x611f;&#x67d3;&#x7684;&#x4e34;&#x5e8a;&#x4e0e;&#x9aa8;&#x9ad3;&#x8868;&#x73b0;&#x8c31;&#xff0c;&#x63d0;&#x793a;&#x4e34;&#x5e8a;&#x4e0a;&#x5bf9;&#x7f3a;&#x4e4f;&#x5178;&#x578b;&#x6dcb;&#x5df4;&#x7ed3;&#x80bf;&#x5927;&#x7684;&#x611f;&#x67d3;&#x6027;&#x53d1;&#x70ed;&#xff0c;&#x9700;&#x8b66;&#x60d5;&#x8be5;&#x75c5;&#x539f;&#x4f53;&#x4fb5;&#x72af;&#x4e2d;&#x67a2;&#x795e;&#x7ecf;&#x7cfb;&#x7edf;&#x53ca;&#x9aa8;&#x9ad3;&#x7684;&#x53ef;&#x80fd;&#x3002;.",
+      "abstract": "Ticks are important vectors of pathogens affecting human and animal health, making the identification of tick-borne agents essential. This study focused on the understudied winter tick, Alloceraea inermis (syn. Haemaphysalis inermis), which is widely distributed across Eurasia and, in some regions, appears to be increasing in occurrence. This species may play an important role in maintaining and potentially transmitting pathogens among its animal hosts. Although A. inermis rarely feeds on humans, occasional human parasitism does occur. Over two years, a total of 208 A. inermis ticks (123 females and 85 males) were collected from vegetation in a deciduous forest in Hungary during its autumn-winter activity period. Pathogen screening was performed using a reverse line blot hybridization assay targeting members of the genera Anaplasma, Babesia, Borrelia, Ehrlichia, Rickettsia, and Theileria. Species of Rickettsia were the most prevalent pathogens, with Rickettsia helvetica detected in 25.5% (53/208) of the samples, along with evidence for an uncharacterized Rickettsia species. Species of Babesia were the second most common pathogen group, with Babesia microti identified in 19.2% (40/208) of the ticks. Species of Borrelia were detected in 16.3% (34/208) of the samples, and \"Candidatus Neoehrlichia mikurensis\" was present in 14.9% (32/208) of the samples. The detected pathogens were more diverse and more frequent than expected, in some cases even surpassing prevalences in Ixodes ricinus observed in previous studies. In the future, we aim to clarify the vector role of A. inermis and assess associated health risks.",
       "authors": [
-        "DU WQ",
-        "Liu LJ",
-        "Zhang L"
+        "Szab&#xf3; &#xc9;S",
+        "Ruivo M",
+        "K&#xf6;ves DA"
       ],
-      "journal": "Zhongguo dang dai er ke za zhi = Chinese journal of contemporary pediatrics",
-      "publicationDate": "May 15, 2026",
+      "journal": "Current research in parasitology & vector-borne diseases",
+      "publicationDate": "05 20, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42130363/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42238799/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:28.905Z"
+      "fetchedAt": "2026-06-05T09:00:21.157Z"
+    },
+    {
+      "pmid": "42238889",
+      "title": "High diversity and distribution of ticks and tick-borne diseases in Sudan emphasizes the need for implementing cost-effective community One Health strategy.",
+      "abstract": "Ticks and tick-borne diseases (TBDs) represent a growing challenge to both animal and human health in Sudan. However, the absence of consolidated nationwide data limits accurate characterization of tick fauna, monitoring of shifts in species distribution, and detection of invasive species. This knowledge gap not only constrains understanding of vector ecology but also weakens efforts to link tick distribution with disease occurrence, thereby undermining targeted control strategies. Livestock TBDs, including theileriosis, babesiosis, anaplasmosis, and lumpy skin disease, cause substantial economic losses by reducing productivity, threatening food security, and hindering national development. In parallel, zoonotic infections such as Crimean-Congo hemorrhagic fever, Q fever, borreliosis, ehrlichiosis, rickettsioses, and potentially tularemia pose underrecognized public health risks. These infections are frequently misdiagnosed or overlooked due to limited diagnostic capacity and the predominance of malaria in the differential diagnosis of febrile illness. The persistence and spread of TBDs in Sudan are driven by interconnected factors, including high livestock mobility, widespread presence of competent vectors, weak veterinary and public health infrastructure, and inadequate surveillance systems. Addressing this multifaceted burden requires integrated approaches that combine improved vector control, expanded diagnostic capacity and surveillance, vaccination where available, and strengthened regional cross-border collaboration. This review synthesizes current knowledge on ticks and TBDs in Sudan, highlights critical gaps, and emphasizes the need for One Health strategies to reduce TBD transmission, protect livelihoods, and safeguard public health.",
+      "authors": [
+        "Mohamed NS",
+        "Ahmed A"
+      ],
+      "journal": "Frontiers in microbiology",
+      "publicationDate": "05 19, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42238889/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-05T09:00:20.552Z"
     },
     {
       "pmid": "42232803",
@@ -504,30 +572,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:19.145Z"
-    },
-    {
-      "pmid": "42198653",
-      "title": "The Comparative Study for Detection of Canine Vector-Borne Pathogens Between Companion and Stray Dogs in Bangkok and Vicinities, Thailand.",
-      "abstract": "This study investigated the prevalence and molecular characteristics of canine vector-borne pathogens (CVBPs) circulating in diverse dog populations in Thailand by using molecular diagnostic methods. A total of 400 blood samples were collected from four groups (n = 100 each): stray dogs (Group A), vector-borne disease-suspected companion dogs (Group B), healthy companion dogs presenting for routine examination (Group C), and companion dogs presenting with non-vector-borne illnesses (Group D). The overall infection rate was 46.25%. Ehrlichia spp. were the most frequently detected pathogens (23.5%), followed by Babesia spp. (16.5%), Rickettsia spp. (15.0%), and Anaplasma spp. (11.5%). The prevalence differed markedly among groups, including group A (88.0%), group B (54.0%), group C (27.0%) and group D (16.0%) (p < 0.05). DNA sequence analysis showed 100% identity with GenBank&#x2122; reference sequences, confirming the presence of Ehrlichia canis, Rickettsia asembonensis, Babesia vogeli, and Anaplasma platys. The detection of CVBPs across all groups demonstrates free-roaming and owned dogs serve as reservoirs for substantial ongoing infections and pose potential zoonotic implications to humans. Overall, these findings emphasize the importance of sustained molecular surveillance, improved vector control strategies, and proactive monitoring of high-risk dog populations to reduce the burden of CVBPs in Thailand.",
-      "authors": [
-        "Pham BX",
-        "Phoosangwalthong P",
-        "Inkaew T"
-      ],
-      "journal": "Pathogens (Basel, Switzerland)",
-      "publicationDate": "May 14, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42198653/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-04T09:38:35.779Z"
+      "fetchedAt": "2026-06-05T09:00:07.475Z"
     },
     {
       "pmid": "42168832",
@@ -550,30 +595,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:27.687Z"
-    },
-    {
-      "pmid": "42198637",
-      "title": "Accelerating Progress on Ticks and Tick-Borne Diseases in Southeast Asia: Regional Challenges, Evidence Gaps, and Priorities (2023-2025).",
-      "abstract": "Southeast Asia (SEA) faces persistent gaps in regional understanding and control of ticks and tick-borne diseases (TBDs) despite recent advances (2023-2025). The second international symposium on ticks and TBDs in SEA (Singapore, August 2025), following the inaugural 2023 meeting in Cambodia, served as a catalyst for regional exchange that informed this perspective. SEA's ecological and host diversity supports complex tick-host-pathogen networks, yet evidence remains fragmented due to uneven sampling that has largely focused on livestock and peri-urban environments. Key constraints include limited taxonomic resolution driven by outdated or incomplete identification keys, under-sampling of soft ticks (Argasidae), and the absence of harmonized, open-access regional reference resources (including DNA barcodes and MALDI-TOF MS spectral databases). While MALDI-TOF MS, proteomics, AI-assisted identification, and next-generation sequencing/metagenomics are increasingly applied, their broader regional uptake is limited by the absence of harmonized, open-access reference resources (including DNA barcodes and MALDI-TOF MS spectral databases). Broad ecological surveys and integrated animal and human surveillance remain limited, and vector competence studies are constrained by the scarcity of SEA-derived tick colonies and cell lines. Regional data and recent findings (2024-2026) confirm circulation of multiple TBPs (including Anaplasma, Babesia, Borrelia, Coxiella, Ehrlichia, Rickettsia, and Theileria) and highlight emerging viral findings, including southward reports of Bandavirus dabieense. Human infestations and non-communicable tick bite outcomes (e.g., tick paralysis and alpha-gal syndrome) are recognized but remain under-reported due to low clinical awareness and limited diagnostics. Importantly, the diagnostic chain is further disrupted by missed/insufficient specimen collection at the point of care, and by constrained capacity to identify (especially immature) ticks to species level-limitations compounded by the absence of harmonized, open-access regional reference resources. The symposium identified six priorities: (1) full completion and regional validation of tick identification keys for adults (in progress) and immatures (to be initiated), plus an open-access DNA barcode library anchored by curated, voucher-based collections from all SEA countries; (2) harmonization of molecular and proteomic diagnostic platforms, including expansion of regional MALDI-TOF MS and NGS protocols and reference databases; (3) development of tick colonies and cell lines from locally prevalent species to support vector competence, vaccine, and acaricide testing; (4) expansion of One Health surveillance with enhanced ecological sampling at wildlife-livestock-human interfaces; (5) establishment of open-access, region-wide data platforms for integrated tick, TBP, and ecological metadata sharing; and (6) sustained investment in human resources, training, and policy advocacy to raise research and public health visibility of ticks and TBDs.",
-      "authors": [
-        "Malleret B",
-        "Kwak ML",
-        "Chavatte JM"
-      ],
-      "journal": "Pathogens (Basel, Switzerland)",
-      "publicationDate": "May 11, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42198637/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-04T09:38:36.379Z"
+      "fetchedAt": "2026-06-05T09:00:18.321Z"
     },
     {
       "pmid": "42232415",
@@ -596,7 +618,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:20.346Z"
+      "fetchedAt": "2026-06-05T09:00:08.717Z"
     },
     {
       "pmid": "42139320",
@@ -619,30 +641,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:28.298Z"
-    },
-    {
-      "pmid": "42201089",
-      "title": "Cardiovascular Manifestations Documented in Patients with Lyme Disease: Clinical Presentation, Management Strategies, and Outcomes.",
-      "abstract": "Lyme disease is a tick-borne zoonosis caused by Borrelia burgdorferi that can affect multiple organ systems. Although cardiovascular involvement is considered uncommon, it may lead to severe and potentially life-threatening complications, particularly conduction disturbances and inflammatory cardiac conditions. This review aims to describe the spectrum of cardiovascular manifestations documented in patients with Lyme disease, focusing on clinical presentation, diagnostic approaches, management strategies, and reported outcomes. A narrative literature review was performed using PubMed, MEDLINE, and Google Scholar. Articles published between January 2000 and July 2025 in English or Spanish were screened. Eligible studies included original research articles, systematic and narrative reviews, case series, and case reports describing confirmed Lyme disease with cardiovascular involvement. A total of 30 studies were included. The available evidence was predominantly based on case reports and small case series, with considerable heterogeneity in study design, patient populations, and reported outcomes. Data on clinical manifestations, diagnostic methods, treatment strategies, and outcomes were extracted and synthesized. Atrioventricular conduction disturbances were the most frequently reported cardiovascular manifestation, ranging from first-degree block to complete heart block, often presenting abruptly with syncope or bradycardia. Other reported manifestations included atrial and ventricular arrhythmias, myocarditis, pericarditis, myopericarditis, valvular endocarditis, aortitis, and vasculitis. Diagnosis relied on a combination of clinical suspicion, epidemiologic exposure, serologic testing, electrocardiographic monitoring, and cardiac imaging. Most patients were treated with antimicrobial therapy, commonly intravenous ceftriaxone followed by oral doxycycline, with temporary pacemaker support required in selected cases. Overall, clinical outcomes were favorable when treatment was initiated promptly. Cardiovascular involvement in Lyme disease, although infrequent, encompasses a broad clinical spectrum with potentially serious consequences. Early recognition, appropriate diagnostic evaluation, and timely antimicrobial therapy are essential to ensure reversibility of cardiac manifestations and favorable outcomes. However, the available evidence is limited by heterogeneity and the predominance of low-level-evidence studies.",
-      "authors": [
-        "Cortes Islas LA",
-        "Bartolo Gomez PM",
-        "Cuevas Obispo ND"
-      ],
-      "journal": "Infectious disease reports",
-      "publicationDate": "Apr 27, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42201089/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-04T09:38:22.145Z"
+      "fetchedAt": "2026-06-05T09:00:18.931Z"
     },
     {
       "pmid": "42197353",
@@ -665,7 +664,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:26.587Z"
+      "fetchedAt": "2026-06-05T09:00:17.200Z"
     },
     {
       "pmid": "42221449",
@@ -688,7 +687,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-04T09:38:33.950Z"
+      "fetchedAt": "2026-06-05T09:00:24.945Z"
     }
   ]
 }
