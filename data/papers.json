@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-06-08T10:11:14.133Z",
+  "generatedAt": "2026-06-09T08:54:36.931Z",
   "totalPapers": 30,
   "papers": [
+    {
+      "pmid": "42257235",
+      "title": "Development of hexaplex PCR assay for the detection and characterization common tick-borne pathogens in dogs, and analysis of risk factors.",
+      "abstract": "The present investigation was intended to develop and validate an internally controlled hexaplex PCR assay for concurrent detection and differentiation of the five major canine tick-borne pathogens (TBP) namely, Ehrlichia canis, Babesia gibsoni, Babesia vogeli, Hepatozoon canis and Anaplasma platys in 8 selected districts of Odisha, India. The assay generated amplicons of 817 bp, 737 bp, 602 bp, 489 bp and 292 bp corresponding to E. canis (16S rRNA gene), B. vogeli, B. gibsoni, H. canis (18S rRNA gene) and A. platys (HSP GroEL gene), along with amplicon of 218 bp targeting canine &#x3b2;-actin gene as internal amplification control (IAC) to avoid false negative result. The kappa values for diagnostic specificity and sensitivity of multiplex PCR assay in detection of the pathogens revealed very good agreement with their singleplex PCR counterparts (n = 61). The analytical sensitivity of multiplex PCR assay was recorded to be 0.1 pg for detection of A. platys, H. canis and B. vogeli, and 10 pg for E. canis and B. gibsoni. The epidemiological survey (n = 320) revealed 31.56% of TBP infection and incidence of H. canis, B. gibsoni were high in summer season and A. platys in rainy. Co-infections exacerbated clinical affections. The generated sequence of the Odisha isolates of these pathogens in this study revealed 98-100% homology with various global isolates of these pathogens. The standardized multiplex PCR developed in the present study, can be used as a rapid, economical and sensitive diagnostic tool for identifying tick-borne haemoparasites in dogs.",
+      "authors": [
+        "Pati M",
+        "Patra RC",
+        "Dehuri M"
+      ],
+      "journal": "Veterinary and animal science",
+      "publicationDate": "Sep 19, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42257235/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-09T08:54:31.760Z"
+    },
     {
       "pmid": "42238847",
       "title": "Untitled",
@@ -23,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:11:01.296Z"
+      "fetchedAt": "2026-06-09T08:54:24.737Z"
     },
     {
       "pmid": "42238846",
@@ -46,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:11:01.908Z"
+      "fetchedAt": "2026-06-09T08:54:25.332Z"
     },
     {
       "pmid": "42232821",
@@ -69,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:11:02.521Z"
+      "fetchedAt": "2026-06-09T08:54:26.068Z"
     },
     {
       "pmid": "42226911",
@@ -92,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:11:10.984Z"
+      "fetchedAt": "2026-06-09T08:54:35.930Z"
     },
     {
       "pmid": "42226915",
@@ -115,7 +138,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:11:10.371Z"
+      "fetchedAt": "2026-06-09T08:54:35.328Z"
+    },
+    {
+      "pmid": "42260299",
+      "title": "Human Babesiosis in China: Review of Epidemiology, Diagnosis, and Management (2002-2025).",
+      "abstract": "",
+      "authors": [
+        "Cai Y",
+        "Xue J",
+        "Sun J"
+      ],
+      "journal": "Parasitology",
+      "publicationDate": "Jun 09, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42260299/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-09T08:54:30.267Z"
+    },
+    {
+      "pmid": "42258062",
+      "title": "Prevalence and molecular characterization of tick-borne cattle haemoparasites in Tripura, India.",
+      "abstract": "Tick-borne haemoparasities (TBHs) cause substantial economic loss to the livestock population due to reduced productivity and working efficiency of the animals along with high mortality rate in untreated cases. A total of 240 blood samples were collected from native (N&#x2009;=&#x2009;95) and crossbred cattle (N&#x2009;=&#x2009;145) over 12&#x2009;months. Microscopical examination of Giemsa-stained thin blood smears and PCR revealed that 27.08% of the animals were infected with at least one TBH. Theileria spp. was the most prevalent (18.75%), followed by Anaplasma spp. (11.25%), mixed infection (6.66%) and Babesia spp. (3.75%). Significantly higher prevalence (p&#x2009;<&#x2009;0.01) was observed in crossbred (32.14%), female (27.43%), adult cattle (32.61%), and during the monsoon season (34.29%). Molecular comparison of the PCR amplified nucleotide sequences targeting MPSP, msp4, and 18S rRNA in five isolates of T. orientalis and one each of B. bigemina and A. marginale confirmed the presence of T. orientalis, A. marginale, and B. bigemina. Phylogenetic analysis revealed that the isolates were closely related to those found in neighboring countries like China, Myanmar, and Bangladesh. The findings highlight the significant prevalence of TBHs in Tripura, which warrants widespread screening of animals covering all the districts along with study on vector biology.",
+      "authors": [
+        "Debbarma A",
+        "Pandit S",
+        "Tewari AK"
+      ],
+      "journal": "Tropical animal health and production",
+      "publicationDate": "Jun 08, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42258062/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-09T08:54:30.892Z"
     },
     {
       "pmid": "42249504",
@@ -138,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:11:00.635Z"
+      "fetchedAt": "2026-06-09T08:54:24.133Z"
     },
     {
       "pmid": "42251799",
@@ -161,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:10:52.918Z"
+      "fetchedAt": "2026-06-09T08:54:17.459Z"
     },
     {
       "pmid": "42250645",
@@ -184,7 +253,29 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:11:07.203Z"
+      "fetchedAt": "2026-06-09T08:54:32.356Z"
+    },
+    {
+      "pmid": "42252787",
+      "title": "Reevaluation of Lyme serologic quantitative test indexes: confirmation that high first-tier test index values predict a positive second-tier result in a modified 2-tier Lyme testing algorithm.",
+      "abstract": "In a previous study, we reported that using a first-tier quantitative Lyme serologic index may obviate the need for second-tier confirmatory testing in samples above a defined cutoff value. Here we have expanded on the sample size to confirm and better refine the potential utility of the serologic index to aid in timely clinical decision-making. We reviewed 1 year of Lyme serologic test results sent to our laboratory for testing using a modified 2-tier testing algorithm (MTTT) to determine the probability of second-tier confirmation based on the initial Lyme index value. Using the original Lyme index cutoff at which 100% of samples confirmed on second-tier testing (2.68), in the expanded dataset, 98.7% of samples confirmed at this cutoff. Using all of the expanded sample set data, we defined 6 Lyme index brackets from highly positive to equivocal to estimate the probability of the first-tier test confirming on second-tier testing. We also constructed a formula relating the index to the probability of confirmation across the continuum of index values to predict second-tier confirmation in an MTTT algorithm. The use of a Lyme test index value may eliminate the need for confirmatory testing on many positive first-tier samples in patients suspected of having Lyme disease. First-tier Lyme test results may be improved by reporting the index value along with the probability of confirmation. This may facilitate more timely diagnosis and clinical decision-making and potentially improve the time to antimicrobial therapy.",
+      "authors": [
+        "Lee-Lewandrowski E",
+        "Lewandrowski K"
+      ],
+      "journal": "American journal of clinical pathology",
+      "publicationDate": "Jun 04, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42252787/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-09T08:54:16.857Z"
     },
     {
       "pmid": "42241371",
@@ -207,7 +298,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:10:54.029Z"
+      "fetchedAt": "2026-06-09T08:54:18.566Z"
     },
     {
       "pmid": "42236358",
@@ -230,7 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:11:09.070Z"
+      "fetchedAt": "2026-06-09T08:54:34.140Z"
     },
     {
       "pmid": "42247805",
@@ -253,7 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:10:53.528Z"
+      "fetchedAt": "2026-06-09T08:54:18.066Z"
     },
     {
       "pmid": "42234535",
@@ -276,7 +367,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:10:55.340Z"
+      "fetchedAt": "2026-06-09T08:54:19.793Z"
     },
     {
       "pmid": "42233734",
@@ -299,7 +390,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:10:55.955Z"
+      "fetchedAt": "2026-06-09T08:54:20.395Z"
     },
     {
       "pmid": "42233700",
@@ -322,7 +413,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:10:56.567Z"
+      "fetchedAt": "2026-06-09T08:54:21.002Z"
     },
     {
       "pmid": "42234515",
@@ -345,7 +436,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:11:09.757Z"
+      "fetchedAt": "2026-06-09T08:54:34.732Z"
     },
     {
       "pmid": "42250567",
@@ -368,7 +459,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:11:00.022Z"
+      "fetchedAt": "2026-06-09T08:54:23.538Z"
     },
     {
       "pmid": "42229791",
@@ -391,30 +482,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:11:03.128Z"
-    },
-    {
-      "pmid": "42226901",
-      "title": "Untitled",
-      "abstract": "A 1.5-year-old female Spitz dog was presented with a sudden onset of inappetence, weakness, anemia, and hemoglobinuria persisting for two days. The dog had a prior history of tick infestation. A thorough physical examination revealed pyrexia, lymphadenopathy, pale conjunctival and gingival mucous membranes, and a normal capillary refill time. Microscopic analysis of a Giemsa-stained peripheral blood smear identified the presence of Babesia gibsoni, which was further confirmed through PCR. Hematological analysis revealed severe anemia, neutropenia, eosinophilia, lymphocytosis, and thrombocytopenia. Serum biochemistry indicated significant hypoglycemia, hypoproteinemia, and hypoalbuminemia. Serum oxidant-antioxidant parameters revealed a marked increase in the level of oxidant and a decreased level of antioxidants. Genetic characterization based on the 18S rRNA gene fragment demonstrated complete sequence identity with B. gibsoni strains from Asia, Europe, and North America. Phylogenetic analysis revealed that the isolate (PQ143276) was most closely related to B. gibsoni strains from Sri Lanka and Spain, following a distinct geographical pattern. The therapy included a combination of oral metronidazole, doxycycline, and clindamycin which resulted in a favourable response. The dog regained appetite and vigor by the 10th day post-treatment. To the best of the authors' knowledge, this is one of the few documented reports from Tripura that provides a comprehensive analysis of genetic characterization, phylogenetics, hemato-biochemical findings, and serum oxidant-antioxidant status of the infection, while also contributing to the understanding of its evolutionary relationships within the Babesia genus.",
-      "authors": [
-        "Chakraborty P",
-        "Behera SK",
-        "Sarkar S"
-      ],
-      "journal": "Journal of parasitic diseases : official organ of the Indian Society for Parasitology",
-      "publicationDate": "Jun 01, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42226901/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-08T10:11:11.645Z"
+      "fetchedAt": "2026-06-09T08:54:26.674Z"
     },
     {
       "pmid": "42232762",
@@ -437,7 +505,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:10:57.820Z"
+      "fetchedAt": "2026-06-09T08:54:22.200Z"
     },
     {
       "pmid": "42218469",
@@ -460,30 +528,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:11:03.750Z"
-    },
-    {
-      "pmid": "42210239",
-      "title": "Combination of essential oils from Ocimum americanum L., Ocimum gratissimum L., and Lippia multiflora Mold.: a potential solution for controlling the cattle tick Rhipicephalus microplus (Acari: Ixodidae).",
-      "abstract": "The cattle tick Rhipicephalus microplus is one of the most significant ectoparasites affecting livestock in tropical and subtropical regions worldwide. This tick causes substantial economic losses in cattle production by reducing weight gain and milk yield and by transmitting pathogens responsible for diseases such as babesiosis and anaplasmosis. Conventional control strategies rely largely on synthetic acaricides; however, their use poses risks to human health and the environment and has contributed to the rapid emergence of resistant tick populations. Under these circumstances, the search for natural acaricidal alternatives has become essential, with essential oils emerging as a promising solution. The present study aimed to evaluate the acaricidal activity of a combination of Ocimum americanum (1:6), Ocimum gratissimum (2:3), and Lippia multiflora (1:6) essential oils against adult R. microplus using the adult immersion test (AIT). Combination indices and dose reduction indices were calculated to assess the interaction effects between the essential oils. The combination completely inhibited oviposition and larval hatching of R. microplus at concentrations of 100 and 80&#xa0;mg/mL, respectively. Synergistic effects were observed at all tested concentrations, with achieving 93% efficiency starting at 80&#xa0;mg/mL. These findings highlight the potential of this essential oil combination for developing natural acaricidal formulations to effectively control R. microplus.",
-      "authors": [
-        "Coulibaly A",
-        "Delma BJ",
-        "Biguezoton AS"
-      ],
-      "journal": "BMC veterinary research",
-      "publicationDate": "May 28, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42210239/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-08T10:11:13.132Z"
+      "fetchedAt": "2026-06-09T08:54:27.274Z"
     },
     {
       "pmid": "42217308",
@@ -506,7 +551,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:11:04.363Z"
+      "fetchedAt": "2026-06-09T08:54:27.895Z"
     },
     {
       "pmid": "42239376",
@@ -529,7 +574,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:10:54.705Z"
+      "fetchedAt": "2026-06-09T08:54:19.202Z"
     },
     {
       "pmid": "42172191",
@@ -550,7 +595,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:11:05.490Z"
+      "fetchedAt": "2026-06-09T08:54:29.002Z"
     },
     {
       "pmid": "42238799",
@@ -573,7 +618,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:11:08.459Z"
+      "fetchedAt": "2026-06-09T08:54:33.542Z"
     },
     {
       "pmid": "42238889",
@@ -595,7 +640,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:11:07.823Z"
+      "fetchedAt": "2026-06-09T08:54:32.945Z"
     },
     {
       "pmid": "42232803",
@@ -618,30 +663,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:10:57.180Z"
-    },
-    {
-      "pmid": "42232415",
-      "title": "Acute cervical myelomeningitis secondary to Lyme neuroborreliosis.",
-      "abstract": "Lyme disease, caused by the bacterium Borrelia burgdorferi, can cause multi-systemic signs and symptoms, including peripheral and central nervous system disease. Lyme neuroborreliosis rarely presents with spinal cord involvement. We describe a case of a 62-year-old man presenting with fever, meningeal syndrome, rapidly progressive flaccid tetraplegia with preserved sensory function, and urinary and fecal incontinence. Cervical magnetic resonance imaging (MRI) demonstrated extensive intramedullary T2 hyperintensity associated with diffuse circumferential pachymeningeal enhancement on contrast-enhanced T1-weighted images. Serum and cerebrospinal fluid analyses revealed positive anti-B. burgdorferi immunoglobulin G (IgG) and IgM antibodies, confirming a diagnosis. Lyme neuroborreliosis should be considered in patients presenting with acute myelomeningitis. MRI plays a crucial role in diagnosis, and early recognition is essential to initiate appropriate antibiotic therapy.",
-      "authors": [
-        "Laaguili J",
-        "Tlemcani ZC",
-        "Mandour C"
-      ],
-      "journal": "Surgical neurology international",
-      "publicationDate": "05 08, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42232415/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-08T10:10:58.430Z"
+      "fetchedAt": "2026-06-09T08:54:21.606Z"
     },
     {
       "pmid": "42197353",
@@ -664,30 +686,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-08T10:11:04.989Z"
-    },
-    {
-      "pmid": "42221449",
-      "title": "[Tick-borne disease in a backpacker in French Guiana: one case of presumed anaplasmosis].",
-      "abstract": "New species of Borrelia, Rickettsia, and Anaplasma have recently been detected in ticks in French Guiana. Additionally, a new species of Anaplasma was discovered in a human. Specific genovariants of Anaplasma and Ehrlichia have also been identified in the Amazonian forest of French Guiana, indicating a specific sylvatic cycle. We present the case of a patient who experienced fever, myalgia, rash, and inoculation eschars following dozens of tick bites while hiking in the Amazon rainforest. Laboratory results showed lymphopenia, neutrophilia, hepatic cytolysis and cholestasis, and a C-reactive protein level of 78 mg/L. Serology tests for HIV, hepatitis A, B, C, and E; cytomegalovirus; syphilis; and Q fever were negative. NS1 antigen, dengue, and leptospirosis PCR tests were also negative. A skin biopsy of an ulcerated papule on the leg revealed a polymorphic dermal inflammatory infiltrate with intramacrophagic Gram-negative bacilli. Blood PCR for Anaplasma phagocytophilum, Borrelia, Rickettsia, and Babesia were negative. Serology tests were negative for Rickettsia conorii and R. typhi, but positive for A. phagocytophilum, with weakly positive IgM and positive IgG. Serological results were confirmed by controlled sample. The patient improved with doxycycline treatment. Novel species of Anaplasma and Ehrlichia have been detected in the Amazon rainforest of French Guiana. These novel genovariants differ from other species in the Northern Hemisphere and are difficult to diagnose with molecular tools not designed to detect pathogens differing from known species. While not proven by molecular biology, this case may represent an anaplasmosis or another infection from the Rickettsiales group. This highlights that little is known about the potential for tick-borne diseases in French Guiana. In this context, recommendations for vector control should extend to ticks as well. De nouvelles esp&#xe8;ces de Borrelia, Rickettsia et Anaplasma ont &#xe9;t&#xe9; r&#xe9;cemment d&#xe9;tect&#xe9;es chez des tiques en Guyane, et une nouvelle esp&#xe8;ce d&#x2019;Anaplasma a &#xe9;t&#xe9; d&#xe9;couverte chez un homme. Des g&#xe9;novariants sp&#xe9;cifiques d&#x2019;Anaplasma et d&#x2019;Ehrlichia ont &#xe9;galement &#xe9;t&#xe9; d&#xe9;tect&#xe9;s avec un cycle sylvatique propre en for&#xea;t amazonienne guyanaise. Nous rapportons le cas d&#x2019;un patient ayant pr&#xe9;sent&#xe9; de la fi&#xe8;vre, des myalgies, une &#xe9;ruption cutan&#xe9;e et des escarres d&#x2019;inoculation apr&#xe8;s avoir subi des dizaines de morsures de tiques lors d&#x2019;une randonn&#xe9;e en for&#xea;t amazonienne profonde. Les r&#xe9;sultats biologiques retrouvaient une lymphop&#xe9;nie, une polynucl&#xe9;ose neutrophile, une cytolyse et une cholestase h&#xe9;patiques, ainsi qu&#x2019;une prot&#xe9;ine C-r&#xe9;active &#xe0; 78 mg/l. Les s&#xe9;rologies VIH, h&#xe9;patites A, B, C et E, cytom&#xe9;galovirus, syphilis, fi&#xe8;vre Q &#xe9;taient n&#xe9;gatives. L&#x2019;antig&#xe8;ne NS1, les PCR dengue et leptospirose &#xe9;taient &#xe9;galement n&#xe9;gatifs. La biopsie cutan&#xe9;e d&#x2019;une papule ulc&#xe9;ro-cro&#xfb;teuse de la jambe retrouvait un infiltrat inflammatoire dermique polymorphe avec un bacille Gram-n&#xe9;gatif intramacrophagique. Les PCR sanguines pour Anaplasma phagocytophilum, Borrelia, Rickettsia et Babesia &#xe9;taient n&#xe9;gatives. Les s&#xe9;rologies &#xe9;taient n&#xe9;gatives pour Rickettsia conorii et R. typhi, mais positives pour A. phagocytophilum avec des IgM faiblement positives et des IgG positives, confirm&#xe9;es en s&#xe9;rologie de contr&#xf4;le. Le patient s&#x2019;est am&#xe9;lior&#xe9; gr&#xe2;ce &#xe0; un traitement par doxycycline. Les nouvelles esp&#xe8;ces d&#x2019;Anaplasma et d&#x2019;Ehrlichia d&#xe9;tect&#xe9;es en for&#xea;t amazonienne guyanaise pr&#xe9;sentent des caract&#xe9;ristiques diff&#xe9;rentes des autres esp&#xe8;ces de l&#x2019;h&#xe9;misph&#xe8;re Nord et sont difficiles &#xe0; diagnostiquer avec des outils mol&#xe9;culaires non con&#xe7;us pour d&#xe9;tecter des agents pathog&#xe8;nes diff&#xe9;rents des esp&#xe8;ces connues. M&#xea;me si non prouv&#xe9;e par biologie mol&#xe9;culaire, cette observation peut &#xea;tre une anaplasmose ou une autre infection du groupe des Rickettsiales. Elle rappelle que l&#x2019;on sait peu du potentiel des maladies vectorielles &#xe0; tiques en Guyane. Dans ce contexte, les recommandations de protection antivectorielle doivent s&#x2019;&#xe9;tendre aux tiques.",
-      "authors": [
-        "Bourne-Watrin M",
-        "Alsibai KD",
-        "Duron O"
-      ],
-      "journal": "Medecine tropicale et sante internationale",
-      "publicationDate": "Mar 31, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42221449/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-08T10:11:12.489Z"
+      "fetchedAt": "2026-06-09T08:54:28.502Z"
     }
   ]
 }
