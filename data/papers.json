@@ -1,30 +1,7 @@
 {
-  "generatedAt": "2026-06-15T11:39:15.250Z",
+  "generatedAt": "2026-06-16T10:48:43.935Z",
   "totalPapers": 30,
   "papers": [
-    {
-      "pmid": "42257235",
-      "title": "Development of hexaplex PCR assay for the detection and characterization common tick-borne pathogens in dogs, and analysis of risk factors.",
-      "abstract": "The present investigation was intended to develop and validate an internally controlled hexaplex PCR assay for concurrent detection and differentiation of the five major canine tick-borne pathogens (TBP) namely, Ehrlichia canis, Babesia gibsoni, Babesia vogeli, Hepatozoon canis and Anaplasma platys in 8 selected districts of Odisha, India. The assay generated amplicons of 817 bp, 737 bp, 602 bp, 489 bp and 292 bp corresponding to E. canis (16S rRNA gene), B. vogeli, B. gibsoni, H. canis (18S rRNA gene) and A. platys (HSP GroEL gene), along with amplicon of 218 bp targeting canine &#x3b2;-actin gene as internal amplification control (IAC) to avoid false negative result. The kappa values for diagnostic specificity and sensitivity of multiplex PCR assay in detection of the pathogens revealed very good agreement with their singleplex PCR counterparts (n = 61). The analytical sensitivity of multiplex PCR assay was recorded to be 0.1 pg for detection of A. platys, H. canis and B. vogeli, and 10 pg for E. canis and B. gibsoni. The epidemiological survey (n = 320) revealed 31.56% of TBP infection and incidence of H. canis, B. gibsoni were high in summer season and A. platys in rainy. Co-infections exacerbated clinical affections. The generated sequence of the Odisha isolates of these pathogens in this study revealed 98-100% homology with various global isolates of these pathogens. The standardized multiplex PCR developed in the present study, can be used as a rapid, economical and sensitive diagnostic tool for identifying tick-borne haemoparasites in dogs.",
-      "authors": [
-        "Pati M",
-        "Patra RC",
-        "Dehuri M"
-      ],
-      "journal": "Veterinary and animal science",
-      "publicationDate": "Sep 19, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42257235/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-15T11:39:13.060Z"
-    },
     {
       "pmid": "42238847",
       "title": "Untitled",
@@ -46,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:39:04.981Z"
+      "fetchedAt": "2026-06-16T10:48:34.233Z"
     },
     {
       "pmid": "42238846",
@@ -69,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:39:05.572Z"
+      "fetchedAt": "2026-06-16T10:48:34.841Z"
     },
     {
       "pmid": "42276667",
@@ -92,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:39:08.888Z"
+      "fetchedAt": "2026-06-16T10:48:40.473Z"
     },
     {
       "pmid": "42232821",
@@ -115,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:39:06.268Z"
+      "fetchedAt": "2026-06-16T10:48:35.660Z"
     },
     {
       "pmid": "42276665",
@@ -138,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:39:09.478Z"
+      "fetchedAt": "2026-06-16T10:48:41.067Z"
     },
     {
       "pmid": "42276660",
@@ -161,7 +138,76 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:39:10.081Z"
+      "fetchedAt": "2026-06-16T10:48:41.665Z"
+    },
+    {
+      "pmid": "42294764",
+      "title": "Results from an enhanced surveillance study of laboratory-confirmed acute Lyme disease cases in England between 1 April 2023 and 31 March 2024.",
+      "abstract": "",
+      "authors": [
+        "Emanuel E",
+        "Robin C",
+        "Glaser L"
+      ],
+      "journal": "Epidemiology and infection",
+      "publicationDate": "Jun 15, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42294764/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-16T10:48:22.721Z"
+    },
+    {
+      "pmid": "42294661",
+      "title": "Untitled",
+      "abstract": "We report the draft genome sequences of Bartonella sp. nov., strains EBT8 and P12B, isolated from a rodent and a rodent flea in Laguna Verde, Chile. The genome assemblies showed values below the cutoffs for species definition (ANI values &#x2264; 95% and dDDH values &#x2264; 70%) against other Bartonella species, indicating that the strains represent a putative novel species of the genus Bartonella.",
+      "authors": [
+        "Goddard M",
+        "Sep&#xfa;lveda-Garc&#xed;a P",
+        "Oyarz&#xfa;n-Ru&#xed;z P"
+      ],
+      "journal": "Microbiology resource announcements",
+      "publicationDate": "Jun 15, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42294661/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-16T10:48:29.777Z"
+    },
+    {
+      "pmid": "42298473",
+      "title": "Are there other undiagnosed tick-borne infections in children being evaluated for Lyme neuroborreliosis?",
+      "abstract": "There is an increasing amount of reported clinical cases of emerging tick-borne diseases (eTBDs) such as human granulocytic anaplasmosis, neoehrlichiosis, babesiosis and rickettsiosis. The incidence of eTBDs in children is rather unknown, potentially due to low awareness regarding these diseases among health professionals. The clinical picture may be unspecific and access to laboratory tests limited. We aimed to investigate the incidence and clinical manifestations of eTBDs, including possible co-infections, within a pediatric patient group evaluated for Lyme neuroborreliosis (LNB). In a cohort of Swedish children being evaluated for LNB (n&#x2009;=&#x2009;235) during 2011-2014, samples and data on clinical manifestations and laboratory findings were prospectively collected. Plasma samples were analysed by real-time polymerase chain reaction (PCR) for detection of Anaplasma phagocytophilum, Neoehrlichia mikurensis, Babesia species (spp.) and Rickettsia spp. Cerebrospinal fluid from a subset of the patients was also analysed for Rickettsia spp. by real-time PCR. No evidence of eTBDs, nor tick-borne co-infections, was found in the analysed samples from children evaluated for LNB. We conclude that no evidence for potential eTBDs was found within a Swedish pediatric patient group with potential high exposure to tick-borne pathogens. However, given the indications of the emergence of ticks and several tick-borne pathogens, we suggest that eTBDs should be considered as differential diagnoses in patients with non-LNB, atypical LNB or unexplained fever and skin rashes, including a complete blood count and liver enzymes in the diagnostic workup.",
+      "authors": [
+        "Hillerdal H",
+        "Lager M",
+        "Grankvist A"
+      ],
+      "journal": "BMC pediatrics",
+      "publicationDate": "Jun 15, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42298473/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-16T10:48:37.406Z"
     },
     {
       "pmid": "42283472",
@@ -183,7 +229,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:38:55.163Z"
+      "fetchedAt": "2026-06-16T10:48:25.383Z"
     },
     {
       "pmid": "42277889",
@@ -206,7 +252,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:39:01.951Z"
+      "fetchedAt": "2026-06-16T10:48:30.978Z"
     },
     {
       "pmid": "42271556",
@@ -229,7 +275,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:39:02.547Z"
+      "fetchedAt": "2026-06-16T10:48:31.573Z"
+    },
+    {
+      "pmid": "42289158",
+      "title": "Comparative therapeutic efficacy of Artesunate-Atovaquone-Azithromycin and Doxycycline-Clindamycin-Metronidazole regimens in dogs naturally infected with Babesia gibsoni.",
+      "abstract": "Canine babesiosis, caused by Babesia gibsoni infection, is a potentially fatal tick-borne disease in dogs and depicts variable responses to combination therapies. This study was designed to evaluate a novel Artesunate-Atovaquone-Azithromycin (AAA) regimen against the standard Doxycycline-Clindamycin-Metronidazole (DCM) protocol in naturally infected dogs. The study included two treatment groups and a healthy control group, each comprising 10 dogs. Treatment efficacy was assessed through haemato-biochemical analysis and estimation of parasite load by relative quantification (RQ) real-time PCR over different observation points on day 0, 10, 28, 60, 90 and 180. The relative quantity of B. gibsoni 18S rRNA gene in canine blood samples was normalized against the canine &#x3b2;-actin gene using the 2-&#x394;&#x394;Ct method. The infected dogs exhibited normocytic-normochromic anaemia, thrombocytopenia, hypoproteinaemia, hyperglobulinemia, hyperbilirubinemia, azotaemia, high serum alkaline phosphatase and aspartate transaminase level whereas, mean creatinine level were found within normal physiological range. This study revealed that AAA therapy was associated with sustained superior efficacy with respect to haemato-biochemical remission and progressive reduction of parasitaemia, whereas DCM therapy revealed initial improvement followed by recrudescence. The negative Log RQ value demonstrated 10LogRQ times reduction in parasite associated transcript load on subsequent observation days compared to the baseline. A decrease exceeding 5&#x202f;log RQ in parasite transcript level depicted a complete parasitic clearance, outperforming raw cycle threshold (Ct) values for clearance evaluation. These findings indicated that AAA regimen may be used as an efficient treatment alternative over conventional DCM therapy for the management of B. gibsoni infection in dogs.",
+      "authors": [
+        "Pati M",
+        "Patra RC",
+        "Jena GR"
+      ],
+      "journal": "Veterinary parasitology",
+      "publicationDate": "Jun 11, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42289158/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-16T10:48:39.268Z"
+    },
+    {
+      "pmid": "42288018",
+      "title": "Development and evaluation of a bead-based xMAP immunoassay for differential serodiagnosis of Babesia bovis and B. bigemina in cattle.",
+      "abstract": "Bovine babesiosis is caused by Babesia bovis and Babesia bigemina and requires species-resolved serosurveillance to guide control programs. With this goal in mind, we developed an indirect bead-based liquid microarray (xMAP/Luminex) immunoassay using recombinant SBP4 (B. bovis) and RAP-1 (B. bigemina). Antigens immunoreactivity was confirmed by dot-blot and western blot. and antigens were covalently coupled to magnetic microspheres. Assay conditions were optimized with anti-bovine IgG-phycoerythrin detection, and diagnostic performance was assessed in 89 bovine sera previously classified by antigen-matched ELISAs; cut-offs were defined as the mean signal of negatives plus two standard deviations. The assay discriminated against species-specific antibodies and achieved sensitivity/specificity of 79.17%/94.12% for B. bovis (SBP4) and 96.92%/95.65% for B. bigemina (RAP-1). These results indicate high specificity and promising sensitivity, with inherent scalability to multiplex panels and high-throughput testing. Larger, geographically diverse validations-ideally including PCR as an independent reference-are warranted to refine cut-offs, quantify agreement, and assess intra-/inter-assay reproducibility for routine surveillance.",
+      "authors": [
+        "Batista CM",
+        "Minho AP",
+        "Loureiro BO"
+      ],
+      "journal": "Veterinary immunology and immunopathology",
+      "publicationDate": "Jun 11, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42288018/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-16T10:48:39.872Z"
     },
     {
       "pmid": "42276531",
@@ -252,7 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:39:10.730Z"
+      "fetchedAt": "2026-06-16T10:48:42.284Z"
     },
     {
       "pmid": "42274828",
@@ -275,7 +367,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:39:11.327Z"
+      "fetchedAt": "2026-06-16T10:48:42.934Z"
     },
     {
       "pmid": "42269506",
@@ -298,30 +390,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:38:56.366Z"
-    },
-    {
-      "pmid": "42260299",
-      "title": "Human Babesiosis in China: Review of Epidemiology, Diagnosis, and Management (2002-2025).",
-      "abstract": "",
-      "authors": [
-        "Cai Y",
-        "Xue J",
-        "Sun J"
-      ],
-      "journal": "Parasitology",
-      "publicationDate": "Jun 09, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42260299/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-15T11:39:11.827Z"
+      "fetchedAt": "2026-06-16T10:48:26.570Z"
     },
     {
       "pmid": "42264162",
@@ -344,7 +413,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:38:56.973Z"
+      "fetchedAt": "2026-06-16T10:48:27.233Z"
     },
     {
       "pmid": "42260952",
@@ -367,30 +436,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:39:03.189Z"
-    },
-    {
-      "pmid": "42258062",
-      "title": "Prevalence and molecular characterization of tick-borne cattle haemoparasites in Tripura, India.",
-      "abstract": "Tick-borne haemoparasities (TBHs) cause substantial economic loss to the livestock population due to reduced productivity and working efficiency of the animals along with high mortality rate in untreated cases. A total of 240 blood samples were collected from native (N&#x2009;=&#x2009;95) and crossbred cattle (N&#x2009;=&#x2009;145) over 12&#x2009;months. Microscopical examination of Giemsa-stained thin blood smears and PCR revealed that 27.08% of the animals were infected with at least one TBH. Theileria spp. was the most prevalent (18.75%), followed by Anaplasma spp. (11.25%), mixed infection (6.66%) and Babesia spp. (3.75%). Significantly higher prevalence (p&#x2009;<&#x2009;0.01) was observed in crossbred (32.14%), female (27.43%), adult cattle (32.61%), and during the monsoon season (34.29%). Molecular comparison of the PCR amplified nucleotide sequences targeting MPSP, msp4, and 18S rRNA in five isolates of T. orientalis and one each of B. bigemina and A. marginale confirmed the presence of T. orientalis, A. marginale, and B. bigemina. Phylogenetic analysis revealed that the isolates were closely related to those found in neighboring countries like China, Myanmar, and Bangladesh. The findings highlight the significant prevalence of TBHs in Tripura, which warrants widespread screening of animals covering all the districts along with study on vector biology.",
-      "authors": [
-        "Debbarma A",
-        "Pandit S",
-        "Tewari AK"
-      ],
-      "journal": "Tropical animal health and production",
-      "publicationDate": "Jun 08, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42258062/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-15T11:39:12.462Z"
+      "fetchedAt": "2026-06-16T10:48:32.379Z"
     },
     {
       "pmid": "42249504",
@@ -413,30 +459,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:39:04.383Z"
-    },
-    {
-      "pmid": "42250645",
-      "title": "Parasitic infections in solid organ transplant.",
-      "abstract": "Parasitic infections in solid organ transplant recipients are uncommon but potentially devastating. Transmission may occur through donor-derived infection, reactivation of latent disease, or post-transplant environmental exposure, often with nonspecific presentations that delay diagnosis. Clinically important pathogens include Toxoplasma gondii, Plasmodium spp., Babesia spp., Trypanosoma cruzi, Strongyloides stercoralis, Schistosoma spp., and selected free-living amoebae and intestinal apicomplexans. Diagnosis requires integration of epidemiologic risk, microscopy, serology, molecular testing, and tissue evaluation, each with limitations in immunocompromised hosts. Prevention relies on targeted donor and recipient screening, prophylaxis when indicated, and careful post-transplant surveillance. Because delayed recognition can lead to severe disseminated disease and high mortality, a systematic risk-based approach is essential to improve outcomes in this vulnerable population.",
-      "authors": [
-        "Henao-Cordero J",
-        "Botero AH",
-        "Batista MV"
-      ],
-      "journal": "The American journal of the medical sciences",
-      "publicationDate": "Jun 06, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42250645/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-15T11:39:13.654Z"
+      "fetchedAt": "2026-06-16T10:48:33.575Z"
     },
     {
       "pmid": "42251799",
@@ -459,7 +482,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:38:58.210Z"
+      "fetchedAt": "2026-06-16T10:48:28.446Z"
     },
     {
       "pmid": "42282521",
@@ -482,7 +505,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:38:55.764Z"
+      "fetchedAt": "2026-06-16T10:48:25.978Z"
     },
     {
       "pmid": "42252787",
@@ -504,76 +527,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:38:57.571Z"
+      "fetchedAt": "2026-06-16T10:48:27.831Z"
     },
     {
-      "pmid": "42241371",
-      "title": "Notes from the Field: Borrelia mayonii Lyme Disease - New York, 2025.",
-      "abstract": "",
-      "authors": [
-        "Nafiz TN",
-        "Prusinski MA",
-        "Gubbala S"
-      ],
-      "journal": "MMWR. Morbidity and mortality weekly report",
-      "publicationDate": "Jun 04, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42241371/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-15T11:38:59.308Z"
-    },
-    {
-      "pmid": "42247805",
-      "title": "Lyme Borreliosis in Iran: True or myth? A systematic review.",
-      "abstract": "Despite growing global attention to Lyme disease (LD), its epidemiology remains poorly defined in the Middle East, including Iran. This systematic review addresses a critical gap by synthesizing available evidence on LD occurrence, vectors, and reservoirs in Iran. We followed PRISMA guidelines to systematically search international and Iranian databases for studies published in English or Persian up to March 1, 2025. Eligible studies employed serological (ELISA, Western blot) or molecular (PCR-based) diagnostics. Study quality was assessed using the Joanna Briggs Institute checklist. Twenty-six studies were included: five human case reports and 21 cross-sectional studies involving humans, animals, and ticks. Reports of Borrelia burgdorferi sensu lato species were confirmed in multiple hosts and vectors, with scattered geographical distribution. This review provides the first national synthesis of LD-related data in Iran, suggesting underdiagnosis and calling for enhanced surveillance and standardized diagnostic protocols.",
-      "authors": [
-        "Shadravan MM",
-        "FathTabar A",
-        "Lashkari K"
-      ],
-      "journal": "Journal of infection and public health",
-      "publicationDate": "Jun 03, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42247805/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-15T11:38:58.808Z"
-    },
-    {
-      "pmid": "42234535",
+      "pmid": "42293175",
       "title": "Untitled",
-      "abstract": "Lyme disease (LD), caused by Borrelia burgdorferi (Bb), is the most common vector-borne disease in the United States. Novel strategies to control transmission of Bb to humans via ticks are critical for the prevention of LD. One such strategy is to leverage non-infectious mutant strains of Bb for pathogen-derived biologics to block Bb transmission during the natural infectious cycle. Deletion of Borrelia host-adaptation Regulator (&#x394;badR) and replacement of eight conserved residues with alanines in Carbon Storage Regulator A of Bb (8S) resulted in mutants with upregulation of RpoS and several immunogenic lipoproteins, that were incapable of colonization in C3H/HeN mice. Intradermal vaccination of mice with the live mutant strains resulted in significant anti-borrelial antibody responses and a reduction in Bb acquisition by na&#xef;ve Ixodes scapularis larvae following needle challenge with Bb B31-A3. While vaccination with the &#x394;badR mutant conferred a significant reduction in the percentage of infected mice, ML23 and 8S mutants conferred variable levels of protection. Comparative proteomic analysis of purified borrelial lipoproteins (PBLs) from parental and mutant strains revealed similar and unique antigenic components. Infection-derived mouse serum and serum from Lyme disease patients exhibited reactivity to lysates and PBLs from these mutants. Immunization with PBLs from B31-A3 and 8S strains conferred significant protection against challenge with Bb-infected nymphs, underscoring the utility of PBLs as protective formulations. Overall, non-infectious mutant strains, or their lipoproteins, can be exploited as biologics to block the acquisition of Bb by na&#xef;ve larvae from reservoir hosts, thereby disrupting the enzootic transmission cycle of the agent of Lyme disease.",
+      "abstract": "Vector-borne parasites, such as species of Babesia, Trypanosoma, and Leishmania, are emerging and re-emerging causes of infectious diseases that contribute substantially to global morbidity and mortality. Epidemiological shifts, such as expansion of arthropod vector ranges, increased international travel, and transfusion-associated transmission, have amplified their public health impact. A key distinction among these parasites is their localization within the host. Babesia spp. infect erythrocytes, Leishmania spp. reside within macrophages, and Trypanosoma cruzi invades muscle cells, whereas Trypanosoma brucei remains extracellular within the bloodstream and lymphatics. These differences influence immune evasion, disease progression, and treatment response. Sickle cell disease (SCD) is a hereditary hemoglobinopathy characterized by abnormal erythrocytes, chronic hemolysis, vaso-occlusion, and progressive organ damage, which may significantly alter host susceptibility to parasitic infections. While interactions between SCD and malaria-causing Plasmodium spp. are well established, less is known about its impact on infections caused by Babesia spp., Trypanosoma spp., and Leishmania spp. This narrative review synthesizes current evidence on the relationship between SCD and these parasites, focusing on pathophysiology, immune responses, clinical manifestations, and management strategies. Differences in intracellular versus extracellular localization are examined to better understand their effects on disease severity and treatment outcomes. Improved understanding of these interactions may inform targeted screening, novel therapeutic/management approaches, and transfusion safety strategies (especially those at increased risk for transfusion-transmitted infections), while highlighting critical gaps for future research.",
       "authors": [
-        "Kumaresan V",
-        "Smith TC",
-        "Lumbreras M"
+        "Bhosale CR",
+        "Morcos ZL",
+        "Escudero A"
       ],
-      "journal": "Infection and immunity",
-      "publicationDate": "Jun 03, 2026",
+      "journal": "Current research in parasitology & vector-borne diseases",
+      "publicationDate": "06 03, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42234535/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42293175/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:39:00.555Z"
+      "fetchedAt": "2026-06-16T10:48:38.079Z"
     },
     {
       "pmid": "42250567",
@@ -596,67 +573,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:39:03.781Z"
+      "fetchedAt": "2026-06-16T10:48:32.978Z"
     },
     {
-      "pmid": "42229791",
-      "title": "Subacute Bartonella quintana bacteremia following immunomodulatory therapy: A diagnostic challenge.",
-      "abstract": "Bartonella quintana infection presents with a broad clinical spectrum, ranging from asymptomatic to severe disease. Its fastidious growth and immune evasion frequently delay diagnosis, leading to prolonged bacteremia and potential mismanagement. We report a case of subacute Bartonella quintana infection in a patient with newly diagnosed dermatomyositis, presenting with generalized myopathy, persistent low-grade fever, and suspected endocarditis. Blood cultures were intermittently positive, but conventional microbiological methods remained inconclusive. Serology was suggestive, while the definitive diagnosis was established by nanopore sequencing. Combined doxycycline and anti-inflammatory therapy led to rapid clinical improvement. This case highlights the limitations of standard diagnostics for fastidious pathogens and underscores the value of nanopore sequencing for timely diagnosis and targeted management of bloodstream infections.",
+      "pmid": "42293605",
+      "title": "Establishing an EU-compliant diagnostic facility for infectious diseases under war conditions in Poltava, Ukraine.",
+      "abstract": "Russia's invasion has systematically destroyed Ukrainian healthcare infrastructure while simultaneously increasing infectious disease risks through wounded combatants and civilians, people displacement, and disrupted care. Poltava, a central region hosting over 200,000 internally displaced persons, already faced pre-war infectious disease incidences higher than the national average, yet diagnostics relied mostly on low-sensitivity rapid tests. Through a German-Ukrainian hospital partnership funded by the Deutsche Gesellschaft f&#xfc;r Internationale Zusammenarbeit, we established EU-compliant infectious disease serology (ELFA) and automated PCR, as well as an automated bacterial identification system with antibiotic susceptibility testing in Poltava's Regional Clinical Infectious Diseases Hospital. Key elements of the partnership included participatory equipment selection, intensive hands-on training of Ukrainian staff in Germany, joint standard operating procedures, and adaptive reagent supply. Between March 2024 and June 2025, the laboratories in Poltava performed 16,633 tests, detecting previously unrecognized HIV, Hepatitis B and C, Lyme disease, Toxoplasmosis, and antibiotic-resistant bacterial infections. This project demonstrates that advanced diagnostic capacities can be established under war conditions when partnership design prioritizes easy and strait forward solutions, shared decision-making, and contingency planning. The prototypical establishment of powerful serological and molecular diagnostics in infectious diseases through this German-Ukrainian partnership may serve as a model for the implementation in other regions of the Ukraine. Even under the difficult conditions of war, this advancement in infectious disease diagnostics allows for more targeted patient care and contributes to the prevention of pathogen transmission in the Ukraine.",
       "authors": [
-        "Grossmann SD",
-        "Herrmann L",
-        "K&#xfc;hn N"
+        "Zelinskyy G",
+        "Koval T",
+        "Schrammel U"
       ],
-      "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
-      "publicationDate": "Jun 01, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42229791/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-15T11:39:06.864Z"
-    },
-    {
-      "pmid": "42218469",
-      "title": "Molecular detection of zoonotic pathogens in fleas collected from dogs and cats in Portugal.",
-      "abstract": "Fleas are common ectoparasites of companion animals and key vectors of pathogens of veterinary and zoonotic relevance. Although flea infestations are highly prevalent in dogs and cats in Portugal, nationwide data on flea-borne pathogens are limited. This study aimed to estimate the prevalence and characterize the molecular diversity of Bartonella spp., Rickettsia spp., and Dipylidium caninum in fleas collected from dogs and cats in mainland Portugal, and to identify associated epidemiological factors. Fleas collected from dogs and cats across mainland Portugal were screened using conventional polymerase chain reaction (PCR) assays targeting the 16S-23S ribosomal RNA (rRNA) intergenic spacer region of Bartonella spp., the ompB gene of Rickettsia spp., and the 28S rRNA gene region of D. caninum. Positive amplicons were sequenced and analyzed phylogenetically. Associations between pathogen detection and epidemiological variables, including host species, host lifestyle, flea species, and geographic region, were evaluated using multivariable logistic regression models. A total of 1261 fleas were analyzed, with 24.7% positive for at least one pathogen. Bartonella spp. DNA was detected in 8.3% of fleas and was significantly more frequent in fleas from cats, particularly stray/sheltered animals, with regional differences also observed. Identified species included B. clarridgeiae, B. henselae, and B. rochalimae. Rickettsia spp. DNA was detected in 16.2% of fleas, predominantly in Ctenocephalides felis, with flea species, host species, and geographic region identified as independent predictors of positivity. Most sequences corresponded to R. felis, while R. asembonensis and Candidatus R. senegalensis, the latter reported for the first time in Europe, were also identified. Dipylidium caninum DNA was detected in 1.8% of fleas, all C. felis, with both canine- and feline-associated genotypes circulating in fleas from dogs and cats. Co-detection of pathogen DNA occurred in 2.1% of fleas, mostly Bartonella spp./Rickettsia spp. Fleas infesting companion animals in Portugal frequently harbor pathogens of veterinary and zoonotic relevance, with C. felis playing a central role in pathogen circulation at the human-animal interface. These findings reinforce the need for sustained surveillance and effective ectoparasite control within a One Health framework to reduce pathogen circulation and mitigate risks to both animal and public health.",
-      "authors": [
-        "Pereira A",
-        "Cruz A",
-        "Cruz J"
-      ],
-      "journal": "Parasites & vectors",
-      "publicationDate": "May 30, 2026",
+      "journal": "Frontiers in public health",
+      "publicationDate": "05 29, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42218469/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-15T11:39:07.463Z"
-    },
-    {
-      "pmid": "42239376",
-      "title": "A lipid compendium of a metabolically compromised bacterium provides insights into lipid acquisition, biosynthesis, and metabolism.",
-      "abstract": "The Lyme disease agent Borrelia burgdorferi belongs to a class of metabolically compromised bacteria that cannot survive without host-derived lipids. Survival of the agent in tick and vertebrate hosts requires substantial nutrient acquisition and potential cell envelope remodeling. While prior studies identified cholesterol, cholesterol glycolipids, and phosphatidylcholines as membrane lipids in B. burgdorferi , the identity of many other membrane lipids, their origin, and their physiological relevance remain unknown. Here, we used a suite of untargeted and targeted high-resolution mass spectrometry methods to reveal a complex lipid profile of the pathogen and to identify the origin of its lipids. The analysis detected more than 500 lipids in B. burgdorferi , the majority of which are sourced from the environment. However, the bacterium selectively accumulates certain lipids while excluding others, suggesting discriminatory uptake. These include cholesteryl esters and triglycerides that are organized in foci within the pathogen. Intriguingly, the pathogen also synthesizes predominantly eukaryotic lipids such as the lysosomal bis(monoacylglycerol)phosphate and the plant glycolipid sulfoquinovosyl diacylglycerol (SQDG). The biosynthesis of the latter is carried out by enzymes that exhibit structural homology to plant oxidoreductases and galactosyltransferases, yet their closest orthologs are found in bacteria. This hints that the capability of SQDG synthesis is more widespread in spirochaetes and other bacteria. Together, the comprehensive lipid profiling we report here uncovers novel aspects of the physiology of the metabolically challenged B. burgdorferi and highlights lipid acquisition and synthesis pathways as potentially critical for pathogen survival.",
-      "authors": [
-        "Chatterjee P",
-        "Shin HE",
-        "Tuncel MI"
-      ],
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationDate": "May 23, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42239376/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42293605/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
@@ -665,20 +596,67 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:38:59.959Z"
+      "fetchedAt": "2026-06-16T10:48:23.393Z"
     },
     {
-      "pmid": "42238889",
-      "title": "High diversity and distribution of ticks and tick-borne diseases in Sudan emphasizes the need for implementing cost-effective community One Health strategy.",
-      "abstract": "Ticks and tick-borne diseases (TBDs) represent a growing challenge to both animal and human health in Sudan. However, the absence of consolidated nationwide data limits accurate characterization of tick fauna, monitoring of shifts in species distribution, and detection of invasive species. This knowledge gap not only constrains understanding of vector ecology but also weakens efforts to link tick distribution with disease occurrence, thereby undermining targeted control strategies. Livestock TBDs, including theileriosis, babesiosis, anaplasmosis, and lumpy skin disease, cause substantial economic losses by reducing productivity, threatening food security, and hindering national development. In parallel, zoonotic infections such as Crimean-Congo hemorrhagic fever, Q fever, borreliosis, ehrlichiosis, rickettsioses, and potentially tularemia pose underrecognized public health risks. These infections are frequently misdiagnosed or overlooked due to limited diagnostic capacity and the predominance of malaria in the differential diagnosis of febrile illness. The persistence and spread of TBDs in Sudan are driven by interconnected factors, including high livestock mobility, widespread presence of competent vectors, weak veterinary and public health infrastructure, and inadequate surveillance systems. Addressing this multifaceted burden requires integrated approaches that combine improved vector control, expanded diagnostic capacity and surveillance, vaccination where available, and strengthened regional cross-border collaboration. This review synthesizes current knowledge on ticks and TBDs in Sudan, highlights critical gaps, and emphasizes the need for One Health strategies to reduce TBD transmission, protect livelihoods, and safeguard public health.",
+      "pmid": "42292227",
+      "title": "Untitled",
+      "abstract": "Infectious crescentic glomerulonephritis (CrGN) is a rare but severe complication in kidney transplant (KTx) recipients. Bartonella henselae, typically associated with cat-scratch disease or infective endocarditis has rarely been reported as a cause of isolated glomerulonephritis in renal transplant recipients without infective endocarditis. A 64-year-old man with a history of two kidney transplants presented with a 3-week deterioration in renal function, progressing to nephritic syndrome (urine protein creatinine ratio (UPCR) 5.1 g/g, albumin 22 g/L, hypertension, and peripheral edema [+6 kg over 1 week]) and oliguric acute kidney injury (peak creatinine 684 &#x3bc;mol/L). Renal biopsy showed CrGN with IgM/IgA/C3 deposits, suggesting immune complex-mediated pathology. Initial investigations, including blood cultures, two transthoracic echocardiograms performed 1 week apart, and PET scan, ruled out infective endocarditis. Reinterrogation post-biopsy uncovered a cat bite 2 months prior, raising concerns for Bartonella henselae infection, which was confirmed by serological testing. The patient received azithromycin (500 mg/day for 5 days) for infection and corticosteroids (5 mg/kg pulse followed by a tapering regimen) for glomerulonephritis. After 2 dialysis sessions, renal function improved as evidenced by recovery urine output, which led to discontinuous of dialysis. A major complication (upper gastrointestinal bleeding) required endoscopic intervention and blood transfusions. Nephroprotective therapy was optimized (irbesartan up titrated from 75 to 150 mg/days and dapagliflozin 10 mg/day introduced), leading to normalization of proteinuria (UPCR 0.5 g/g) at 1-year follow-up. This case underscores the importance of reinterrogating patients for exposure risks (e.g., animal bites) when facing unexplained CrGN, particularly in renal transplant recipients. It also highlights the effectiveness of combined antibiotic and corticosteroids therapies in managing infectious glomerulonephritis. Clinicians should consider Bartonella as a potential etiology in renal transplant patients with CrGN, even in the absence of classic symptoms.",
       "authors": [
-        "Mohamed NS",
-        "Ahmed A"
+        "Pierson S",
+        "Chabannes M",
+        "Lang S"
       ],
-      "journal": "Frontiers in microbiology",
-      "publicationDate": "05 19, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42238889/",
+      "journal": "Frontiers in medicine",
+      "publicationDate": "05 28, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42292227/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-16T10:48:30.378Z"
+    },
+    {
+      "pmid": "42291970",
+      "title": "Varicella-Zoster Virus Reactivation Following Acute Babesiosis in an Immunocompromised Patient: A Case Report.",
+      "abstract": "Immunocompromised states pose a significant risk factor for both the reactivation of latent viral infections and for increased susceptibility to tick-borne infections. While Lyme disease, transmitted by the spirochete Borrelia burgdorferi, has been&#xa0;associated with varicella-zoster virus (VZV) reactivation, an association between babesiosis, a protozoan infection transmitted by Ixodes ticks that invades erythrocytes, causing hemolysis and systemic infection, and herpes zoster has not been well described in the scientific literature. This case of a 69-year-old female illustrates how impaired innate and adaptive immunity during an acute tick-borne parasitic infection may contribute to VZV reactivation.",
+      "authors": [
+        "Padhi S",
+        "Shah V",
+        "Makam S"
+      ],
+      "journal": "Cureus",
+      "publicationDate": "May 14, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42291970/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-16T10:48:24.163Z"
+    },
+    {
+      "pmid": "42291970",
+      "title": "Varicella-Zoster Virus Reactivation Following Acute Babesiosis in an Immunocompromised Patient: A Case Report.",
+      "abstract": "Immunocompromised states pose a significant risk factor for both the reactivation of latent viral infections and for increased susceptibility to tick-borne infections. While Lyme disease, transmitted by the spirochete Borrelia burgdorferi, has been&#xa0;associated with varicella-zoster virus (VZV) reactivation, an association between babesiosis, a protozoan infection transmitted by Ixodes ticks that invades erythrocytes, causing hemolysis and systemic infection, and herpes zoster has not been well described in the scientific literature. This case of a 69-year-old female illustrates how impaired innate and adaptive immunity during an acute tick-borne parasitic infection may contribute to VZV reactivation.",
+      "authors": [
+        "Padhi S",
+        "Shah V",
+        "Makam S"
+      ],
+      "journal": "Cureus",
+      "publicationDate": "May 14, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42291970/",
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
@@ -687,7 +665,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-15T11:39:14.249Z"
+      "fetchedAt": "2026-06-16T10:48:38.673Z"
+    },
+    {
+      "pmid": "42291812",
+      "title": "Surveillance of Tick Distribution and Infection Rates of Tick-borne Infectious Diseases in Gyeongsangbuk-do Province and Daegu Metropolitan City in 2025.",
+      "abstract": "Hard ticks transmit fatal diseases such as severe fever with thrombocytopenia syndrome (SFTS) and Lyme disease, with recurring risks reported in the Gyeongsangbuk-do and Daegu regions. This study investigated tick occurrence to establish a vector-focused surveillance system aimed at preemptively preventing infectious disease transmission in these areas. From April to November 2025, the Gyeongbuk Regional Center for Disease Control and Prevention, in collaboration with the Daegu and Gyeongsangbuk-do Institutes of Health and Environment, chose five surveillance sites within the region. This study screened for seven tick-borne pathogens, encompassing SFTS, and calculated the minimum infection rate across various environments. A total of 6,874 ticks (3 genera and 4 species) were collected, including 3,563 adults/nymphs and 3,311 larvae. Haemaphysalis longicornis was the dominant species, accounting for 96.2% (3,428) of adults and nymphs. Among the 6,306 specimens (618 pools) tested, four of the seven pathogens (Borrelia spp., Anaplasma phagocytophilum, Ehrlichia spp., and Rickettsia spp.) were detected in 465 pools (5,701 individuals), leading to a 7.4% minimum infection rate. This study verifies the dominance of specific hard tick species and the presence of diverse pathogens in the Gyeongsangbuk-do and Daegu regions, underscoring the need for continuous surveillance. These results are anticipated to contribute to the establishment of an effective community-level response system for infectious diseases by faciliting continuous monitoring tailored to regional characteristics and by building long-term surveillance systems associated with environmental changes and human infection cases.",
+      "authors": [
+        "Ha YR",
+        "Kim MJ",
+        "Yun HK"
+      ],
+      "journal": "Public health weekly report",
+      "publicationDate": "05 12, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42291812/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-16T10:48:24.764Z"
     }
   ]
 }
