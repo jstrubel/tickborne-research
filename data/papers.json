@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T10:21:05.069Z",
+  "generatedAt": "2026-06-18T10:00:47.262Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:54.813Z"
+      "fetchedAt": "2026-06-18T10:00:38.581Z"
     },
     {
       "pmid": "42238846",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:56.301Z"
+      "fetchedAt": "2026-06-18T10:00:39.254Z"
     },
     {
       "pmid": "42276667",
@@ -69,30 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:21:01.849Z"
-    },
-    {
-      "pmid": "42232821",
-      "title": "First Description of Nonlupus Full-House Nephropathy in Systemic Juvenile Idiopathic Arthritis Responsive to High-Dose Tocilizumab.",
-      "abstract": "Nonlupus full-house nephropathy (NL-FHN) is a distinct clinicopathological entity defined as the concurrent positive staining for immunoglobulin A, immunoglobulin G, immunoglobulin M, C3, and C1q at immunofluorescence or immunohistochemistry on kidney biopsy samples with lupus nephritis light microscopy lesions without clinical and laboratory features of systemic lupus erythematosus. Secondary forms of NL-FHN are mainly infectious in &#x223c;40% of cases (human immunodeficiency virus and Bartonella being the leading infectious causes). Autoimmune diseases represent less than 20% of secondary NL-FHNs. The renal prognosis is usually poor because NL-FHN has been reported as an independent risk factor for end-stage renal disease in clinical studies. To our knowledge, we report the first case of NL-FHN associated with systemic juvenile idiopathic arthritis. Interestingly, despite the poor prognosis of NL-FHN reported in the literature, we observed a complete renal response after early identification and subsequent tocilizumab regimen tailored by clinical manifestations and disease activity. This observation highlights the importance of early diagnosis and the potential link between underlying autoimmune disease and the development of NL-FHN in some patients.",
-      "authors": [
-        "Jacobs L",
-        "Badot V",
-        "Nagant C"
-      ],
-      "journal": "Kidney medicine",
-      "publicationDate": "Jul 29, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42232821/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-17T10:20:56.878Z"
+      "fetchedAt": "2026-06-18T10:00:44.418Z"
     },
     {
       "pmid": "42276665",
@@ -115,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:21:02.507Z"
+      "fetchedAt": "2026-06-18T10:00:45.034Z"
     },
     {
       "pmid": "42276660",
@@ -138,7 +115,29 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:21:03.443Z"
+      "fetchedAt": "2026-06-18T10:00:45.624Z"
+    },
+    {
+      "pmid": "42308248",
+      "title": "Machine learning-driven identification of virulence determinants in Borrelia burgdorferi associated with human dissemination.",
+      "abstract": "Lyme disease, the most common tick-borne infectious disease in the United States, presents with highly variable clinical outcomes, ranging from localized erythema migrans to severe disseminated complications affecting the heart, joints, and nervous system. The bacterial determinants underlying this phenotypic variation remain largely unknown, limiting our ability to predict disease progression and optimize treatment strategies. Here, we applied machine learning (ML) approaches to identify specific amino acid residues within surface-exposed virulence factors that predict human dissemination phenotypes. Utilizing the published whole genome sequences from 299 clinical Borrelia burgdorferi isolates collected from the United States and Slovenia over a 30-year period (1992-2021), we extracted and characterized translated amino acid sequences (variants) of seven known virulence factors (BB_0406, BBK32, DbpA, OspA, OspC, P66, and RevA). Protein variants were classified based on their association with disseminated versus localized infections using clinical metadata. Cram&#xe9;r's V analysis revealed possible strong associations between dissemination phenotypes and five adhesins: BBK32, DbpA, OspC, P66, and RevA. We developed ML models using five algorithms with multiple feature selection strategies, achieving robust predictive performance for DbpA, OspC, and RevA variants (all performance metrics&#x2009;>&#x2009;0.7). Feature importance analysis identified 57, 29, and 42 key predictive residues for DbpA, OspC, and RevA, respectively. Notably, B-cell epitope prediction revealed significant enrichment of ML-identified residues within predicted epitope regions for OspC (11 overlapping residues, OR = 3.57, p&#x2009;=&#x2009;0.006) and RevA (12 overlapping residues, OR = 2.37, p&#x2009;=&#x2009;0.048), suggesting these residues may influence immune recognition and bacterial persistence. This study establishes the first computational framework linking Borrelia protein sequence variants to clinical dissemination phenotypes, providing molecular insights into Lyme disease pathogenesis that may inform the development of improved diagnostics and therapeutic targets.",
+      "authors": [
+        "Nguyen HT",
+        "Brissette CA"
+      ],
+      "journal": "PLoS computational biology",
+      "publicationDate": "Jun 17, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42308248/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-18T10:00:26.470Z"
     },
     {
       "pmid": "42302839",
@@ -161,7 +160,28 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:58.345Z"
+      "fetchedAt": "2026-06-18T10:00:40.620Z"
+    },
+    {
+      "pmid": "42306028",
+      "title": "Fever of Unknown Origin as an Isolated Manifestation of Ulcerative Colitis Despite Clinical and Radiographic Remission: A Case Report.",
+      "abstract": "Fever is a recognized manifestation of active ulcerative colitis (UC); however, isolated fever in the absence of GI symptoms or objective evidence of active colonic inflammation is exceedingly uncommon. The diagnostic challenge is amplified in immunocompromised patients receiving biologic therapy, in whom occult infection must be rigorously excluded. We present a 68-year-old woman with a history of well-controlled HIV infection and recently diagnosed UC who was initiated on vedolizumab, mesalamine, and a prednisone taper in the outpatient setting. She presented with persistent daily fevers and initial concern for an infectious etiology of pyrexia. Ulcerative colitis appeared to be well treated, with outpatient CT&#xa0;demonstrating resolution of colitis, and the patient denied diarrhea, abdominal pain, hematochezia, or other symptoms suggestive of active disease. An extensive infectious workup, including blood cultures, viral studies, fungal biomarkers, Lyme disease testing, tick-borne testing, and autoimmune serologies, was negative. During the laboratory evaluation, thrombocytopenia, markedly elevated inflammatory markers, and elevated D-dimer levels were noted. Despite a comprehensive multidisciplinary evaluation, no infectious, malignant, thrombotic, or rheumatologic etiology was identified. Throughout her hospital course, the patient developed sequelae of a severe inflammatory response, including atrial fibrillation. The patient's fevers were ultimately attributed to an atypical systemic inflammatory manifestation of UC. This case highlights a rare presentation of UC manifesting predominantly as fever of unknown origin (FUO) despite apparent clinical and radiographic remission. Clinicians should recognize that significant systemic inflammation may occur even in the absence of overt GI disease activity after exclusion of alternative causes.",
+      "authors": [
+        "Memon M"
+      ],
+      "journal": "Cureus",
+      "publicationDate": "Jun 15, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42306028/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-18T10:00:27.066Z"
     },
     {
       "pmid": "42294764",
@@ -184,7 +204,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:43.672Z"
+      "fetchedAt": "2026-06-18T10:00:27.565Z"
     },
     {
       "pmid": "42294661",
@@ -207,7 +227,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:50.732Z"
+      "fetchedAt": "2026-06-18T10:00:34.371Z"
     },
     {
       "pmid": "42298473",
@@ -230,7 +250,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:58.922Z"
+      "fetchedAt": "2026-06-18T10:00:41.244Z"
     },
     {
       "pmid": "42283472",
@@ -252,7 +272,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:46.103Z"
+      "fetchedAt": "2026-06-18T10:00:29.956Z"
+    },
+    {
+      "pmid": "42307305",
+      "title": "Between insects and birds: molecular evidence of Bartonella henselae DNA in Rhodnius prolixus (St&#xe5;l, 1859) from an insectary and Cairina moschata (Linnaeus, 1758) ducks used as triatomine blood meal source.",
+      "abstract": "Bartonella henselae is the primary human pathogen species of this Gram-negative bacterial genus, associated with several clinical manifestations including cat scratch disease, bacillary angiomatosis, endocarditis, and myocarditis. This pathogen was recently detected in Triatoma sordida, a vector of Chagas disease in Brazil. Here, we investigated the presence of B. henselae DNA in Rhodnius prolixus, another triatomine vector of Trypanosoma cruzi maintained in an insectary and in ducks (Cairina moschata) used as a blood source for their colony. A total of 84 triatomines and blood samples from 10 ducks were analyzed by nested PCR targeting the ftsZ gene of B. henselae. Bacterial DNA was detected in four (4.76%) triatomines and in nine (90%) ducks. Sequencing of amplicons from three triatomines and two ducks revealed 100% identity, full query coverage, and highly significant E-values, indicating complete sequence identity to Bartonella henselae strain Houston-1. To the best of the authors' knowledge, this study provides novel evidence of B. henselae DNA in R. prolixus and C. moschata. However, the vector competence of triatomines for transmitting this bacterium to humans and/or ducks remains unclear.",
+      "authors": [
+        "Santos LSD",
+        "Velho PENF",
+        "Oliveira J"
+      ],
+      "journal": "Revista do Instituto de Medicina Tropical de Sao Paulo",
+      "publicationDate": "06 12, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42307305/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-18T10:00:33.693Z"
     },
     {
       "pmid": "42277889",
@@ -275,7 +318,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:51.892Z"
+      "fetchedAt": "2026-06-18T10:00:35.586Z"
     },
     {
       "pmid": "42271556",
@@ -298,7 +341,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:52.468Z"
+      "fetchedAt": "2026-06-18T10:00:36.180Z"
     },
     {
       "pmid": "42289158",
@@ -321,7 +364,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:21:00.688Z"
+      "fetchedAt": "2026-06-18T10:00:43.073Z"
     },
     {
       "pmid": "42288018",
@@ -344,7 +387,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:21:01.274Z"
+      "fetchedAt": "2026-06-18T10:00:43.825Z"
     },
     {
       "pmid": "42276531",
@@ -367,7 +410,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:21:04.069Z"
+      "fetchedAt": "2026-06-18T10:00:46.260Z"
     },
     {
       "pmid": "42269506",
@@ -390,7 +433,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:47.314Z"
+      "fetchedAt": "2026-06-18T10:00:31.167Z"
     },
     {
       "pmid": "42264162",
@@ -413,7 +456,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:47.889Z"
+      "fetchedAt": "2026-06-18T10:00:31.840Z"
     },
     {
       "pmid": "42260952",
@@ -436,7 +479,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:53.080Z"
+      "fetchedAt": "2026-06-18T10:00:36.773Z"
     },
     {
       "pmid": "42249504",
@@ -459,30 +502,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:54.236Z"
-    },
-    {
-      "pmid": "42251799",
-      "title": "A diagnostic gap in rising Lyme borreliosis endemicity: Lyme testing patterns among facial palsy patients in Ohio, 2022-2024.",
-      "abstract": "Facial palsy is one of many manifestations of Lyme borreliosis. Data from our 3- year retrospective descriptive cohort quality improvement study suggests an opportunity for improvement between testing practices for Lyme borreliosis-associated facial palsy and Ohio's rising Lyme borreliosis incidence. Provider education regarding Ohio's Lyme borreliosis endemicity is crucial, particularly during peak summer months.",
-      "authors": [
-        "Wong KK",
-        "Itrat A",
-        "Wu CP"
-      ],
-      "journal": "Diagnostic microbiology and infectious disease",
-      "publicationDate": "Jun 05, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42251799/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-17T10:20:49.040Z"
+      "fetchedAt": "2026-06-18T10:00:37.967Z"
     },
     {
       "pmid": "42282521",
@@ -505,29 +525,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:46.725Z"
-    },
-    {
-      "pmid": "42252787",
-      "title": "Reevaluation of Lyme serologic quantitative test indexes: confirmation that high first-tier test index values predict a positive second-tier result in a modified 2-tier Lyme testing algorithm.",
-      "abstract": "In a previous study, we reported that using a first-tier quantitative Lyme serologic index may obviate the need for second-tier confirmatory testing in samples above a defined cutoff value. Here we have expanded on the sample size to confirm and better refine the potential utility of the serologic index to aid in timely clinical decision-making. We reviewed 1 year of Lyme serologic test results sent to our laboratory for testing using a modified 2-tier testing algorithm (MTTT) to determine the probability of second-tier confirmation based on the initial Lyme index value. Using the original Lyme index cutoff at which 100% of samples confirmed on second-tier testing (2.68), in the expanded dataset, 98.7% of samples confirmed at this cutoff. Using all of the expanded sample set data, we defined 6 Lyme index brackets from highly positive to equivocal to estimate the probability of the first-tier test confirming on second-tier testing. We also constructed a formula relating the index to the probability of confirmation across the continuum of index values to predict second-tier confirmation in an MTTT algorithm. The use of a Lyme test index value may eliminate the need for confirmatory testing on many positive first-tier samples in patients suspected of having Lyme disease. First-tier Lyme test results may be improved by reporting the index value along with the probability of confirmation. This may facilitate more timely diagnosis and clinical decision-making and potentially improve the time to antimicrobial therapy.",
-      "authors": [
-        "Lee-Lewandrowski E",
-        "Lewandrowski K"
-      ],
-      "journal": "American journal of clinical pathology",
-      "publicationDate": "Jun 04, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42252787/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-17T10:20:48.464Z"
+      "fetchedAt": "2026-06-18T10:00:30.560Z"
     },
     {
       "pmid": "42293175",
@@ -550,7 +548,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:59.501Z"
+      "fetchedAt": "2026-06-18T10:00:41.834Z"
     },
     {
       "pmid": "42250567",
@@ -573,7 +571,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:53.655Z"
+      "fetchedAt": "2026-06-18T10:00:37.367Z"
     },
     {
       "pmid": "42293605",
@@ -596,7 +594,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:44.334Z"
+      "fetchedAt": "2026-06-18T10:00:28.166Z"
     },
     {
       "pmid": "42292227",
@@ -619,7 +617,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:51.314Z"
+      "fetchedAt": "2026-06-18T10:00:34.994Z"
     },
     {
       "pmid": "42291970",
@@ -642,7 +640,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:44.917Z"
+      "fetchedAt": "2026-06-18T10:00:28.761Z"
     },
     {
       "pmid": "42291970",
@@ -665,7 +663,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:21:00.109Z"
+      "fetchedAt": "2026-06-18T10:00:42.465Z"
     },
     {
       "pmid": "42291812",
@@ -688,7 +686,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-17T10:20:45.489Z"
+      "fetchedAt": "2026-06-18T10:00:29.358Z"
     }
   ]
 }
