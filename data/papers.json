@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T10:07:21.390Z",
+  "generatedAt": "2026-06-20T08:37:02.090Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:11.825Z"
+      "fetchedAt": "2026-06-20T08:36:52.825Z"
     },
     {
       "pmid": "42238846",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:12.464Z"
+      "fetchedAt": "2026-06-20T08:36:53.433Z"
     },
     {
       "pmid": "42276667",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:19.135Z"
+      "fetchedAt": "2026-06-20T08:37:00.489Z"
     },
     {
       "pmid": "42276665",
@@ -92,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:19.753Z"
+      "fetchedAt": "2026-06-20T08:37:01.088Z"
     },
     {
       "pmid": "42314100",
@@ -115,21 +115,65 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:06:58.865Z"
+      "fetchedAt": "2026-06-20T08:36:41.546Z"
     },
     {
-      "pmid": "42276660",
-      "title": "Babesia gibsoni in Brazil: First multilocus molecular characterization in a domestic dog with clinical, hematological and morphological data.",
-      "abstract": "Canine babesiosis is a disease caused by protozoa of the genus Babesia, an important hemoparasite in veterinary clinical practice. In Brazil, Babesia vogeli predominates; however, Babesia gibsoni, common in Asia and the United States, has emerged globally with distinct diagnostic, therapeutic, prophylactic, and prognostic features. In the present study, we report the first multilocus molecular characterization of B. gibsoni in Brazil with supported clinical, laboratory and morphological data. A Dachshund dog from the Federal District presented with nonspecific clinical signs, including fever, dehydration, and persistent anemia. Babesia infection was confirmed by PCR and further characterized using four molecular markers (cytb, cox3, hsp70, and 18S rRNA). Phylogenetic and sequence identity analyses confirmed the species as B. gibsoni. Haplotype networks were constructed, and diversity indices were calculated, revealing significant genetic variability within the species. The Brazilian isolate clustered within the dominant haplotype for the 18S rRNA gene. This network suggests a possible recent population expansion of the pathogen. The cytb and cox3 genes exhibited high genetic variability, demonstrating their suitability as markers for intraspecific diversity analyses. Our findings suggest that B. gibsoni infections may be underdiagnosed in Brazil. Furthermore, considering the genetic diversity and widespread distribution of this pathogen, epidemiological, phylogenetic, and phylogeographic studies are essential to enhance understanding of its occurrence and impact within the country. Although this study is limited by the evaluation of a single case, it emphasizes the importance of molecular surveillance in canine babesiosis and highlights B. gibsoni, an emerging pathogen, as a critical differential diagnosis in the clinical evaluation of dogs in Brazil.",
+      "pmid": "42317500",
+      "title": "Epidemiology of Lyme disease, a growing tick-borne disease of concern, in Japan from May 2013 to March 2024: a descriptive study.",
+      "abstract": "Lyme disease (LD) is a globally distributed zoonosis; however, limited epidemiological data are available from Japan. This study aimed to elucidate the characteristics of LD cases reported through the Japanese national surveillance system. We conducted a retrospective descriptive study based on data from the National Epidemiological Surveillance of Infectious Diseases for the fiscal years 2006-2023. Overall, 265 LD cases were reported, ranging from five in 2008 to 28 in 2023 (median: 12.5), including 216 domestic, predominantly from Hokkaido, and 43 imported cases. The median annual notification rate for domestic cases was 0.94 per 10 million population (range: 0.39-2.14). The median age was 53 years, and 62% were male. No fatal cases were reported. Most infections occurred between May and September. Common clinical features of the cases included erythema migrans, fever, and neurological symptoms. The median duration from onset to diagnosis was 28.5 days (interquartile range: 16-45 days). The number of LD cases in Japan has increased, with cases predominantly occurring in middle-aged men from Hokkaido and other areas. Furthermore, patients having LD presented with non-specific symptoms, including neurological involvement, resulting in delayed diagnoses. These findings highlight the importance of increasing awareness of LD in Japan.",
       "authors": [
-        "Duarte MA",
-        "de Oliveira Fernandes T",
-        "do R&#xea;go GMS"
+        "Goto K",
+        "Kato H",
+        "Kanesaki M"
       ],
-      "journal": "Veterinary parasitology, regional studies and reports",
-      "publicationDate": "Jul 14, 2026",
+      "journal": "IJID regions",
+      "publicationDate": "Jun 21, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42276660/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42317500/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-20T08:36:40.946Z"
+    },
+    {
+      "pmid": "42320626",
+      "title": "Structural architecture of a hybrid &#x3b2;-barrel assembly machinery BAM-TAM complex in Borrelia burgdorferi.",
+      "abstract": "The &#x3b2;-barrel assembly machinery (BAM) inserts outer membrane proteins (OMPs) into the outer membrane of Gram-negative bacteria. In well-studied organisms such as Escherichia coli, BAM consists of BamA and four accessory lipoproteins (BamB-E) that coordinate substrate recognition, membrane remodeling, and &#x3b2;-barrel insertion. In the Lyme disease spirochete Borrelia burgdorferi, however, the BAM system is simplified, comprising only BamA (BB0795), BamD (BB0324), and BamB (BB0028), while lacking BamC and BamE. In addition, B. burgdorferi encodes a TamB homolog (BB0794), suggesting a hybrid BAM-TAM organization. Here, we define the structural architecture of the spirochetal BAM-TAM system. AlphaFold3 modeling predicts that BamD binds to BamA periplasmic domains POTRA4-5, while BamB interacts with POTRA1, POTRA3, POTRA4, and POTRA5, forming a closed periplasmic ring distinct from the enterobacterial arrangement. Microscale thermophoresis confirms micromolar-affinity binding of BamD to BamA POTRA3-5, no detectable interaction with POTRA1-3, and loss of POTRA3-5 interaction upon mutation of key interface residues. Crystal structures of BamA POTRA1-2 and POTRA2-3 further define the architecture and flexibility of the periplasmic region. Strikingly, structural modeling of the full complex suggests that the C-terminal &#x3b2;-strands of TamB complete the BamA &#x3b2;-barrel through &#x3b2;-strand augmentation, forming a continuous hybrid barrel with a hydrophobic exterior and hydrophilic interior. This arrangement may provide a direct structural link between periplasmic protein handling and membrane insertion. Together, these findings support a reorganized BAM architecture in B. burgdorferi and suggest that the hybrid BAM-TAM organization is conserved across Lyme disease-associated Borrelia species, providing a framework for understanding outer membrane assembly in spirochetes.",
+      "authors": [
+        "Brangulis K"
+      ],
+      "journal": "The Journal of biological chemistry",
+      "publicationDate": "Jun 19, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42320626/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-06-20T08:36:40.342Z"
+    },
+    {
+      "pmid": "42321905",
+      "title": "Mosquito-based xenosurveillance reveals circulation of Anaplasma and Neoehrlichia in livestock at a human-wildlife interface in Kenya.",
+      "abstract": "Xenosurveillance, which uses blood-feeding insects as biological samplers, is an emerging non-invasive approach for monitoring pathogens circulating among humans, livestock, and wildlife. However, its application to livestock-associated bacterial pathogens at human-animal-wildlife interfaces remains underexplored. We investigated whether mosquito blood meals could be used to detect tick-borne bacterial pathogens circulating in livestock in Kenya. We collected 4673 mosquitoes, belonging to Culex, Anopheles, Aedes, Mansonia, and Coquillettidia genera around livestock enclosures in Kajiado and Naivasha counties, Kenya, using CO&#x2082;-baited CDC miniature light traps. Traps were selected to maximise species diversity, and as light traps capture fewer engorged mosquitoes than resting traps, only 56 blood-fed individuals (1.2%) were collected and processed as whole-specimen homogenates and analysed for vertebrate blood-meal sources using cytochrome b sequencing. In total, 303 mosquito pools, including blood-fed individuals processed as single-mosquito pools, were screened for Anaplasma, Ehrlichia, Rickettsia, Theileria, and Babesia using PCR-high-resolution melting analysis and confirmatory sequencing. All pathogen-positive detections were exclusively from blood-fed individuals. We detected Anaplasma marginale in Culex pipiens (1/150; 0.7%) and Aedes hirsutus (2/11; 18.2%), Anaplasma sp. in Cx. pipiens (2/150; 1.4%) and Ae. hirsutus (1/11; 9.1%), and Candidatus Neoehrlichia mikurensis in Mansonia africana (2/50; 4%). Pathogen detections showed strong host concordance, where A. marginale was associated with cattle-derived blood meals and Anaplasma sp. with goat-derived blood meals, while Candidatus Neoehrlichia mikurensis was detected in Mn. africana that had fed on cattle and on a host that could not be determined. Our results provide preliminary evidence that mosquito-based xenosurveillance can detect tick-borne bacterial pathogens circulating in livestock at human-wildlife interfaces in Kenya. The strong concordance between pathogen identity and vertebrate host in blood-fed mosquitoes supports the biological plausibility of this approach. Notably, detection of Ca. Neoehrlichia mikurensis represents the first report of this zoonotic pathogen in mosquitoes in Africa, highlighting the One Health relevance of xenosurveillance in identifying settings, where pathogen circulation and cross-interface feeding coincide. Mosquito-derived sampling has potential to complement existing surveillance tools in agro-pastoral systems, where direct host sampling is difficult or costly.",
+      "authors": [
+        "Getange D",
+        "Mukaratirwa S",
+        "Esibi O"
+      ],
+      "journal": "Parasites & vectors",
+      "publicationDate": "Jun 19, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42321905/",
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
@@ -138,7 +182,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:20.389Z"
+      "fetchedAt": "2026-06-20T08:36:55.178Z"
     },
     {
       "pmid": "42312749",
@@ -161,7 +205,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:06:59.595Z"
+      "fetchedAt": "2026-06-20T08:36:42.211Z"
     },
     {
       "pmid": "42308248",
@@ -183,7 +227,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:00.229Z"
+      "fetchedAt": "2026-06-20T08:36:42.943Z"
     },
     {
       "pmid": "42302839",
@@ -206,7 +250,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:15.028Z"
+      "fetchedAt": "2026-06-20T08:36:56.378Z"
     },
     {
       "pmid": "42306028",
@@ -227,7 +271,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:00.942Z"
+      "fetchedAt": "2026-06-20T08:36:43.545Z"
     },
     {
       "pmid": "42294764",
@@ -250,7 +294,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:01.442Z"
+      "fetchedAt": "2026-06-20T08:36:44.045Z"
     },
     {
       "pmid": "42294661",
@@ -273,7 +317,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:07.246Z"
+      "fetchedAt": "2026-06-20T08:36:48.520Z"
     },
     {
       "pmid": "42298473",
@@ -296,29 +340,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:15.665Z"
-    },
-    {
-      "pmid": "42283472",
-      "title": "Tick-Borne Diseases in Orthopaedic Practice: Lyme Arthritis and Alpha-gal Syndrome.",
-      "abstract": "The prevalence of tick-borne disease continues to rise in the United States. Lyme disease is the most prevalent, classically presenting as monoarthralgia or polyarthralgia and effusions. Although most cases of Lyme arthritis are well managed with antibiotics, in some cases, refractory symptoms and arthritis persist. In addition, the tick-borne disease, alpha-gal syndrome (AGS), can have long-term sequelae, including immunoglobulin E-mediated hypersensitivity to mammalian products. Classically, AGS presents as a new onset of food allergy or intolerance to bovine products. As interest in biologics and xenografts for medical devices grows, AGS raises concerns about implant complications and perioperative anesthesia risks. It is imperative that the orthopaedic surgeon be aware of Lyme disease and AGS, and this review provides a concise overview of the pathogenesis, epidemiology, clinical presentation, diagnostic evaluation, and management of joint effusions as they pertain to tick-borne disease. We highlight the management pathway for AGS and tools for streamlining the preoperative pathway.",
-      "authors": [
-        "Zikria B",
-        "Murali S"
-      ],
-      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
-      "publicationDate": "Jun 12, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42283472/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-19T10:07:04.023Z"
+      "fetchedAt": "2026-06-20T08:36:56.982Z"
     },
     {
       "pmid": "42307305",
@@ -341,7 +363,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:06.529Z"
+      "fetchedAt": "2026-06-20T08:36:47.919Z"
     },
     {
       "pmid": "42277889",
@@ -364,7 +386,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:08.556Z"
+      "fetchedAt": "2026-06-20T08:36:49.740Z"
     },
     {
       "pmid": "42271556",
@@ -387,7 +409,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:09.191Z"
+      "fetchedAt": "2026-06-20T08:36:50.342Z"
     },
     {
       "pmid": "42289158",
@@ -410,7 +432,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:17.827Z"
+      "fetchedAt": "2026-06-20T08:36:59.287Z"
     },
     {
       "pmid": "42288018",
@@ -433,7 +455,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:18.466Z"
+      "fetchedAt": "2026-06-20T08:36:59.887Z"
     },
     {
       "pmid": "42260952",
@@ -456,7 +478,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:09.825Z"
+      "fetchedAt": "2026-06-20T08:36:50.954Z"
     },
     {
       "pmid": "42249504",
@@ -479,30 +501,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:11.188Z"
-    },
-    {
-      "pmid": "42282521",
-      "title": "When clades collide: Genomic admixture in blacklegged ticks (Ixodes scapularis) from the Great Plains.",
-      "abstract": "Ixodes scapularis ticks transmit a number of pathogens important to human health, including Borrelia burgdorferi , the causative agent of Lyme disease. While I. scapularis is found across the Eastern United States, Lyme disease transmission is largely limited to the Northeast and Upper Midwest and is nearly absent in the South. This indicates that differences in northern versus southern clades of I. scapularis are associated with differences in Lyme disease transmission risk. I. scapularis is undergoing range expansion, including into the Great Plains region of the United States. Determining where I. scapularis populations in the Great Plains originated can inform future risk of Lyme disease transmission in this region. In this study, we use a population genomics framework to characterize diversity, structure, and B. burgdorferi infection rates of I. scapularis populations in the Great Plains region. We generated whole genome sequence data and single nucleotide polymorphism (SNP) datasets from I. scapularis ticks collected in Iowa, Kansas, Nebraska, and South Dakota to compare to publicly available data from across the species range. Our analysis of 200 I. scapularis SNP datasets indicated geographically well-defined populations that correspond to historical northern and southern ancestral clades of I. scapularis . Ticks from South Dakota, Iowa, and northeastern Nebraska are genetically similar populations from the Upper Midwest, while ticks from Kansas are more genetically similar to ticks from the Southeast. Ticks collected in the central eastern region of Nebraska, however, represent an evenly admixed population of both northern and southern genomic backgrounds. Analysis of B. burgdorferi reads from genomic datasets shows ~50% infection rate in ticks from Iowa and northeastern Nebraska, whereas ticks from Kansas show no evidence of B. burgdorferi infection. Of note, evenly admixed ticks from the central eastern region of Nebraska also show no evidence of B. burgdorferi infection. These results provide further evidence that tick genomics may influence traits associated with B. burgdorferi infection status, and thus the potential for Lyme disease transmission. As the range of I. scapularis continues to expand, bringing historically isolated populations into contact, there is a clear need to understand the consequence of genomic admixture for B. burgdorferi transmission potential to inform future risk of Lyme disease in the United States.",
-      "authors": [
-        "Herzog KS",
-        "Pella Z",
-        "Smith H"
-      ],
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationDate": "Jun 04, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42282521/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-06-19T10:07:04.719Z"
+      "fetchedAt": "2026-06-20T08:36:52.225Z"
     },
     {
       "pmid": "42293175",
@@ -525,7 +524,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:16.548Z"
+      "fetchedAt": "2026-06-20T08:36:57.614Z"
     },
     {
       "pmid": "42311377",
@@ -548,7 +547,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:14.364Z"
+      "fetchedAt": "2026-06-20T08:36:55.777Z"
     },
     {
       "pmid": "42250567",
@@ -571,7 +570,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:10.461Z"
+      "fetchedAt": "2026-06-20T08:36:51.556Z"
     },
     {
       "pmid": "42293605",
@@ -594,7 +593,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:02.089Z"
+      "fetchedAt": "2026-06-20T08:36:44.640Z"
     },
     {
       "pmid": "42292227",
@@ -617,7 +616,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:07.881Z"
+      "fetchedAt": "2026-06-20T08:36:49.118Z"
     },
     {
       "pmid": "42291970",
@@ -640,7 +639,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:02.748Z"
+      "fetchedAt": "2026-06-20T08:36:45.247Z"
     },
     {
       "pmid": "42291970",
@@ -663,7 +662,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:17.191Z"
+      "fetchedAt": "2026-06-20T08:36:58.291Z"
     },
     {
       "pmid": "42291812",
@@ -686,7 +685,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-19T10:07:03.384Z"
+      "fetchedAt": "2026-06-20T08:36:46.336Z"
     }
   ]
 }
