@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-06-27T08:22:28.550Z",
+  "generatedAt": "2026-06-28T08:36:55.191Z",
   "totalPapers": 30,
   "papers": [
     {
-      "pmid": "42324826",
-      "title": "The current landscape and future directions of Lyme disease vaccines.",
-      "abstract": "Lyme disease (LD) represents a significant public health challenge in North America and Eurasia. The persistent increase in its incidence may create an opportunity for vaccines to gain broader acceptance. Recent years have seen notable advances in vaccine development. However, achieving a balance between broad-spectrum protection and durable immunity remains a critical bottleneck. This article is presented as a narrative review that systematically summarizes recent progress in Lyme disease vaccine research worldwide, with particular emphasis on the strengths and limitations of approved and investigational candidates. Unlike existing reviews, this study integrates recent clinical investigations of multivalent vaccine candidates with breakthrough advances across diverse vaccine platforms, yielding a comprehensive and current synthesis. We identify critical challenges in contemporary vaccine development and propose actionable solutions. Our forward-looking perspective centers on a triangular strategy that integrates antigen multivalency, platform personalization, and geographical customization, providing a conceptual framework to guide future LD immunoprophylaxis research.",
+      "pmid": "42364726",
+      "title": "Integrated tick management strategies in fragmented peridomestic environments.",
+      "abstract": "Borrelia burgdorferi (Bb) is a tick-borne zoonosis. Humans are not competent for transmission, but can become infected and develop Lyme disease (LD) via the bite of an infected blacklegged tick. Over the last decades, there has been a sustained increase in Borrelia prevalence in wildlife in North America, leading to an increase in spillover events, particularly in residential areas that border woodland. Understanding tick ecology is essential for predicting the spread of LD, informing control strategies, and assessing the impact of environmental changes. In this study, we develop a hybrid deterministic-stochastic metapopulation model for tick population dynamics in a fragmented peridomestic environment. Our principal aim is to elucidate how deer movement and the treatment of deer with acaricides affect the density of infected blacklegged nymphs (DIN) and the parasite basic reproduction number R0. Deer are primary hosts for adult ticks and can move over large distances, transporting feeding ticks in the process. Deer tend to visit peridomestic areas in small numbers. Consequently, deer location is inherently stochastic and the tick population dynamics are drawn into this stochasticity. When we implement the model for a simple landscape consisting of two patches connected by deer movement we find that the DIN quasi-steady state values are reduced if the acaricides administered to deer are more effective, last longer, or are applied more frequently. When deer movement behaviour is biased towards areas with higher feeder availability (independent of whether they include an acaricide treatment), the redistribution deer and the transportation of ticks by moving deer can drive up the local DIN even if those feeders include an acaricide treatment and mice are targetted with acaricide treatment elsewhere. Our results suggest that maintaining deer feeders for acaricide administration in land away from peridomestic areas could be a more effective strategy for reducing human infection risk than placing those feeders in peridomestic areas. Since this strategy concentrates the tick population in the area with the feeder, further depletion or eradication may be possible if acaricide is also administered to the mice there.",
       "authors": [
-        "Chen Z",
-        "He L",
-        "Huang X"
+        "Barlow A",
+        "Penington S",
+        "Adams B"
       ],
-      "journal": "Virulence",
-      "publicationDate": "Dec 22, 2026",
+      "journal": "Journal of theoretical biology",
+      "publicationDate": "Jun 27, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42324826/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42364726/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:12.499Z"
+      "fetchedAt": "2026-06-28T08:36:34.753Z"
     },
     {
       "pmid": "42361962",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:07.030Z"
+      "fetchedAt": "2026-06-28T08:36:35.342Z"
     },
     {
       "pmid": "42351231",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:24.298Z"
+      "fetchedAt": "2026-06-28T08:36:51.132Z"
     },
     {
       "pmid": "42335481",
@@ -92,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:09.434Z"
+      "fetchedAt": "2026-06-28T08:36:37.960Z"
     },
     {
       "pmid": "42334346",
@@ -115,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:10.088Z"
+      "fetchedAt": "2026-06-28T08:36:38.596Z"
     },
     {
       "pmid": "42335804",
@@ -138,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:15.028Z"
+      "fetchedAt": "2026-06-28T08:36:42.379Z"
     },
     {
       "pmid": "42358922",
@@ -161,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:08.232Z"
+      "fetchedAt": "2026-06-28T08:36:36.652Z"
     },
     {
       "pmid": "42348963",
@@ -184,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:24.896Z"
+      "fetchedAt": "2026-06-28T08:36:51.724Z"
     },
     {
       "pmid": "42347258",
@@ -207,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:25.657Z"
+      "fetchedAt": "2026-06-28T08:36:52.362Z"
     },
     {
       "pmid": "42353484",
@@ -230,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:22.804Z"
+      "fetchedAt": "2026-06-28T08:36:49.909Z"
     },
     {
       "pmid": "42324963",
@@ -253,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:11.896Z"
+      "fetchedAt": "2026-06-28T08:36:40.451Z"
     },
     {
       "pmid": "42347253",
@@ -276,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:26.331Z"
+      "fetchedAt": "2026-06-28T08:36:53.015Z"
     },
     {
       "pmid": "42294661",
@@ -299,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:16.807Z"
+      "fetchedAt": "2026-06-28T08:36:44.069Z"
     },
     {
       "pmid": "42325420",
@@ -322,7 +322,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:15.527Z"
+      "fetchedAt": "2026-06-28T08:36:42.879Z"
     },
     {
       "pmid": "42307305",
@@ -345,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:16.154Z"
+      "fetchedAt": "2026-06-28T08:36:43.473Z"
     },
     {
       "pmid": "42277889",
@@ -368,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:18.007Z"
+      "fetchedAt": "2026-06-28T08:36:45.262Z"
     },
     {
       "pmid": "42271556",
@@ -391,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:18.606Z"
+      "fetchedAt": "2026-06-28T08:36:45.857Z"
     },
     {
       "pmid": "42359130",
@@ -414,7 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:07.634Z"
+      "fetchedAt": "2026-06-28T08:36:35.936Z"
     },
     {
       "pmid": "42358254",
@@ -437,7 +437,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:08.829Z"
+      "fetchedAt": "2026-06-28T08:36:37.237Z"
     },
     {
       "pmid": "42358254",
@@ -460,7 +460,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:21.608Z"
+      "fetchedAt": "2026-06-28T08:36:48.676Z"
     },
     {
       "pmid": "42260952",
@@ -483,7 +483,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:19.364Z"
+      "fetchedAt": "2026-06-28T08:36:46.625Z"
     },
     {
       "pmid": "42327782",
@@ -506,7 +506,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:11.295Z"
+      "fetchedAt": "2026-06-28T08:36:39.840Z"
     },
     {
       "pmid": "42346294",
@@ -529,7 +529,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:14.077Z"
+      "fetchedAt": "2026-06-28T08:36:41.788Z"
     },
     {
       "pmid": "42357746",
@@ -552,7 +552,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:22.204Z"
+      "fetchedAt": "2026-06-28T08:36:49.266Z"
     },
     {
       "pmid": "42250567",
@@ -575,7 +575,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:20.011Z"
+      "fetchedAt": "2026-06-28T08:36:47.214Z"
     },
     {
       "pmid": "42352286",
@@ -597,7 +597,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:23.433Z"
+      "fetchedAt": "2026-06-28T08:36:50.527Z"
     },
     {
       "pmid": "42292227",
@@ -620,7 +620,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:17.412Z"
+      "fetchedAt": "2026-06-28T08:36:44.658Z"
     },
     {
       "pmid": "42347175",
@@ -641,7 +641,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:26.944Z"
+      "fetchedAt": "2026-06-28T08:36:53.604Z"
     },
     {
       "pmid": "42333344",
@@ -664,7 +664,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:10.692Z"
+      "fetchedAt": "2026-06-28T08:36:39.227Z"
     },
     {
       "pmid": "42347173",
@@ -687,7 +687,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-06-27T08:22:27.548Z"
+      "fetchedAt": "2026-06-28T08:36:54.191Z"
     }
   ]
 }
