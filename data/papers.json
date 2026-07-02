@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T09:24:20.806Z",
+  "generatedAt": "2026-07-02T08:37:29.144Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:06.192Z"
+      "fetchedAt": "2026-07-02T08:37:16.105Z"
     },
     {
       "pmid": "42366106",
@@ -46,7 +46,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:08.056Z"
+      "fetchedAt": "2026-07-02T08:37:18.025Z"
+    },
+    {
+      "pmid": "42386324",
+      "title": "Molecular detection of Bartonella species and Coxiella endosymbiont in human-biting Haemaphysalis longicornis ticks in Korea.",
+      "abstract": "Bartonella species are vector-borne pathogens that infect a wide range of hosts, including humans. Although several Bartonella species have been identified in rodents and arthropods in Korea, information on Bartonella detection in ticks removed from human patients remains limited. This study investigated the presence of Bartonella species DNA in human-biting ticks collected in Korea and screened for other tick-associated bacteria, including Coxiella endosymbiont. From January to December 2018, 35 ticks were removed from 29 tick-bitten patients in Jeollanam-do and Gwangju, Korea. Ticks were identified morphologically and molecularly by 16S rRNA gene PCR. The presence of Bartonella species was assessed using nested PCR targeting the 16S-23S internal transcribed spacer (ITS) region. The ticks were identified as Haemaphysalis longicornis (17/35, 48.6%), Amblyomma testudinarium (14/35, 40.0%), and Ixodes nipponensis (4/35, 11.4%). Two H. longicornis ticks tested positive for Bartonella species. Sequencing revealed 99.5% identity with B. bacilliformis isolate GJRITS124 in one tick and 98.9% identity with B. taylorii isolate 190731_HC2 in the other, both previously identified in Apodemus agrarius rodents in Korea. One B. bacilliformis-positive tick was also positive for Coxiella spp., and sequence analysis indicated a Coxiella endosymbiont showing 100.0% identity with the Coxiella-like endosymbiont strain 580. Phylogenetic analysis supported these findings; however, bacterial cultures from PCR-positive tick lysates were negative. This study provides baseline evidence of B. bacilliformis and B. taylorii, as well as Coxiella endosymbiont DNA in human-biting H. longicornis ticks in Korea and highlights the need for continued surveillance.",
+      "authors": [
+        "Kim CM",
+        "Panchali MJL",
+        "Lee YM"
+      ],
+      "journal": "Parasites, hosts and diseases",
+      "publicationDate": "Jul 02, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42386324/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-02T08:37:15.522Z"
     },
     {
       "pmid": "42348628",
@@ -69,7 +92,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:03.777Z"
+      "fetchedAt": "2026-07-02T08:37:13.340Z"
+    },
+    {
+      "pmid": "42381233",
+      "title": "Untitled",
+      "abstract": "Borrelia burgdorferi (Bb), the etiological agent of Lyme disease, lacks the genes for de novo riboflavin biosynthesis and depends on host-derived riboflavin to generate flavin cofactors FMN and FAD. Riboflavin salvage by Bb has demonstrated importance to infection and metabolic homeostasis, though the critical roles of flavin cofactors to central metabolism are not well defined. Here, we demonstrate that riboflavin availability directly controls glycolytic flux through regulation of intracellular redox balance. Disruption of riboflavin uptake by deletion of gene bb0318 encoding the putative ATPase component of the riboflavin transporter resulted in impaired glycolysis as indicated by reduced intracellular pyruvate and a perturbed NADH/NAD+ ratio driven by faulty NAD+ regeneration. We identified coenzyme A disulfide reductase (CoADR) as a key flavin-dependent mediator of glycolytic flux. A &#x394;cdr mutant mimicked the glycolytic dysregulation of the &#x394;bb0318 mutant, but was not rescued by exogenous riboflavin, placing BbCoADR downstream of riboflavin salvage. Biochemical analyses of recombinant BbCoADR demonstrated FAD-dependent NADH oxidase activity. Targeted mutagenesis of predicted FAD-binding residues impaired cofactor binding and NADH oxidase activity, further confirming the dependence of BbCoADR on FAD. Together, this work reveals a direct link between riboflavin acquisition and core metabolic processes driven by BbCoADR-mediated flavin-dependent redox metabolism.",
+      "authors": [
+        "Schulz AM",
+        "Easterling GE",
+        "Balasubramaniyan A"
+      ],
+      "journal": "Molecular microbiology",
+      "publicationDate": "Jun 30, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42381233/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-02T08:37:07.983Z"
     },
     {
       "pmid": "42374431",
@@ -92,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:06.821Z"
+      "fetchedAt": "2026-07-02T08:37:16.869Z"
     },
     {
       "pmid": "42370709",
@@ -115,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:23:58.531Z"
+      "fetchedAt": "2026-07-02T08:37:09.215Z"
     },
     {
       "pmid": "42372669",
@@ -138,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:14.711Z"
+      "fetchedAt": "2026-07-02T08:37:23.775Z"
     },
     {
       "pmid": "42371215",
@@ -161,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:15.329Z"
+      "fetchedAt": "2026-07-02T08:37:24.368Z"
     },
     {
       "pmid": "42364726",
@@ -184,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:23:59.821Z"
+      "fetchedAt": "2026-07-02T08:37:10.399Z"
     },
     {
       "pmid": "42361962",
@@ -207,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:00.446Z"
+      "fetchedAt": "2026-07-02T08:37:10.976Z"
     },
     {
       "pmid": "42351231",
@@ -230,7 +276,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:19.805Z"
+      "fetchedAt": "2026-07-02T08:37:28.144Z"
+    },
+    {
+      "pmid": "42385337",
+      "title": "Detection of SARS-CoV-2 and coinfections in companion animals from COVID-19-positive owners in Southeast, Brazil.",
+      "abstract": "Zoonotic pathogens are central to the One Health framework, and the role of companion animals in SARS-CoV-2 infection, particularly in co-infection scenarios, remains unclear. This study investigated the occurrence of SARS-CoV-2, hemopathogens, and co-infections in domiciled dogs and cats from COVID-19-positive households in Southeast Brazil. Between January 2021 and August 2022, samples were collected from 86 animals (48 dogs and 38 cats) in Belo Horizonte, Minas Gerais. SARS-CoV-2 was detected by RT-qPCR, and hemopathogens were identified using nested and species-specific PCR assays. SARS-CoV-2 was detected in 9.3% (8/86) of animals, including 14.6% (7/48) of dogs and 2.6% (1/38) of cats, and one canine sample was classified as Omicron BA.1. Hemopathogens were detected in 85.4% of dogs, mainly Bartonella spp. (70.8%) and Anaplasma sp. (58.3%), with frequent co-infections. In cats, Bartonella spp. (15.8%) and hemotropic Mycoplasma spp. (21.1%) predominated. None of the animals tested positive for ther order Piroplasmida or A. phagocytophilum. Most SARS-CoV-2-positive animals (75.0%) were co-infected, but no significant association was observed between viral infection and hemopathogens (p&#x202f;>&#x202f;0.05). These findings demonstrate the circulation of SARS-CoV-2 and hemopathogens in companion animals and reinforce the relevance of One Health surveillance.",
+      "authors": [
+        "Castillo AP",
+        "Oliveira-Silva A",
+        "Col&#xe1;cio N"
+      ],
+      "journal": "Comparative immunology, microbiology and infectious diseases",
+      "publicationDate": "Jun 25, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42385337/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-02T08:37:14.937Z"
     },
     {
       "pmid": "42374672",
@@ -253,30 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:23:57.906Z"
-    },
-    {
-      "pmid": "42335481",
-      "title": "Tick-borne diseases in Illinois (USA): A retrospective case analysis.",
-      "abstract": "Illinois is known to have established populations of four vector tick species of human health concern: Ixodes scapularis, Dermacentor variabilis, Amblyomma americanum, and Amblyomma maculatum. These ticks can transmit pathogens causing eight reportable tick-borne diseases (TBDs): anaplasmosis, babesiosis, ehrlichiosis, Lyme disease, spotted fever group rickettsioses (SFG rickettsioses), Powassan virus disease, Heartland virus disease, and Bourbon virus disease. The incidence of these diseases is spatially varied and has been changing over time. The purpose of this research is to describe factors associated with human incidence of the various tick-borne diseases in Illinois and to compare this to factors associated with canine seroprevalence to similar tick-borne diseases. All cases of tick-borne diseases in humans reported to the Illinois Department of Public Health (IDPH) between 2004 (when reporting began) and 2022 were reviewed (n = 6423), with all county-level seropositivity and canine test data reported by the Companion Animal Parasite Council between 2009 (when reporting began) and 2022. Descriptive statistics were performed to identify spatial and temporal variation. Comparison with known risk factors was conducted using zero-inflated spatiotemporal modeling for anaplasmosis, ehrlichiosis, Lyme disease, and SFG rickettsioses in humans and anaplasmosis, ehrlichiosis, and Lyme disease in dogs. Every county in Illinois reported at least one case of a human TBD from 2004 to 2022. Most reported cases were in males (61%), white (71%), and non-Hispanic (64%) residents over 40 years of age (56%). On average, the annual number of human cases increased by 23 cases every year (95% CI: 15, 31), despite large year-to-year fluctuations, with 343 in 2022 and 645 in 2021. The spatial hotspots were noted in southern Illinois for human TBDs associated with A. americanum, and D. variabilis, and for dog exposure associated with A. americanum. Hotspots were also noted in northern Illinois for diseases and exposure associated with I. scapularis for both humans and dogs and across the 2004-2022 study period. Case incidence was higher in rural counties, counties with higher deer harvests, and counties with lower median household income. These findings can be used to guide public health efforts that target self-prevention strategies to decrease the risk of a tick bite and tick-borne diseases in Illinois and are applicable in similar midwestern states with expanding TBD risk.",
-      "authors": [
-        "Chakraborty S",
-        "Black H",
-        "Hussain A"
-      ],
-      "journal": "Ticks and tick-borne diseases",
-      "publicationDate": "Jun 23, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42335481/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-01T09:24:04.395Z"
+      "fetchedAt": "2026-07-02T08:37:08.641Z"
     },
     {
       "pmid": "42335804",
@@ -299,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:09.326Z"
+      "fetchedAt": "2026-07-02T08:37:19.471Z"
     },
     {
       "pmid": "42358922",
@@ -322,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:01.977Z"
+      "fetchedAt": "2026-07-02T08:37:12.179Z"
     },
     {
       "pmid": "42367977",
@@ -345,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:16.206Z"
+      "fetchedAt": "2026-07-02T08:37:25.070Z"
     },
     {
       "pmid": "42353484",
@@ -368,30 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:18.131Z"
-    },
-    {
-      "pmid": "42294661",
-      "title": "Untitled",
-      "abstract": "We report the draft genome sequences of Bartonella sp. nov., strains EBT8 and P12B, isolated from a rodent and a rodent flea in Laguna Verde, Chile. The genome assemblies showed values below the cutoffs for species definition (ANI values &#x2264; 95% and dDDH values &#x2264; 70%) against other Bartonella species, indicating that the strains represent a putative novel species of the genus Bartonella.",
-      "authors": [
-        "Goddard M",
-        "Sep&#xfa;lveda-Garc&#xed;a P",
-        "Oyarz&#xfa;n-Ru&#xed;z P"
-      ],
-      "journal": "Microbiology resource announcements",
-      "publicationDate": "Jun 15, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42294661/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-01T09:24:11.088Z"
+      "fetchedAt": "2026-07-02T08:37:26.877Z"
     },
     {
       "pmid": "42367759",
@@ -414,7 +437,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:23:59.179Z"
+      "fetchedAt": "2026-07-02T08:37:09.798Z"
     },
     {
       "pmid": "42325420",
@@ -437,7 +460,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:09.826Z"
+      "fetchedAt": "2026-07-02T08:37:19.971Z"
     },
     {
       "pmid": "42307305",
@@ -460,7 +483,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:10.459Z"
+      "fetchedAt": "2026-07-02T08:37:20.548Z"
     },
     {
       "pmid": "42359130",
@@ -483,7 +506,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:01.351Z"
+      "fetchedAt": "2026-07-02T08:37:11.601Z"
     },
     {
       "pmid": "42358254",
@@ -506,7 +529,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:03.161Z"
+      "fetchedAt": "2026-07-02T08:37:12.757Z"
     },
     {
       "pmid": "42358254",
@@ -529,7 +552,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:16.838Z"
+      "fetchedAt": "2026-07-02T08:37:25.668Z"
     },
     {
       "pmid": "42346294",
@@ -552,7 +575,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:08.706Z"
+      "fetchedAt": "2026-07-02T08:37:18.897Z"
     },
     {
       "pmid": "42357746",
@@ -575,7 +598,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:17.467Z"
+      "fetchedAt": "2026-07-02T08:37:26.295Z"
     },
     {
       "pmid": "42375825",
@@ -598,7 +621,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:13.470Z"
+      "fetchedAt": "2026-07-02T08:37:22.604Z"
     },
     {
       "pmid": "42352286",
@@ -620,7 +643,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:18.745Z"
+      "fetchedAt": "2026-07-02T08:37:27.536Z"
     },
     {
       "pmid": "42375452",
@@ -643,7 +666,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:14.082Z"
+      "fetchedAt": "2026-07-02T08:37:23.196Z"
     },
     {
       "pmid": "42371469",
@@ -666,30 +689,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-01T09:24:07.441Z"
-    },
-    {
-      "pmid": "42292227",
-      "title": "Untitled",
-      "abstract": "Infectious crescentic glomerulonephritis (CrGN) is a rare but severe complication in kidney transplant (KTx) recipients. Bartonella henselae, typically associated with cat-scratch disease or infective endocarditis has rarely been reported as a cause of isolated glomerulonephritis in renal transplant recipients without infective endocarditis. A 64-year-old man with a history of two kidney transplants presented with a 3-week deterioration in renal function, progressing to nephritic syndrome (urine protein creatinine ratio (UPCR) 5.1 g/g, albumin 22 g/L, hypertension, and peripheral edema [+6 kg over 1 week]) and oliguric acute kidney injury (peak creatinine 684 &#x3bc;mol/L). Renal biopsy showed CrGN with IgM/IgA/C3 deposits, suggesting immune complex-mediated pathology. Initial investigations, including blood cultures, two transthoracic echocardiograms performed 1 week apart, and PET scan, ruled out infective endocarditis. Reinterrogation post-biopsy uncovered a cat bite 2 months prior, raising concerns for Bartonella henselae infection, which was confirmed by serological testing. The patient received azithromycin (500 mg/day for 5 days) for infection and corticosteroids (5 mg/kg pulse followed by a tapering regimen) for glomerulonephritis. After 2 dialysis sessions, renal function improved as evidenced by recovery urine output, which led to discontinuous of dialysis. A major complication (upper gastrointestinal bleeding) required endoscopic intervention and blood transfusions. Nephroprotective therapy was optimized (irbesartan up titrated from 75 to 150 mg/days and dapagliflozin 10 mg/day introduced), leading to normalization of proteinuria (UPCR 0.5 g/g) at 1-year follow-up. This case underscores the importance of reinterrogating patients for exposure risks (e.g., animal bites) when facing unexplained CrGN, particularly in renal transplant recipients. It also highlights the effectiveness of combined antibiotic and corticosteroids therapies in managing infectious glomerulonephritis. Clinicians should consider Bartonella as a potential etiology in renal transplant patients with CrGN, even in the absence of classic symptoms.",
-      "authors": [
-        "Pierson S",
-        "Chabannes M",
-        "Lang S"
-      ],
-      "journal": "Frontiers in medicine",
-      "publicationDate": "05 28, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42292227/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-01T09:24:11.715Z"
+      "fetchedAt": "2026-07-02T08:37:17.449Z"
     }
   ]
 }
