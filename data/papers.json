@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T08:03:14.977Z",
+  "generatedAt": "2026-07-09T08:59:15.683Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:02:56.894Z"
+      "fetchedAt": "2026-07-09T08:58:58.365Z"
     },
     {
       "pmid": "42394763",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:09.520Z"
+      "fetchedAt": "2026-07-09T08:59:10.444Z"
     },
     {
       "pmid": "42389141",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:01.527Z"
+      "fetchedAt": "2026-07-09T08:59:02.540Z"
     },
     {
       "pmid": "42375741",
@@ -92,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:03.332Z"
+      "fetchedAt": "2026-07-09T08:59:04.607Z"
     },
     {
       "pmid": "42366106",
@@ -115,7 +115,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:05.196Z"
+      "fetchedAt": "2026-07-09T08:59:06.460Z"
+    },
+    {
+      "pmid": "42418240",
+      "title": "Using Electronic Health Records to Enhance Lyme Disease Surveillance: Protocol for the SubLyme Network.",
+      "abstract": "Lyme disease is the most common vector-borne illness in the United States. The limitations of traditional surveillance strategies for Lyme disease affect the ability to reliably track its burden and evaluate interventions. The US Centers for Disease Control and Prevention (CDC) established the Surveillance Based Lyme Disease Network (SubLyme) in September 2023 to strengthen Lyme disease surveillance and research using electronic health record (EHR) data. SubLyme has three primary objectives: (1) to establish and evaluate criteria for identifying Lyme disease cases in EHR data (ie, create computable phenotypes [CPs]) that can be scaled across diverse health systems, (2) to estimate Lyme disease incidence, and (3) to describe Lyme disease incidence by key demographics. Secondary objectives are to develop CPs that distinguish between acute and disseminated Lyme disease, identify clinical manifestations, and support future research efforts. This paper describes SubLyme, its structure, and its methods. SubLyme includes 5 health systems in 3 US regions with a high risk of Lyme disease: Geisinger, in Pennsylvania; Marshfield Clinic Health System, in Wisconsin; and Mass General Brigham, Tufts Medical Center, and MaineHealth in New England. The network is administered by a coordinating center (Westat) and the US CDC. SubLyme is evaluating the validity of EHR-based CP definitions for Lyme disease. CP performance is assessed by measuring sensitivity, specificity, positive predictive value, and negative predictive value against manually abstracted medical charts. Each site identified a cohort of patients with any Lyme disease element in their EHR (Lyme disease diagnosis code, Lyme disease laboratory test order, and Lyme-appropriate antibiotic order) during 2022 to 2023 and selected 500 charts for manual review as the gold standard against which CP performance was evaluated. SubLyme will use the Lyme disease CPs to generate incidence rates for Lyme disease overall and for various subgroups. SubLyme identified 332,256 patients with at least 1 Lyme disease element in their record from more than 4.6 million patients. Of these patients, 55.6% (n=184,734) were female, 87.9% (n=292,053) were White, and 90.8% (n=301,688) were non-Hispanic. More than half of the patients only had a Lyme-appropriate medication order (n=177,425, 53.4%) and 35.8% (n=118,948) only had a Lyme disease test order. The most common combination was a medication order with a laboratory test order (n=22,926, 6.9%), followed by a combination of a diagnosis, test, and medication order (n=5316, 1.6%). SubLyme is well positioned to advance Lyme disease surveillance using EHR data across multiple health systems. The exploration of new surveillance methods in Lyme disease is critical as disease frequency increases and the geography expands. An EHR-based approach to surveillance has the potential to overcome challenges of current surveillance strategies and to accelerate Lyme disease research. DERR1-10.2196/94921.",
+      "authors": [
+        "Hirsch AG",
+        "Schwartz BS",
+        "Poulsen MN"
+      ],
+      "journal": "JMIR research protocols",
+      "publicationDate": "Jul 08, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42418240/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-09T08:58:54.560Z"
     },
     {
       "pmid": "42412287",
@@ -138,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:00.918Z"
+      "fetchedAt": "2026-07-09T08:59:01.940Z"
     },
     {
       "pmid": "42402532",
@@ -161,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:08.049Z"
+      "fetchedAt": "2026-07-09T08:59:09.067Z"
     },
     {
       "pmid": "42401065",
@@ -184,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:02:54.372Z"
+      "fetchedAt": "2026-07-09T08:58:55.750Z"
     },
     {
       "pmid": "42401065",
@@ -207,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:08.925Z"
+      "fetchedAt": "2026-07-09T08:59:09.844Z"
     },
     {
       "pmid": "42400573",
@@ -230,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:02:55.685Z"
+      "fetchedAt": "2026-07-09T08:58:56.970Z"
     },
     {
       "pmid": "42386324",
@@ -253,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:02.122Z"
+      "fetchedAt": "2026-07-09T08:59:03.187Z"
     },
     {
       "pmid": "42393672",
@@ -276,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:10.198Z"
+      "fetchedAt": "2026-07-09T08:59:11.060Z"
     },
     {
       "pmid": "42393161",
@@ -299,7 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:10.807Z"
+      "fetchedAt": "2026-07-09T08:59:11.653Z"
     },
     {
       "pmid": "42401015",
@@ -322,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:02:54.970Z"
+      "fetchedAt": "2026-07-09T08:58:56.376Z"
     },
     {
       "pmid": "42402029",
@@ -345,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:02:53.772Z"
+      "fetchedAt": "2026-07-09T08:58:55.157Z"
     },
     {
       "pmid": "42381233",
@@ -368,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:02:58.831Z"
+      "fetchedAt": "2026-07-09T08:59:00.494Z"
     },
     {
       "pmid": "42374431",
@@ -391,7 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:03.920Z"
+      "fetchedAt": "2026-07-09T08:59:05.214Z"
     },
     {
       "pmid": "42372669",
@@ -414,7 +437,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:12.769Z"
+      "fetchedAt": "2026-07-09T08:59:13.476Z"
     },
     {
       "pmid": "42371215",
@@ -437,7 +460,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:13.375Z"
+      "fetchedAt": "2026-07-09T08:59:14.087Z"
     },
     {
       "pmid": "42391726",
@@ -458,7 +481,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:02:57.519Z"
+      "fetchedAt": "2026-07-09T08:58:58.968Z"
     },
     {
       "pmid": "42395505",
@@ -481,7 +504,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:02:56.285Z"
+      "fetchedAt": "2026-07-09T08:58:57.756Z"
     },
     {
       "pmid": "42385337",
@@ -504,30 +527,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:02.734Z"
-    },
-    {
-      "pmid": "42374672",
-      "title": "Untitled",
-      "abstract": "Borreliosis, also known as Lyme disease, is a chronic, multi-organ illness that is very difficult to diagnose. It is caused by the spirochete Borrelia burgdorferi sensu lato and transmitted to humans as a consequence of being bitten by a tick, mostly of the Ixodes genus, infected with the pathogen. The aim of the study is to assess the frequency of B.&#xa0;burgdorferi s.l. infections among a randomly selected human population living in the Poprad Landscape Park in southern Poland. Serum for the study was obtained from 99 randomly selected patients who reported for routine testing at the medical diagnostic laboratory in Krynica-Zdr&#xf3;j. The presence of IgM and IgG antibodies against B.&#xa0;burgdorferi s.l. spirochetes in the sera were defined using the ELISA method. Western Blot test verified positive and doubtful results. In total, positive or borderline results for at least one class of anti-Borrelia antibodies were found in 22.2% of human sera. Only in two samples were the positive results in anti-Borrelia IgM and IgG shown. Antibodies against the spirochete B.&#xa0;burgdorferi s.l. were detected both in people who had found a tick on their body, and in people who claimed they never had. Studies have shown a high percentage of people with antibodies against detected B.&#xa0;burgdorferi s.l.. This may indicate frequent bites of the inhabitants of the Poprad Landscape Park by ticks, during which transmission of the B.&#xa0;burgdorferi s.l. spirochete occurs.",
-      "authors": [
-        "Koczanowicz S",
-        "Nowak-Chmura M",
-        "Hudy D"
-      ],
-      "journal": "Annals of agricultural and environmental medicine : AAEM",
-      "publicationDate": "Jun 24, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42374672/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-08T08:02:59.489Z"
+      "fetchedAt": "2026-07-09T08:59:03.991Z"
     },
     {
       "pmid": "42335804",
@@ -550,7 +550,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:06.684Z"
+      "fetchedAt": "2026-07-09T08:59:07.653Z"
     },
     {
       "pmid": "42367977",
@@ -573,7 +573,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:13.976Z"
+      "fetchedAt": "2026-07-09T08:59:14.683Z"
     },
     {
       "pmid": "42346294",
@@ -596,7 +596,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:06.093Z"
+      "fetchedAt": "2026-07-09T08:59:07.061Z"
     },
     {
       "pmid": "42375825",
@@ -619,7 +619,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:11.423Z"
+      "fetchedAt": "2026-07-09T08:59:12.272Z"
     },
     {
       "pmid": "42375452",
@@ -642,7 +642,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:12.028Z"
+      "fetchedAt": "2026-07-09T08:59:12.864Z"
     },
     {
       "pmid": "42388803",
@@ -665,7 +665,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:02:58.135Z"
+      "fetchedAt": "2026-07-09T08:58:59.564Z"
     },
     {
       "pmid": "42371469",
@@ -688,7 +688,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-08T08:03:04.515Z"
+      "fetchedAt": "2026-07-09T08:59:05.845Z"
     }
   ]
 }
