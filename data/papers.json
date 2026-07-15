@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T07:42:04.495Z",
+  "generatedAt": "2026-07-15T07:46:03.146Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:42:01.590Z"
+      "fetchedAt": "2026-07-15T07:46:02.146Z"
     },
     {
       "pmid": "42389141",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:53.791Z"
+      "fetchedAt": "2026-07-15T07:45:50.756Z"
     },
     {
       "pmid": "42375741",
@@ -69,7 +69,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:55.730Z"
+      "fetchedAt": "2026-07-15T07:45:52.738Z"
+    },
+    {
+      "pmid": "42448039",
+      "title": "Concurrent Babesia gibsoni infection as a negative prognostics indicator of survival in dogs diagnosed with immune-mediated hemolytic anemia: A prospective cohort study.",
+      "abstract": "Immune-mediated haemolytic anaemia (IMHA) is a common autoimmune disorder in dogs. Haemoparasites, particularly intracellular organisms, are well-recognized causes of secondary IMHA and are associated with poorer clinical outcomes. However, the prognostic impact of concurrent Babesia gibsoni infection in dogs with IMHA remains incompletely characterized. This study aimed to compare survival outcomes between dogs with primary IMHA and those with IMHA associated with B. gibsoni infection. Fifty-five dogs (34 purebred, 21 crossbred; age 7 months-9 years) diagnosed with IMHA, according to ACVIM guidelines, were included. Twenty-six dogs had primary IMHA (11 males, 15 females), and 29 dogs had IMHA with natural B. gibsoni infection (12 males, 17 females), confirmed by PCR. All dogs received immunosuppressive therapy consisting of prednisolone (1 mg/kg q12h PO) or dexamethasone sodium phosphate (0.2 mg/kg q24h IV). Dogs with B. gibsoni infection additionally received antibabesial treatment that included initial imidocarb dipropionate (6.6 mg/kg IM) in two weeks interval, and doxycycline up to three weeks (10 mg/kg q12h PO). Cases were followed for 60 days. Survival analysis was performed using Cox proportional hazards regression. During follow-up, 40 dogs died of IMHA and 2 from unrelated causes. In multivariable analysis, male sex (HR=2.1; 95% CI: 1.1-4.2; p=0.034), marked spherocytosis (HR=2.1; 95% CI: 1.1-4.3; p=0.032), and concurrent B. gibsoni infection (HR=2.6; 95% CI: 1.2-2.9; p=0.024) were independently associated with increased hazard of death. In conclusion, male sex, marked spherocytosis, and B. gibsoni co-infection are key independent predictors of a poor prognosis in dogs with IMHA.",
+      "authors": [
+        "Bandaranayaka N",
+        "Dissanayake A",
+        "Jinadasa R"
+      ],
+      "journal": "Topics in companion animal medicine",
+      "publicationDate": "Jul 14, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42448039/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-15T07:45:56.138Z"
+    },
+    {
+      "pmid": "42446826",
+      "title": "Microscopy-PCR discordance and shifting epidemiology in South India: advancing diagnostic precision for control of morphologically similar bovine hemopathogens (Babesia, Theileria, Anaplasma) from a hospital-based study.",
+      "abstract": "Advancing epidemiological insights is instrumental in optimizing region-specific hemopathogen control. A retrospective study in Chennai, South India screened 2,434 cattle over one year, revealing a 13.93% hospital-based prevalence of morphologically similar hemopathogen (Babesia, Theileria, Anaplasma) diseases (HPDs) by light microscopy (LM). Anaplasmosis predominated (8.63%), increasing during monsoon; theileriosis rose to 4.44%, babesiosis declined to 0.86%, with highest prevalence in multiparous Jersey crossbreds. Relative sensitivity, specificity, PPV and NPV of LM were prospectively estimated using PCR as an operational reference standard in cattle suspected of HPDs. Specific primers targeting Babesia (18&#xa0;S rRNA, 450&#xa0;bp), T. annulata (merozoite surface antigen, 721&#xa0;bp) and A. marginale (major surface protein, 265&#xa0;bp) were used. LM demonstrated a relative sensitivity of 73.08% and an NPV of 76.67%, reflecting under-detection of PCR-positives and false-negative classifications. Substantial LM-PCR agreement (&#x3ba;&#x2009;=&#x2009;0.72) with one-sided discordance supports a complementary LM-PCR diagnostic approach. Overlapping clinical profiles showed severe fever, lymph node, conjunctival and lacrimation changes in theileriosis, and jaundice in anaplasmosis; infected cattle had lymphocytosis, neutropenia, anemia, and elevated AST, ALP, BUN, SC. Conclusively, given the sustained prevalence of bovine prioplasmosis and anaplasmosis in Chennai, control should integrate periodic PCR screening of high-risk crossbred cattle (targeted surveillance) with pre-monsoon/monsoon acaricide and anti-piroplasmal/anti-rickettsial intensification (region-specific prophylaxis). This integrated approach detects LM-missed positives, distinguishes similar-looking hemopathogens, and facilitates pathogen-specific therapy (anti-babesial, anti-theilerial, anti-anaplasmal), with targeted clearance of carriers (notably A. marginale), reducing treatment failure, drug misuse and transmission surges. However, these hospital data may be biased by repeat cases, warranting field validation.",
+      "authors": [
+        "Joshi V",
+        "Kavitha S",
+        "Vijayarani K"
+      ],
+      "journal": "Tropical animal health and production",
+      "publicationDate": "Jul 14, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42446826/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-15T07:45:56.886Z"
     },
     {
       "pmid": "42442085",
@@ -92,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:42.114Z"
+      "fetchedAt": "2026-07-15T07:45:36.189Z"
     },
     {
       "pmid": "42441703",
@@ -115,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:42.785Z"
+      "fetchedAt": "2026-07-15T07:45:36.805Z"
     },
     {
       "pmid": "42439227",
@@ -138,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:43.593Z"
+      "fetchedAt": "2026-07-15T07:45:37.434Z"
     },
     {
       "pmid": "42439788",
@@ -161,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:49.866Z"
+      "fetchedAt": "2026-07-15T07:45:43.043Z"
     },
     {
       "pmid": "42436393",
@@ -184,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:44.212Z"
+      "fetchedAt": "2026-07-15T07:45:38.035Z"
     },
     {
       "pmid": "42435377",
@@ -207,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:50.481Z"
+      "fetchedAt": "2026-07-15T07:45:44.634Z"
     },
     {
       "pmid": "42431120",
@@ -230,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:58.427Z"
+      "fetchedAt": "2026-07-15T07:45:58.825Z"
     },
     {
       "pmid": "42418240",
@@ -253,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:45.506Z"
+      "fetchedAt": "2026-07-15T07:45:39.243Z"
     },
     {
       "pmid": "42421073",
@@ -276,7 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:52.539Z"
+      "fetchedAt": "2026-07-15T07:45:46.576Z"
     },
     {
       "pmid": "42421073",
@@ -299,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:59.695Z"
+      "fetchedAt": "2026-07-15T07:46:00.189Z"
     },
     {
       "pmid": "42412287",
@@ -322,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:53.170Z"
+      "fetchedAt": "2026-07-15T07:45:47.207Z"
     },
     {
       "pmid": "42402532",
@@ -345,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:42:00.316Z"
+      "fetchedAt": "2026-07-15T07:46:00.832Z"
     },
     {
       "pmid": "42401065",
@@ -368,7 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:46.794Z"
+      "fetchedAt": "2026-07-15T07:45:40.693Z"
     },
     {
       "pmid": "42401065",
@@ -391,30 +437,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:42:00.949Z"
-    },
-    {
-      "pmid": "42400573",
-      "title": "Lyme Myopericarditis With Effusive-Constrictive Physiology: Serial CMR Identifies a Reversible Inflammatory Phenotype.",
-      "abstract": "Lyme cardiac involvement typically presents with atrioventricular (AV) conduction disease. Pericardial involvement with effusive-constrictive physiology is uncommon. Distinguishing inflammatory from fixed constriction has important management implications. A 45-year-old man developed progressive pleuritic chest pain and dyspnea 4 months after a tick bite. An electrocardiogram showed diffuse ST-segment elevation with PR-segment depression without atrioventricular block, and he was treated for acute pericarditis. Persistent symptoms prompted echocardiography demonstrating moderate pericardial effusion and new left ventricular systolic dysfunction (left ventricular ejection fraction 35%-40%). Lyme serology showed IgG Western blot reactivity (10/10 bands), consistent with late disseminated Lyme disease. Cardiac magnetic resonance demonstrated diffuse pericardial thickening/enhancement with pericardial T2 edema, loculated effusion, right ventricular tethering, and ventricular interdependence. Right-heart catheterization confirmed effusive-constrictive physiology. He was treated medically, with recovery of left ventricular function without pericardiectomy. Serial cardiac magnetic resonance and invasive hemodynamics identified a reversible inflammatory phenotype supporting conservative therapy. Multimodality imaging can identify a reversible inflammatory phenotype and guide therapy in effusive-constrictive pericarditis.",
-      "authors": [
-        "Alhirtani N",
-        "Bigham G",
-        "Fabrizio C"
-      ],
-      "journal": "JACC. Case reports",
-      "publicationDate": "Jul 03, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42400573/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-14T07:41:48.061Z"
+      "fetchedAt": "2026-07-15T07:46:01.441Z"
     },
     {
       "pmid": "42386324",
@@ -437,53 +460,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:54.418Z"
+      "fetchedAt": "2026-07-15T07:45:51.377Z"
     },
     {
-      "pmid": "42393672",
-      "title": "Molecular prevalence and clinical profiles of canine babesiosis in northern India.",
-      "abstract": "Canine babesiosis is a significant and emerging tick-borne disease caused by Babesia spp. This study investigated the molecular prevalence, hematobiochemical profiles, and risk factors for B. vogeli and B. gibsoni infections in dogs in northern India, addressing the molecular research on babesiosis prevalence in this region. An overall prevalence of canine babesiosis by microscopy and PCR was 12.5% (27/216) and 27.78% (60/216), respectively. The prevalence rates for B. vogeli by microscopy and conventional PCR were 10.64% and 22.22%, respectively, whereas the corresponding rates for B. gibsoni were 1.85% and 5.55%, respectively. Results revealed that B. vogeli was the predominant species. Non-descript dogs were significantly more susceptible to B. vogeli infection (OR: 27.491; 95% CI: 1.092-692.018; P&#x2009;<&#x2009;0.05). Additionally, dogs with enlarged lymph nodes were three times more likely to be B. vogeli-positive (OR&#x2009;=&#x2009;3.338; 95% CI: 1.345-8.287; P&#x2009;<&#x2009;0.05). Dogs under one year had higher odds of B. vogeli infection, but this was not statistically significant (OR&#x2009;=&#x2009;1.765; 95% CI: 0.663-4.703). Similarly, B. gibsoni infection was associated with dogs over four years old (P&#x2009;<&#x2009;0.001) and males (P&#x2009;<&#x2009;0.05). Vital parameters (temperature, pulse rate, and respiration rate) showed no significant association with B. vogeli and B. gibsoni infections. Hematological parameters, viz., hemoglobin (Hb), total erythrocyte count (TEC), packed cell volume (PCV), and platelet count, were significantly decreased in both B. vogeli and B. gibsoni affected dogs (P&#x2009;<&#x2009;0.05). Babesia gibsoni-infected dogs had significantly lower TEC, PCV, and platelet count than B. vogeli-infected dogs. Biochemical parameters, viz., alanine aminotransferase (ALT), total bilirubin (TB), direct bilirubin (DB), indirect bilirubin (IDB), and blood urea nitrogen (BUN), were significantly increased, with decreased albumin levels (P&#x2009;<&#x2009;0.05). Babesia gibsoni-infected dogs had significantly higher BUN, TB, and IDB levels than B. vogeli-infected dogs. Treatment was based on the Babesia species, with imidocarb dipropionate for B. vogeli and a combination therapy (diminazene aceturate, imidocarb dipropionate, and clindamycin) for B. gibsoni, which showed promising efficacy. The study highlighted the importance of accurate diagnosis and species-specific treatment for canine babesiosis, with B. vogeli being more prevalent (22.22%) than B. gibsoni (5.55%), and distinct risk factors and clinical implications for each Babesia species in northern India. These findings contribute to the understanding of Babesia epidemiology in the region and highlight the need for further studies to inform the development of targeted control strategies.",
+      "pmid": "42444068",
+      "title": "Evaluation of a modified next-generation sequencing assay to detect Borrelia, Anaplasma, and Babesia in blood and ear tissue samples from field-collected rodents.",
+      "abstract": "Efforts to monitor the expanding geographic distribution of pathogens associated with Ixodes scapularis Say (Acari: Ixodidae), and to evaluate the outcomes of environmental control interventions aiming to reduce the intensity of enzootic transmission of these pathogens, are dependent on sensitive and specific molecular assays for detection of pathogens in ticks and their rodent hosts. In this study, we modified a highly sensitive and specific multiplex PCR amplicon sequencing assay developed to identify pathogens in Ixodes ticks for use in screening blood or ear tissue from rodents (Peromyscus leucopus Rafinesque (Rodentia: Cricetidae)) to detect Borrelia burgdorferi sensu stricto Johnson, Schmid, Hyde, Steigerwalt and Brenner (Spirochaetales: Spirochaetaceae), Borrelia miyamotoi Fukunaga (Spirochaetales: Spirochaetaceae), Anaplasma phagocytophilum (Foggie, 1949) Dumler (Rickettsiales: Anaplasmataceae), and Babesia microti Franca, 1910 (Piroplasmida: Babesiidae). The modified assay retained similarly high sensitivity to the original assay for detection of Bo. burgdorferi sensu stricto, Bo. miyamotoi, A. phagocytophilum, and Ba. microti. However, the probability of detecting each of the pathogens was dependent on the sample type (ear tissue or blood) tested. Generally, pathogens were detected in either ear tissue or blood samples from an individual mouse, but not in both sample types highlighting the need to test both blood and ear tissue from all individual animals to accurately categorize their infection status.",
       "authors": [
-        "Kumari A",
-        "Agnihotri D",
-        "Nehra AK"
+        "Hojgaard A",
+        "Grimaudo AT",
+        "Osikowicz LM"
       ],
-      "journal": "BMC veterinary research",
-      "publicationDate": "Jul 02, 2026",
+      "journal": "Journal of medical entomology",
+      "publicationDate": "Jul 01, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42393672/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42444068/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:42:02.219Z"
-    },
-    {
-      "pmid": "42393161",
-      "title": "Molecular epidemiology and risk factors associated with Babesia bigemina infection in cattle.",
-      "abstract": "Bovine babesiosis caused by Babesia bigemina is an important tick-borne disease that affects cattle health and productivity in tropical and subtropical regions. The present study aimed to determine the prevalence of B. bigemina in cattle and to identify associated risk factors in three governorates of the Nile Delta region, Egypt. A total of 400 blood samples were collected randomly from cattle and examined using nested PCR assay. The overall prevalence of B. bigemina prevalence was 8% (32/400). The prevalence did not differ significantly according to locality or sex (P&#x2009;>&#x2009;0.05). However, significant variations were observed in relation to breed, age, season, tick infestation, and management practices. Mixed-breed cattle showed the highest prevalence (11.4%), followed by Friesian (5.2%) and native breeds (1.8%). Older animals (>&#x2009;4 years) exhibited the highest infection rate (24%). Seasonal variation indicated that the highest prevalence occurred during summer (13.6%). Management-related factors also influenced infection rates; cattle receiving regular antiprotozoal treatment had a lower prevalence (2.4%) compared with untreated animals (11%). Tick-infested cattle showed higher infection rates (9.8%) compared with non-infested animals (3.5%), while the absence of acaricide application was associated with increased infection risk. Multivariable logistic regression analysis identified mixed breed OR&#x2009;=&#x2009;6.96; 95% CI: 2.08-60.48), age over 4 years (OR&#x2009;=&#x2009;7.01; 95% CI: 2.07-23.73), summer season (OR&#x2009;=&#x2009;4.16; 95% CI: 1.10-15.71), lack of antiprotozoal drug use (OR&#x2009;=&#x2009;6.04; 95% CI: 1.28-28.44), tick infestation (OR&#x2009;=&#x2009;3.16; 95% CI: 1.09-10.23), and absence of acaricide application (OR&#x2009;=&#x2009;2.37; 95% CI: 1.28-6.32) as significant predictors of infection. These findings highlight the important role of vector control and proper management practices in reducing the burden of bovine babesiosis. Continuous surveillance and integrated tick control strategies are essential for improving cattle health and productivity in endemic areas.",
-      "authors": [
-        "Selim A",
-        "Marzok M",
-        "Gattan HS"
-      ],
-      "journal": "Scientific reports",
-      "publicationDate": "Jul 02, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42393161/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-14T07:42:02.843Z"
+      "fetchedAt": "2026-07-15T07:45:35.473Z"
     },
     {
       "pmid": "42401015",
@@ -506,7 +506,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:47.432Z"
+      "fetchedAt": "2026-07-15T07:45:41.318Z"
+    },
+    {
+      "pmid": "42444068",
+      "title": "Evaluation of a modified next-generation sequencing assay to detect Borrelia, Anaplasma, and Babesia in blood and ear tissue samples from field-collected rodents.",
+      "abstract": "Efforts to monitor the expanding geographic distribution of pathogens associated with Ixodes scapularis Say (Acari: Ixodidae), and to evaluate the outcomes of environmental control interventions aiming to reduce the intensity of enzootic transmission of these pathogens, are dependent on sensitive and specific molecular assays for detection of pathogens in ticks and their rodent hosts. In this study, we modified a highly sensitive and specific multiplex PCR amplicon sequencing assay developed to identify pathogens in Ixodes ticks for use in screening blood or ear tissue from rodents (Peromyscus leucopus Rafinesque (Rodentia: Cricetidae)) to detect Borrelia burgdorferi sensu stricto Johnson, Schmid, Hyde, Steigerwalt and Brenner (Spirochaetales: Spirochaetaceae), Borrelia miyamotoi Fukunaga (Spirochaetales: Spirochaetaceae), Anaplasma phagocytophilum (Foggie, 1949) Dumler (Rickettsiales: Anaplasmataceae), and Babesia microti Franca, 1910 (Piroplasmida: Babesiidae). The modified assay retained similarly high sensitivity to the original assay for detection of Bo. burgdorferi sensu stricto, Bo. miyamotoi, A. phagocytophilum, and Ba. microti. However, the probability of detecting each of the pathogens was dependent on the sample type (ear tissue or blood) tested. Generally, pathogens were detected in either ear tissue or blood samples from an individual mouse, but not in both sample types highlighting the need to test both blood and ear tissue from all individual animals to accurately categorize their infection status.",
+      "authors": [
+        "Hojgaard A",
+        "Grimaudo AT",
+        "Osikowicz LM"
+      ],
+      "journal": "Journal of medical entomology",
+      "publicationDate": "Jul 01, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42444068/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-15T07:45:57.509Z"
     },
     {
       "pmid": "42402029",
@@ -529,7 +552,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:46.177Z"
+      "fetchedAt": "2026-07-15T07:45:39.978Z"
     },
     {
       "pmid": "42433610",
@@ -552,7 +575,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:57.799Z"
+      "fetchedAt": "2026-07-15T07:45:58.170Z"
     },
     {
       "pmid": "42385337",
@@ -575,7 +598,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:55.055Z"
+      "fetchedAt": "2026-07-15T07:45:51.993Z"
     },
     {
       "pmid": "42427975",
@@ -598,7 +621,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:59.055Z"
+      "fetchedAt": "2026-07-15T07:45:59.429Z"
     },
     {
       "pmid": "42422444",
@@ -621,7 +644,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:51.126Z"
+      "fetchedAt": "2026-07-15T07:45:45.264Z"
     },
     {
       "pmid": "42428184",
@@ -644,30 +667,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:44.831Z"
-    },
-    {
-      "pmid": "42375825",
-      "title": "Untitled",
-      "abstract": "Babesia canis infections are considered an emerging tick-borne disease most often with unspecific clinical signs. Two injections of 6.6&#x202f;mg/kg bodyweight (BW) imidocarb dipropionate (ID) in a timeframe of 14 days are recommended for treatment. Babesia antibody levels are protective against severe disease. This prospective study aimed to describe clinicopathological abnormalities and Babesia antibody levels in 23 dogs with acute B. canis infections, defined by positive PCR sequencing results revealing B. canis on EDTA-blood, and to follow these dogs from T0 (diagnosis, first ID) to T1 (laboratory control, second ID), and T2 (laboratory control). Complete blood counts, biochemistry, coagulation profiles, Coombs' testing, and Babesia spp. antibody levels were determined. Thrombocytopenia, anemia, hyperbilirubinemia, and acute phase-responses were the most detected. ID dosage ranged from 1.7 to 7.0&#x202f;mg/kg BW (median: 4.2&#x202f;mg/kg BW). All PCR-results were negative at T1 and T2. At T1 (median 15 days after T0), laboratory abnormalities significantly improved but no further improvement was noted comparing T1 to T2 (median 32 days after T0). Initially serologically negative dogs built up Babesia antibody levels by T1, which mostly dropped by T2. All 23 dogs were PCR-negative at T1 besides the wide range in ID dosage. Laboratory abnormalities resolved quickly and all dogs had an uncomplicated course of disease. Dogs should be checked by PCR 14 days after the first imidocarb dipropionate injection. If the PCR result is negative and clinicopathological abnormalities have significantly improved, a second injection is not recommended to avoid a decrease in protective antibody levels.",
-      "authors": [
-        "Eisenecker CM",
-        "Moritz A",
-        "von Hohnhorst IM"
-      ],
-      "journal": "Current research in parasitology & vector-borne diseases",
-      "publicationDate": "06 02, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42375825/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-14T07:42:03.495Z"
+      "fetchedAt": "2026-07-15T07:45:38.639Z"
     },
     {
       "pmid": "42421136",
@@ -690,7 +690,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-14T07:41:51.918Z"
+      "fetchedAt": "2026-07-15T07:45:45.883Z"
     }
   ]
 }
