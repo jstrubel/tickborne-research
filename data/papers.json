@@ -1,30 +1,7 @@
 {
-  "generatedAt": "2026-07-15T07:46:03.146Z",
+  "generatedAt": "2026-07-16T07:50:42.150Z",
   "totalPapers": 30,
   "papers": [
-    {
-      "pmid": "42394763",
-      "title": "Tick-borne pathogens in dogs and their ticks in France: Molecular and serological evidence from a multicenter participatory study.",
-      "abstract": "Canine tick-borne diseases (TBDs) are expanding globally, representing an increasing concern for both veterinary and public health. Dogs, due to their close contact with humans and frequent exposure to ticks, may serve as valuable sentinels for zoonotic risk. Between December 2022 and December 2023, we conducted a year-long multicenter participatory pilot survey in France involving veterinary clinics, dog owners, and research laboratories. Ticks and blood samples were collected from 82 dogs presented in 41 veterinary practices across 34 departments. Tick species were identified morphologically, and genomic DNA extracted from ticks and canine blood and/or serum samples was screened for selected tick-borne pathogens (TBPs) using PCR and sequencing. Serological analyses were also performed. A total of 165 ticks were collected from enrolled dogs, including Dermacentor reticulatus (29.7%), Ixodes ricinus (18.2%), Rhipicephalus sanguineus s.l. (16.4%), I. hexagonus (6.7%), and D. marginatus (0.6%). Tick submissions were recorded throughout the study period, with temporal variations observed among tick genera. Molecular screening identified several TBPs in dogs, including Borrelia garinii (n&#xa0;=&#xa0;5) and Babesia canis canis (n&#xa0;=&#xa0;5). Serological analyses revealed antibodies against Ehrlichia spp. and Anaplasma spp. in one and three dogs, respectively. Several infected dogs were asymptomatic. In ticks, the main TBPs detected included B. garinii, B. canis canis, Rickettsia massiliae, and R. raoultii, as well as several endosymbionts. This multicenter participatory pilot study supports the feasibility of a One Health surveillance approach based on veterinary networks for monitoring tick species and TBPs. Although the study was not designed to assess national prevalence or validate dogs as sentinels through comparison with human surveillance data, the findings provide proof-of-concept for the potential value of integrating veterinary and public health surveillance systems to improve our understanding of TBP circulation in France.",
-      "authors": [
-        "Tahir D",
-        "Dupuis S",
-        "Geolier-Lapeyronie V"
-      ],
-      "journal": "One health (Amsterdam, Netherlands)",
-      "publicationDate": "Dec 17, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42394763/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-15T07:46:02.146Z"
-    },
     {
       "pmid": "42389141",
       "title": "Untitled",
@@ -46,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:50.756Z"
+      "fetchedAt": "2026-07-16T07:50:30.316Z"
     },
     {
       "pmid": "42375741",
@@ -69,7 +46,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:52.738Z"
+      "fetchedAt": "2026-07-16T07:50:32.753Z"
+    },
+    {
+      "pmid": "42455001",
+      "title": "Single-step immunoblot tests with recombinant protein antigens for detecting IgG and IgM antibodies in Lyme disease.",
+      "abstract": "Serodiagnosis is important in Lyme disease (LD). Until recently, this commonly required two separate tests termed the standard two-tier tests (STTTs). One-step immunoblot (IB) tests utilizing recombinant protein targets from multiple Borrelia species and strains that may simplify the serodiagnosis of LD are now described. Specificity of the IB tests was established with 425 sera from healthy persons and 387 sera from persons with potentially confounding infections and medical conditions. Test sensitivities were determined with (i) 90 sera from patients with different stages of LD from the US Centers for Disease Control and Prevention (CDC), and (ii) 290 prospectively banked sera from patients with acute-stage LD from the Bay Area Lyme Foundation's Lyme Disease Biobank (BALDB). The IgG IB test was more sensitive than a US Food and Drug Administration (FDA)-cleared STTT for detecting IgG antibodies in stage 1 LD sera from the CDC's test panel (P = 0.002). The diagnostic performance of the IgG and IgM IB tests demonstrated significantly greater overall sensitivity than the comparable FDA-cleared STTTs for detecting IgG and/or IgM antibodies in the 290 BALDB sera (P = 0.00004). The IgG IB test was also more sensitive than the IgG STTT for detecting IgG antibodies in the 290 BALDB sera (P < 0.000001). The IgG and IgM IB tests were additionally more sensitive than IgG and IgM STTTs for detecting IgG and/or IgM antibodies in BALDB sera from 189 patients with erythema migrans (P = 0.03). The IB tests described here form the basis for one-step IgG and IgM IB tests, termed iDart IgG and IgM IB tests, cleared by the FDA for LD diagnosis.IMPORTANCEThe immunoblot (IB) tests described here are one-step tests that separately detect IgG and IgM antibodies for the serological diagnosis of Lyme disease in the United States. The IB tests are more sensitive than a common standard two-tier test for detecting antibodies in early-stage Lyme disease. This can assist in the diagnosis of Lyme disease when antibodies have not yet reached their maximum concentration in patient sera.",
+      "authors": [
+        "Shah JS",
+        "Liu S",
+        "Calalo-Ramos C"
+      ],
+      "journal": "Microbiology spectrum",
+      "publicationDate": "Jul 15, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42455001/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-16T07:50:15.177Z"
+    },
+    {
+      "pmid": "42456439",
+      "title": "Molecular detection, diagnostic evaluation, and genetic characterization of blood-borne pathogens in fighting bulls from southern Thailand.",
+      "abstract": "Fighting bulls are native cattle bred for traditional contests with economic and recreational significance in southern Thailand. These animals may be infected with several blood-borne and vector-borne pathogens, including Anaplasma spp., hemotropic Mycoplasma spp. (hemoplasmas), Babesia spp., Theileria spp., and Trypanosoma spp. Blood cytology is commonly used for diagnosis because it is simple and inexpensive; however, its diagnostic performance can be limited, particularly in carrier animals with low parasitemia. This study screened blood-borne pathogens in fighting bulls (n&#x202f;=&#x202f;198) from southern Thailand using conventional PCR and blood cytology, evaluated the diagnostic performance of blood cytology using PCR as the reference method, and genetically characterized selected PCR-positive samples by sequencing, BLAST analysis, and phylogenetic analysis. PCR-positive rates for Anaplasma spp., hemoplasmas, Babesia spp., Theileria spp., and Trypanosoma spp. were 75.3%, 80.8%, 3.0%, 98.0%, and 0.0%, respectively. PCR detection rates for Anaplasma spp., hemoplasmas, Babesia spp., and Theileria spp. were significantly higher than those obtained by blood cytology. Compared with PCR, blood cytology showed no to slight agreement (kappa < 0.20), sensitivity below 20%, and specificity above 75%. Genetic analyses identified Anaplasma spp., including A. platys-like, A. bovis-like, and Anaplasma sp. closely related to \"Candidatus Anaplasma boleense\", Mycoplasma wenyonii, \"Candidatus Mycoplasma haematobovis\", Babesia bigemina, and Theileria sinensis. These findings demonstrate a high occurrence of blood-borne pathogens and indicate that blood cytology substantially underestimates pathogen detection in fighting bulls.",
+      "authors": [
+        "Thongmeesee K",
+        "Aung A",
+        "Vigraitaveepong N"
+      ],
+      "journal": "Comparative immunology, microbiology and infectious diseases",
+      "publicationDate": "Jul 14, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42456439/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-16T07:50:35.331Z"
     },
     {
       "pmid": "42448039",
@@ -92,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:56.138Z"
+      "fetchedAt": "2026-07-16T07:50:35.950Z"
     },
     {
       "pmid": "42446826",
@@ -115,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:56.886Z"
+      "fetchedAt": "2026-07-16T07:50:36.569Z"
     },
     {
       "pmid": "42442085",
@@ -138,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:36.189Z"
+      "fetchedAt": "2026-07-16T07:50:17.111Z"
     },
     {
       "pmid": "42441703",
@@ -161,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:36.805Z"
+      "fetchedAt": "2026-07-16T07:50:17.897Z"
     },
     {
       "pmid": "42439227",
@@ -184,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:37.434Z"
+      "fetchedAt": "2026-07-16T07:50:18.542Z"
     },
     {
       "pmid": "42439788",
@@ -207,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:43.043Z"
+      "fetchedAt": "2026-07-16T07:50:25.815Z"
     },
     {
       "pmid": "42436393",
@@ -230,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:38.035Z"
+      "fetchedAt": "2026-07-16T07:50:19.165Z"
     },
     {
       "pmid": "42435377",
@@ -253,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:44.634Z"
+      "fetchedAt": "2026-07-16T07:50:26.495Z"
     },
     {
       "pmid": "42431120",
@@ -276,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:58.825Z"
+      "fetchedAt": "2026-07-16T07:50:38.559Z"
     },
     {
       "pmid": "42418240",
@@ -299,7 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:39.243Z"
+      "fetchedAt": "2026-07-16T07:50:22.591Z"
     },
     {
       "pmid": "42421073",
@@ -322,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:46.576Z"
+      "fetchedAt": "2026-07-16T07:50:28.737Z"
     },
     {
       "pmid": "42421073",
@@ -345,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:46:00.189Z"
+      "fetchedAt": "2026-07-16T07:50:39.845Z"
     },
     {
       "pmid": "42412287",
@@ -368,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:47.207Z"
+      "fetchedAt": "2026-07-16T07:50:29.675Z"
     },
     {
       "pmid": "42402532",
@@ -391,7 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:46:00.832Z"
+      "fetchedAt": "2026-07-16T07:50:40.460Z"
     },
     {
       "pmid": "42401065",
@@ -414,7 +437,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:40.693Z"
+      "fetchedAt": "2026-07-16T07:50:23.958Z"
     },
     {
       "pmid": "42401065",
@@ -437,7 +460,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:46:01.441Z"
+      "fetchedAt": "2026-07-16T07:50:41.150Z"
     },
     {
       "pmid": "42386324",
@@ -460,7 +483,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:51.377Z"
+      "fetchedAt": "2026-07-16T07:50:30.928Z"
     },
     {
       "pmid": "42444068",
@@ -483,30 +506,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:35.473Z"
-    },
-    {
-      "pmid": "42401015",
-      "title": "Not all acute peripheral facial palsy in children recovers completely: A telediagnostic follow-up study.",
-      "abstract": "Up to 30% of adults with peripheral facial palsy (FP) develop synkinesis, but it's incidence in children remains unclear due to limited long-term data. Children (<18 years) treated for acute peripheral FP at Jena University Hospital between 2009 and 2021 were screened in this cross-sectional study. Bell's palsy and infection-associated FP (e.g., Lyme disease, Zoster) were included, while secondary causes such as tumors, trauma, CNS disorders, and conditions like Guillain-Barr&#xe9; syndrome or Chiari malformation were excluded. Video follow-ups collected clinicodemographic information and PROMs including Facial Clinimetric Evaluation Scale (FaCE), Facial Disability Index (FDI), and Synkinesis Assessment Questionnaire (SAQ). Facial movements were video-recorded and assessed using Sunnybrook and eFACE. Of 85 eligible patients, 26 participated (46% female; response rate 30.6%). Mean age at onset was 8.5 years (range: 0.2-16); 54% had idiopathic FP (IFP) and 46% Lyme-associated FP (LFP). Median follow-up was 7.56 years (range: 2.5-13). All LFP participants and 11 out of 14 IFP participants achieved complete or near-complete recovery (eFACE and Sunnybrook scores 90-100). Four participants (28.6%), exclusively from the IFP group, developed synkinesis, three with functional impairments in PROMs and video-based assessment. Seven participants (five (35.7%) from the IFP group and two (16.7%) from the LFP group) reported that they still experience mental health-related effects of FP today. The data indicate that a relevant proportion (around 21.4%) of children with Bell's palsy develop moderate to severe synkinesis. Long-term follow-up and further research on corticosteroids use in pediatric FP are warranted.",
-      "authors": [
-        "Stapperfend SC",
-        "Gei&#xdf;ler K",
-        "Ballmaier J"
-      ],
-      "journal": "European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society",
-      "publicationDate": "Jul 01, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42401015/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-15T07:45:41.318Z"
+      "fetchedAt": "2026-07-16T07:50:15.838Z"
     },
     {
       "pmid": "42444068",
@@ -529,7 +529,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:57.509Z"
+      "fetchedAt": "2026-07-16T07:50:37.188Z"
     },
     {
       "pmid": "42402029",
@@ -552,7 +552,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:39.978Z"
+      "fetchedAt": "2026-07-16T07:50:23.207Z"
     },
     {
       "pmid": "42433610",
@@ -575,7 +575,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:58.170Z"
+      "fetchedAt": "2026-07-16T07:50:37.822Z"
     },
     {
       "pmid": "42385337",
@@ -598,7 +598,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:51.993Z"
+      "fetchedAt": "2026-07-16T07:50:31.836Z"
     },
     {
       "pmid": "42427975",
@@ -621,7 +621,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:59.429Z"
+      "fetchedAt": "2026-07-16T07:50:39.180Z"
     },
     {
       "pmid": "42422444",
@@ -644,7 +644,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:45.264Z"
+      "fetchedAt": "2026-07-16T07:50:27.397Z"
     },
     {
       "pmid": "42428184",
@@ -667,7 +667,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:38.639Z"
+      "fetchedAt": "2026-07-16T07:50:19.779Z"
     },
     {
       "pmid": "42421136",
@@ -690,7 +690,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-15T07:45:45.883Z"
+      "fetchedAt": "2026-07-16T07:50:28.010Z"
     }
   ]
 }
