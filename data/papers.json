@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-07-19T07:53:48.014Z",
+  "generatedAt": "2026-07-20T08:33:03.562Z",
   "totalPapers": 30,
   "papers": [
+    {
+      "pmid": "42472018",
+      "title": "Climate and other environmental factors predict tick abundance and Lyme cases in Minnesota one and two years in advance.",
+      "abstract": "Environmental factors, like weather and host abundance influence tick populations which in turn affect tickborne disease in endemic regions. It is important to understand how these factors are associated with tick abundance, and whether they can predict disease. We assessed associations between environmental factors, tick abundance, and human Lyme disease cases in the same year and with one- and two-year lags in Minnesota. In parallel, we compare conventional analytical methods with a novel machine learning approach to evaluate their relative strengths and potential for integration. Environmental and tick abundance relationships were examined using generalized linear mixed-effects models (GLMM), and gradient boosting machine learning incorporating same-year and time lagged effects. Area under the curve (AUC) indicates higher accuracy in predicting tick abundance in GLMM than gradient boosting. Among GLMM with no time lag, Palmer Drought Severity Index (PDSI), vapor pressure deficit (VPD), precipitation and snow water equivalent (SWE) were significant predictors of tick abundance. Direction of association varies in PDSI and SWE variables with no time lag but show consistency with one- and two-year lags. Among gradient boosted models, days below -18&#xa0;&#xb0;C, small mammal count, and mouse-to-small mammal ratio were associated with high tick abundance in the same year, and with one- and two-year lags. AUC are highest with a one-year lag suggesting environmental factors most accurately predict tick abundance one year later. AUC in models with Lyme disease as the outcome are highest with a two-year lag; PDSI, soil moisture, SWE, days below -18&#xa0;&#xb0;C, degree days, small mammal count and mouse ratio are all variables of importance in gradient boosted models. Monitoring environmental factors provides enhanced opportunities for public health interventions through prediction of tick abundance and potential consequences for higher Lyme disease incidence. Incorporating traditional and modern analytic methods offers opportunities for enhanced prediction and early warning.",
+      "authors": [
+        "Angell KE",
+        "Jarnefeld J",
+        "Schiffman EK"
+      ],
+      "journal": "One health (Amsterdam, Netherlands)",
+      "publicationDate": "Dec 03, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472018/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-20T08:32:40.534Z"
+    },
     {
       "pmid": "42389141",
       "title": "Untitled",
@@ -23,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:38.616Z"
+      "fetchedAt": "2026-07-20T08:32:53.469Z"
     },
     {
       "pmid": "42471681",
@@ -46,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:41.346Z"
+      "fetchedAt": "2026-07-20T08:32:57.349Z"
     },
     {
       "pmid": "42464363",
@@ -69,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:41.929Z"
+      "fetchedAt": "2026-07-20T08:32:57.943Z"
     },
     {
       "pmid": "42458597",
@@ -92,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:28.607Z"
+      "fetchedAt": "2026-07-20T08:32:42.446Z"
     },
     {
       "pmid": "42455001",
@@ -115,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:29.194Z"
+      "fetchedAt": "2026-07-20T08:32:43.034Z"
     },
     {
       "pmid": "42458554",
@@ -138,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:34.338Z"
+      "fetchedAt": "2026-07-20T08:32:48.483Z"
     },
     {
       "pmid": "42458907",
@@ -161,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:42.515Z"
+      "fetchedAt": "2026-07-20T08:32:58.755Z"
     },
     {
       "pmid": "42456439",
@@ -184,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:43.261Z"
+      "fetchedAt": "2026-07-20T08:32:59.553Z"
     },
     {
       "pmid": "42448039",
@@ -207,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:43.888Z"
+      "fetchedAt": "2026-07-20T08:33:00.160Z"
     },
     {
       "pmid": "42446826",
@@ -230,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:44.516Z"
+      "fetchedAt": "2026-07-20T08:33:00.753Z"
     },
     {
       "pmid": "42442085",
@@ -253,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:30.376Z"
+      "fetchedAt": "2026-07-20T08:32:44.940Z"
     },
     {
       "pmid": "42441703",
@@ -276,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:31.002Z"
+      "fetchedAt": "2026-07-20T08:32:45.578Z"
     },
     {
       "pmid": "42439227",
@@ -299,7 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:31.592Z"
+      "fetchedAt": "2026-07-20T08:32:46.185Z"
     },
     {
       "pmid": "42439788",
@@ -322,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:34.926Z"
+      "fetchedAt": "2026-07-20T08:32:49.288Z"
     },
     {
       "pmid": "42436393",
@@ -345,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:32.178Z"
+      "fetchedAt": "2026-07-20T08:32:46.891Z"
     },
     {
       "pmid": "42435377",
@@ -368,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:35.539Z"
+      "fetchedAt": "2026-07-20T08:32:50.000Z"
     },
     {
       "pmid": "42466216",
@@ -391,7 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:27.413Z"
+      "fetchedAt": "2026-07-20T08:32:41.209Z"
     },
     {
       "pmid": "42431120",
@@ -414,7 +437,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:46.433Z"
+      "fetchedAt": "2026-07-20T08:33:02.561Z"
     },
     {
       "pmid": "42421073",
@@ -437,7 +460,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:37.449Z"
+      "fetchedAt": "2026-07-20T08:32:52.164Z"
     },
     {
       "pmid": "42465499",
@@ -460,7 +483,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:28.002Z"
+      "fetchedAt": "2026-07-20T08:32:41.798Z"
     },
     {
       "pmid": "42412287",
@@ -483,7 +506,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:38.026Z"
+      "fetchedAt": "2026-07-20T08:32:52.759Z"
     },
     {
       "pmid": "42386324",
@@ -506,7 +529,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:39.222Z"
+      "fetchedAt": "2026-07-20T08:32:54.141Z"
     },
     {
       "pmid": "42444068",
@@ -529,7 +552,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:29.790Z"
+      "fetchedAt": "2026-07-20T08:32:44.028Z"
     },
     {
       "pmid": "42444068",
@@ -552,7 +575,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:45.119Z"
+      "fetchedAt": "2026-07-20T08:33:01.342Z"
     },
     {
       "pmid": "42433610",
@@ -575,7 +598,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:45.775Z"
+      "fetchedAt": "2026-07-20T08:33:01.946Z"
+    },
+    {
+      "pmid": "42472286",
+      "title": "Babesiosis-associated HLH in an immunocompetent adult: Host-driven hyperinflammation at low parasitemia.",
+      "abstract": "Hemophagocytic lymphohistiocytosis (HLH) is a rare, life-threatening hyperinflammatory syndrome triggered by viral infections and malignancies, as well as tick-borne pathogens such as Babesia microti. Babesiosis-associated HLH is uncommon and can be difficult to recognize, particularly in immunocompetent individuals, due to clinical overlap with sepsis. We report a case of a 32-year-old previously healthy male presenting with fever, cytopenias, transaminitis, and hyperferritinemia, found to have babesiosis with low-level parasitemia (0.01%). Despite appropriate antimicrobial therapy with atovaquone and azithromycin, the patient developed worsening cytopenias, hemolysis, hypertriglyceridemia, and elevated soluble interleukin-2 receptor levels, fulfilling HLH-2004 diagnostic criteria. Pulse-dose intravenous methylprednisolone was initiated, resulting in rapid clinical and laboratory improvement. The patient was discharged on antimicrobial therapy with a prednisone taper and remained clinically stable. This case highlights that babesiosis-associated HLH can occur even in immunocompetent hosts and may present with severe hyperinflammation despite minimal parasitemia. Early recognition of persistent cytopenias and hyperferritinemia, along with timely initiation of immunosuppressive therapy in addition to antimicrobial treatment, is critical to improving outcomes.",
+      "authors": [
+        "Kiarie P",
+        "Karthikeyan M",
+        "Kawai F"
+      ],
+      "journal": "IDCases",
+      "publicationDate": "06 27, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472286/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-20T08:32:56.504Z"
     },
     {
       "pmid": "42385337",
@@ -598,30 +644,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:39.810Z"
-    },
-    {
-      "pmid": "42427975",
-      "title": "Untitled",
-      "abstract": "Babesiosis is a globally relevant tick-borne disease affecting both animals and humans. However, data on Babesia spp. in companion animals remain limited in Changsha, a rapidly urbanizing city in central China with high human-animal contact. This study addresses this gap by characterizing the prevalence and genetic diversity of Babesia spp. in local dogs and cats, providing insights into urban transmission dynamics and the public health relevance of B. microti detection in companion animals. A total of 1,258 blood samples from dogs and cats were collected in Changsha between 2021 and 2022. Babesia spp. were detected by nested PCR targeting the SSU rRNA gene, and phylogenetic and haplotype analyses were performed to assess genetic diversity and sequence relatedness among the identified isolates. Babesia spp. were detected in 4.85% (61/1,258) of the samples, with infection rates of 5.19% in cats and 4.24% in dogs. B. gibsoni was the predominant species in both hosts, and phylogenetic analysis showed high sequence similarity to Asian canine strains. A total of 19 B. gibsoni haplotypes were identified, with Hap_1 being the most prevalent and distributed across multiple provinces. In addition, B. microti was detected in feline blood samples for the first time in China. These sequences clustered with tick-derived strains from the United States, and six haplotypes were identified, including Hap_4, a lineage previously reported in humans and ticks. This study presents the first molecular evidence of B. microti infection in pet cats in China, alongside the detection of B. gibsoni in both dogs and cats with notable haplotype diversity. The seasonal variation in infection rates, particularly the increase in autumn, suggests a potential influence of seasonal tick activity on transmission dynamics. These findings underscore the epidemiological relevance of companion animals in urban tick-borne piroplasm surveillance and support further investigation of local tick vectors and reservoir hosts, particularly in relation to the potential public health relevance of B. microti.",
-      "authors": [
-        "Quan J",
-        "Mo Z",
-        "Ruan X"
-      ],
-      "journal": "Frontiers in veterinary science",
-      "publicationDate": "06 25, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42427975/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-19T07:53:47.013Z"
+      "fetchedAt": "2026-07-20T08:32:54.969Z"
     },
     {
       "pmid": "42422444",
@@ -644,30 +667,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:36.256Z"
-    },
-    {
-      "pmid": "42428184",
-      "title": "Acute Decompensation Requiring Cardiopulmonary Resuscitation in a 15-Year-Old With Undiagnosed Lyme Carditis.",
-      "abstract": "We describe the case of a previously healthy teenager who developed third-degree atrioventricular block due to Lyme disease. While Lyme carditis is common in children, severe conduction anomalies remain rare but can be life-threatening. This case highlights the importance of early recognition, prompt testing, and timely intervention to prevent unnecessary procedures, such as permanent pacemaker implantation, and to ensure favorable outcomes. This case also supports Lyme disease testing in pediatric sudden cardiac death in cases with autopsy findings suggestive of myocarditis or pericarditis.",
-      "authors": [
-        "Gervais AS",
-        "Feder J",
-        "Rubin E"
-      ],
-      "journal": "Cureus",
-      "publicationDate": "Jun 08, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42428184/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-19T07:53:32.769Z"
+      "fetchedAt": "2026-07-20T08:32:50.714Z"
     },
     {
       "pmid": "42421136",
@@ -690,7 +690,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-19T07:53:36.865Z"
+      "fetchedAt": "2026-07-20T08:32:51.334Z"
     }
   ]
 }
