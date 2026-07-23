@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T08:03:10.618Z",
+  "generatedAt": "2026-07-23T08:06:08.097Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:02:47.565Z"
+      "fetchedAt": "2026-07-23T08:05:46.364Z"
     },
     {
       "pmid": "42478190",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:02:56.132Z"
+      "fetchedAt": "2026-07-23T08:05:53.444Z"
     },
     {
       "pmid": "42474355",
@@ -67,7 +67,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:02:46.940Z"
+      "fetchedAt": "2026-07-23T08:05:45.762Z"
     },
     {
       "pmid": "42477456",
@@ -90,7 +90,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:02:56.756Z"
+      "fetchedAt": "2026-07-23T08:05:55.070Z"
+    },
+    {
+      "pmid": "42484231",
+      "title": "Health profile of captive African pygmy hedgehogs (Atelerix albiventris) in Paran&#xe1; State, Southern Brazil.",
+      "abstract": "African pygmy hedgehogs (Atelerix albiventris) are omnivorous mammals native to sub-Saharan Africa and popular exotic pets worldwide. Although their trade is illegal, it remains common in Brazil. Therefore, the aims of this study were to investigate the health status of hedgehogs from illegal breeding sites, through hematological, biochemical and fecal analyses, skin pathogen screening and molecular assays for hemotropic Mycoplasma spp. and tick-borne pathogens. Real-time PCR assays for hemotropic Mycoplasma spp. (16S rRNA) and conventional PCR assays for Theileria/Babesia spp. (18S rRNA) and Ehrlichia/Anaplasma spp. (16S rRNA) were applied. No ectoparasites were found at the time of sampling, and hematological and biochemical results indicated a good health status. Candida tropicalis (15/25, 60%), Mucor spp. (12/25, 48%), and Proteus vulgaris (10/25, 40%) were identified in fecal analysis. Skin's microbiological examinations revealed Staphylococcus spp. (25/25 - 100%) and Streptococcus spp. (13/25 - 52%). All samples tested negative for hemotropic Mycoplasma spp., Theileria/Babesia spp., and Ehrlichia/Anaplasma spp. These findings suggest that the evaluated animals were not infected with harmful pathogens. Understanding their potential role in zoonotic diseases is necessary, particularly in the context of exotic species.",
+      "authors": [
+        "Bizari TG",
+        "Collere FCM",
+        "Ferreira AS"
+      ],
+      "journal": "Revista brasileira de parasitologia veterinaria = Brazilian journal of veterinary parasitology : Orgao Oficial do Colegio Brasileiro de Parasitologia Veterinaria",
+      "publicationDate": "07 20, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42484231/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-23T08:06:00.940Z"
+    },
+    {
+      "pmid": "42480497",
+      "title": "Diversity and population genetic analysis of the Babesia bovis merozoite surface Antigen 1 (MSA-1) gene in South African cattle isolates from field and clinical samples.",
+      "abstract": "Babesia bovis causes significant losses in South African cattle, and antigenic variation in the merozoite surface antigen 1 (msa-1) complicates vaccine and diagnostic development. This study provides the first detailed molecular characterisation of msa-1 genetic diversity in South African cattle populations. Analysis of 18 successfully sequenced isolates (&#x223c;960&#x202f;bp) revealed extensive polymorphism, with pairwise nucleotide sequence identities ranging from 30.1% to 100%, and amino acid similarities ranging from 37.6% to 100%. Population genetic metrics of the highly variable MSA-1 confirmed high nucleotide diversity (&#x3c0; = 0.37) and haplotype diversity (Hd = 0.94). Although these estimations are based on a modest sample size (n&#x202f;=&#x202f;18), high levels of diversity highlight the extreme polymorphism of the msa-1 gene. A larger sample size in future studies would yield narrower confidence intervals and more precise estimates of these population genetic parameters. Phylogenetic analysis grouped the South African isolates into two of the three global clades (clades I and II). Clades I and II showed high heterogeneity among isolates, both within and between countries, unlike Clade III, which mainly contained Asian isolates. Codon-based Z-test demonstrated that the msa-1 gene undergoes strong positive selection in South Africa (Z&#x202f;=&#x202f;5.25, p&#x202f;<&#x202f;0.01), providing evidence of B. bovis diversification into different variants. Genetic differentiation at the continental and country levels showed moderate to very high subdivision (Fst = 0.10-0.48) between South African and global populations, and particularly high subdivision (Fst = 0.38-0.48) with Asian isolates. These findings provide initial evidence of the complex evolutionary dynamics of B. bovis in South Africa and corroborate that the high variability of msa-1 facilitates immune evasion and contributes to vaccine breakthrough. Future research should evaluate more conserved antigenic markers for effective vaccine development.",
+      "authors": [
+        "Bambeni T",
+        "Schnittger L",
+        "Bhoora RV"
+      ],
+      "journal": "Veterinary parasitology",
+      "publicationDate": "Jul 19, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42480497/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-23T08:06:02.085Z"
     },
     {
       "pmid": "42471681",
@@ -113,7 +159,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:03:04.520Z"
+      "fetchedAt": "2026-07-23T08:06:03.318Z"
     },
     {
       "pmid": "42464363",
@@ -136,7 +182,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:03:05.133Z"
+      "fetchedAt": "2026-07-23T08:06:03.980Z"
     },
     {
       "pmid": "42458597",
@@ -159,7 +205,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:02:49.453Z"
+      "fetchedAt": "2026-07-23T08:05:48.183Z"
     },
     {
       "pmid": "42455001",
@@ -182,7 +228,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:02:50.066Z"
+      "fetchedAt": "2026-07-23T08:05:48.796Z"
     },
     {
       "pmid": "42458554",
@@ -205,7 +251,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:02:57.385Z"
+      "fetchedAt": "2026-07-23T08:05:55.673Z"
     },
     {
       "pmid": "42458907",
@@ -228,7 +274,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:03:05.790Z"
+      "fetchedAt": "2026-07-23T08:06:04.580Z"
     },
     {
       "pmid": "42456439",
@@ -251,7 +297,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:03:06.402Z"
+      "fetchedAt": "2026-07-23T08:06:05.172Z"
     },
     {
       "pmid": "42448039",
@@ -274,7 +320,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:03:07.022Z"
+      "fetchedAt": "2026-07-23T08:06:05.775Z"
     },
     {
       "pmid": "42446826",
@@ -297,7 +343,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:03:07.714Z"
+      "fetchedAt": "2026-07-23T08:06:06.463Z"
     },
     {
       "pmid": "42442085",
@@ -320,7 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:02:51.925Z"
+      "fetchedAt": "2026-07-23T08:05:50.151Z"
     },
     {
       "pmid": "42441703",
@@ -343,30 +389,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:02:52.607Z"
-    },
-    {
-      "pmid": "42439227",
-      "title": "Description of Treatment Strategies and Patient Outcomes for Hospitalized Patients With Lyme Carditis.",
-      "abstract": "Lyme carditis is a cardiovascular complication of early disseminated Lyme disease. Although guidelines recommend treatment with ceftriaxone followed by doxycycline, limited data support this recommendation. The purpose was to describe treatment strategies and outcomes of hospitalized patients treated for Lyme carditis. An institutional review board-approved, retrospective descriptive study was conducted within a large hospital network in an endemic region. Adults admitted with Lyme carditis were included. Outpatients, patients from external hospitals, or those without treatment were excluded. Electronic health record review was performed. The primary outcome was 30-day readmission; secondary outcomes included antibiotic days of therapy (DOT), length of stay (LOS), cardiac pacing, degree of heart block, PR interval reduction, and 30- or 90-day mortality. Data were analyzed using descriptive statistics. Sixty-two patients (80.6% male, 93.5% white, median 47 years) were included with a median 4-day LOS; 28 (45.2%) had an intensive care unit admission. Fourteen (22.6%) received ceftriaxone alone for a median 28 DOT; 41 (66.6%) received a median 5 DOT ceftriaxone followed by 20 DOT doxycycline. Fifty-seven (91.9%) experienced heart block, 18 (29.0%) required temporary pacing, and 10 (16.1%) required a permanent pacemaker. A 7.3% reduction in median PR interval was observed from presentation to discharge. Three (4.8%) patients experienced Lyme carditis-related 30-day readmission. No mortality was observed. Readmission among patients treated for Lyme carditis was low across antibiotic regimens. This represents one of the largest analyses to evaluate Lyme carditis treatment and outcomes for hospitalized patients, helping clinicians better understand expected outcomes and management timelines.",
-      "authors": [
-        "Montepara CA",
-        "Gordon AL",
-        "Gdula JM"
-      ],
-      "journal": "The Annals of pharmacotherapy",
-      "publicationDate": "Jul 13, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42439227/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-22T08:02:53.223Z"
+      "fetchedAt": "2026-07-23T08:05:51.268Z"
     },
     {
       "pmid": "42439788",
@@ -389,7 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:02:58.092Z"
+      "fetchedAt": "2026-07-23T08:05:56.375Z"
     },
     {
       "pmid": "42435377",
@@ -412,7 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:02:58.755Z"
+      "fetchedAt": "2026-07-23T08:05:57.015Z"
     },
     {
       "pmid": "42466216",
@@ -435,30 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:02:48.209Z"
-    },
-    {
-      "pmid": "42431120",
-      "title": "Metagenomic sequencing provides insight into pathogenic and related benign microbes in ticks collected from pastured cattle.",
-      "abstract": "Biting arthropods (e.g., ticks and mosquitoes) feed on pastured cattle and may serve as sentinels for certain pathogens present in the environment, including those with the capacity to spillover from wildlife into managed herds and humans. Metagenomic next generation sequencing (mNGS)-enabled by applications such as Oxford Nanopore Technologies (ONT)-allows samples to be screened for a diverse array of known and unknown pathogens compared to traditional targeted methods reliant on polymerase chain reaction (PCR). This study examined the utility of mNGS to identify potential pathogens relevant to animal and human health in samples collected from pastured cattle in Arkansas. Twenty Angus calves (Bos taurus) were sampled by collecting whole blood, swabbing the nose, mouth, and peri-anal region, and collecting ticks during a three-minute search. Each sample type was processed according to published procedures, and samples were sequenced using ONT MinION flow cells. mNGS analysis identified potentially pathogenic Theileria, Ehrlichia, and Borrelia species in tick samples. Downstream PCR identified Theileria cervi in 28.89% (13/45) of tick pools and 5.00% (1/20) of blood samples, a Babesia sp. in 6.67% (3/45) tick pools, three Ehrlichia species (E. chaffeensis, E. ewingii, and Panola Mountain Ehrlichia) in 6.61% (8/121) of ticks, and Borrelia lonestari in 2.48% (3/121) of ticks. In conclusion, the mNGS approach illuminated a wide spectrum of suspected microorganisms down to the genus-level, which were further characterized and confirmed as pathogenic species with conventional molecular detection approaches, thereby demonstrating a rigorous approach for a broad-spectrum screen and confirmation framework for pathogen identification.",
-      "authors": [
-        "Osborne CJ",
-        "Deakins AG",
-        "Ergunay K"
-      ],
-      "journal": "Veterinary microbiology",
-      "publicationDate": "Jul 09, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42431120/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-22T08:03:09.616Z"
+      "fetchedAt": "2026-07-23T08:05:46.968Z"
     },
     {
       "pmid": "42421073",
@@ -481,7 +481,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:03:00.648Z"
+      "fetchedAt": "2026-07-23T08:05:58.851Z"
+    },
+    {
+      "pmid": "42483176",
+      "title": "Bioinformatics analysis of potential molecular markers and immunological characteristics shared between post-treatment Lyme disease syndrome and rheumatoid arthritis.",
+      "abstract": "Post-treatment Lyme disease syndrome (PTLDS) and rheumatoid arthritis (RA) are both characterized by chronic inflammation and immune dysregulation; however, whether they share underlying molecular immune mechanisms remains unclear. Peripheral blood mononuclear cell (PBMC) transcriptomic datasets from the GEO database were analyzed to identify common differentially expressed genes (DEGs) between PTLDS and RA. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses were subsequently performed. Feature genes were screened using least absolute shrinkage and selection operator (LASSO) regression and support vector machine-recursive feature elimination (SVM-RFE) machine learning algorithms. Gene set enrichment analysis (GSEA) and xCell analysis were conducted to characterize signaling pathway features and immune cell infiltration patterns in both diseases. In addition, prediction-based ceRNA regulatory network analysis and drug association analysis were performed as exploratory components. A total of 44 common DEGs were identified, which were primarily enriched in neutrophil chemotaxis, complement activation, and immune-inflammatory processes. Machine learning analysis ultimately identified ZNF83 as the feature gene. GSEA revealed that both diseases were associated with innate immune-related pathways and immunoregulatory processes and exhibited certain similarities in immune cell composition. ZNF83 showed preliminary discrimination between disease and control samples in both PTLDS and RA (AUC&#xa0;=&#xa0;0.934 and 0.765, respectively), although these estimates require validation in larger independent cohorts. Furthermore, DSigDB analysis suggested potential associations between ZNF83 and several candidate therapeutic compounds. PTLDS and RA share certain common features at the level of immune-inflammatory regulation, and ZNF83 may serve as a potential feature regulatory molecule involved in the immune processes of both diseases. This study provides new insights into the immunopathological mechanisms of PTLDS and its relationship with autoimmune diseases.",
+      "authors": [
+        "Chen Y",
+        "Guo X",
+        "Xu X"
+      ],
+      "journal": "Frontiers in immunology",
+      "publicationDate": "07 07, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42483176/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-23T08:05:45.161Z"
     },
     {
       "pmid": "42465499",
@@ -504,7 +527,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:02:48.825Z"
+      "fetchedAt": "2026-07-23T08:05:47.578Z"
     },
     {
       "pmid": "42412287",
@@ -527,7 +550,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:03:01.402Z"
+      "fetchedAt": "2026-07-23T08:05:59.530Z"
     },
     {
       "pmid": "42444068",
@@ -550,7 +573,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:02:51.164Z"
+      "fetchedAt": "2026-07-23T08:05:49.404Z"
     },
     {
       "pmid": "42479873",
@@ -573,7 +596,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:02:55.523Z"
+      "fetchedAt": "2026-07-23T08:05:52.754Z"
     },
     {
       "pmid": "42444068",
@@ -596,30 +619,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:03:08.346Z"
-    },
-    {
-      "pmid": "42433610",
-      "title": "Untitled",
-      "abstract": "Babesia canis is a protozoan vector-borne pathogen causing infections in dogs. Acute B. canis infections are emerging in central and eastern Europe. Clinicopathological abnormalities include fever, thrombocytopenia, and pigmenturia. This retrospective study aimed to analyse anamnesis, stays abroad, clinicopathological abnormalities, therapy, and outcome in dogs with acute B. canis infections in Germany. Three hundred and forty-two dogs with positive piroplasmid-PCR results (B. canis identified after sequencing) and negative Anaplasma phagocytophilum-PCR results between January 2018 and December 2024 were included if data on hematocrit, platelets, and leukocytes were available. Information about anamnesis, clinical findings, therapy, and outcome was collected through questionnaires. Acute B. canis infections occurred mainly in autumn (218/342; 63.7%), followed by spring (67/342; 19.6%), winter (34/342; 9.9%), and summer (23/342; 6.7%). Most dogs tested positive in northern federal states (259/342; 75.7%), with Berlin/Brandenburg, Saxony, Saxony-Anhalt, the Saarland, the Rhine-Main area and the Ruhr area classified as high-risk areas. Lethargy (147/220; 66.8%) and fever (127/228; 55.7%) were most frequently reported. Pigmenturia was detected in 53/204 dogs (26.0%). All 164 dogs with available information on treatment received imidocarb dipropionate (median dosage 3.3&#x202f;mg/kg; 1.7-6.8&#x202f;mg/kg body weight). An uncomplicated course of disease was reported in most dogs (169/193, 87.6%). The mortality rate was 6.7%. Acute B. canis infections are most often uncomplicated if prompt treatment is initiated and represent a differential diagnosis in case of thrombocytopenia throughout the year, even when presented without fever and pigmenturia, especially in high-risk areas.",
-      "authors": [
-        "Eisenecker CM",
-        "Moritz A",
-        "von Hohnhorst IM"
-      ],
-      "journal": "Current research in parasitology & vector-borne diseases",
-      "publicationDate": "06 29, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42433610/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-22T08:03:08.991Z"
+      "fetchedAt": "2026-07-23T08:06:07.096Z"
     },
     {
       "pmid": "42472286",
@@ -642,7 +642,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:03:03.910Z"
+      "fetchedAt": "2026-07-23T08:06:02.687Z"
     },
     {
       "pmid": "42422444",
@@ -665,7 +665,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:02:59.368Z"
+      "fetchedAt": "2026-07-23T08:05:57.583Z"
     },
     {
       "pmid": "42421136",
@@ -688,7 +688,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-22T08:03:00.005Z"
+      "fetchedAt": "2026-07-23T08:05:58.237Z"
     }
   ]
 }
