@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-07-29T08:13:45.163Z",
+  "generatedAt": "2026-07-30T08:02:11.601Z",
   "totalPapers": 30,
   "papers": [
     {
-      "pmid": "42472018",
-      "title": "Climate and other environmental factors predict tick abundance and Lyme cases in Minnesota one and two years in advance.",
-      "abstract": "Environmental factors, like weather and host abundance influence tick populations which in turn affect tickborne disease in endemic regions. It is important to understand how these factors are associated with tick abundance, and whether they can predict disease. We assessed associations between environmental factors, tick abundance, and human Lyme disease cases in the same year and with one- and two-year lags in Minnesota. In parallel, we compare conventional analytical methods with a novel machine learning approach to evaluate their relative strengths and potential for integration. Environmental and tick abundance relationships were examined using generalized linear mixed-effects models (GLMM), and gradient boosting machine learning incorporating same-year and time lagged effects. Area under the curve (AUC) indicates higher accuracy in predicting tick abundance in GLMM than gradient boosting. Among GLMM with no time lag, Palmer Drought Severity Index (PDSI), vapor pressure deficit (VPD), precipitation and snow water equivalent (SWE) were significant predictors of tick abundance. Direction of association varies in PDSI and SWE variables with no time lag but show consistency with one- and two-year lags. Among gradient boosted models, days below -18&#xa0;&#xb0;C, small mammal count, and mouse-to-small mammal ratio were associated with high tick abundance in the same year, and with one- and two-year lags. AUC are highest with a one-year lag suggesting environmental factors most accurately predict tick abundance one year later. AUC in models with Lyme disease as the outcome are highest with a two-year lag; PDSI, soil moisture, SWE, days below -18&#xa0;&#xb0;C, degree days, small mammal count and mouse ratio are all variables of importance in gradient boosted models. Monitoring environmental factors provides enhanced opportunities for public health interventions through prediction of tick abundance and potential consequences for higher Lyme disease incidence. Incorporating traditional and modern analytic methods offers opportunities for enhanced prediction and early warning.",
+      "pmid": "42522140",
+      "title": "Analysis of vaccine adverse events associated with rheumatoid arthritis: A pharmacovigilance study based on the VAERS database.",
+      "abstract": "Vaccination is a principal method of infectious disease prevention, but its association with rheumatoid arthritis (RA) remains controversial. This study assessed vaccine&#x2011;associated RA using the Vaccine Adverse Event Reporting System (VAERS). Data from 1990 to 2026 were extracted. Descriptive statistics, Weibull fitting, and disproportionality analysis using four methods, including the reporting odds ratio (ROR), along with subgroup analyses by age, sex, and pre&#x2011;/post&#x2011;COVID, were performed. Among 11,532,185 reports, 34,498 RA&#x2011;related adverse events (AEs) (0.03%) involved 5006 subjects. Females comprised 77.9% and 18-65 predominated. Serious outcomes occurred in 13.48%. Most AEs (47.49%) were musculoskeletal. 47.0% occurred within 7d (median 5.4), indicating early failure. The COVID&#x2011;19 vaccine had the most reports (n&#x2009;=&#x2009;24,266) but a weak signal (ROR&#x2009;=&#x2009;1.25); the Lyme disease vaccine (ROR&#x2009;=&#x2009;27.81), the rubella vaccine (ROR&#x2009;=&#x2009;5.69), and the anthrax vaccine (ROR&#x2009;=&#x2009;3.90) exhibited the strongest signals. Subgroup signals: Lyme disease vaccine except 2021-2026; rubella vaccine only in females/&#x2264;17; anthrax vaccine in 18-64. RA&#x2011;related vaccine AEs are extremely rare, mainly musculoskeletal and within 1&#x2009;week. High COVID&#x2011;19 volume did not align with its weak signal, while strong signals for the Lyme disease, rubella, and anthrax vaccines reflected specific populations. No strong disproportionality signal was found. However, VAERS is passive, cannot establish causality or confirm safety.",
       "authors": [
-        "Angell KE",
-        "Jarnefeld J",
-        "Schiffman EK"
+        "Lu P",
+        "Lou M",
+        "Qiu Z"
       ],
-      "journal": "One health (Amsterdam, Netherlands)",
-      "publicationDate": "Dec 03, 2026",
+      "journal": "Human vaccines & immunotherapeutics",
+      "publicationDate": "Dec 28, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472018/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42522140/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:28.227Z"
+      "fetchedAt": "2026-07-30T08:01:50.180Z"
     },
     {
       "pmid": "42517708",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:39.050Z"
+      "fetchedAt": "2026-07-30T08:02:05.881Z"
     },
     {
       "pmid": "42518917",
@@ -69,7 +69,76 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:31.353Z"
+      "fetchedAt": "2026-07-30T08:01:56.950Z"
+    },
+    {
+      "pmid": "42527336",
+      "title": "Update on Lyme disease diagnostic approaches and protocols in Canada: Overview of existing testing strategies and limitations.",
+      "abstract": "To provide an update on the state of Lyme disease diagnostic approaches and protocols across Canada, as well as guidance for family physicians regarding the complexities of available tests. Guidelines from the Public Health Agency of Canada, the Association of Medical Microbiology and Infectious Disease Canada, the Infectious Diseases Society of America, and the European Society of Clinical Microbiology and Infectious Diseases were reviewed and summarized, as well as websites of provincial reference laboratories. Evidence levels ranged from I to III, with Grading of Recommendations Assessment, Development and Evaluation ratings ranging from moderate to low quality. Lyme disease incidence is increasing in Canada, but diagnosis can be complicated by vague presenting symptoms, heterogeneous quality of online resources available to patients and family physicians, and non-standardized, non-guideline-based tests available from private, for-profit laboratories. Early recognition is primarily clinical, based on the characteristic erythema migrans rash and exposure to Lyme-endemic areas. While standard 2-tiered serologic testing was previously the mainstay of laboratory-based Lyme disease diagnosis in Canada, several reference laboratories have since transitioned to modified 2-tiered testing, with increased sensitivity in early disease detection and shortened turnaround time. Overall, diagnostic approaches vary across Canadian provinces and territories due to differing baseline Lyme disease incidence. Tests available from private laboratories are unreliable due to high false-positive rates and lack of proven clinical relevance within peer-reviewed studies. Tests and guidance available from public health reference laboratories across Canada are well aligned with international and Canadian guidelines. Diagnosis is primarily clinical in early disease and based on serologic testing in later disease. Polymerase chain reaction is less reliable outside of certain clinical specimens such as erythema migrans biopsy and synovial fluid. Family physicians should be aware of non-evidence-based assays available to patients from private laboratories in the United States and Europe.",
+      "authors": [
+        "Sareen K",
+        "Schonhofer C",
+        "Lo CK"
+      ],
+      "journal": "Canadian family physician Medecin de famille canadien",
+      "publicationDate": "7 30, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42527336/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-30T08:01:48.922Z"
+    },
+    {
+      "pmid": "42526434",
+      "title": "Gustatory function of Aedes aegypti opsins and TRPA1 in avoiding a natural insect repellent.",
+      "abstract": "The mosquito, Aedes aegypti, spreads viruses that cause dengue, yellow fever, and other devastating diseases. To identify candidate repellents that suppress blood feeding by Aedes aegypti, we conducted an in vitro screen of natural chemicals for activators of two visual opsins, Op1 and Op2, which we found are expressed at very high levels in gustatory organs. We found that Op1 and Op2 are chemical sensors since they are activated by flavonoids, including catechin. We devised an artificial membrane that mimics multiple properties of skin (VectaDerm), which we used on blood feeders, leading to the demonstration that catechin suppresses blood feeding. This behavior was disrupted in op1,op2 double mutants and in trpA1 mutants. High catechin concentrations directly activated TRPA1 and suppressed blood feeding independent of the opsins, while suppression by lower catechin levels depended on the opsins and TRPA1. Roles for opsins and TRPA1 in avoiding catechin are conserved in Drosophila. TRPA1 expressed in the tick vector for Lyme disease, Ixodes scapularis, is also activated by catechin, and I. scapularis is repelled by catechin. Since catechin is safe to humans, we propose that it could be added to repellent formulations to more effectively suppress biting by mosquitoes.",
+      "authors": [
+        "Chandel A",
+        "Dhavan P",
+        "Ganguly A"
+      ],
+      "journal": "Current biology : CB",
+      "publicationDate": "Jul 29, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42526434/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-30T08:01:49.570Z"
+    },
+    {
+      "pmid": "42523104",
+      "title": "Untitled",
+      "abstract": "Babesia divergens are tick-borne apicomplexan parasites infecting red blood cells of domestic and wild animals in Europe, as well as humans with important health burden. Previous findings indicate that PIEZO1 gain-of-function inherited mutations confer a significant protection against cerebral malaria. In this study, we further demonstrate that several Yoda1 analogs promoting PIEZO1 opening prevent B. divergens infection of human red blood cells in vitro. We identify several compounds with improved specificity for B. divergens, as compared to Plasmodium falciparum. Babesia are apicomplexan parasites transmitted by tick bites that mainly infect animals, but some species such as Babesia divergens also infect people with dramatic outcomes. Babesiosis represents a threat for bovine production and is also an emerging human infectious disease in endemic regions. Like the malaria parasite Plasmodium, Babesia infects red blood cells (RBC) and causes hemolysis. Protection is currently based on drug treatments, tick control strategies, and animal vaccination. However, the indiscriminate use of prophylactic agents directly targeting the parasite is at risk to cause drug resistance, as observed for malaria. Here, we show that PIEZO1 activation in human RBC, taking advantage of newly synthesized Yoda1 analogs with enhanced efficacy and lower cytotoxicity, confers in vitro protection against Babesia infection.",
+      "authors": [
+        "Wengelnik K",
+        "Lohia R",
+        "Paveyranne A"
+      ],
+      "journal": "Microbiology spectrum",
+      "publicationDate": "Jul 29, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42523104/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-30T08:02:03.983Z"
     },
     {
       "pmid": "42522038",
@@ -92,30 +161,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:30.741Z"
-    },
-    {
-      "pmid": "42521904",
-      "title": "Cross-species therapeutics in Plasmodium and Babesia: erythrocyte invasion and conserved drug targets.",
-      "abstract": "The phylum Apicomplexa encompasses a diverse group of protozoan parasites of profound medical and veterinary importance, among which the genera&#xa0;Plasmodium&#xa0;and&#xa0;Babesia&#xa0;stand out because of their shared pathological niche within host erythrocytes. While&#xa0;Plasmodium&#xa0;spp., transmitted by anopheline mosquitoes, are the causative agents of human and zoonotic malaria,&#xa0;Babesia&#xa0;spp., transmitted by ixodid ticks, cause babesiosis, a burgeoning zoonosis and a significant cause of economic loss in the livestock industry. Globally, babesiosis is an emerging threat, with&#xa0;Babesia microti&#xa0;being the primary cause of human babesiosis in the USA and Europe, transmitted by&#xa0;Ixodes scapularis&#xa0;ticks. Although their life cycles diverge critically, most notably in the presence of an exo-erythrocytic hepatic stage in&#xa0;Plasmodium&#xa0;and its absence in&#xa0;Babesia, both parasites share a core pathogenic strategy. They invade, replicate within, and lyse red blood cells, leading to the clinical manifestations of haemolytic anaemia and fever. This review undertakes a comprehensive comparative analysis of&#xa0;Plasmodium&#xa0;and&#xa0;Babesia, leveraging the vast body of research on the former to illuminate the biology and vulnerabilities of the latter. We systematically dissected their parallel life cycles in both vertebrate and invertebrate hosts, elucidating the molecular mechanisms underlying their distinct developmental pathways and transmission strategies. A central focus is placed on the conserved machinery of erythrocyte invasion, a multi-step process mediated by an apical complex of secretory organelles (micronemes and rhoptries) and specific ligand-receptor interactions, which presents a prime target for intervention. Beyond cellular invasion, we delve into the shared metabolic architecture that constitutes the foundation for cross-species drug discovery. We critically evaluated high-value conserved targets, such as the mitochondrial cytochrome&#xa0;bc&#x2081; complex, proteasomal protein degradation system, unique apicoplast organelle with its prokaryotic pathways, essential kinases, and folate biosynthesis pathway, dihydroorotate dehydrogenase (DHODH), ATP4, falcipain proteases, and the heme detoxification pathway. For each target, we discuss the mechanism of action of existing and experimental inhibitors, the evidence for their efficacy across both genera, and the emerging challenge of drug resistance. Ultimately, this synthesis argues that the deep evolutionary relationship between&#xa0;Plasmodium&#xa0;and&#xa0;Babesia&#xa0;has resulted in a core set of indispensable biological processes that are susceptible to parallel therapeutic interventions. By mapping the shared vulnerabilities within their erythrocytic pathogenesis, this review will be useful in designing novel, broad-spectrum antiprotozoal agents and strategic drug repurposing efforts, thereby advancing the fight against both malaria and babesiosis.",
-      "authors": [
-        "Tirdia M",
-        "Lakhlan M",
-        "Kumar R"
-      ],
-      "journal": "Tropical animal health and production",
-      "publicationDate": "Jul 28, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42521904/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-29T08:13:37.847Z"
+      "fetchedAt": "2026-07-30T08:01:55.939Z"
     },
     {
       "pmid": "42521938",
@@ -138,7 +184,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:38.447Z"
+      "fetchedAt": "2026-07-30T08:02:04.600Z"
+    },
+    {
+      "pmid": "42521904",
+      "title": "Cross-species therapeutics in Plasmodium and Babesia: erythrocyte invasion and conserved drug targets.",
+      "abstract": "The phylum Apicomplexa encompasses a diverse group of protozoan parasites of profound medical and veterinary importance, among which the genera&#xa0;Plasmodium&#xa0;and&#xa0;Babesia&#xa0;stand out because of their shared pathological niche within host erythrocytes. While&#xa0;Plasmodium&#xa0;spp., transmitted by anopheline mosquitoes, are the causative agents of human and zoonotic malaria,&#xa0;Babesia&#xa0;spp., transmitted by ixodid ticks, cause babesiosis, a burgeoning zoonosis and a significant cause of economic loss in the livestock industry. Globally, babesiosis is an emerging threat, with&#xa0;Babesia microti&#xa0;being the primary cause of human babesiosis in the USA and Europe, transmitted by&#xa0;Ixodes scapularis&#xa0;ticks. Although their life cycles diverge critically, most notably in the presence of an exo-erythrocytic hepatic stage in&#xa0;Plasmodium&#xa0;and its absence in&#xa0;Babesia, both parasites share a core pathogenic strategy. They invade, replicate within, and lyse red blood cells, leading to the clinical manifestations of haemolytic anaemia and fever. This review undertakes a comprehensive comparative analysis of&#xa0;Plasmodium&#xa0;and&#xa0;Babesia, leveraging the vast body of research on the former to illuminate the biology and vulnerabilities of the latter. We systematically dissected their parallel life cycles in both vertebrate and invertebrate hosts, elucidating the molecular mechanisms underlying their distinct developmental pathways and transmission strategies. A central focus is placed on the conserved machinery of erythrocyte invasion, a multi-step process mediated by an apical complex of secretory organelles (micronemes and rhoptries) and specific ligand-receptor interactions, which presents a prime target for intervention. Beyond cellular invasion, we delve into the shared metabolic architecture that constitutes the foundation for cross-species drug discovery. We critically evaluated high-value conserved targets, such as the mitochondrial cytochrome&#xa0;bc&#x2081; complex, proteasomal protein degradation system, unique apicoplast organelle with its prokaryotic pathways, essential kinases, and folate biosynthesis pathway, dihydroorotate dehydrogenase (DHODH), ATP4, falcipain proteases, and the heme detoxification pathway. For each target, we discuss the mechanism of action of existing and experimental inhibitors, the evidence for their efficacy across both genera, and the emerging challenge of drug resistance. Ultimately, this synthesis argues that the deep evolutionary relationship between&#xa0;Plasmodium&#xa0;and&#xa0;Babesia&#xa0;has resulted in a core set of indispensable biological processes that are susceptible to parallel therapeutic interventions. By mapping the shared vulnerabilities within their erythrocytic pathogenesis, this review will be useful in designing novel, broad-spectrum antiprotozoal agents and strategic drug repurposing efforts, thereby advancing the fight against both malaria and babesiosis.",
+      "authors": [
+        "Tirdia M",
+        "Lakhlan M",
+        "Kumar R"
+      ],
+      "journal": "Tropical animal health and production",
+      "publicationDate": "Jul 28, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42521904/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-07-30T08:02:05.262Z"
     },
     {
       "pmid": "42498009",
@@ -161,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:41.972Z"
+      "fetchedAt": "2026-07-30T08:02:08.630Z"
     },
     {
       "pmid": "42490605",
@@ -184,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:33.914Z"
+      "fetchedAt": "2026-07-30T08:01:59.465Z"
     },
     {
       "pmid": "42493703",
@@ -207,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:42.882Z"
+      "fetchedAt": "2026-07-30T08:02:09.838Z"
     },
     {
       "pmid": "42492378",
@@ -230,30 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:43.532Z"
-    },
-    {
-      "pmid": "42489747",
-      "title": "Abortion caused by hemolytic disease associated with co-infection by Anaplasma marginale and Babesia spp. in dairy cattle.",
-      "abstract": "Bovine anaplasmosis and babesiosis are important tick-borne diseases associated with significant economic losses, although fetal infection and abortion are rarely described. This study reports a bovine abortion associated with co-infection by Anaplasma marginale, Babesia bovis and Babesia bigemina. in the Midwestern region of Brazil. Fetal necropsy was performed, followed by cytological, histopathological, immunohistochemical, and molecular analyses. Gross findings included jaundice, splenomegaly, hepatomegaly, and renal discoloration, consistent with severe hemolytic disease. Blood smear evaluation revealed intraerythrocytic inclusions compatible with (A) marginale and Babesia-like merozoites, and PCR confirmed (B) bovis and B. bigemina, and Anaplasma spp. infection was confirmed by sequencing. Histologically, lesions consisted of erythrophagocytosis, hemosiderosis, hemoglobin casts, and marked intravascular leukocytostasis in multiple organs. Immunohistochemistry demonstrated accumulation of macrophages and T lymphocytes, suggesting activation of a fetal inflammatory response. These findings emphasize the importance of including hemoparasitic infections in the differential diagnosis of bovine abortion and support a role for fetal immune responses in lesion development.",
-      "authors": [
-        "Dos Santos &#xcd;G",
-        "Luciano LPA",
-        "da Silva Cavasani JP"
-      ],
-      "journal": "Veterinary research communications",
-      "publicationDate": "Jul 23, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42489747/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-29T08:13:44.163Z"
+      "fetchedAt": "2026-07-30T08:02:10.600Z"
     },
     {
       "pmid": "42492353",
@@ -276,7 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:26.129Z"
+      "fetchedAt": "2026-07-30T08:01:53.245Z"
     },
     {
       "pmid": "42478190",
@@ -299,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:35.133Z"
+      "fetchedAt": "2026-07-30T08:02:00.800Z"
     },
     {
       "pmid": "42474355",
@@ -320,7 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:27.329Z"
+      "fetchedAt": "2026-07-30T08:01:54.506Z"
     },
     {
       "pmid": "42515089",
@@ -343,7 +389,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:32.019Z"
+      "fetchedAt": "2026-07-30T08:01:57.633Z"
     },
     {
       "pmid": "42477456",
@@ -366,7 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:35.750Z"
+      "fetchedAt": "2026-07-30T08:02:01.428Z"
     },
     {
       "pmid": "42505844",
@@ -389,7 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:33.298Z"
+      "fetchedAt": "2026-07-30T08:01:58.843Z"
     },
     {
       "pmid": "42458554",
@@ -412,7 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:36.369Z"
+      "fetchedAt": "2026-07-30T08:02:02.033Z"
     },
     {
       "pmid": "42514027",
@@ -435,30 +481,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:41.055Z"
-    },
-    {
-      "pmid": "42466216",
-      "title": "A Rare Presentation of Lyme Neuroborreliosis: Multifocal Cervical and Thoracic Transverse Myelitis-A Case Report.",
-      "abstract": "Spinal cord involvement in Lyme disease is an uncommon manifestation of neuroborreliosis, with myelitis representing a rare clinical entity. Multifocal transverse, non-contiguous spinal cord involvement remains particularly rare and is insufficiently characterized in the existing literature. We report the case of a 40-year-old previously healthy woman who presented with rapidly progressive paraparesis, ascending sensory deficits, and bladder and bowel dysfunction consistent with acute-subacute inflammatory myelopathy. Spinal magnetic resonance imaging (MRI) demonstrated multifocal non-contiguous inflammatory lesions involving the cervical and thoracic spinal cord. Extensive microbiological and serological investigations excluded alternative infectious aetiologies. Brain MRI showed no evidence of demyelinating disease. Despite clinically significant spinal cord inflammation, cerebrospinal fluid (CSF) analysis revealed neither pleocytosis nor elevated protein concentration. However, Borrelia-specific IgM antibodies were detected in both serum and CSF, and a positive Borrelia-specific antibody index (AI 3.07) confirmed intrathecal anti-Borrelia antibody synthesis, establishing the diagnosis of Lyme neuroborreliosis-associated myelitis. The patient subsequently demonstrated marked neurological improvement following targeted treatment with intravenous ceftriaxone combined with corticosteroids and supportive therapy. This case significantly expands the recognized spectrum of spinal cord involvement in Lyme disease-associated neuroborreliosis by delineating an extremely rare multifocal presentation, thereby emphasizing the critical importance of recognizing atypical manifestations in the diagnostic evaluation of inflammatory myelopathies. Multifocal non-contiguous transverse myelitis is an unusual manifestation of Lyme neuroborreliosis.Lyme-associated inflammatory myelitis may occur even in the absence of classical cerebrospinal fluid abnormalities or documented tick exposure.Early recognition and antimicrobial treatment improve neurological recovery.",
-      "authors": [
-        "Shatri E",
-        "T&#xeb;rnava R",
-        "G&#xeb;rdovci A"
-      ],
-      "journal": "European journal of case reports in internal medicine",
-      "publicationDate": "07 09, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42466216/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-29T08:13:28.853Z"
+      "fetchedAt": "2026-07-30T08:02:08.029Z"
     },
     {
       "pmid": "42515044",
@@ -481,7 +504,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:24.158Z"
+      "fetchedAt": "2026-07-30T08:01:51.421Z"
     },
     {
       "pmid": "42483176",
@@ -504,30 +527,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:26.727Z"
-    },
-    {
-      "pmid": "42465499",
-      "title": "A cofactor-promiscuous HMGR from the Lyme disease pathogen illuminates diversity in bacterial isoprenoid biosynthesis.",
-      "abstract": "The Lyme disease pathogen Borrelia burgdorferi contains a highly reduced genome lacking many primary metabolic pathways. However, B. burgdorferi retains the mevalonate pathway that synthesizes isopentenyl pyrophosphate (IPP), the precursor to the peptidoglycan carrier lipid. While the mevalonate pathway and the enzyme that catalyzes its rate-limiting step (3-hydroxy-3-methyl glutaryl coenzyme A reductase, HMGR) are well studied in vertebrates, little is known about the pathway in B. burgdorferi and many pathogenic bacteria. In this work, we reveal that HMGR is a critical metabolic enzyme in B. burgdorferi. We demonstrate that loss of HMGR causes morphological defects and muted de novo synthesis of peptidoglycan; these defects are ameliorated by exogenous mevalonate and IPP. Biochemical characterization unveiled the HMGR as a highly unusual cofactor-promiscuous oxidoreductase that functions with both nicotinamide cofactors. Bioinformatics and biochemical characterization uncovered examples of similarly promiscuous HMGRs and revealed a previously unrecognized evolutionary link to cofactor choice. Moreover, structures of the enzyme reveal a highly divergent active site architecture. Together, these findings firmly establish HMGR as an opportunity target for the development of antibacterials for a diderm pathogen while highlighting cofactor promiscuity as an evolutionary acquired feature in HMGRs.",
-      "authors": [
-        "Paddy IA",
-        "McCausland J",
-        "Frazier M"
-      ],
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationDate": "Jul 07, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42465499/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-07-29T08:13:29.420Z"
+      "fetchedAt": "2026-07-30T08:01:53.899Z"
     },
     {
       "pmid": "42515030",
@@ -550,7 +550,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:39.667Z"
+      "fetchedAt": "2026-07-30T08:02:06.508Z"
     },
     {
       "pmid": "42515028",
@@ -573,7 +573,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:24.768Z"
+      "fetchedAt": "2026-07-30T08:01:52.044Z"
     },
     {
       "pmid": "42515029",
@@ -596,7 +596,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:40.287Z"
+      "fetchedAt": "2026-07-30T08:02:07.105Z"
     },
     {
       "pmid": "42479873",
@@ -619,7 +619,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:34.529Z"
+      "fetchedAt": "2026-07-30T08:02:00.197Z"
     },
     {
       "pmid": "42504354",
@@ -642,7 +642,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:25.515Z"
+      "fetchedAt": "2026-07-30T08:01:52.647Z"
     },
     {
       "pmid": "42515000",
@@ -663,7 +663,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:32.668Z"
+      "fetchedAt": "2026-07-30T08:01:58.232Z"
     },
     {
       "pmid": "42518741",
@@ -686,7 +686,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-07-29T08:13:23.542Z"
+      "fetchedAt": "2026-07-30T08:01:50.778Z"
     }
   ]
 }
