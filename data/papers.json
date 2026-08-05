@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T08:12:53.128Z",
+  "generatedAt": "2026-08-05T08:11:26.510Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:34.914Z"
+      "fetchedAt": "2026-08-05T08:11:11.049Z"
     },
     {
       "pmid": "42542777",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:31.036Z"
+      "fetchedAt": "2026-08-05T08:11:07.504Z"
     },
     {
       "pmid": "42517708",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:49.561Z"
+      "fetchedAt": "2026-08-05T08:11:23.658Z"
     },
     {
       "pmid": "42518917",
@@ -92,7 +92,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:39.040Z"
+      "fetchedAt": "2026-08-05T08:11:13.748Z"
+    },
+    {
+      "pmid": "42551817",
+      "title": "AfriTickID: An AI-Assisted Image-Based Approach for Tick Species Identification in Kenya.",
+      "abstract": "Tick-borne diseases such as Lyme disease, tick-borne encephalitis and Crimean-Congo haemorrhagic fever in humans, and East Coast Fever and anaplasmosis in animals, pose a significant threat to public and veterinary health. Knowing where tick species are distributed helps with targeted response. In this study, we used Artificial Intelligence (AI) to automate the identification of tick species from images. A Kenya-based tick image dataset comprising of 864 images across seven tick species was compiled from laboratory collections and the Global Biodiversity Information Facility. MobileNetV2 and ResNet-50 were used to identify tick species and cross-validated to determine performance and accuracy. We evaluated model performance using 5-fold cross-validation and summarized the results with a normalized confusion matrix. The lightweight MobileNetV2 achieved a better performance than ResNet-50, with an accuracy of 75 %, weighted F1-score of 74%, and Kappa score of 69%. MobileNetV2 had the highest identification rates for Rhipicephalus decoloratus (88%) and Rhipicephalus sanguineus (87%), and the lowest for Rhipicephalus evertsi (22%). ResNet-50 and baseline convolutional neural networks performed better on Rhipicephalus sanguineus (94%), with lower rates across other species. These results provide a baseline for AI-assisted tick identification in Kenya. Future work should focus on expanding the dataset to improve model performance for tick species in Kenya, while broader applicability to other regions, species, life stages, and image sources will require larger, balanced datasets and external validation.",
+      "authors": [
+        "Kioko C",
+        "Cheng H",
+        "Ekeya J"
+      ],
+      "journal": "Acta tropica",
+      "publicationDate": "Aug 04, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42551817/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-05T08:11:05.684Z"
+    },
+    {
+      "pmid": "42550036",
+      "title": "Untitled",
+      "abstract": "A consequence of the Borrelia (Borreliella) burgdorferi lifecycle is that a \"standard\" host-pathogen interaction involving the spirochete is challenging to define. The bacteria continuously cycle between vertebrate and invertebrate hosts, each inflicting substantially different selective pressures on the spirochete. Focusing solely on vertebrate infections, the spirochete can be found in numerous hosts in nature, including deermice, shrews, birds, and lizards. The immune pressures that the bacteria face in each of these hosts are variable and are thought to drive broad intraspecific variation across B. burgdorferi strains-with different strains appearing to be avian adapted, mammalian adapted, or generalist. In addition to its natural zoonotic hosts, B. burgdorferi can infect humans and cause Lyme disease. Here, natural human genetic variation can drive dramatically different disease outcomes, as some individuals seem capable of killing the bacteria before it can successfully colonize, while others are predisposed to continue reacting to the pathogen even long after it is killed by antibiotics. In this review, we describe studies investigating how host and bacterial diversity affect B. burgdorferi infection outcomes, with an emphasis on how this variability impacts the bacteria's spread in nature and Lyme disease severity during human infection.",
+      "authors": [
+        "Winter MS",
+        "Adams KD",
+        "Bourgeois JS"
+      ],
+      "journal": "Infection and immunity",
+      "publicationDate": "Aug 04, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42550036/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-05T08:11:06.251Z"
     },
     {
       "pmid": "42542768",
@@ -115,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:46.445Z"
+      "fetchedAt": "2026-08-05T08:11:20.543Z"
     },
     {
       "pmid": "42532720",
@@ -138,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:32.288Z"
+      "fetchedAt": "2026-08-05T08:11:08.725Z"
     },
     {
       "pmid": "42532587",
@@ -160,7 +206,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:32.787Z"
+      "fetchedAt": "2026-08-05T08:11:09.225Z"
     },
     {
       "pmid": "42527336",
@@ -183,7 +229,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:33.409Z"
+      "fetchedAt": "2026-08-05T08:11:09.792Z"
     },
     {
       "pmid": "42526434",
@@ -206,7 +252,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:34.043Z"
+      "fetchedAt": "2026-08-05T08:11:10.439Z"
     },
     {
       "pmid": "42523104",
@@ -229,7 +275,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:47.690Z"
+      "fetchedAt": "2026-08-05T08:11:21.724Z"
     },
     {
       "pmid": "42522038",
@@ -252,7 +298,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:38.414Z"
+      "fetchedAt": "2026-08-05T08:11:13.155Z"
     },
     {
       "pmid": "42542071",
@@ -275,7 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:47.065Z"
+      "fetchedAt": "2026-08-05T08:11:21.123Z"
     },
     {
       "pmid": "42521938",
@@ -298,7 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:48.315Z"
+      "fetchedAt": "2026-08-05T08:11:22.319Z"
     },
     {
       "pmid": "42521904",
@@ -321,30 +367,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:48.938Z"
-    },
-    {
-      "pmid": "42498009",
-      "title": "Zoonotic pathogens in an island invader: the case of the northern raccoon (Procyon lotor) in Mallorca (Balearic Islands).",
-      "abstract": "Introduced to Europe in Germany in 1934, the northern raccoon (Procyon lotor) is an invasive carnivoran that has since spread widely across the continent and now thrives in Mediterranean ecosystems. This study investigated the occurrence of selected vector-borne, lung, and enteric pathogens, as well as associated tick species, in 75 raccoons necropsied on Mallorca Island (Spain), through molecular screening of spleen, lung, fecal, and ectoparasite samples. Tick infestation was recorded in 61.3% of raccoons, with all collected ticks (n = 326) identified as Rhipicephalus secundus, representing the first molecular confirmation of this species in Spain. Overall, 24% of raccoons were positive for at least one pathogen. Leishmania infantum was detected in 1.5% of spleen samples, while 22.6% of fecal samples were positive for Cryptosporidium spp. (i.e., Cryptosporidium muris, Cryptosporidium parvum, Cryptosporidium ditrichi, and Cryptosporidium skunk genotype). All samples tested negative for Anaplasmataceae, Babesia spp., Borrelia spp., Baylisascaris procyonis, Dirofilaria immitis, Dirofilaria repens, Metastrongylidae, and Rickettsia spp. These findings suggest that an invasive carnivoran may impact not only the ecology of native species and ecosystem integrity, but also the epidemiology of zoonotic pathogens. Therefore, effective measures are needed to prevent further releases into the wild and to support the control and eradication of this invasive species.",
-      "authors": [
-        "Alves MH",
-        "Mendoza-Roldan JA",
-        "Fagundes-Moreira R"
-      ],
-      "journal": "Acta tropica",
-      "publicationDate": "Jul 24, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42498009/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-04T08:12:52.128Z"
+      "fetchedAt": "2026-08-05T08:11:22.992Z"
     },
     {
       "pmid": "42490605",
@@ -367,7 +390,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:41.537Z"
+      "fetchedAt": "2026-08-05T08:11:16.246Z"
     },
     {
       "pmid": "42538980",
@@ -389,7 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:31.657Z"
+      "fetchedAt": "2026-08-05T08:11:08.065Z"
     },
     {
       "pmid": "42478190",
@@ -412,7 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:43.620Z"
+      "fetchedAt": "2026-08-05T08:11:17.700Z"
     },
     {
       "pmid": "42515089",
@@ -435,7 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:39.668Z"
+      "fetchedAt": "2026-08-05T08:11:14.455Z"
     },
     {
       "pmid": "42477456",
@@ -458,7 +481,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:44.371Z"
+      "fetchedAt": "2026-08-05T08:11:18.303Z"
     },
     {
       "pmid": "42505844",
@@ -481,7 +504,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:40.908Z"
+      "fetchedAt": "2026-08-05T08:11:15.633Z"
     },
     {
       "pmid": "42514027",
@@ -504,30 +527,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:51.509Z"
+      "fetchedAt": "2026-08-05T08:11:25.509Z"
     },
     {
-      "pmid": "42515044",
-      "title": "Human Complement Evasion Is Widespread Among Lyme Borreliosis Spirochete Species.",
-      "abstract": "Disseminated human Lyme borreliosis is primarily associated with invasive spirochetes from the Borrelia burgdorferi sensu lato complex. Host-Borrelia interactions have been studied in a diverse range of vertebrate reservoirs. But despite the key role of the complement system in innate immunity, comparative studies evaluating the susceptibility of individual Borrelia species to human complement-mediated killing are limited. Using serum sensitivity assays, we analyzed complement-mediated killing of 10 B. burgdorferi s.l. genospecies in healthy individuals of different ages and sexes. The tested genospecies showed markedly different sensitivities to human complement. Statistical clustering divided the genospecies into three distinct groups based on whether their sensitivity to human complement was high, medium, or low. Complement resistance did not correlate with the recognized pathogenicity of the genospecies; species with unclear pathogenic potential exhibited resistance levels comparable to the major species causing human Lyme borreliosis, B. burgdorferi sensu stricto, B. afzelii and B. garinii. Females generally showed reduced complement-mediated killing compared to males. In addition, complement activity tended to decline with age, identifying host age and biological sex as important factors influencing the human innate immune response against Borrelia. Our findings suggest that the ability to evade human complement may be more widespread among Borrelia species than previously assumed. These results support an emerging model in which complement-mediated selection may shape host associations and transmission success without serving as an absolute predictor of Borrelia virulence.",
+      "pmid": "42551981",
+      "title": "Drug resistance in protozoan blood parasites of livestock across the Middle East and North Africa.",
+      "abstract": "Protozoan blood parasites, including Trypanosoma evansi, Theileria annulata, and Babesia spp., remain major constraints to livestock health and productivity across the Middle East and North Africa (MENA). Disease control relies heavily on a limited number of chemotherapeutic agents that have been used for decades, raising concern about declining efficacy and emerging drug resistance. This review synthesized and critically evaluated field, experimental, and molecular evidence of antiparasitic drug resistance in major protozoan blood parasites of livestock in the MENA region. A narrative review was conducted using major scientific databases to identify peer-reviewed studies published between January 2000 and December 2025. Eligible studies reported treatment outcomes, experimental drug sensitivity, or molecular resistance markers in T. evansi, T. annulata, or Babesia spp. Evidence was organized by parasite species and evidence type; meta-analysis was not performed due to heterogeneity. The most consistent evidence of confirmed drug resistance was found for T. annulata, where buparvaquone treatment failure is repeatedly associated with mutations in the cytochrome-b and TaPIN1 genes across multiple MENA countries. For trypanosomosis, recurrent field failures and experimental resistance to diminazene and isometamidium are reported, but validated molecular markers for T. evansi remain unavailable. In babesiosis, reported outcomes indicate variable or incomplete responses to imidocarb and diminazene, reflecting functional treatment failure rather than confirmed genetic resistance. A clear mismatch exists between widespread field observations and limited molecular confirmation. Strengthened surveillance, standardized efficacy trials, rational drug use, and integrated parasite-control strategies are urgently needed in the MENA region.",
       "authors": [
-        "Golovchenko M",
-        "Kr&#xe4;tzerov&#xe1; L",
-        "MacTavish H"
+        "Salim B",
+        "Sheikh A",
+        "Mohammed SB"
       ],
-      "journal": "Pathogens (Basel, Switzerland)",
-      "publicationDate": "Jul 07, 2026",
+      "journal": "Journal of veterinary science",
+      "publicationDate": "Jul 5, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42515044/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42551981/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:36.184Z"
+      "fetchedAt": "2026-08-05T08:11:19.933Z"
     },
     {
       "pmid": "42515030",
@@ -550,7 +573,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:50.205Z"
+      "fetchedAt": "2026-08-05T08:11:24.253Z"
     },
     {
       "pmid": "42515029",
@@ -573,7 +596,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:50.828Z"
+      "fetchedAt": "2026-08-05T08:11:24.860Z"
     },
     {
       "pmid": "42479873",
@@ -596,7 +619,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:42.898Z"
+      "fetchedAt": "2026-08-05T08:11:16.825Z"
     },
     {
       "pmid": "42515000",
@@ -617,30 +640,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:40.286Z"
-    },
-    {
-      "pmid": "42518741",
-      "title": "National surveillance of tick- and mite-borne diseases in Japan, 1999-2025: a rapid surveillance reporting framework using the jpinfect R package.",
-      "abstract": "The Government of Japan has conducted weekly national surveillance of notifiable infectious diseases for over 25 years. As of December 2025, 87 notifiable diseases are under surveillance, although the list has changed over time as new infections have emerged and others have been reclassified. Although weekly data are openly available, their formatting and preparation have been labour-intensive. An open-source R package, jpinfect, has the potential to improve data accessibility and analytical workflows for these data sets. In this study, we used the jpinfect package to summarize national surveillance data for 12 acari-borne diseases in Japan from week 14 of 1999 to week 52 of 2025, by prefecture and sex. In total, 18&#xa0;295 acari-borne disease cases were reported nationwide. Eight diseases reported at least one case. Of these, scrub typhus (56.6%), Japanese spotted fever (32.9%) and severe fever with thrombocytopenia syndrome (6.7%) together accounted for more than 95% of all cases. Scrub typhus case numbers remained stable and widely distributed across the country, except for in the northern island of Hokkaido. Confirmed cases of the other two tick-born diseases increased, notably in western Japan, but with new cases also reported in northern Japan. Lyme disease, relapsing fever and Q fever were sporadically reported at very low incidence levels (<&#xa0;0.2 per 100&#xa0;000 population). In addition to providing an updated epidemiological overview of acari-borne diseases in Japan, this report highlights the potential of jpinfect to streamline the generation of national situation reports. The surveillance and analytical framework described here could serve as a model for other countries in the Western Pacific Region.",
-      "authors": [
-        "Hoshi T",
-        "Ishigaki E",
-        "Paul R"
-      ],
-      "journal": "Western Pacific surveillance and response journal : WPSAR",
-      "publicationDate": "06 15, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42518741/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-04T08:12:35.558Z"
+      "fetchedAt": "2026-08-05T08:11:15.039Z"
     },
     {
       "pmid": "42543557",
@@ -663,7 +663,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:37.913Z"
+      "fetchedAt": "2026-08-05T08:11:12.656Z"
     },
     {
       "pmid": "42542872",
@@ -685,7 +685,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-04T08:12:30.412Z"
+      "fetchedAt": "2026-08-05T08:11:06.854Z"
     }
   ]
 }
