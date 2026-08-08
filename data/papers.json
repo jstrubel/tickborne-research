@@ -1,30 +1,7 @@
 {
-  "generatedAt": "2026-08-07T06:56:34.517Z",
+  "generatedAt": "2026-08-08T06:29:11.028Z",
   "totalPapers": 30,
   "papers": [
-    {
-      "pmid": "42522140",
-      "title": "Analysis of vaccine adverse events associated with rheumatoid arthritis: A pharmacovigilance study based on the VAERS database.",
-      "abstract": "Vaccination is a principal method of infectious disease prevention, but its association with rheumatoid arthritis (RA) remains controversial. This study assessed vaccine&#x2011;associated RA using the Vaccine Adverse Event Reporting System (VAERS). Data from 1990 to 2026 were extracted. Descriptive statistics, Weibull fitting, and disproportionality analysis using four methods, including the reporting odds ratio (ROR), along with subgroup analyses by age, sex, and pre&#x2011;/post&#x2011;COVID, were performed. Among 11,532,185 reports, 34,498 RA&#x2011;related adverse events (AEs) (0.03%) involved 5006 subjects. Females comprised 77.9% and 18-65 predominated. Serious outcomes occurred in 13.48%. Most AEs (47.49%) were musculoskeletal. 47.0% occurred within 7d (median 5.4), indicating early failure. The COVID&#x2011;19 vaccine had the most reports (n&#x2009;=&#x2009;24,266) but a weak signal (ROR&#x2009;=&#x2009;1.25); the Lyme disease vaccine (ROR&#x2009;=&#x2009;27.81), the rubella vaccine (ROR&#x2009;=&#x2009;5.69), and the anthrax vaccine (ROR&#x2009;=&#x2009;3.90) exhibited the strongest signals. Subgroup signals: Lyme disease vaccine except 2021-2026; rubella vaccine only in females/&#x2264;17; anthrax vaccine in 18-64. RA&#x2011;related vaccine AEs are extremely rare, mainly musculoskeletal and within 1&#x2009;week. High COVID&#x2011;19 volume did not align with its weak signal, while strong signals for the Lyme disease, rubella, and anthrax vaccines reflected specific populations. No strong disproportionality signal was found. However, VAERS is passive, cannot establish causality or confirm safety.",
-      "authors": [
-        "Lu P",
-        "Lou M",
-        "Qiu Z"
-      ],
-      "journal": "Human vaccines & immunotherapeutics",
-      "publicationDate": "Dec 28, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42522140/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-07T06:56:18.065Z"
-    },
     {
       "pmid": "42542777",
       "title": "Atorvastatin-Associated Severe Bradyarrhythmia Following Multiorgan Dysfunction: A Case Report.",
@@ -46,21 +23,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:14.268Z"
+      "fetchedAt": "2026-08-08T06:28:53.013Z"
     },
     {
-      "pmid": "42517708",
-      "title": "Emergence of Babesiosis in Nova Scotia, Canada.",
-      "abstract": "AbstractAs part of a multi-year surveillance program of tick-borne diseases, we describe babesia surveillance of blood donors using nucleic acid tests conducted in 2025 and summarize cases of babesiosis reported by public health officials in Nova Scotia, Canada, from 2023 through 2025. Among 10,976 blood donor specimens, one specimen, collected from a blood donor in Nova Scotia Health's Western Zone, was positive, although this result was unable to be confirmed. Since babesiosis became reportable in Nova Scotia on May 23, 2023, eleven clinical cases have been documented, including eight in individuals who resided in the Western Zone and had no recent history of travel.",
+      "pmid": "42562416",
+      "title": "Disruption of the CD47-SIRP&#x3b1; Axis Causes Profound Reduction of Parasitaemia in Mice Infected With Babesia microti.",
+      "abstract": "Human babesiosis is an emerging disease in North America caused by the red blood cell (RBC)-infecting parasite Babesia microti. Despite a rise in clinical cases in recent years, the pathogenesis and host immune response to B. microti infection remain unclear. CD47 is a 'marker of self' transmembrane glycoprotein expressed on cell membranes that inhibits phagocytosis through interactions with macrophage signal-regulatory protein alpha (SIRP&#x3b1;). We posit that disruption of CD47-SIRP&#x3b1; signalling will induce macrophage uptake of Babesia-infected RBCs and reduce parasitaemia in susceptible hosts. To evaluate this, we compared the in&#xa0;vivo clearance of B. microti in CD47 knockout (CD47-/-) mice and wild-type C57BL/6J mice. Our results showed pronounced differences in infection kinetics between the two mouse strains. C57BL/6J mice showed steadily increasing parasitaemia that peaked at an average of 12%, whereas CD47-/- mice exhibited parasitaemia that never exceeded 1.5% throughout infection. Parasitaemia became undetectable by Day 21 in C57BL/6J and by Day 16 in CD47-/- mice, indicating resolution of infection. These results imply that, in the absence of CD47, growth of B. microti is diminished due to more efficient phagocytosis of infected RBCs by macrophages. We propose that CD47-SIRP&#x3b1; signalling plays a key role in the innate response to Babesia and suggest CD47 modulation as a new therapeutic target for the treatment of babesiosis.",
       "authors": [
-        "Drews SJ",
-        "Charlton CL",
-        "Trecker MA"
+        "Mohammad S",
+        "Brasov I",
+        "Gottshall S"
       ],
-      "journal": "NEJM evidence",
-      "publicationDate": "Aug 28, 2026",
+      "journal": "Parasite immunology",
+      "publicationDate": "Aug 22, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42517708/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42562416/",
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
@@ -69,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:32.907Z"
+      "fetchedAt": "2026-08-08T06:29:05.866Z"
     },
     {
       "pmid": "42518917",
@@ -92,21 +69,42 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:22.303Z"
+      "fetchedAt": "2026-08-08T06:28:59.537Z"
     },
     {
-      "pmid": "42562416",
-      "title": "Disruption of the CD47-SIRP&#x3b1; Axis Causes Profound Reduction of Parasitaemia in Mice Infected With Babesia microti.",
-      "abstract": "Human babesiosis is an emerging disease in North America caused by the red blood cell (RBC)-infecting parasite Babesia microti. Despite a rise in clinical cases in recent years, the pathogenesis and host immune response to B. microti infection remain unclear. CD47 is a 'marker of self' transmembrane glycoprotein expressed on cell membranes that inhibits phagocytosis through interactions with macrophage signal-regulatory protein alpha (SIRP&#x3b1;). We posit that disruption of CD47-SIRP&#x3b1; signalling will induce macrophage uptake of Babesia-infected RBCs and reduce parasitaemia in susceptible hosts. To evaluate this, we compared the in&#xa0;vivo clearance of B. microti in CD47 knockout (CD47-/-) mice and wild-type C57BL/6J mice. Our results showed pronounced differences in infection kinetics between the two mouse strains. C57BL/6J mice showed steadily increasing parasitaemia that peaked at an average of 12%, whereas CD47-/- mice exhibited parasitaemia that never exceeded 1.5% throughout infection. Parasitaemia became undetectable by Day 21 in C57BL/6J and by Day 16 in CD47-/- mice, indicating resolution of infection. These results imply that, in the absence of CD47, growth of B. microti is diminished due to more efficient phagocytosis of infected RBCs by macrophages. We propose that CD47-SIRP&#x3b1; signalling plays a key role in the innate response to Babesia and suggest CD47 modulation as a new therapeutic target for the treatment of babesiosis.",
+      "pmid": "42566225",
+      "title": "Will New Lyme Disease Approaches Change Patient Care?",
+      "abstract": "This Medical News article discusses the emerging advances in Lyme disease diagnostics, prevention, and therapeutics as well as the practical challenges that continue to limit innovation.",
       "authors": [
-        "Mohammad S",
-        "Brasov I",
-        "Gottshall S"
+        "Schweitzer K"
       ],
-      "journal": "Parasite immunology",
-      "publicationDate": "Aug 7, 2026",
+      "journal": "JAMA",
+      "publicationDate": "Aug 07, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42562416/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42566225/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-08T06:28:50.265Z"
+    },
+    {
+      "pmid": "42567041",
+      "title": "Insights into the diversity of ticks and tick-borne parasites from lions (Panthera leo) and cheetahs (Acinonyx jubatus) in selected conservation facilities in South Africa.",
+      "abstract": "Ticks are known vectors of pathogens affecting animals and humans globally. However, there are gaps in knowledge regarding the diversity of ticks and tick-borne pathogens (TBPs) affecting wildlife in South Africa. This study aimed to determine the occurrence, diversity, and distribution of ticks and TBPs in cheetahs and lions from different localities in South Africa using morphological and molecular techniques. Thirty-three blood samples and 94 ticks were opportunistically collected from 30 cheetahs and four lions in 12 conservation facilities. DNA was extracted from 88 ticks and 33 blood samples. Six tick specimens were submitted to the Gertrud Theiler Tick Museum as reference vouchers. The CO1 and 16S rRNA genes were targeted for tick identification, while the 18S rRNA gene was targeted for the identification and characterisation of Apicomplexan parasites (Babesia, Theileria, Hepatozoon spp.). Nine species belonging to the genera Amblyomma, Haemaphysalis, Hyalomma, and Rhipicephalus were identified, with Haemaphysalis elliptica (59/94; 62.8%) identified as the most abundant species. Sequencing results for the CO1 and 16S rRNA genes were consistent with the morphological identification, except the CO1 sequence of FEL 09dT, which was morphologically identified as R. afranicus, but clustered between the reference sequences of R. linnaei and R. turanicus. Analysis of the 18S rRNA sequences from host blood and ticks revealed 98-100% similarity with published sequences of Babesia lengau, Hepatozoon felis, Hepatozoon ingwe, Hepatozoon luiperdjie, and uncharacterized Babesia and Hepatozoon species. This study demonstrates that wild carnivores in South Africa harbour diverse tick species and TBPs, most of which have unknown host range, transmission, and pathogenicity. Therefore, further studies are crucial to unravel the risk they may pose to the ecosystem.",
+      "authors": [
+        "Ledwaba MB",
+        "Khumalo N",
+        "Byaruhanga C"
+      ],
+      "journal": "Ticks and tick-borne diseases",
+      "publicationDate": "Aug 07, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42567041/",
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
@@ -115,7 +113,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:27.764Z"
+      "fetchedAt": "2026-08-08T06:29:04.620Z"
     },
     {
       "pmid": "42562159",
@@ -138,7 +136,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:28.265Z"
+      "fetchedAt": "2026-08-08T06:29:06.365Z"
     },
     {
       "pmid": "42551817",
@@ -161,7 +159,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:13.030Z"
+      "fetchedAt": "2026-08-08T06:28:51.491Z"
     },
     {
       "pmid": "42550036",
@@ -184,7 +182,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:13.651Z"
+      "fetchedAt": "2026-08-08T06:28:52.121Z"
+    },
+    {
+      "pmid": "42566831",
+      "title": "Emergence of Babesia naoakii infection in Indonesian domestic cattle, a new host record in water buffaloes, and characterization of complete mitochondrial protein-coding genes.",
+      "abstract": "Babesia (B.) naoakii, previously referred to as Babesia sp. Mymensingh, is a recently characterized tick-borne haemoprotozoan parasite of cattle. In Indonesia, we first reported its presence in 2022 from clinically affected cattle in Central Java. To investigate the wider epidemiology of this neglected ruminant-associated Babesia species, we surveyed apparently healthy cattle (Bos indicus) and water buffaloes (Bubalus bubalis) across three districts of Java, Indonesia. A PCR assay targeting the B. naoakii-specific apical membrane antigen 1 (ama1) gene detected the parasite occurrence in 34.39% of assessed cattle (87/253; 95% CI: 28.80-40.44%) and 30.77% of water buffaloes (12/39; 95% CI: 18.47-46.52%). These results represent the first record of B. naoakii infection in water buffaloes in the country and confirm that the parasite circulates in subclinically infected bovine hosts. To characterise this apicomplexan parasite further at the molecular level, we assembled in full length the three mitochondrial protein-coding genes (PCGs): cytochrome c oxidase subunits 1 (cox1) and 3 (cox3), as well as cytochrome b (cytb). These genes were reconstructed by next-generation sequencing of blood DNA collected during the acute haemolytic-phase of B. naoakii infection, from calves that subsequently succumbed to the disease in the endemic area. Phylogenetic analyses of the concatenated amino-acid sequences of cox1, cox3, and cytb placed the Indonesian isolates within a well-supported monophyletic clade, distinct from all previously characterised ruminant-associated Babesia species and sister to the Babesia bigemina/Babesia ovata lineage. This placement confirmed species identity and reinforced the genetic distinctiveness of B. naoakii in Indonesia. Notably, although B. naoakii circulates in peripheral blood and mirrors the diagnostic behaviour of the mild pathogen B. bigemina, its clinical impact more closely resembles that of the severe pathogenic B. bovis, particularly in young animals. This diagnostic-clinical discordance highlights the need for B. naoakii-specific molecular surveillance and species-level differentiation in regions of co-endemicity. Given the high prevalence in subclinically B. naoakii-infected adults, the documented severity of babesiosis in calves, and the potential for substantial economic losses, broader epidemiological investigations and species-specific control measures for B. naoakii are urgently performed. The same holds true for future epizootiological investigations of underdiagnosed B. naoakii-infections possibly circulating in Indonesian endemic ruminant bovids such as the banteng (Bos javanicus), the lowland anoa (Bubalus depressicornis) and the tamaraw (Bubalus mindorensis).",
+      "authors": [
+        "Hamid PH",
+        "Wardhana AH",
+        "Sawitri DH"
+      ],
+      "journal": "Veterinary parasitology",
+      "publicationDate": "Aug 02, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42566831/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-08T06:29:05.259Z"
     },
     {
       "pmid": "42542768",
@@ -207,7 +228,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:29.616Z"
+      "fetchedAt": "2026-08-08T06:29:07.559Z"
     },
     {
       "pmid": "42532720",
@@ -230,7 +251,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:15.691Z"
+      "fetchedAt": "2026-08-08T06:28:54.471Z"
     },
     {
       "pmid": "42532587",
@@ -252,7 +273,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:16.191Z"
+      "fetchedAt": "2026-08-08T06:28:54.972Z"
     },
     {
       "pmid": "42527336",
@@ -275,7 +296,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:16.811Z"
+      "fetchedAt": "2026-08-08T06:28:55.570Z"
     },
     {
       "pmid": "42526434",
@@ -298,7 +319,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:17.422Z"
+      "fetchedAt": "2026-08-08T06:28:56.165Z"
     },
     {
       "pmid": "42523104",
@@ -321,7 +342,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:30.994Z"
+      "fetchedAt": "2026-08-08T06:29:08.772Z"
     },
     {
       "pmid": "42522038",
@@ -344,7 +365,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:21.688Z"
+      "fetchedAt": "2026-08-08T06:28:58.929Z"
     },
     {
       "pmid": "42542071",
@@ -367,7 +388,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:30.374Z"
+      "fetchedAt": "2026-08-08T06:29:08.161Z"
     },
     {
       "pmid": "42521938",
@@ -390,7 +411,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:31.651Z"
+      "fetchedAt": "2026-08-08T06:29:09.359Z"
     },
     {
       "pmid": "42521904",
@@ -413,7 +434,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:32.281Z"
+      "fetchedAt": "2026-08-08T06:29:10.027Z"
     },
     {
       "pmid": "42490605",
@@ -436,7 +457,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:24.834Z"
+      "fetchedAt": "2026-08-08T06:29:01.949Z"
     },
     {
       "pmid": "42538980",
@@ -458,7 +479,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:14.889Z"
+      "fetchedAt": "2026-08-08T06:28:53.872Z"
     },
     {
       "pmid": "42478190",
@@ -481,7 +502,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:26.048Z"
+      "fetchedAt": "2026-08-08T06:29:03.139Z"
     },
     {
       "pmid": "42515089",
@@ -504,7 +525,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:22.913Z"
+      "fetchedAt": "2026-08-08T06:29:00.141Z"
     },
     {
       "pmid": "42505844",
@@ -527,7 +548,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:24.215Z"
+      "fetchedAt": "2026-08-08T06:29:01.349Z"
     },
     {
       "pmid": "42551981",
@@ -550,30 +571,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:28.886Z"
+      "fetchedAt": "2026-08-08T06:29:06.961Z"
     },
     {
-      "pmid": "42515030",
-      "title": "Untitled",
-      "abstract": "Equids, primarily horses, are mostly used for recreational purposes, although in some rural areas they also serve as working animals, maintaining close and frequent contact with humans. Their risk of exposure to vector-borne and zoonotic pathogens can be affected by host-related factors, management practices and environmental conditions. This study aimed to investigate the seroprevalence and associated risk factors for infections by Babesia caballi, Toxoplasma gondii, Coxiella burnetii, and Borrelia burgdorferi sensu lato in equids from Southwestern Greece. A total of 159 equids were tested using commercial serological assays. Weighted prevalence estimates were applied to account for unequal sampling. Associations were assessed using chi-square tests and logistic regression. Ecological niche modelling was employed to evaluate geographic patterns and environmental correlates. Seroprevalence was highest for B. caballi (8.81%), followed by T. gondii (7.55%) and C. burnetii (1.26%). No seropositive animals were detected for B. burgdorferi sensu lato. Ecological niche modelling showed acceptable predictive performance for B. caballi, with BIO14 and BIO6 emerging as the main environmental predictors. In contrast, the T. gondii model exhibited unacceptable predictive performance, and its environmental associations should therefore be interpreted cautiously. Complementary Random Forest analyses yielded comparable environmental rankings but showed higher classification performance for T. gondii than for B. caballi. Overall, the findings contribute to understanding pathogen exposure patterns in equids and underscore the importance of integrating epidemiological and environmental data in surveillance efforts.",
+      "pmid": "42565984",
+      "title": "Host contributions to Borrelia burgdorferi (Spirochaetales: Spirochaetaceae) infection prevalence in Ixodes scapularis (Acari: Ixodidae) nymphs.",
+      "abstract": "Lyme disease, caused by the bacterium Borrelia burgdorferi (Spirochaetales: Spirochaetaceae) and transmitted by the blacklegged tick, Ixodes scapularis Say (Acari: Ixodidae), in the eastern United States, is the most common vector-borne disease in North America. Human disease risk depends on interactions among ticks and sylvatic hosts, and greater host biodiversity has been hypothesized to reduce risk through the dilution effect. However, the influence of biodiversity varies with community composition, species abundance, and habitat change. We conducted a literature review to compile biological parameter estimates for 15 common host species. These parameters were used in a mathematical model incorporating tick-to-host ratio-dependent host-finding success, allowing for incomplete redistribution of ticks, to assess transmission dynamics in the northeastern United States, where human Lyme disease incidence is high. We evaluated how species richness, evenness, and habitat changes affect nymphal infection prevalence (NIP) and density of infected nymphs (DIN). Our results indicate that many small mammal species play context-dependent roles, acting as dilution hosts in communities of highly competent hosts and as amplification hosts in lower-competence communities. Varying host density revealed \"tipping points,\" where small abundance changes led to communities producing more infected than uninfected ticks. Habitat fragmentation simulations showed that biodiversity can decrease NIP but often increases DIN. Together, these findings provide insight into B. burgdorferi transmission cycles and emphasize the need to consider NIP and DIN jointly when assessing how biodiversity alters transmission dynamics.",
       "authors": [
-        "Touloudi A",
-        "Giannakopoulos A",
-        "Tyrnenopoulou P"
+        "Peterson C",
+        "Gallo E",
+        "Allen MS"
       ],
-      "journal": "Pathogens (Basel, Switzerland)",
-      "publicationDate": "Jul 03, 2026",
+      "journal": "Journal of medical entomology",
+      "publicationDate": "Jul 01, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42515030/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42565984/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:33.517Z"
+      "fetchedAt": "2026-08-08T06:28:50.891Z"
     },
     {
       "pmid": "42479873",
@@ -596,7 +617,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:25.444Z"
+      "fetchedAt": "2026-08-08T06:29:02.541Z"
     },
     {
       "pmid": "42515000",
@@ -617,7 +638,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:23.592Z"
+      "fetchedAt": "2026-08-08T06:29:00.754Z"
     },
     {
       "pmid": "42553982",
@@ -640,30 +661,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:20.556Z"
-    },
-    {
-      "pmid": "42518741",
-      "title": "National surveillance of tick- and mite-borne diseases in Japan, 1999-2025: a rapid surveillance reporting framework using the jpinfect R package.",
-      "abstract": "The Government of Japan has conducted weekly national surveillance of notifiable infectious diseases for over 25 years. As of December 2025, 87 notifiable diseases are under surveillance, although the list has changed over time as new infections have emerged and others have been reclassified. Although weekly data are openly available, their formatting and preparation have been labour-intensive. An open-source R package, jpinfect, has the potential to improve data accessibility and analytical workflows for these data sets. In this study, we used the jpinfect package to summarize national surveillance data for 12 acari-borne diseases in Japan from week 14 of 1999 to week 52 of 2025, by prefecture and sex. In total, 18&#xa0;295 acari-borne disease cases were reported nationwide. Eight diseases reported at least one case. Of these, scrub typhus (56.6%), Japanese spotted fever (32.9%) and severe fever with thrombocytopenia syndrome (6.7%) together accounted for more than 95% of all cases. Scrub typhus case numbers remained stable and widely distributed across the country, except for in the northern island of Hokkaido. Confirmed cases of the other two tick-born diseases increased, notably in western Japan, but with new cases also reported in northern Japan. Lyme disease, relapsing fever and Q fever were sporadically reported at very low incidence levels (<&#xa0;0.2 per 100&#xa0;000 population). In addition to providing an updated epidemiological overview of acari-borne diseases in Japan, this report highlights the potential of jpinfect to streamline the generation of national situation reports. The surveillance and analytical framework described here could serve as a model for other countries in the Western Pacific Region.",
-      "authors": [
-        "Hoshi T",
-        "Ishigaki E",
-        "Paul R"
-      ],
-      "journal": "Western Pacific surveillance and response journal : WPSAR",
-      "publicationDate": "06 15, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42518741/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-07T06:56:18.878Z"
+      "fetchedAt": "2026-08-08T06:28:57.877Z"
     },
     {
       "pmid": "42543557",
@@ -686,7 +684,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-07T06:56:21.188Z"
+      "fetchedAt": "2026-08-08T06:28:58.430Z"
     }
   ]
 }
