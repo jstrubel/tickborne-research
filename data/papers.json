@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T06:16:09.981Z",
+  "generatedAt": "2026-08-16T06:18:11.980Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:15:59.670Z"
+      "fetchedAt": "2026-08-16T06:18:01.894Z"
+    },
+    {
+      "pmid": "42602951",
+      "title": "Untitled",
+      "abstract": "Ticks are important vectors of zoonotic pathogens in Europe, but knowledge regarding the presence of Rickettsia spp. and Bartonella spp. in questing Ixodes ricinus in Norway remains limited. This study investigated the occurrence of these bacteria in ticks collected across the Norwegian distribution range of I. ricinus. A total of 564 adult ticks and 3930 nymphs (393 pools) collected in seven counties were analysed by real-time PCR. Rickettsia spp. were detected only in adult ticks, with an overall prevalence of 3.9&#x202f;% (22/564). Infected ticks were identified in only two counties, &#xd8;stfold and Agder, with a prevalence of 11.2 and 10.9&#x202f;%, respectively. Species-specific analysis confirmed R. helvetica in 77.3&#x202f;% (17/22) of the positive samples. Rickettsia spp. were not detected in any nymph pools. Bartonella spp. were detected in 0.5&#x202f;% (3/564) of adult ticks, representing the first report of Bartonella spp. in questing I. ricinus in Norway. Infected ticks were found in three counties, &#xd8;stfold, Telemark, and Nordland. Bartonella spp. were not detected in any nymph pools. These findings demonstrate that Rickettsia spp. and Bartonella spp. are present in questing adult ticks in Norway, highlighting the importance of continued surveillance of emerging tick-borne pathogens in northern Europe.",
+      "authors": [
+        "Kloster H",
+        "Stormo C",
+        "Jenkins A"
+      ],
+      "journal": "International journal for parasitology. Parasites and wildlife",
+      "publicationDate": "Dec 03, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42602951/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-16T06:17:56.902Z"
+    },
+    {
+      "pmid": "42551817",
+      "title": "AfriTickID: An AI-assisted image-based approach for tick species identification in Kenya.",
+      "abstract": "Tick-borne diseases such as Lyme disease, tick-borne encephalitis and Crimean-Congo haemorrhagic fever in humans, and East Coast Fever and anaplasmosis in animals, pose a significant threat to public and veterinary health. Knowing where tick species are distributed helps with targeted response. In this study, we used Artificial Intelligence (AI) to automate the identification of tick species from images. A Kenya-based tick image dataset comprising of 864 images across seven tick species was compiled from laboratory collections and the Global Biodiversity Information Facility. MobileNetV2 and ResNet-50 were used to identify tick species and cross-validated to determine performance and accuracy. We evaluated model performance using 5-fold cross-validation and summarized the results with a normalized confusion matrix. The lightweight MobileNetV2 achieved a better performance than ResNet-50, with an accuracy of 75%, weighted F1-score of 74%, and Kappa score of 69%. MobileNetV2 had the highest identification rates for Rhipicephalus decoloratus (88%) and Rhipicephalus sanguineus (87%), and the lowest for Rhipicephalus evertsi (22%). ResNet-50 and baseline convolutional neural networks performed better on Rhipicephalus sanguineus (94%), with lower rates across other species. These results provide a baseline for AI-assisted tick identification in Kenya. Future work should focus on expanding the dataset to improve model performance for tick species in Kenya, while broader applicability to other regions, species, life stages, and image sources will require larger, balanced datasets and external validation.",
+      "authors": [
+        "Kioko C",
+        "Cheng H",
+        "Ekeya J"
+      ],
+      "journal": "Acta tropica",
+      "publicationDate": "Sep 04, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42551817/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-16T06:17:51.880Z"
     },
     {
       "pmid": "42542777",
@@ -46,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:15:54.345Z"
+      "fetchedAt": "2026-08-16T06:17:54.910Z"
     },
     {
       "pmid": "42575611",
@@ -69,30 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:16:06.544Z"
-    },
-    {
-      "pmid": "42518917",
-      "title": "Untitled",
-      "abstract": "Infective endocarditis (IE) is a life-threatening condition caused by diverse microbial agents and remains a major diagnostic and therapeutic challenge, particularly in cases of blood culture-negative IE (BCN-IE). In this cross-sectional study, 405 formalin-fixed paraffin-embedded heart valve tissue samples from 232 patients with pathologically and clinically confirmed IE who underwent valve replacement were collected between March 2021 and March 2025 from two tertiary referral hospitals in Tehran, Iran. Following DNA extraction, Coxiella burnetii, Brucella spp., and Bartonella spp. were detected using TaqMan real-time PCR, while Tropheryma whipplei was identified by SYBR Green real-time PCR. Species-level identification of Brucella and Bartonella in positive samples was performed using conventional and multiplex real-time PCR. Overall, C. burnetii, Brucella spp., Bartonella spp., and T. whipplei were detected in 6.9%, 8.6%, 5.6%, and 3.0% of patients, respectively. The study population comprised 156 males (67.2%) and 76 females (32.8%), with a mean age of 47 years. The aortic (40.3%) and mitral (39.1%) valves were the most frequently involved sites. Bartonella quintana, Brucella melitensis, and Brucella abortus were identified among positive samples. Dyspnea was significantly associated with C. burnetii (P&#x202f;=&#x202f;0.02), Bartonella (P&#x202f;=&#x202f;0.04), and Brucella infections (P&#x202f;=&#x202f;0.009), while fever (P&#x202f;=&#x202f;0.03) and sweating (P&#x202f;=&#x202f;0.001) were significantly associated with Brucella infection. Fastidious and intracellular pathogens are important but overlooked causes of BCN-IE in Iran. Molecular analysis of heart valve tissues represents a valuable diagnostic strategy and supports the need for improved surveillance, prevention, and targeted management of zoonotic and fastidious agents in IE.",
-      "authors": [
-        "Dehghan A",
-        "Ahmadi MH",
-        "Esmaeili S"
-      ],
-      "journal": "New microbes and new infections",
-      "publicationDate": "Aug 19, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42518917/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-15T06:16:02.000Z"
+      "fetchedAt": "2026-08-16T06:18:08.448Z"
     },
     {
       "pmid": "42599221",
@@ -115,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:15:49.554Z"
+      "fetchedAt": "2026-08-16T06:17:50.054Z"
     },
     {
       "pmid": "42601210",
@@ -138,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:15:56.466Z"
+      "fetchedAt": "2026-08-16T06:17:58.134Z"
     },
     {
       "pmid": "42600714",
@@ -161,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:16:03.402Z"
+      "fetchedAt": "2026-08-16T06:18:05.056Z"
     },
     {
       "pmid": "42594029",
@@ -184,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:15:50.159Z"
+      "fetchedAt": "2026-08-16T06:17:50.656Z"
     },
     {
       "pmid": "42593617",
@@ -207,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:16:04.094Z"
+      "fetchedAt": "2026-08-16T06:18:05.655Z"
     },
     {
       "pmid": "42585140",
@@ -230,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:15:50.773Z"
+      "fetchedAt": "2026-08-16T06:17:51.263Z"
     },
     {
       "pmid": "42587385",
@@ -253,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:16:04.712Z"
+      "fetchedAt": "2026-08-16T06:18:06.450Z"
     },
     {
       "pmid": "42586170",
@@ -276,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:16:05.319Z"
+      "fetchedAt": "2026-08-16T06:18:07.051Z"
     },
     {
       "pmid": "42575614",
@@ -299,7 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:16:05.932Z"
+      "fetchedAt": "2026-08-16T06:18:07.707Z"
     },
     {
       "pmid": "42570713",
@@ -322,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:16:07.770Z"
+      "fetchedAt": "2026-08-16T06:18:09.756Z"
     },
     {
       "pmid": "42566225",
@@ -343,7 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:15:52.501Z"
+      "fetchedAt": "2026-08-16T06:17:53.020Z"
     },
     {
       "pmid": "42570345",
@@ -366,30 +389,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:16:08.981Z"
-    },
-    {
-      "pmid": "42551817",
-      "title": "AfriTickID: An AI-assisted image-based approach for tick species identification in Kenya.",
-      "abstract": "Tick-borne diseases such as Lyme disease, tick-borne encephalitis and Crimean-Congo haemorrhagic fever in humans, and East Coast Fever and anaplasmosis in animals, pose a significant threat to public and veterinary health. Knowing where tick species are distributed helps with targeted response. In this study, we used Artificial Intelligence (AI) to automate the identification of tick species from images. A Kenya-based tick image dataset comprising of 864 images across seven tick species was compiled from laboratory collections and the Global Biodiversity Information Facility. MobileNetV2 and ResNet-50 were used to identify tick species and cross-validated to determine performance and accuracy. We evaluated model performance using 5-fold cross-validation and summarized the results with a normalized confusion matrix. The lightweight MobileNetV2 achieved a better performance than ResNet-50, with an accuracy of 75%, weighted F1-score of 74%, and Kappa score of 69%. MobileNetV2 had the highest identification rates for Rhipicephalus decoloratus (88%) and Rhipicephalus sanguineus (87%), and the lowest for Rhipicephalus evertsi (22%). ResNet-50 and baseline convolutional neural networks performed better on Rhipicephalus sanguineus (94%), with lower rates across other species. These results provide a baseline for AI-assisted tick identification in Kenya. Future work should focus on expanding the dataset to improve model performance for tick species in Kenya, while broader applicability to other regions, species, life stages, and image sources will require larger, balanced datasets and external validation.",
-      "authors": [
-        "Kioko C",
-        "Cheng H",
-        "Ekeya J"
-      ],
-      "journal": "Acta tropica",
-      "publicationDate": "Aug 04, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42551817/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-15T06:15:51.391Z"
+      "fetchedAt": "2026-08-16T06:18:10.979Z"
     },
     {
       "pmid": "42550036",
@@ -412,7 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:15:53.742Z"
+      "fetchedAt": "2026-08-16T06:17:54.295Z"
     },
     {
       "pmid": "42575597",
@@ -435,7 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:15:58.358Z"
+      "fetchedAt": "2026-08-16T06:18:00.023Z"
     },
     {
       "pmid": "42575597",
@@ -458,7 +458,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:16:07.155Z"
+      "fetchedAt": "2026-08-16T06:18:09.059Z"
+    },
+    {
+      "pmid": "42601898",
+      "title": "Untitled",
+      "abstract": "The honey bee gut microbiota plays a crucial role in host nutrition, immunity, and colony health, yet the relative influence of seasonal and colony-specific factors on its long-term dynamics remains incompletely understood. This study investigated temporal variation in the gut bacterial community of three Apis mellifera ligustica colonies maintained in the same apiary and monitored over two consecutive years (2022-2023). Worker bees were sampled during eight seasonal periods, and gut microbiota composition was characterized using 16S rRNA gene amplicon sequencing. Across all sampling periods, the microbiome was consistently dominated by the characteristic honey bee-associated genera Gilliamella, Snodgrassella, Bartonella, Frischella, Commensalibacter, and Lactobacillus, indicating the persistence of a conserved core bacterial community. Seasonal variation was primarily associated with changes in the relative abundance of dominant taxa rather than with major changes in community composition. In particular, Gilliamella apicola and Snodgrassella alvi exhibited complementary seasonal patterns, with Gilliamella reaching its highest abundance during autumn, particularly in autumn 2023, whereas Snodgrassella predominated during spring and winter. Alpha-diversity metrics (Observed OTUs, Chao1, Shannon, and Simpson indices) showed limited seasonal variation, whereas beta-diversity analyses detected significant differences in community composition among seasons. Principal Coordinates Analysis and PERMANOVA identified season as the factor most strongly associated with microbiome variation, while colony identity did not significantly influence bacterial community composition under the standardized experimental conditions adopted in this study. Overall, these findings show that the gut microbiome of A. mellifera ligustica maintains a conserved core bacterial community while exhibiting reproducible seasonal variation in the relative abundance of its dominant members. This study provides a longitudinal baseline for future investigations aimed at understanding the ecological mechanisms underlying seasonal microbiome dynamics and their relationship with honey bee biology and environmental change.",
+      "authors": [
+        "Iorizzo M",
+        "Pannella G",
+        "Succi M"
+      ],
+      "journal": "Frontiers in insect science",
+      "publicationDate": "07 31, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42601898/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-16T06:17:57.515Z"
     },
     {
       "pmid": "42591579",
@@ -481,7 +504,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:15:57.078Z"
+      "fetchedAt": "2026-08-16T06:17:58.794Z"
     },
     {
       "pmid": "42581991",
@@ -504,30 +527,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:15:57.700Z"
-    },
-    {
-      "pmid": "42522038",
-      "title": "Correction: Immunofluorescence analysis reveals no increased seroprevalence of anti-Bartonella schoenbuchensis-IgG antibodies in German forest workers.",
-      "abstract": "",
-      "authors": [
-        "Buntrock KN",
-        "Ballhorn W",
-        "Podlich H"
-      ],
-      "journal": "Parasites & vectors",
-      "publicationDate": "Jul 28, 2026",
-      "articleType": "Published Erratum",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42522038/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-15T06:16:01.382Z"
+      "fetchedAt": "2026-08-16T06:17:59.396Z"
     },
     {
       "pmid": "42572573",
@@ -550,7 +550,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:15:59.061Z"
+      "fetchedAt": "2026-08-16T06:18:01.290Z"
     },
     {
       "pmid": "42568944",
@@ -572,7 +572,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:15:51.890Z"
+      "fetchedAt": "2026-08-16T06:17:52.380Z"
     },
     {
       "pmid": "42538980",
@@ -594,7 +594,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:15:54.990Z"
+      "fetchedAt": "2026-08-16T06:17:55.520Z"
     },
     {
       "pmid": "42551981",
@@ -617,7 +617,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:16:08.370Z"
+      "fetchedAt": "2026-08-16T06:18:10.367Z"
     },
     {
       "pmid": "42565984",
@@ -640,7 +640,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:15:53.134Z"
+      "fetchedAt": "2026-08-16T06:17:53.625Z"
     },
     {
       "pmid": "42553982",
@@ -663,7 +663,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:16:00.279Z"
+      "fetchedAt": "2026-08-16T06:18:02.571Z"
     },
     {
       "pmid": "42543557",
@@ -686,7 +686,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-15T06:16:00.883Z"
+      "fetchedAt": "2026-08-16T06:18:03.208Z"
     }
   ]
 }
