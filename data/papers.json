@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T06:26:52.958Z",
+  "generatedAt": "2026-08-18T06:20:33.069Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:43.173Z"
+      "fetchedAt": "2026-08-18T06:20:24.238Z"
     },
     {
       "pmid": "42602951",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:38.599Z"
+      "fetchedAt": "2026-08-18T06:20:19.522Z"
     },
     {
       "pmid": "42551817",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:33.107Z"
+      "fetchedAt": "2026-08-18T06:20:14.188Z"
     },
     {
       "pmid": "42542777",
@@ -92,7 +92,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:36.132Z"
+      "fetchedAt": "2026-08-18T06:20:17.514Z"
+    },
+    {
+      "pmid": "42607219",
+      "title": "The ecology of Lyme disease: Long-term data, surprises, and a synthesis.",
+      "abstract": "Risk of human exposure to Lyme disease and other tick-borne zoonoses is affected by interactions between ticks, pathogens, vertebrate hosts for ticks and pathogens, and abiotic conditions. Inherent complexities in these ecological systems present challenges to the development of a predictive understanding useful for reducing exposure risk. Here we evaluate a conceptual model of the Lyme disease system using long-term monitoring (>30 y) at sites within an endemic region of New York State, United States. Contrary to conventional wisdom, we found that the abundance of nymphal black-legged ticks-a key risk factor for humans-was not correlated with the abundance of white-tailed deer, the prior abundance of larval ticks, or seasonal temperature extremes. Instead, the abundance of nymphal ticks was correlated with prior abundance of white-footed mice, which in turn was driven by production of acorns by red oak trees. Infection prevalence with zoonotic pathogens at our relatively intact forest sites was not associated with the abundance of white-footed mice, a species known to transmit infection with high efficiency, but instead appeared to arise from the distribution of larval ticks across the entire community of larval hosts. High densities of mice strongly reduced the tick burdens on individual mice and chipmunks, suggesting intraguild competition for parasites. Lyme disease risk arises from the dynamics of the ecological community, rather than from the dynamics of any single population of hosts or from extreme seasonal weather. These dynamics are complex but predictable, such that understanding them can facilitate improvements in management and education aimed at protecting public health.",
+      "authors": [
+        "Ostfeld RS",
+        "LaDeau SL",
+        "Oggenfuss K"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "publicationDate": "Aug 25, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42607219/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-18T06:20:11.415Z"
     },
     {
       "pmid": "42575611",
@@ -115,7 +138,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:49.420Z"
+      "fetchedAt": "2026-08-18T06:20:30.214Z"
+    },
+    {
+      "pmid": "42607741",
+      "title": "Molecular detection and genetic characterization of Borrelia spp. and piroplasmids in wildlife blood and host-attached ticks from Jeonnam Province, South Korea.",
+      "abstract": "Studies simultaneously examining tick-associated pathogens in wildlife blood and host-attached ticks remain limited in South Korea. We investigated selected Borrelia spp. and piroplasmids in blood samples from 34 animals-16 Korean water deer (Hydropotes inermis), seven raccoon dogs (Nyctereutes procyonoides), and 11 wild boars (Sus scrofa)-and in 246 host-attached ticks collected from 13 animals of the same species-three Korean water deer, six raccoon dogs, and four wild boars-in Jeonnam Province. Paired blood and tick samples were available from eight animals. The ticks were processed as 186 molecular test units and identified as Haemaphysalis longicornis, Amblyomma testudinarium, and Ixodes nipponensis. Borrelia garinii DNA was detected in 156 of 186 test units (83.9%), corresponding to a minimum infection rate (MIR) of 63.4% (156/246 ticks). Twenty representative flaB-positive amplicons yielded identical sequences within the analyzed 347-bp fragment. Second-locus analysis of the 5S-23S rRNA intergenic spacer region in one representative test unit per tick species supported B. garinii identification in those three samples. A Babesia lineage closely related to B. gibsoni was detected in 22 of 34 blood samples (64.7%) and six of 186 tick test units (3.2%; MIR, 2.4%). Borrelia theileri was detected in all three wildlife species, with PCR positivity of 54.5% in wild boars, 37.5% in Korean water deer, and 28.6% in raccoon dogs. Theileria luwenshuni and T. capreoli were detected only in Korean water deer, at 50.0% and 31.3%, respectively. Among the eight paired animals, no concordant pathogen taxon was detected in blood and attached-tick test units. These findings provide regional molecular data on Borrelia spp. and piroplasmids at the wildlife-tick interface. However, the small convenience sample, partial grouping of H. longicornis, use of host-attached ticks, and limited second-locus confirmation preclude inference regarding reservoir competence, transmission cycles, or vector involvement.",
+      "authors": [
+        "Lee YJ",
+        "Kim B",
+        "Hyun Y"
+      ],
+      "journal": "Acta tropica",
+      "publicationDate": "Aug 17, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42607741/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-18T06:20:26.273Z"
     },
     {
       "pmid": "42599221",
@@ -138,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:31.021Z"
+      "fetchedAt": "2026-08-18T06:20:12.321Z"
     },
     {
       "pmid": "42601210",
@@ -161,12 +207,12 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:39.891Z"
+      "fetchedAt": "2026-08-18T06:20:20.946Z"
     },
     {
       "pmid": "42600714",
-      "title": "Expression, Purification, Crystallization and Structure Solution of Glyceraldehyde-3-Phosphate Dehydrogenase from the Babesiosis Infective Agent Babesia bovis.",
-      "abstract": "Babesia bovis is a species of apicomplexan hemoparasitic protozoa that can be transmitted by ticks, causing a global cattle disease. As it depends mainly on the glycolytic pathway for energy production and life cycle maintenance, glycolytic enzymes are possible targets for drug development against Babesia. Glyceraldehyde-3-Phosphate Dehydrogenase (GAPDH) has been one of such targets, against several parasitic organisms. It performs the reversible oxidative phosphorylation of glyceraldehyde-3-phosphate to 1,3-bisphospho-D-glycerate in the presence of nicotinamide adenine dinucleotide. The protocol for Babesia bovis Glyceraldehyde-3-Phosphate Dehydrogenase (BbGAPDH) expression and purification has been developed to yields of 28 mg of pure protein per liter of culture medium, with a specific activity of 55.5 &#xb1; 6.99 U mg-1 after his-tag removal, indicating preservation of enzymatic activity. For crystallization, the his-tag removal proved essential. Crystals diffracted to 3.12 &#xc5; resolution in the P3121 space group; NAD+ cofactor molecules are observed in their respective sites. Comparisons to the theoretical model indicate a number of side chain conformation differences. These results provide support for future enzyme inhibition assays, in addition to crystallization assays with potential inhibitors.",
+      "title": "Expression, purification, crystallization and structure solution of glyceraldehyde-3-phosphate dehydrogenase from the babesiosis infective agent Babesia bovis.",
+      "abstract": "Babesia bovis is a species of apicomplexan hemoparasitic protozoa that can be transmitted by ticks, causing a global cattle disease. As it depends mainly on the glycolytic pathway for energy production and life cycle maintenance, glycolytic enzymes are possible targets for drug development against Babesia. Glyceraldehyde-3-Phosphate Dehydrogenase (GAPDH) has been one of such targets, against several parasitic organisms. It performs the reversible oxidative phosphorylation of glyceraldehyde-3-phosphate to 1,3-bisphospho-D-glycerate in the presence of nicotinamide adenine dinucleotide. The protocol for Babesia bovis Glyceraldehyde-3-Phosphate Dehydrogenase (BbGAPDH) expression and purification has been developed to yields of 28&#x202f;mg of pure protein per liter of culture medium, with a specific activity of 55.5&#x202f;&#xb1;&#x202f;6.99 U&#x202f;mg-1 after His-tag removal, indicating preservation of enzymatic activity. For crystallization, the His-tag removal proved essential. Crystals diffracted to 3.12&#x202f;&#xc5; resolution in the P3121 space group; NAD+ cofactor molecules are observed in their respective sites. Comparisons to the theoretical model indicate a number of side chain conformation differences. These results provide support for future enzyme inhibition assays, in addition to crystallization assays with potential inhibitors.",
       "authors": [
         "Ukrainski B",
         "Galv&#xe3;o EB",
@@ -184,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:46.077Z"
+      "fetchedAt": "2026-08-18T06:20:26.896Z"
     },
     {
       "pmid": "42594029",
@@ -207,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:31.656Z"
+      "fetchedAt": "2026-08-18T06:20:12.934Z"
     },
     {
       "pmid": "42593617",
@@ -230,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:46.710Z"
+      "fetchedAt": "2026-08-18T06:20:27.528Z"
     },
     {
       "pmid": "42585140",
@@ -253,7 +299,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:32.424Z"
+      "fetchedAt": "2026-08-18T06:20:13.541Z"
+    },
+    {
+      "pmid": "42607579",
+      "title": "A systematic review of pathogens in the Iberian lynx (Lynx pardinus): What about vector-borne pathogens?",
+      "abstract": "The Iberian lynx (Lynx pardinus), once considered the most endangered felid species worldwide, has experienced a remarkable recovery through intensive conservation efforts. Its small population size and low genetic diversity render it particularly vulnerable to infectious diseases, including those transmitted by arthropod vectors. This systematic review aimed to synthesize the current knowledge on pathogens investigated in the Iberian lynx, with a focus on vector-borne pathogens. Following PRISMA guidelines, a comprehensive search was conducted in Web of Science, PubMed, and Scopus, yielding 43 studies published between 1998 and 2024. Among these studies, parasites were the most frequently studied pathogens (58.1%), followed by viruses (30.2%), bacteria (23.3%), and fungi (7.0%). Of the 74 pathogens included in these studies, 70 were reported in the Iberian lynx. Many of the pathogens detected in this species are of concern not only for its conservation, but also for animal and public health. The percentage of publications addressing vector-borne pathogens was 18.6% (8/43). Vector-borne bacteria such as Anaplasma phagocytophilum, Bartonella henselae, Candidatus Mycoplasma haemominutum, Candidatus Mycoplasma turicensis, Ehrlichia spp. and Mycoplasma haemofelis, as well as protozoa (Cytauxzoon spp., Leishmania infantum) and helminths (Dirofilaria immitis), have been detected in Iberian lynx populations. Despite the identification of multiple ectoparasite species, data on pathogens they harbour remain scarce, and no studies have investigated vector-borne viruses. Comprehensive monitoring of vector-borne pathogens should be considered to improve understanding of pathogen exposure and their potential clinical impact on Iberian lynx populations.",
+      "authors": [
+        "S&#xe1;nchez-S&#xe1;nchez M",
+        "Mu&#xf1;oz-Hern&#xe1;ndez C",
+        "Moraga-Fern&#xe1;ndez A"
+      ],
+      "journal": "Comparative immunology, microbiology and infectious diseases",
+      "publicationDate": "Aug 12, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42607579/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-18T06:20:18.911Z"
     },
     {
       "pmid": "42587385",
@@ -276,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:47.540Z"
+      "fetchedAt": "2026-08-18T06:20:28.309Z"
     },
     {
       "pmid": "42586170",
@@ -299,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:48.162Z"
+      "fetchedAt": "2026-08-18T06:20:28.925Z"
     },
     {
       "pmid": "42575614",
@@ -322,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:48.790Z"
+      "fetchedAt": "2026-08-18T06:20:29.551Z"
     },
     {
       "pmid": "42570713",
@@ -345,7 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:50.708Z"
+      "fetchedAt": "2026-08-18T06:20:31.447Z"
     },
     {
       "pmid": "42566225",
@@ -366,30 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:34.263Z"
-    },
-    {
-      "pmid": "42570345",
-      "title": "DNA detection of Babesia bovis in sheep, ticks and cattle during an outbreak of sheep ixodidiosis by Rhipicephalus microplus.",
-      "abstract": "This study describes, for the first time, the molecular and phylogenetic detection of Babesia bovis in sheep, with concurrent detection in cattle and R. microplus ticks during a severe tick infestation outbreak in northeastern Brazil. The affected herd, located in S&#xe3;o Pedro, Rio Grande do Norte State, comprised sheep and cattle raised under a semi-intensive system. Blood, fecal, and tick samples were collected from 20 sheep and three cattle. Blood samples were subjected to complete blood count analysis and, together with tick samples, to DNA extraction and molecular detection of Anaplasma marginale, B. bovis, and Babesia bigemina. Amplified fragments were sequenced and analyzed phylogenetically. The sheep exhibited heavy tick infestations, alopecia, and skin lesions. Hematological analysis revealed anemia in 8/20 of the sheep, leukocytosis in 5/20, and thrombocytopenia in one animal. Coproparasitological examination revealed a high burden of nematode eggs of the order Strongylida in 12/20 of the evaluated sheep. Molecular analysis detected B. bovis in one sheep, one bovine, and ticks collected from sheep. Only cattle were positive for B. bigemina, whereas A. marginale was not detected in any sample. The sequence obtained from the sheep shared >&#x202f;97% identitity with B. bovis isolates available in GenBank and clustered with the bovine and tick isolates from the same farm, indicating a close genetic relationship and supporting the hypothesis of local circulation of the parasite. The observed anemia was likely multifactorial, associated with tick infestation, gastrointestinal parasitism, and possibly B. bovis infection. This study provides molecular and phylogenetic evidence of the occurrence of B. bovis in sheep, cattle, and R. microplus ticks during a heavy tick infestation outbreak, suggesting the circulation of a common parasite lineage and a possible epidemiological association under field conditions.",
-      "authors": [
-        "Lima Neto BF",
-        "Batista SP",
-        "Alvares FBV"
-      ],
-      "journal": "Veterinary parasitology",
-      "publicationDate": "Aug 07, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42570345/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-17T06:26:51.956Z"
+      "fetchedAt": "2026-08-18T06:20:15.306Z"
     },
     {
       "pmid": "42550036",
@@ -412,7 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:35.517Z"
+      "fetchedAt": "2026-08-18T06:20:16.621Z"
     },
     {
       "pmid": "42575597",
@@ -435,7 +481,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:41.908Z"
+      "fetchedAt": "2026-08-18T06:20:22.985Z"
     },
     {
       "pmid": "42575597",
@@ -458,7 +504,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:50.048Z"
+      "fetchedAt": "2026-08-18T06:20:30.831Z"
     },
     {
       "pmid": "42601898",
@@ -481,7 +527,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:39.244Z"
+      "fetchedAt": "2026-08-18T06:20:20.295Z"
     },
     {
       "pmid": "42591579",
@@ -504,7 +550,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:40.544Z"
+      "fetchedAt": "2026-08-18T06:20:21.555Z"
     },
     {
       "pmid": "42581991",
@@ -527,7 +573,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:41.185Z"
+      "fetchedAt": "2026-08-18T06:20:22.319Z"
     },
     {
       "pmid": "42572573",
@@ -550,7 +596,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:42.545Z"
+      "fetchedAt": "2026-08-18T06:20:23.620Z"
     },
     {
       "pmid": "42568944",
@@ -572,29 +618,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:33.606Z"
-    },
-    {
-      "pmid": "42538980",
-      "title": "Untitled",
-      "abstract": "Borrelia burgdorferi is a bacterial pathogen transmitted by ticks that is the causative agent of Lyme Disease. When studying interactions between B. burgdorferi and skin following a tick-bite, existing models consist primarily of murine skin which has different cellularity and thickness than human skin or ex vivo human biopsies that can be difficult to obtain and can have high variability. This presents a need for a reproducible human skin model. Herein, we adapt an existing human organotypic skin model that is simply composed of dermal fibroblasts and stratified epidermal keratinocytes and develop an infection assay mimicking skin reinfection to characterize B. burgdorferi colonization. Normal spirochete morphology and a stressed B. burgdorferi morphology known as a \"round body\" were observed. Peak B. burgdorferi invasion was observed at 24 hours (h) with peak round body formation at 48 h. By breaking the skin down into its individual components, we observed an increase in the number of round bodies in the presence of dermal fibroblasts. The presence of keratinocytes or extracellular matrix alone had no effect on round body formation, indicating a dermal fibroblast-mediated mechanism. We also demonstrate tissue-to-tissue dissemination and colonization, setting the groundwork for future studies with other tissues. Collectively, these results prove that this is a valid human skin model to study B. burgdorferi colonization during secondary dissemination.",
-      "authors": [
-        "Kramer JJ",
-        "Brinkworth AJ"
-      ],
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationDate": "Jul 21, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42538980/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-17T06:26:36.776Z"
+      "fetchedAt": "2026-08-18T06:20:14.687Z"
     },
     {
       "pmid": "42551981",
@@ -617,7 +641,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:51.331Z"
+      "fetchedAt": "2026-08-18T06:20:32.068Z"
     },
     {
       "pmid": "42565984",
@@ -640,7 +664,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:34.885Z"
+      "fetchedAt": "2026-08-18T06:20:15.936Z"
     },
     {
       "pmid": "42553982",
@@ -663,30 +687,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-17T06:26:43.810Z"
-    },
-    {
-      "pmid": "42543557",
-      "title": "Unmasking Bartonella henselae: A forgotten cause of hepatosplenic and marrow involvement.",
-      "abstract": "Bartonella henselae is an uncommon but important cause of prolonged pyrexia of unknown origin (PUO) and hepatosplenomegaly. Conventional diagnostic tools often fail in disseminated disease, leading to delayed or missed diagnoses. We report a 60-year-old man with PUO, progressive weight loss, and hepatosplenomegaly. Clinical suspicion, guided by significant cat exposure, led to molecular confirmation of B. henselae infection after conventional workup proved inconclusive. Liver biopsy revealed pleomorphic rod-shaped organisms on Warthin-Starry staining, while real-time PCR targeting the rpoB gene and conventional PCR targeting the gltA gene performed on bone marrow aspirate confirmed disseminated bartonellosis. The patient responded well to prolonged doxycycline and rifampicin therapy, achieving near-complete recovery. This case underscores the importance of clinical vigilance, histological clues, and molecular diagnostics in identifying rare but treatable infections.",
-      "authors": [
-        "Zainulabid UA",
-        "Cheong XK",
-        "Kori N"
-      ],
-      "journal": "Tropical biomedicine",
-      "publicationDate": "Jun 01, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42543557/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-17T06:26:44.434Z"
+      "fetchedAt": "2026-08-18T06:20:24.851Z"
     }
   ]
 }
