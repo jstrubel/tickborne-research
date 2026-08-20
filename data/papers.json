@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T06:21:11.389Z",
+  "generatedAt": "2026-08-20T06:22:30.119Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:21:02.394Z"
+      "fetchedAt": "2026-08-20T06:22:21.199Z"
     },
     {
       "pmid": "42602951",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:20:58.009Z"
+      "fetchedAt": "2026-08-20T06:22:16.887Z"
     },
     {
       "pmid": "42551817",
@@ -69,30 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:20:52.703Z"
-    },
-    {
-      "pmid": "42542777",
-      "title": "Atorvastatin-Associated Severe Bradyarrhythmia Following Multiorgan Dysfunction: A Case Report.",
-      "abstract": "Statins are the primary treatment for hypercholesterolemia and a cornerstone of atherosclerotic cardiovascular disease prevention. Although generally safe, serious adverse effects may occur in selected patients, particularly when statins are used at high doses or without medical supervision. We describe a 66-year-old man with hypertension and hyperlipidemia who developed syncope after self-adjusting atorvastatin from 20&#x2009;mg daily to 80&#x2009;mg daily for two weeks. On admission, electrocardiography showed sinus arrest with a ventricular escape rhythm, accompanied by acute hepatic and renal dysfunction, electrolyte abnormalities, coagulation abnormalities, and elevated inflammatory markers. Common reversible causes, including thyroid dysfunction, structural heart disease, acute myocarditis, Lyme disease, and the use of negative chronotropic drugs, were not supported by the clinical evaluation. After temporary pacing and supportive treatment, liver and kidney function, electrolytes, and coagulation function returned to normal; however, symptomatic sinus arrest persisted, and a permanent pacemaker was implanted. During follow-up, the electrocardiogram showed recovery of sinus rhythm. Pacemaker interrogation at 1&#x2009;year showed a pacing burden of approximately 80% when the lower rate limit was programmed at 70 beats per minute; after the lower rate limit was reduced to 50 beats per minute, the pacing burden decreased to approximately 20% at the subsequent follow-up. This finding suggests partial recovery of intrinsic sinus rhythm but persistent or intermittent sinus node dysfunction. The case supports a cautious interpretation of possible atorvastatin-associated severe bradyarrhythmia mediated by multiorgan dysfunction rather than definitive direct statin-induced sinus node injury. Clinicians should carefully educate patients not to self-adjust statin doses and should monitor for serious adverse events when high-dose statin exposure is suspected.",
-      "authors": [
-        "Kou XQ",
-        "Wang YZ",
-        "Gan YR"
-      ],
-      "journal": "Clinical case reports",
-      "publicationDate": "Aug 31, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42542777/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-19T06:20:55.675Z"
+      "fetchedAt": "2026-08-20T06:22:13.455Z"
     },
     {
       "pmid": "42607219",
@@ -115,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:20:50.288Z"
+      "fetchedAt": "2026-08-20T06:22:10.918Z"
     },
     {
       "pmid": "42575611",
@@ -138,7 +115,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:21:08.862Z"
+      "fetchedAt": "2026-08-20T06:22:28.487Z"
+    },
+    {
+      "pmid": "42617049",
+      "title": "Assessing the Effectiveness of Crowdsourced Data to Detect Established Tick Populations in Quebec, Canada: Retrospective Ecological Study.",
+      "abstract": "The range expansion of ticks transmitting zoonotic diseases in Canada poses challenges for public health surveillance. Active monitoring of where tick populations are emerging helps inform public health responses, but is resource intensive and logistically complex. Crowdsourced data may provide a cost-effective approach to augment surveillance. In this study, we assessed the value of crowdsourced data from eTick, a platform whereby the public submits tick photographs for expert identification. We aimed to (1) characterize spatial patterns of eTick submissions and identify socioecological factors associated with their occurrence and frequency, and (2) assess the ability of indicators derived from eTick to predict census subdivisions (CSDs) with established tick populations. We conducted a retrospective ecological assessment (2020-2023) for the effectiveness of crowdsourced data to detect established blacklegged tick (Ixodes scapularis) populations in Quebec, Canada. First, we applied a spatial scan approach to assess significantly high submission rates in human- and animal-origin data separately. Then, using zero-inflated regression models, we assessed socioecological factors associated with the occurrence and counts of tick submissions. Next, we used logistic regression models to assess the value of using eTick surveillance data to predict the presence of established tick populations, as documented by active surveillance. Finally, we calculated thresholds for eTick submissions to maximize sensitivity, specificity, or a balance of both metrics for detecting established tick populations, and developed scenarios to interpret linear predictors of submission counts across different socioecological contexts. No clusters in submissions were detected for human and animal-origin data. However, high concentrations of ticks found on humans corresponded with areas reporting a high risk of Lyme disease. Tick submissions of animal origin extended beyond endemic areas, highlighting their complementary surveillance value. Zero-inflated models identified socioeconomic, climatic, and land cover factors significantly associated with submission rates. Logistic regression models, including significant socioecological factors, performed best to identify CSDs with established tick populations. Predictive performance was similar for ticks from humans (area under the curve [AUC] 0.86), animals (AUC 0.83), and all submissions combined (AUC 0.85). Using the best model adjusted for population size, median income, median age, and cumulative degree days above 0 &#xb0;C, an optimal threshold of 3.32 crowdsourced tick submissions allowed the detection of CSDs with established tick populations while maximizing sensitivity and specificity (both 0.76). This work introduces a framework for analyzing crowdsourced surveillance data by correcting for participation bias and benchmarking against active surveillance. Unlike approaches relying on traditional or unadjusted data, it incorporates socioecological factors associated with reporting. We show that crowdsourced data can yield reliable inferences about vector distributions and provide a methodological approach that could be applied across species and regions. Applied to eTick, it supports integration into surveillance systems to improve early detection, targeting interventions, and cost-effective monitoring of emerging risks by public health.",
+      "authors": [
+        "Dumas A",
+        "Savage J",
+        "Crandall KE"
+      ],
+      "journal": "JMIR public health and surveillance",
+      "publicationDate": "Aug 19, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42617049/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-20T06:22:08.468Z"
+    },
+    {
+      "pmid": "42615648",
+      "title": "The establishment of a universal blocking ELISA for echinococcosis using immunoglobulin against a new conserved linear B-cell epitope.",
+      "abstract": "Echinococcosis is a neglected tropical disease that poses a severe threat to global public health and socioeconomic development. Given its alarming global spread, there is an urgent need to develop accurate diagnostic methods to support targeted and personalized treatment. Echinococcus multilocularis Em18 has been demonstrated to exhibit the most prominent diagnostic relevance in the progression of alveolar echinococcosis (AE). In this study, six highly specific monoclonal antibodies (mAbs) against the Em18 protein-designated 8G6F, 11E2E, 11E7C, 11E7E, 11E8C, and 11E10D-were generated using hybridoma technology. Indirect ELISA showed that the supernatant titers ranged from 1:1,600 to 1:12,800, while the ascites titers varied from 1:128,000 to 1:512,000. Further analysis indicated that all mAbs belonged to the IgG1 &#x3ba; isotype. After purification, the ascites-derived mAbs exhibited expected heavy-chain and light-chain bands at approximately 50 kDa and 25 kDa, respectively. Notably, western blot and indirect immunofluorescence assay collectively demonstrated that all mAbs exhibited high specificity for recombinant Em18 protein of approximately 18.65 kDa. Through peptide scanning technology, we identified the antigenic epitope recognized by six mAbs as the region 99RMREKHDAKHKS108, a highly conserved linear B-cell epitope on the Em18 protein. Amino acid sequence alignment confirmed the complete conservation of this epitope, which is surface-exposed. Furthermore, the optimal blocking antibody 11E8C was selected and labeled with horseradish peroxidase (HRP) based on which a blocking ELISA was established using the anti-Em18 mAbs. Serum samples with a percent inhibition (PI) &#x2265;22.48% were determined as positive, and those with PI &#x2264;17.64% as negative. This method showed no cross-reactivity with positive sera against Toxoplasma gondii, Babesia spp., Cysticercus tenuicollis, Coenurus cerebralis, and other non-echinococcosis pathogens. Sensitivity testing showed a positive detection rate of 90%, and positive signals remained stable even when positive sera were diluted up to 1:16. The intra-assay and inter-assay coefficients of variation (CV) were both below 10%. In a concordance evaluation using 47 clinical serum samples from cattle and sheep, the overall agreement between our assay and a commercial kit was 93.62%. Furthermore, the mAbs developed in this study accurately identified intermediate and advanced AE infections, providing a reliable tool for assessing disease progression. Importantly, its cross-reactivity with cystic echinococcosis (CE)-infected sera demonstrates promising potential for the broad-spectrum serodiagnosis of echinococcosis. Collectively, these results suggest that this study provides a novel technical resource for improving serological detection and developing early diagnostic reagents for echinococcosis and offers experimental support for the surveillance, prevention, control, and evaluation of this disease.IMPORTANCEEchinococcosis is a neglected tropical disease posing significant threats to global public health and economic development. We have developed six highly specific mAbs capable of precisely recognizing the Em18 protein, a key biomarker for disease progression, and have for the first time identified their antigenic epitope. These antibodies can not only accurately distinguish intermediate and advanced infection stages but also exhibit cross-reactivity with cystic echinococcosis, demonstrating potential as a broad-spectrum diagnostic tool. This achievement paves a new path for developing rapid and precise clinical detection methods, holding significant importance for improving disease prevention and control capabilities.",
+      "authors": [
+        "Zhou G",
+        "Zheng L",
+        "Xin Z"
+      ],
+      "journal": "Microbiology spectrum",
+      "publicationDate": "Aug 19, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42615648/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-20T06:22:23.433Z"
     },
     {
       "pmid": "42607741",
@@ -161,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:21:05.228Z"
+      "fetchedAt": "2026-08-20T06:22:24.684Z"
     },
     {
       "pmid": "42599221",
@@ -184,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:20:50.899Z"
+      "fetchedAt": "2026-08-20T06:22:11.552Z"
     },
     {
       "pmid": "42601210",
@@ -207,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:20:59.244Z"
+      "fetchedAt": "2026-08-20T06:22:18.126Z"
     },
     {
       "pmid": "42600714",
@@ -230,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:21:05.829Z"
+      "fetchedAt": "2026-08-20T06:22:25.342Z"
     },
     {
       "pmid": "42594029",
@@ -253,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:20:51.484Z"
+      "fetchedAt": "2026-08-20T06:22:12.221Z"
     },
     {
       "pmid": "42593617",
@@ -276,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:21:06.421Z"
+      "fetchedAt": "2026-08-20T06:22:25.962Z"
     },
     {
       "pmid": "42585140",
@@ -299,7 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:20:52.107Z"
+      "fetchedAt": "2026-08-20T06:22:12.840Z"
     },
     {
       "pmid": "42607579",
@@ -322,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:20:57.417Z"
+      "fetchedAt": "2026-08-20T06:22:16.276Z"
     },
     {
       "pmid": "42587385",
@@ -345,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:21:07.032Z"
+      "fetchedAt": "2026-08-20T06:22:26.588Z"
     },
     {
       "pmid": "42586170",
@@ -368,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:21:07.642Z"
+      "fetchedAt": "2026-08-20T06:22:27.230Z"
     },
     {
       "pmid": "42575614",
@@ -391,30 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:21:08.257Z"
-    },
-    {
-      "pmid": "42570713",
-      "title": "Prevalence of Theileria luwenshuni in goats (Capra hircus) on Tarama Island, Okinawa, Japan.",
-      "abstract": "Caprine theileriosis is an economically important tick-borne disease caused by various Theileria species, particularly Theileria lestoquardi, Theileria luwenshuni, and Theileria uilenbergi, in goats (Capra hircus). Goat farming plays an economically and culturally important role on Tarama Island, Okinawa, Japan. Because goats on the island are mainly managed under an extensive grazing system, tick infestation is common. However, Theileria infections have not previously been investigated in goats on Tarama Island. To address this, archived DNA samples prepared from blood collected from 44 goats on Tarama Island were screened using a universal PCR assay targeting 18S rRNA sequences of Theileria and Babesia species. Two DNA samples were positive, and sequencing analysis of the amplicons identified T. luwenshuni. To further investigate the epidemiology of T. luwenshuni on Tarama Island, blood samples were subsequently collected from 96 goats across 19 farms. From each blood sample, a thin blood smear was prepared and genomic DNA was extracted. Microscopic examination of Diff-Quik-stained smears detected intraerythrocytic Theileria-like organisms in 35 (36.5%) goats. In addition, screening of DNA samples using a newly developed T. luwenshuni-specific PCR assay detected 77 (80.2%) positive goats, and the subsequent sequencing analysis confirmed the PCR results. Given that T. luwenshuni can cause severe disease in small ruminants, our findings highlight the importance of managing T. luwenshuni infection in goats on Tarama Island.",
-      "authors": [
-        "Nakao S",
-        "Minei Y",
-        "Ohno A"
-      ],
-      "journal": "Parasitology international",
-      "publicationDate": "Aug 08, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42570713/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-19T06:21:10.388Z"
+      "fetchedAt": "2026-08-20T06:22:27.865Z"
     },
     {
       "pmid": "42566225",
@@ -435,21 +435,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:20:53.839Z"
+      "fetchedAt": "2026-08-20T06:22:14.597Z"
     },
     {
-      "pmid": "42550036",
-      "title": "Untitled",
-      "abstract": "A consequence of the Borrelia (Borreliella) burgdorferi lifecycle is that a \"standard\" host-pathogen interaction involving the spirochete is challenging to define. The bacteria continuously cycle between vertebrate and invertebrate hosts, each inflicting substantially different selective pressures on the spirochete. Focusing solely on vertebrate infections, the spirochete can be found in numerous hosts in nature, including deermice, shrews, birds, and lizards. The immune pressures that the bacteria face in each of these hosts are variable and are thought to drive broad intraspecific variation across B. burgdorferi strains-with different strains appearing to be avian adapted, mammalian adapted, or generalist. In addition to its natural zoonotic hosts, B. burgdorferi can infect humans and cause Lyme disease. Here, natural human genetic variation can drive dramatically different disease outcomes, as some individuals seem capable of killing the bacteria before it can successfully colonize, while others are predisposed to continue reacting to the pathogen even long after it is killed by antibiotics. In this review, we describe studies investigating how host and bacterial diversity affect B. burgdorferi infection outcomes, with an emphasis on how this variability impacts the bacteria's spread in nature and Lyme disease severity during human infection.",
+      "pmid": "42614448",
+      "title": "Findings From Electronic Medical Record Review of 2500 Patients Identified With Lyme Disease Diagnoses, Test Orders, and Antibiotic Orders in the SubLyme Network.",
+      "abstract": "Electronic health records provide opportunities for improving Lyme disease surveillance by collecting detailed clinical information and timely, scalable disease incidence estimation. Medical record review can improve understanding of clinical manifestations, how likely and possible cases compare, and potential misclassification of possible cases. The SubLyme Network is a collaboration among 5 healthcare systems, a coordinating center, and the Centers for Disease Control and Prevention. The sites each conducted stratified random sampling of 500 potential acute Lyme disease episodes for medical record review from patients with a diagnosis, test order, and/or appropriate antibiotic in 2022 or 2023. Reviewers abstracted data, including from free text notes, to classify patients as likely or possible Lyme disease and by clinical manifestation. Multivariable logistic regression was used to identify differences between possible compared to likely Lyme disease cases. Among 2500 reviews, 880 patients were categorized as having likely or possible new onset, active Lyme disease. The patient proportion identified as having a specific clinical manifestation ranged from 61% to 76% across sites. Of likely and possible cases, 55.9%, 7.8%, 1.3%, and 3.1% were diagnosed with erythema migrans, Lyme arthritis, Lyme carditis, and neuroborreliosis, respectively. Possible cases differed from likely cases in having more nonspecific symptoms, non-Lyme disease diagnoses, provider uncertainty, and undocumented provider decision-making. Medical record review is expected to be more accurate than computable phenotypes for Lyme disease identification and staging, yet likely and possible cases were challenging to distinguish, and a sizable proportion could not have clinical manifestation assigned. Findings provide direction for computable phenotype refinement to improve case identification. KEY WORDS: clinical manifestations, electronic health records, epidemiology, Lyme disease, surveillance.",
       "authors": [
-        "Winter MS",
-        "Adams KD",
-        "Bourgeois JS"
+        "Schwartz BS",
+        "Hirsch AG",
+        "Poulsen MN"
       ],
-      "journal": "Infection and immunity",
-      "publicationDate": "Aug 04, 2026",
+      "journal": "Open forum infectious diseases",
+      "publicationDate": "Aug 06, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42550036/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42614448/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
@@ -458,7 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:20:55.063Z"
+      "fetchedAt": "2026-08-20T06:22:09.099Z"
     },
     {
       "pmid": "42575597",
@@ -481,7 +481,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:21:01.055Z"
+      "fetchedAt": "2026-08-20T06:22:19.974Z"
     },
     {
       "pmid": "42575597",
@@ -504,7 +504,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:21:09.470Z"
+      "fetchedAt": "2026-08-20T06:22:29.118Z"
     },
     {
       "pmid": "42601898",
@@ -527,7 +527,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:20:58.632Z"
+      "fetchedAt": "2026-08-20T06:22:17.499Z"
     },
     {
       "pmid": "42591579",
@@ -550,7 +550,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:20:59.837Z"
+      "fetchedAt": "2026-08-20T06:22:18.737Z"
     },
     {
       "pmid": "42581991",
@@ -573,7 +573,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:21:00.442Z"
+      "fetchedAt": "2026-08-20T06:22:19.362Z"
     },
     {
       "pmid": "42572573",
@@ -596,7 +596,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:21:01.661Z"
+      "fetchedAt": "2026-08-20T06:22:20.584Z"
     },
     {
       "pmid": "42608703",
@@ -619,7 +619,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:21:04.607Z"
+      "fetchedAt": "2026-08-20T06:22:24.068Z"
     },
     {
       "pmid": "42568944",
@@ -641,21 +641,20 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:20:53.203Z"
+      "fetchedAt": "2026-08-20T06:22:13.955Z"
     },
     {
-      "pmid": "42565984",
-      "title": "Host contributions to Borrelia burgdorferi (Spirochaetales: Spirochaetaceae) infection prevalence in Ixodes scapularis (Acari: Ixodidae) nymphs.",
-      "abstract": "Lyme disease, caused by the bacterium Borrelia burgdorferi (Spirochaetales: Spirochaetaceae) and transmitted by the blacklegged tick, Ixodes scapularis Say (Acari: Ixodidae), in the eastern United States, is the most common vector-borne disease in North America. Human disease risk depends on interactions among ticks and sylvatic hosts, and greater host biodiversity has been hypothesized to reduce risk through the dilution effect. However, the influence of biodiversity varies with community composition, species abundance, and habitat change. We conducted a literature review to compile biological parameter estimates for 15 common host species. These parameters were used in a mathematical model incorporating tick-to-host ratio-dependent host-finding success, allowing for incomplete redistribution of ticks, to assess transmission dynamics in the northeastern United States, where human Lyme disease incidence is high. We evaluated how species richness, evenness, and habitat changes affect nymphal infection prevalence (NIP) and density of infected nymphs (DIN). Our results indicate that many small mammal species play context-dependent roles, acting as dilution hosts in communities of highly competent hosts and as amplification hosts in lower-competence communities. Varying host density revealed \"tipping points,\" where small abundance changes led to communities producing more infected than uninfected ticks. Habitat fragmentation simulations showed that biodiversity can decrease NIP but often increases DIN. Together, these findings provide insight into B. burgdorferi transmission cycles and emphasize the need to consider NIP and DIN jointly when assessing how biodiversity alters transmission dynamics.",
+      "pmid": "42614070",
+      "title": "Synergistic drivers of Lyme disease emergence in North America: an eco-syndemic review.",
+      "abstract": "Lyme disease is a growing public health threat driven by interplay of climatic, ecological and social factors. This review adopts an eco-syndemic framework, viewing Lyme disease emergence as the confluence of multiple synergistic drivers rather than a single- cause phenomenon. We synthesize evidence that climate conditions, ecological circumstances and human behavioural patterns inter- sect to amplify Lyme disease risk. By integrating these seemingly separate domains, our review highlights novel insights; for exam- ple, habitat fragmentation and predator loss may magnify the effects of a warming climate on reservoir or host populations, and human activities in suburban green spaces may mediate infection cycles. This holistic perspective is a departure from reductionist explanations and emphasizes the importance of coupled human-environment systems in studies of disease emergence. We discuss how an eco-syndemic frame can improve surveillance and prevention emphasizing One Health approaches that unite environmental management with animal health and public health outreach. Understanding the interactive and non-linear dynamics of Lyme disease drivers is crucial for developing effective interventions and preparing for future tick-borne disease challenges. While selected com- parative evidence from Europe is used where relevant, the review's primary empirical focus is North America.",
       "authors": [
-        "Peterson C",
-        "Gallo E",
-        "Allen MS"
+        "Ojo MF",
+        "Kolivras KN"
       ],
-      "journal": "Journal of medical entomology",
-      "publicationDate": "Jul 01, 2026",
+      "journal": "Geospatial health",
+      "publicationDate": "Jul 23, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42565984/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42614070/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
@@ -664,7 +663,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:20:54.452Z"
+      "fetchedAt": "2026-08-20T06:22:10.047Z"
     },
     {
       "pmid": "42553982",
@@ -687,7 +686,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-19T06:21:02.980Z"
+      "fetchedAt": "2026-08-20T06:22:21.827Z"
     }
   ]
 }
