@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T06:22:26.390Z",
+  "generatedAt": "2026-08-22T06:17:29.503Z",
   "totalPapers": 29,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:17.142Z"
+      "fetchedAt": "2026-08-22T06:17:20.907Z"
     },
     {
       "pmid": "42602951",
@@ -46,30 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:12.665Z"
-    },
-    {
-      "pmid": "42551817",
-      "title": "AfriTickID: An AI-assisted image-based approach for tick species identification in Kenya.",
-      "abstract": "Tick-borne diseases such as Lyme disease, tick-borne encephalitis and Crimean-Congo haemorrhagic fever in humans, and East Coast Fever and anaplasmosis in animals, pose a significant threat to public and veterinary health. Knowing where tick species are distributed helps with targeted response. In this study, we used Artificial Intelligence (AI) to automate the identification of tick species from images. A Kenya-based tick image dataset comprising of 864 images across seven tick species was compiled from laboratory collections and the Global Biodiversity Information Facility. MobileNetV2 and ResNet-50 were used to identify tick species and cross-validated to determine performance and accuracy. We evaluated model performance using 5-fold cross-validation and summarized the results with a normalized confusion matrix. The lightweight MobileNetV2 achieved a better performance than ResNet-50, with an accuracy of 75%, weighted F1-score of 74%, and Kappa score of 69%. MobileNetV2 had the highest identification rates for Rhipicephalus decoloratus (88%) and Rhipicephalus sanguineus (87%), and the lowest for Rhipicephalus evertsi (22%). ResNet-50 and baseline convolutional neural networks performed better on Rhipicephalus sanguineus (94%), with lower rates across other species. These results provide a baseline for AI-assisted tick identification in Kenya. Future work should focus on expanding the dataset to improve model performance for tick species in Kenya, while broader applicability to other regions, species, life stages, and image sources will require larger, balanced datasets and external validation.",
-      "authors": [
-        "Kioko C",
-        "Cheng H",
-        "Ekeya J"
-      ],
-      "journal": "Acta tropica",
-      "publicationDate": "Sep 04, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42551817/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-21T06:22:10.286Z"
+      "fetchedAt": "2026-08-22T06:17:16.635Z"
     },
     {
       "pmid": "42619194",
@@ -90,7 +67,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:04.835Z"
+      "fetchedAt": "2026-08-22T06:17:09.804Z"
     },
     {
       "pmid": "42607219",
@@ -113,7 +90,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:07.755Z"
+      "fetchedAt": "2026-08-22T06:17:12.260Z"
     },
     {
       "pmid": "42575611",
@@ -136,7 +113,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:25.389Z"
+      "fetchedAt": "2026-08-22T06:17:28.502Z"
+    },
+    {
+      "pmid": "42628341",
+      "title": "Low healthcare provider knowledge of ehrlichiosis and other tickborne diseases - United States, 2024.",
+      "abstract": "Ehrlichiosis is a significant tick-borne disease in the United States, with a four-fold increase in incidence from 2000-2012 (Nichols Heitman et al., 2016). Because ehrlichiosis can be severe or fatal without treatment with doxycycline, healthcare providers (HCPs) need to know about this disease's geographic distribution and clinical presentation to diagnose and treat patients appropriately. In the 2024 Porter Novelli DocStyles survey, HCPs were asked seven questions on the occurrence of tickborne disease (TBD) among patients in their practice area and on the diagnosis and treatment of ehrlichiosis. A total of 1502 HCPs responded to the survey. HCPs in states with a high incidence of E. chaffeensis were nearly 3 times as likely to select ehrlichiosis as occurring in their practice area compared to HCPs in low-incidence states (OR = 2.8, 95% CI: 2.1-3.7), while the same comparison for Lyme disease incidence was >18 times (OR = 18.4, 95% CI: 11.0-30.8). Primary care physicians (PCPs) were more likely to respond correctly compared to other provider categories (nurse practitioners and physician assistants or pediatricians) to 5 of 6 questions. HCPs in high-incidence ehrlichiosis states were more likely to respond correctly to 4 of the 6 questions compared to HCPs in low-incidence states. These findings demonstrate a discrepancy in familiarity with different TBDs and knowledge of ehrlichiosis across provider categories, demonstrating a need for increased HCP awareness of the geographic distribution, diagnosis, and treatment of ehrlichiosis.",
+      "authors": [
+        "Adams SN",
+        "Taylor ML",
+        "McCormick DW"
+      ],
+      "journal": "Ticks and tick-borne diseases",
+      "publicationDate": "Aug 21, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42628341/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-22T06:17:09.303Z"
     },
     {
       "pmid": "42624277",
@@ -159,7 +159,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:19.605Z"
+      "fetchedAt": "2026-08-22T06:17:23.003Z"
     },
     {
       "pmid": "42617049",
@@ -182,7 +182,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:05.607Z"
+      "fetchedAt": "2026-08-22T06:17:10.418Z"
     },
     {
       "pmid": "42615648",
@@ -205,7 +205,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:20.249Z"
+      "fetchedAt": "2026-08-22T06:17:23.613Z"
     },
     {
       "pmid": "42607741",
@@ -228,7 +228,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:21.509Z"
+      "fetchedAt": "2026-08-22T06:17:24.836Z"
     },
     {
       "pmid": "42599221",
@@ -251,7 +251,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:08.391Z"
+      "fetchedAt": "2026-08-22T06:17:12.874Z"
     },
     {
       "pmid": "42601210",
@@ -274,7 +274,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:13.935Z"
+      "fetchedAt": "2026-08-22T06:17:17.877Z"
     },
     {
       "pmid": "42600714",
@@ -297,7 +297,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:22.141Z"
+      "fetchedAt": "2026-08-22T06:17:25.457Z"
     },
     {
       "pmid": "42594029",
@@ -320,7 +320,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:09.024Z"
+      "fetchedAt": "2026-08-22T06:17:13.489Z"
     },
     {
       "pmid": "42593617",
@@ -343,7 +343,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:22.774Z"
+      "fetchedAt": "2026-08-22T06:17:26.069Z"
     },
     {
       "pmid": "42585140",
@@ -366,7 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:09.654Z"
+      "fetchedAt": "2026-08-22T06:17:14.107Z"
     },
     {
       "pmid": "42607579",
@@ -389,7 +389,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:12.016Z"
+      "fetchedAt": "2026-08-22T06:17:16.001Z"
     },
     {
       "pmid": "42587385",
@@ -412,7 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:23.459Z"
+      "fetchedAt": "2026-08-22T06:17:26.685Z"
     },
     {
       "pmid": "42586170",
@@ -435,7 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:24.089Z"
+      "fetchedAt": "2026-08-22T06:17:27.289Z"
     },
     {
       "pmid": "42575614",
@@ -458,7 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:24.724Z"
+      "fetchedAt": "2026-08-22T06:17:27.900Z"
     },
     {
       "pmid": "42614448",
@@ -481,7 +481,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:06.236Z"
+      "fetchedAt": "2026-08-22T06:17:11.030Z"
     },
     {
       "pmid": "42575597",
@@ -504,7 +504,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:15.846Z"
+      "fetchedAt": "2026-08-22T06:17:19.687Z"
     },
     {
       "pmid": "42601898",
@@ -527,7 +527,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:13.303Z"
+      "fetchedAt": "2026-08-22T06:17:17.261Z"
     },
     {
       "pmid": "42591579",
@@ -550,7 +550,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:14.570Z"
+      "fetchedAt": "2026-08-22T06:17:18.481Z"
     },
     {
       "pmid": "42581991",
@@ -573,7 +573,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:15.216Z"
+      "fetchedAt": "2026-08-22T06:17:19.082Z"
     },
     {
       "pmid": "42572573",
@@ -596,7 +596,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:16.507Z"
+      "fetchedAt": "2026-08-22T06:17:20.291Z"
     },
     {
       "pmid": "42608703",
@@ -619,7 +619,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:20.876Z"
+      "fetchedAt": "2026-08-22T06:17:24.220Z"
     },
     {
       "pmid": "42614070",
@@ -641,7 +641,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:07.113Z"
+      "fetchedAt": "2026-08-22T06:17:11.653Z"
     },
     {
       "pmid": "42553982",
@@ -664,7 +664,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-21T06:22:17.776Z"
+      "fetchedAt": "2026-08-22T06:17:21.544Z"
     }
   ]
 }
