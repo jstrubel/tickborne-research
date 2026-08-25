@@ -1,30 +1,7 @@
 {
-  "generatedAt": "2026-08-24T06:31:00.163Z",
+  "generatedAt": "2026-08-25T06:22:32.620Z",
   "totalPapers": 29,
   "papers": [
-    {
-      "pmid": "42571392",
-      "title": "Metagenomic analysis of commensal small mammal samples from an international cargo shipping area, Bangkok Port, reveals potential zoonotic pathogens and implications for One Health surveillance.",
-      "abstract": "Commensal small mammals, such as rats and shrews, are recognized reservoirs for numerous zoonotic pathogens; however, their role in pathogen circulation at transport hubs remains underexplored. This study employs shotgun metagenomic sequencing to characterize microbial communities and assess zoonotic potential in tissue samples from commensal small mammals captured at Bangkok Port, an international cargo shipping hub in Thailand between June and August 2025. Following host read depletion, taxonomic profiling was performed to identify bacterial taxa of public health relevance, including sequences assigned to Bordetella spp., Yersinia pestis, Bartonella elizabethae, and Acinetobacter baumannii. The virulence factor and antibiotic resistance gene profiles revealed that some of these pathogens have pathogenic potential and are related to drug-resistant bacteria. In addition, Y. pestis was identified as a shared taxon among rats, shrews, and their associated fleas. The findings support the ecological roles of mammalian hosts and their ectoparasites as reservoirs for pathogens of public health concern. These results emphasize the need to strengthen surveillance programs for commensal small mammals to monitor and mitigate the spread of transboundary pathogens at international maritime gateways.",
-      "authors": [
-        "Sirimongkol D",
-        "Wongluechai P",
-        "Chamsai T"
-      ],
-      "journal": "One health (Amsterdam, Netherlands)",
-      "publicationDate": "Dec 29, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42571392/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-24T06:30:51.768Z"
-    },
     {
       "pmid": "42602951",
       "title": "Untitled",
@@ -46,7 +23,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:47.524Z"
+      "fetchedAt": "2026-08-25T06:22:20.083Z"
+    },
+    {
+      "pmid": "42635742",
+      "title": "Borrelia burgdorferi disrupts gut barrier functions and microbiota-antibody interactions.",
+      "abstract": "Lyme disease, an emerging tickborne disease caused by Borrelia burgdorferi (Bb), can result in myriad symptoms of unknown causes in humans. Here, we show that Bb rapidly disrupts the gastrointestinal immune barrier in infected mice, inducing a \"leaky gut\" syndrome, characterized by increased gut permeability, systemic endotoxemia, elevated LPS binding protein and intestinal fatty acid binding protein, and altered blood leukocyte profiles. Patients with acute Lyme disease showed similar blood changes that correlated with disease symptoms and liver function measurements and largely resolved after antibiotic treatment. Mechanistically, Bb infection triggered mild early inflammation in the small intestine and suppressed humoral immunity to the microbiota, resulting in reduced IgA coating of fecal microbes and decreased antimicrobial serum IgG, despite the increased gut permeability. These defects preceded shifts in later observed gut bacterial composition and short-chain fatty acid production. Together, our findings identify mucosal barrier dysfunction and impaired antimicrobial humoral immunity as potential drivers of Bb-induced disease.",
+      "authors": [
+        "Sachan S",
+        "Tran GVV",
+        "Olsen KJ"
+      ],
+      "journal": "The Journal of experimental medicine",
+      "publicationDate": "Oct 05, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42635742/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-25T06:22:11.152Z"
     },
     {
       "pmid": "42619194",
@@ -67,7 +67,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:41.167Z"
+      "fetchedAt": "2026-08-25T06:22:12.978Z"
     },
     {
       "pmid": "42607219",
@@ -90,7 +90,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:43.637Z"
+      "fetchedAt": "2026-08-25T06:22:15.510Z"
     },
     {
       "pmid": "42632587",
@@ -113,7 +113,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:46.307Z"
+      "fetchedAt": "2026-08-25T06:22:18.766Z"
     },
     {
       "pmid": "42632587",
@@ -136,7 +136,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:53.181Z"
+      "fetchedAt": "2026-08-25T06:22:26.498Z"
     },
     {
       "pmid": "42629945",
@@ -159,7 +159,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:39.971Z"
+      "fetchedAt": "2026-08-25T06:22:11.844Z"
     },
     {
       "pmid": "42628341",
@@ -182,7 +182,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:40.668Z"
+      "fetchedAt": "2026-08-25T06:22:12.478Z"
     },
     {
       "pmid": "42624277",
@@ -205,7 +205,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:53.807Z"
+      "fetchedAt": "2026-08-25T06:22:27.139Z"
     },
     {
       "pmid": "42617049",
@@ -228,7 +228,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:41.777Z"
+      "fetchedAt": "2026-08-25T06:22:13.609Z"
     },
     {
       "pmid": "42615648",
@@ -251,7 +251,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:54.431Z"
+      "fetchedAt": "2026-08-25T06:22:27.767Z"
     },
     {
       "pmid": "42607741",
@@ -274,7 +274,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:55.627Z"
+      "fetchedAt": "2026-08-25T06:22:29.023Z"
     },
     {
       "pmid": "42599221",
@@ -297,7 +297,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:44.253Z"
+      "fetchedAt": "2026-08-25T06:22:16.197Z"
     },
     {
       "pmid": "42601210",
@@ -320,7 +320,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:48.738Z"
+      "fetchedAt": "2026-08-25T06:22:21.348Z"
     },
     {
       "pmid": "42600714",
@@ -343,30 +343,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:56.249Z"
-    },
-    {
-      "pmid": "42594029",
-      "title": "Southward Expansion of Ixodes scapularis (Blacklegged) Tick Pathogens - Western North Carolina, November 2024-August 2025.",
-      "abstract": "Southern Appalachia is a region where Lyme disease is emerging but not yet considered endemic. In response to local concerns about increased numbers of tickborne disease cases, researchers collected ticks monthly at 22 residential properties in the town of Biltmore Forest, North Carolina. During November 2024-August 2025, a total of 373 ticks were collected, 287 (76.9%) of which were blacklegged ticks (Ixodes scapularis). Among these, 19 of 48 adult Ix. scapularis (39.6%) tested positive for Borrelia burgdorferi sensu stricto, the bacterium that causes Lyme disease. Borrelia miyamotoi and Anaplasma phagocytophilum were also identified in collected Ix. scapularis ticks, suggesting an expansion of the geographic range of these ticks and pathogens. These findings illustrate the evolving epidemiology of tickborne infection risk and the need for enhanced tick surveillance in southern Appalachia.",
-      "authors": [
-        "Sweeney S",
-        "Bullock A",
-        "Reiskind M"
-      ],
-      "journal": "MMWR. Morbidity and mortality weekly report",
-      "publicationDate": "Aug 13, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42594029/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-24T06:30:44.856Z"
+      "fetchedAt": "2026-08-25T06:22:29.686Z"
     },
     {
       "pmid": "42593617",
@@ -389,7 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:57.196Z"
+      "fetchedAt": "2026-08-25T06:22:30.313Z"
     },
     {
       "pmid": "42607579",
@@ -412,7 +389,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:46.916Z"
+      "fetchedAt": "2026-08-25T06:22:19.437Z"
     },
     {
       "pmid": "42587385",
@@ -435,7 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:57.948Z"
+      "fetchedAt": "2026-08-25T06:22:30.945Z"
     },
     {
       "pmid": "42586170",
@@ -458,30 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:58.552Z"
-    },
-    {
-      "pmid": "42575614",
-      "title": "Molecular survey of vector-borne pathogens in shelter dogs of Cyprus.",
-      "abstract": "Canine vector-borne pathogens (CVBPs) cause a wide range of diseases. No studies have been performed on the prevalence of CVBPs in shelter dogs in Cyprus, despite the regular exporting of dogs from Cypriot shelters for rehoming. From August 2017 to August 2019, a cross-sectional descriptive study was performed in dogs from three shelters in Cyprus. Quantitative PCRs for 'Candidatus Mycoplasma haematoparvum' (CMhp), Mycoplasma haemocanis, Leishmania spp. and Babesia spp. and conventional PCRs and sequencing for Ehrlichia/Anaplasma spp. and Hepatozoon spp. were performed on DNA extracted from EDTA blood samples. Multivariable logistic regression was performed to identify any risk factors associated with CVBPs PCR-positive status. Of samples collected from 145 dogs, eight were excluded from further analysis due to the presence of PCR inhibitors. Of the remaining 137, 76 (55.5%) were PCR-positive for at least one CVBPs, of which 21 dogs had more than one pathogen. The infections comprised 62/137 (45.3%) Hepatozoon canis, 14/137 (10.2%) Anaplasma platys, 13/137 (9.5%) M. haemocanis, 9/137 (6.6%) Leishmania spp., and 2/137 (1.5%) CMhp. All dogs tested negative for Babesia spp.. Regression analysis showed that positive-PCR status for A. platys was positively associated with the presence of ectoparasites, co-infection with H. canis, and the shelter being located in Paphos compared to the shelters in Nicosia, whilst age was positively associated with M. haemocanis positive-PCR status. The overall prevalence of CVBPs is high in Cypriot shelter dogs, including some with zoonotic potential. CVBPs pose a threat to the canine population in Cyprus, and further action is needed by local carers and veterinary authorities to contain their spread by limiting exportation or ensuring testing before travelling for export to avoid infection spread by the movement of dogs.",
-      "authors": [
-        "Attipa C",
-        "Mazeri S",
-        "Yiapanis M"
-      ],
-      "journal": "Veterinary parasitology, regional studies and reports",
-      "publicationDate": "Aug 08, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42575614/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-24T06:30:59.162Z"
+      "fetchedAt": "2026-08-25T06:22:31.619Z"
     },
     {
       "pmid": "42614448",
@@ -504,7 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:42.377Z"
+      "fetchedAt": "2026-08-25T06:22:14.252Z"
     },
     {
       "pmid": "42575597",
@@ -527,7 +481,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:50.554Z"
+      "fetchedAt": "2026-08-25T06:22:23.281Z"
     },
     {
       "pmid": "42601898",
@@ -550,7 +504,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:48.127Z"
+      "fetchedAt": "2026-08-25T06:22:20.719Z"
     },
     {
       "pmid": "42591579",
@@ -573,7 +527,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:49.348Z"
+      "fetchedAt": "2026-08-25T06:22:21.985Z"
     },
     {
       "pmid": "42581991",
@@ -596,7 +550,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:49.956Z"
+      "fetchedAt": "2026-08-25T06:22:22.633Z"
     },
     {
       "pmid": "42572573",
@@ -619,7 +573,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:51.169Z"
+      "fetchedAt": "2026-08-25T06:22:23.922Z"
     },
     {
       "pmid": "42608703",
@@ -642,7 +596,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:55.026Z"
+      "fetchedAt": "2026-08-25T06:22:28.396Z"
     },
     {
       "pmid": "42614070",
@@ -664,7 +618,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-24T06:30:42.985Z"
+      "fetchedAt": "2026-08-25T06:22:14.872Z"
+    },
+    {
+      "pmid": "42636340",
+      "title": "Bartonella vinsonii subsp. berkhoffii genotype III in a dog with recurrent fever and panniculitis coinfected with Babesia odocoilei-like sp.",
+      "abstract": "A 2-year-old, spayed female, mixed breed dog presented for evaluation of recurrent febrile episodes over 5 months, intermittently accompanied by the development of SC nodules. Histopathologic examination of the SC lesions was indicative of panniculitis. Bartonella vinsonii subsp. berkhoffii genotype III DNA was amplified and sequenced from an excised SC nodule. Indirect immunofluorescence antibody titer was 1:64, whereas Bartonella blood PCR was negative. Babesia odocoilei-like species DNA was amplified and sequenced from 2 blood samples obtained 77&#xa0;days apart at the time of febrile episodes. Treatment with doxycycline, enrofloxacin, and azithromycin for 6 months resulted in a favorable clinical outcome. Fifteen months later, the dog remained healthy. This case indicates that relapsing fever and panniculitis are possible manifestations of B vinsonii subsp. berkhoffii genotype III infection in dogs. To the best of the authors' knowledge, infection with a B odocoilei-like species has not been reported previously in dogs from Greece.",
+      "authors": [
+        "Daravigka A",
+        "Soubasis N",
+        "Ygeionomakis P"
+      ],
+      "journal": "Journal of veterinary internal medicine",
+      "publicationDate": "Jul 01, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42636340/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-25T06:22:18.124Z"
+    },
+    {
+      "pmid": "42636340",
+      "title": "Bartonella vinsonii subsp. berkhoffii genotype III in a dog with recurrent fever and panniculitis coinfected with Babesia odocoilei-like sp.",
+      "abstract": "A 2-year-old, spayed female, mixed breed dog presented for evaluation of recurrent febrile episodes over 5 months, intermittently accompanied by the development of SC nodules. Histopathologic examination of the SC lesions was indicative of panniculitis. Bartonella vinsonii subsp. berkhoffii genotype III DNA was amplified and sequenced from an excised SC nodule. Indirect immunofluorescence antibody titer was 1:64, whereas Bartonella blood PCR was negative. Babesia odocoilei-like species DNA was amplified and sequenced from 2 blood samples obtained 77&#xa0;days apart at the time of febrile episodes. Treatment with doxycycline, enrofloxacin, and azithromycin for 6 months resulted in a favorable clinical outcome. Fifteen months later, the dog remained healthy. This case indicates that relapsing fever and panniculitis are possible manifestations of B vinsonii subsp. berkhoffii genotype III infection in dogs. To the best of the authors' knowledge, infection with a B odocoilei-like species has not been reported previously in dogs from Greece.",
+      "authors": [
+        "Daravigka A",
+        "Soubasis N",
+        "Ygeionomakis P"
+      ],
+      "journal": "Journal of veterinary internal medicine",
+      "publicationDate": "Jul 01, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42636340/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-25T06:22:25.737Z"
     }
   ]
 }
