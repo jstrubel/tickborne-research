@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T06:22:32.620Z",
-  "totalPapers": 29,
+  "generatedAt": "2026-08-26T06:24:51.723Z",
+  "totalPapers": 30,
   "papers": [
     {
       "pmid": "42602951",
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:20.083Z"
+      "fetchedAt": "2026-08-26T06:24:39.048Z"
     },
     {
       "pmid": "42635742",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:11.152Z"
+      "fetchedAt": "2026-08-26T06:24:30.689Z"
     },
     {
       "pmid": "42619194",
@@ -67,7 +67,53 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:12.978Z"
+      "fetchedAt": "2026-08-26T06:24:32.472Z"
+    },
+    {
+      "pmid": "42639072",
+      "title": "Clinical Features and Outcomes of Pediatric Lyme Arthritis in Europe: A Large Swiss Cohort Study.",
+      "abstract": "Lyme arthritis (LA) in children typically manifests as monoarthritis of a large joint. Although the prognosis is generally good, persistent arthritis occurs in 10%-23% of patients despite antibiotic treatment. Most described pediatric LA cohorts are from the United States, with limited European data available. This study aimed to describe clinical features and outcomes of pediatric LA in Europe using a large Swiss cohort. Children diagnosed with LA at the University Children's Hospital Zurich, Switzerland between 1 January 2006 and 31 December 2020 were included. Data on clinical disease presentation, laboratory findings, and treatment courses were compared between outcome groups using descriptive statistics and multivariable logistic regression models. A total of 107 LA patients were included. Persistent arthritis, defined as symptoms lasting &#x2265;2 months after antibiotics, occurred in 26 patients (24.3%; 95% CI, 16.8%-33.7%). Characteristics associated with persistent arthritis included older age, symptoms >14 days before presentation, delayed LA-specific antibiotic treatment >30 days, absence of empirical antibiotics, and lower blood monocyte counts. Among patients with persistent arthritis, 10 (38.5%) recovered (9 after intra-articular corticosteroid injections), whereas 16 (61.5%) were eventually diagnosed with juvenile idiopathic arthritis (JIA). This study provides a comprehensive characterization of pediatric LA in the largest European cohort to date, complementing existing data from the United States. Early clinical and laboratory features did not reliably differentiate children who achieved resolution from those who developed persistent arthritis. The finding that a substantial proportion of children with persistent arthritis were later diagnosed with JIA highlights the urgent need to identify predictors of disease persistence and to optimize management strategies.",
+      "authors": [
+        "Greiter BM",
+        "Sidorov S",
+        "Cannizzaro E"
+      ],
+      "journal": "Open forum infectious diseases",
+      "publicationDate": "Aug 30, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42639072/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-26T06:24:30.069Z"
+    },
+    {
+      "pmid": "42640879",
+      "title": "Frequency and prognostic outcomes of emergency diagnosis in 13 non-neoplastic conditions in England: A population-based cohort study using linked electronic health records of 1.7 million patients.",
+      "abstract": "In patients with cancer, diagnosis through or soon after the use of emergency hospital care ('emergency diagnosis') is associated with advanced disease and poor prognosis. The varied and complex reasons for emergency diagnoses-including rapid disease progression, patient factors, and system delays-are unlikely to be unique to cancer. However, little is known about the frequency and prognostic outcomes of emergency diagnosis in other conditions. We aimed to document the frequency of emergency diagnoses across various non-neoplastic conditions and examine the association of emergency diagnosis with clinical outcomes. We analysed records from linked primary care, secondary care, and death data (Clinical Practice Research Datalink (CPRD), Hospital Episode Statistics, Office for National Statistics) for 1,701,154 patients with one of 13 exemplar conditions (axial spondyloarthritis, coeliac disease, coronary/ischaemic heart disease, chronic obstructive pulmonary disease (COPD), inflammatory bowel disease (IBD), Lyme disease, multiple sclerosis (MS), Parkinson's disease, polycystic ovary syndrome, rheumatoid arthritis, schizophrenia, subacute bacterial endocarditis, and tuberculosis) in England between 1999 and 2019. We examined the percentage of patients diagnosed as an emergency and compared their mortality and time in hospital in the year post-diagnosis with patients who were not diagnosed as an emergency. Emergency diagnosis occurred in at least 20% of patients for 9 out of 13 conditions in our sample, including more than 30% of patients with Parkinson's disease and 35% of patients with COPD. For 9 out of 13 conditions, there was a substantial increase (at least +10% difference) in 1-year mortality in patients diagnosed as an emergency versus patients who were not diagnosed as an emergency. After adjusting for age and year of diagnosis, deprivation, comorbidity burden, and the healthcare setting in which the diagnosis was made, patients diagnosed as an emergency were typically much more likely to die within one year. This association held even in conditions with generally good prognosis, such as coeliac disease (adjusted odds ratio 7.53, 95% CI [5.64, 10.1], women) and IBD (adjusted odds ratio 5.99, 95% CI [5.30, 6.78], men). Similarly large differences were observed for time in hospital in the year post-diagnosis by emergency diagnosis status. For example, adjusted rate ratios of 8.76 (95% CI [6.52, 11.8]) for men with coeliac disease, and 5.59 (95%CI [2.57, 12.2]) for women diagnosed with Lyme disease. The findings were consistent across two subsets of CPRD data (Aurum, GOLD). Analyses of patients with five supplementary cancer sites (brain, colon, lung, pancreas, and ovary) produced findings concordant with prior literature, supporting the validity of the study methods. The main study limitation is the assumption of accurate recording of diagnoses in health records. Emergency diagnosis is common and associated with worse clinical outcomes in a wide range of conditions with diverse aetiology. Further research and investment to reduce the number of emergency diagnoses is needed, particularly for diseases where diagnosis in community settings should be expected (e.g., rheumatoid arthritis and COPD), and conditions such as coeliac disease, IBD, and MS, where emergency diagnosis is associated with particularly poor outcomes.",
+      "authors": [
+        "Whitfield E",
+        "White B",
+        "Barclay ME"
+      ],
+      "journal": "PLoS medicine",
+      "publicationDate": "Aug 25, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42640879/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-26T06:24:29.447Z"
     },
     {
       "pmid": "42607219",
@@ -90,7 +136,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:15.510Z"
+      "fetchedAt": "2026-08-26T06:24:34.984Z"
+    },
+    {
+      "pmid": "42641486",
+      "title": "Species- and elevation-linked variation in the molecular occurrence of tick-borne pathogens in Phylloscopus warblers breeding in Armenia.",
+      "abstract": "Tick-borne pathogens (TBPs) are increasingly reported from migratory passerines, yet data from the South Caucasus remain limited. Warblers of the genus Phylloscopus differ in migratory strategies and elevational distributions, providing an opportunity to examine host-associated variation in the molecular occurrence of TBPs. We screened blood samples from three sympatric species (Phylloscopus collybita, Phylloscopus lorenzii, and Phylloscopus nitidus) breeding in Armenia for TBP DNA using genus-specific PCR and reverse line blot hybridization targeting Anaplasma/Ehrlichia/Neoehrlichia, Babesia/Theileria, Borrelia, and Rickettsia. After excluding incomplete samples, 66 individuals were included in the analyses. Differences in molecular prevalence, elevation effects, and co-detection patterns were assessed statistically. Overall TBP DNA positivity differed significantly among host species, with the highest value in P. collybita. Among pathogens, Candidatus Neoehrlichia mikurensis showed the strongest host-associated pattern, whereas Rickettsia helvetica and Rickettsia slovaca showed weaker differences. The probability of TBP DNA detection decreased with elevation in a univariable model, but this effect weakened after accounting for host species. Multiple detections were relatively uncommon and were dominated by Candidatus N. mikurensis, R. helvetica, and R. slovaca, with only weak evidence of non-random co-occurrence. Our findings demonstrate species- and elevation-associated variation in the molecular occurrence of TBPs in Phylloscopus warblers in Armenia and highlight the need for broader sampling and integrated bird-tick studies to clarify the drivers and epidemiological meaning of pathogen DNA detection.",
+      "authors": [
+        "Asikyan M",
+        "Aghayan SA",
+        "Ruivo M"
+      ],
+      "journal": "Ticks and tick-borne diseases",
+      "publicationDate": "Aug 25, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42641486/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-26T06:24:45.115Z"
+    },
+    {
+      "pmid": "42638067",
+      "title": "Untitled",
+      "abstract": "To combat three major pathogens-Brucella spp.,Babesia bovis, and Pasteurella multocida-threatening cattle health, we developed a rapid and accurate triplex basic-recombinase polymerase amplification (Basic-RPA) detection system. Targeting bcsp31, rap-1, and kmt1, we designed and screened specific RPA primers and optimized the reaction temperature, time, and primer concentration. The best reaction conditions were 38 &#x2103; for 25 min, with primers at 10 &#x3bc;mol/L in a 1:1:1 ratio. We then used reference and non-target strains to evaluate the specificity of the established method and serial DNA dilutions to evaluate the method sensitivity and repeatability. Subsequently, we applied the method to detection of 640 samples collected from cattle farms, slaughterhouses, supermarkets, and wet markets. The limit of detection of this method for all the three pathogens reached 103 CFU/mL (copies/mL). The method showed high specificity, excellent repeatability, and 100% consistency with PCR results. Among the samples, Brucella spp., B. bovis, and P. multocida were detected at rates of 0.31%, 2.34%, and 1.25%, respectively, indicating different patterns of pathogen distribution across production stages. In conclusion, our triplex Basic-RPA method is simple, sensitive, and highly specific. It provides an efficient molecular tool for rapid detection and surveillance of bovine pathogens along the farm-to-market chain and lays the groundwork for developing advanced RPA-based technologies such as recombinase polymerase amplification-lateral flow dipstick (RPA-LFD) and recombinase polymerase amplification-clustered regularly interspaced short palindromic repeats, (RPA-CRISPR). &#x4e3a;&#x5e94;&#x5bf9;&#x5a01;&#x80c1;&#x725b;&#x7fa4;&#x5065;&#x5eb7;&#x7684;3&#x79cd;&#x4e3b;&#x8981;&#x75c5;&#x539f;&#x4f53;&#x2014;&#x2014;&#x5e03;&#x9c81;&#x6c0f;&#x83cc;(Brucella spp.)&#x3001;&#x725b;&#x5df4;&#x8d1d;&#x65af;&#x866b;(Babesia bovis)&#x548c;&#x591a;&#x6740;&#x6027;&#x5df4;&#x6c0f;&#x6746;&#x83cc;(Pasteurella multocida)&#xff0c;&#x672c;&#x7814;&#x7a76;&#x5efa;&#x7acb;&#x4e86;&#x4e00;&#x79cd;&#x5feb;&#x901f;&#x3001;&#x51c6;&#x786e;&#x7684;&#x4e09;&#x91cd;&#x91cd;&#x7ec4;&#x9176;&#x805a;&#x5408;&#x9176;&#x6269;&#x589e;(basic-recombinase polymerase amplification, Basic-RPA)&#x68c0;&#x6d4b;&#x4f53;&#x7cfb;&#x3002;&#x4ee5;bcsp31&#x3001;rap-1&#x548c;kmt1&#x4e3a;&#x9776;&#x57fa;&#x56e0;&#xff0c;&#x8bbe;&#x8ba1;&#x5e76;&#x7b5b;&#x9009;&#x7279;&#x5f02;&#x6027;RPA&#x5f15;&#x7269;&#xff0c;&#x4f18;&#x5316;&#x53cd;&#x5e94;&#x6761;&#x4ef6;&#xff0c;&#x786e;&#x5b9a;&#x6700;&#x4f73;&#x53cd;&#x5e94;&#x6e29;&#x5ea6;38 &#x2103;&#x3001;&#x53cd;&#x5e94;&#x65f6;&#x95f4;25 min&#xff0c;&#x5f15;&#x7269;&#x6d53;&#x5ea6;10 &#x3bc;mol/L&#x3001;&#x914d;&#x6bd4;1:1:1&#x3002;&#x901a;&#x8fc7;&#x6807;&#x51c6;&#x83cc;&#x682a;&#x53ca;&#x975e;&#x76ee;&#x6807;&#x83cc;&#x682a;&#x9a8c;&#x8bc1;&#x7279;&#x5f02;&#x6027;&#xff0c;&#x5e76;&#x68af;&#x5ea6;&#x7a00;&#x91ca;DNA&#x6a21;&#x677f;&#x8bc4;&#x4f30;&#x7075;&#x654f;&#x5ea6;&#x4e0e;&#x91cd;&#x590d;&#x6027;&#x3002;&#x68c0;&#x6d4b;&#x6765;&#x81ea;&#x517b;&#x6b96;&#x573a;&#x3001;&#x5c60;&#x5bb0;&#x573a;&#x3001;&#x8d85;&#x5e02;&#x548c;&#x83dc;&#x5e02;&#x573a;&#x7684;640&#x4efd;&#x6837;&#x54c1;&#xff0c;&#x7ed3;&#x679c;&#x663e;&#x793a;&#xff0c;&#x65b9;&#x6cd5;&#x6700;&#x4f4e;&#x68c0;&#x6d4b;&#x9650;&#x4e3a;103 CFU/mL (copies/mL)&#xff0c;&#x5177;&#x5907;&#x9ad8;&#x7279;&#x5f02;&#x6027;&#x548c;&#x826f;&#x597d;&#x7684;&#x91cd;&#x590d;&#x6027;&#xff0c;&#x68c0;&#x6d4b;&#x7ed3;&#x679c;&#x4e0e;PCR&#x65b9;&#x6cd5;&#x4e00;&#x81f4;&#x6027;&#x8fbe;100%&#x3002;&#x9633;&#x6027;&#x7387;&#x5206;&#x522b;&#x4e3a;:&#x5e03;&#x9c81;&#x6c0f;&#x83cc;0.31%&#x3001;&#x5df4;&#x8d1d;&#x65af;&#x866b;2.34%&#x3001;&#x5df4;&#x6c0f;&#x6746;&#x83cc;1.25%&#xff0c;&#x63ed;&#x793a;&#x4e86;3&#x79cd;&#x75c5;&#x539f;&#x4f53;&#x5728;&#x8089;&#x725b;&#x4ea7;&#x4e1a;&#x94fe;&#x5404;&#x73af;&#x8282;&#x7684;&#x5dee;&#x5f02;&#x5316;&#x5206;&#x5e03;&#x89c4;&#x5f8b;&#x4e0e;&#x6d41;&#x884c;&#x7279;&#x5f81;&#x3002;&#x7814;&#x7a76;&#x8868;&#x660e;&#xff0c;&#x4e09;&#x91cd;Basic-RPA&#x4f53;&#x7cfb;&#x64cd;&#x4f5c;&#x7b80;&#x4fbf;&#x3001;&#x7075;&#x654f;&#x5ea6;&#x9ad8;&#x3001;&#x7279;&#x5f02;&#x6027;&#x5f3a;&#xff0c;&#x9002;&#x7528;&#x4e8e;&#x725b;&#x7fa4;&#x75ab;&#x75c5;&#x7684;&#x73b0;&#x573a;&#x5feb;&#x901f;&#x68c0;&#x6d4b;&#x4e0e;&#x6d41;&#x884c;&#x75c5;&#x5b66;&#x8c03;&#x67e5;&#xff0c;&#x4e3a;&#x201c;&#x517b;&#x6b96;-&#x5c60;&#x5bb0;-&#x5e02;&#x573a;&#x201d;&#x94fe;&#x6761;&#x7684;&#x75c5;&#x539f;&#x9632;&#x63a7;&#x63d0;&#x4f9b;&#x4e86;&#x9ad8;&#x6548;&#x68c0;&#x6d4b;&#x624b;&#x6bb5;&#xff0c;&#x5e76;&#x4e3a;&#x91cd;&#x7ec4;&#x9176;&#x805a;&#x5408;&#x9176;&#x6269;&#x589e;-&#x4fa7;&#x6d41;&#x5c42;&#x6790;&#x8bd5;&#x7eb8;&#x6761;(recombinase polymerase amplification-lateral flow dipstick, RPA-LFD)&#x3001;&#x91cd;&#x7ec4;&#x9176;&#x805a;&#x5408;&#x9176;&#x6269;&#x589e;-&#x6210;&#x7c07;&#x89c4;&#x5f8b;&#x95f4;&#x9694;&#x77ed;&#x56de;&#x6587;&#x91cd;&#x590d;&#x5e8f;&#x5217;(recombinase polymerase amplification-clustered regularly interspaced short palindromic repeats, RPA-CRISPR)&#x7b49;&#x591a;&#x6280;&#x672f;&#x8054;&#x7528;&#x65b9;&#x6cd5;&#x7684;&#x5f00;&#x53d1;&#x5960;&#x5b9a;&#x4e86;&#x57fa;&#x7840;&#x3002;.",
+      "authors": [
+        "Xu Z",
+        "Huang Y",
+        "Xu X"
+      ],
+      "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
+      "publicationDate": "Aug 25, 2026",
+      "articleType": "English Abstract",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42638067/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-26T06:24:45.752Z"
     },
     {
       "pmid": "42632587",
@@ -113,7 +205,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:18.766Z"
+      "fetchedAt": "2026-08-26T06:24:37.819Z"
     },
     {
       "pmid": "42632587",
@@ -136,7 +228,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:26.498Z"
+      "fetchedAt": "2026-08-26T06:24:47.000Z"
     },
     {
       "pmid": "42629945",
@@ -159,7 +251,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:11.844Z"
+      "fetchedAt": "2026-08-26T06:24:31.355Z"
     },
     {
       "pmid": "42628341",
@@ -182,7 +274,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:12.478Z"
+      "fetchedAt": "2026-08-26T06:24:31.972Z"
     },
     {
       "pmid": "42624277",
@@ -205,7 +297,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:27.139Z"
+      "fetchedAt": "2026-08-26T06:24:47.616Z"
     },
     {
       "pmid": "42617049",
@@ -228,7 +320,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:13.609Z"
+      "fetchedAt": "2026-08-26T06:24:33.109Z"
     },
     {
       "pmid": "42615648",
@@ -251,7 +343,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:27.767Z"
+      "fetchedAt": "2026-08-26T06:24:48.231Z"
     },
     {
       "pmid": "42607741",
@@ -274,30 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:29.023Z"
-    },
-    {
-      "pmid": "42599221",
-      "title": "Prevalence of West Nile Virus in Children Being Evaluated for Lyme Disease.",
-      "abstract": "West Nile virus (WNV) is a flavivirus typically transmitted between mosquitoes and birds with occasional spill-over into other animals, including humans. Children evaluated for suspected Lyme disease may share environmental risk factors for WNV and present with overlapping symptoms. Our goal was to determine the prevalence of WNV infection in children with suspected Lyme disease. We performed a nested case-control study within a prospective cohort study of children with suspected Lyme disease aged 1-21 years enrolled at 1 of 8 Pedi Lyme Net emergency departments. Lyme disease was defined by either an erythema migrans (EM) lesion or positive two-tier serology. Cases with Lyme disease (n = 305) were matched by age, symptoms, and enrolling center to symptomatic controls without Lyme disease (n = 295). We performed indirect (Luminex microbead immunoassay MIA] with reflex IgM enzyme immunoassay [EIA]) and direct (polymerase chain reaction [PCR]) WNV testing. Acute WNV infection was defined with either a positive MIA and EIA or a positive PCR test result. Of the 600 included patients, 15 (2.5%) had a positive and 53 (8.8%) had an equivocal WNV MIA result. Of these, only 1 had a positive EIA result. Another child had a positive WNV PCR test. The two children with active WNV infections also had acute Lyme disease (0.3%, 95% confidence interval 0.1%, 1.2%) with neurological symptoms. Acute WNV infection is uncommon in pediatric patients being evaluated for suspected Lyme disease. Routine WNV testing is not indicated when evaluating for suspected Lyme disease.",
-      "authors": [
-        "Woll CJ",
-        "Hadley S",
-        "Dean AB"
-      ],
-      "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
-      "publicationDate": "Aug 14, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42599221/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-25T06:22:16.197Z"
+      "fetchedAt": "2026-08-26T06:24:49.469Z"
     },
     {
       "pmid": "42601210",
@@ -320,7 +389,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:21.348Z"
+      "fetchedAt": "2026-08-26T06:24:40.282Z"
     },
     {
       "pmid": "42600714",
@@ -343,7 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:29.686Z"
+      "fetchedAt": "2026-08-26T06:24:50.088Z"
     },
     {
       "pmid": "42593617",
@@ -366,7 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:30.313Z"
+      "fetchedAt": "2026-08-26T06:24:50.723Z"
     },
     {
       "pmid": "42607579",
@@ -389,53 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:19.437Z"
-    },
-    {
-      "pmid": "42587385",
-      "title": "Tick-borne diseases in subtropical dairy farming: The role of calf rearing strategies in antibody and antigen prevalence.",
-      "abstract": "Tick-borne diseases (TBDs), such as anaplasmosis and babesiosis, pose significant challenges to dairy farming in subtropical regions, where balancing tick control with immune development is essential to maintaining herd health. This study evaluated the immune responses of calves raised under confined and traditional systems in Ecuador. Serum samples from 124 cows and their calves were analysed using ELISA assays to detect Anaplasma marginale antibodies and Babesia bovis antigens. The results showed a significantly higher seroprevalence of A. marginale antibodies in calves reared under traditional systems (98 %) compared to those raised under confinement (32 %) (p&#x2009;<&#x2009;0.01), suggesting that early exposure to infected ticks enhances immune response development. In contrast, antigen levels for B. bovis were low overall (1 % Ag-prevalence), suggesting limited pathogen circulation, although the Ag-prevalence was slightly higher in traditional systems (2 %). In confined systems, maternal antibody transfer appeared to play a more prominent role, whereas calves in traditional systems developed a more active, independent immunity. These findings highlight the importance of calf-rearing strategies that incorporate controlled tick exposure alongside targeted management practices to enhance herd resilience and mitigate economic losses. A balanced approach considering endemic stability could improve long-term protection against TBDs in subtropical dairy farming systems. Las enfermedades transmitidas por garrapatas (ETG), como la anaplasmosis y la babesiosis, plantean serios desaf&#xed;os para la producci&#xf3;n lechera en regiones subtropicales, donde equilibrar el control de garrapatas con el desarrollo inmunitario es esencial para la salud del hato. Este estudio evalu&#xf3; las respuestas inmunitarias de terneros criados en sistemas confinados y tradicionales en Ecuador. Se analizaron muestras de suero de 124 vacas y sus terneros mediante pruebas de ELISA para detectar anticuerpos contra Anaplasma marginale y ant&#xed;genos de Babesia bovis. Los resultados mostraron una seroprevalencia significativamente mayor de anticuerpos contra A. marginale en terneros criados en sistemas tradicionales (98%) en comparaci&#xf3;n con aquellos de sistemas confinados (32%) (p&#x2009;<&#x2009;0,01), lo que indica que la exposici&#xf3;n temprana a garrapatas infectadas contribuye a respuestas inmunitarias m&#xe1;s fuertes. Por el contrario, los niveles de ant&#xed;genos para B. bovis fueron en general bajos (1 % de prevalencia de Ag), lo que sugiere una circulaci&#xf3;n limitada del pat&#xf3;geno; aunque la prevalencia de Ag fue mayor en los sistemas tradicionales (2 %). La transferencia de anticuerpos maternos hacia los terneros jug&#xf3; un papel m&#xe1;s relevante en los sistemas confinados, que en los terneros de sistemas tradicionales que desarrollaron inmunidad m&#xe1;s activa e independiente. Estos hallazgos resaltan la importancia de las estrategias de crianza de terneros que integren la exposici&#xf3;n controlada a garrapatas con un manejo espec&#xed;fico para mejorar la resiliencia del reba&#xf1;o y mitigar las p&#xe9;rdidas econ&#xf3;micas. Un enfoque equilibrado que considere la estabilidad end&#xe9;mica podr&#xed;a mejorar la protecci&#xf3;n a largo plazo contra las enfermedades transmitidas por garrapatas en los sistemas lecheros subtropicales.",
-      "authors": [
-        "Balseca D",
-        "Paucar-Quishpe V",
-        "Rodr&#xed;guez-Hidalgo R"
-      ],
-      "journal": "Medical and veterinary entomology",
-      "publicationDate": "Aug 12, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42587385/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-25T06:22:30.945Z"
-    },
-    {
-      "pmid": "42586170",
-      "title": "Clinicopathological abnormalities, treatment, and outcome in in a 45-day-old puppy with acute Babesia canis infection.",
-      "abstract": "The knowledge regarding Babesia canis infections in puppies is limited to 3 dogs aged 43-46 days. A 45-day-old, male intact German Shepherd dog was presented due to lethargy, inappetence, and gait disorders. An acute Babesia canis infection was diagnosed by PCR. Marked thrombocytopenia, anemia, and hyperbilirubinemia were noted. A subcutaneous injection of imidocarb dipropionate (ID, 2.0&#x2009;mg/kg bodyweight) was applied. The puppy's general condition significantly improved, but vomitus was noted. A negative PCR and mild hematological abnormalities were seen 14 days later. A second subcutaneous injection of ID (4.2&#x2009;mg/kg bodyweight) was applied. Babesia canis infections should be considered in puppies with fever, marked thrombocytopenia, and marked anemia in the immunological gap. Next to vectorial transmission, transplacental Babesia canis infections are reported but considered unlikely in the presented puppy. The puppy responded well to a lower-ranged dose of ID, but side effects were noted (vomiting). In adult dogs, treatment of acute Babesia canis infections using ID dosed 6.6&#x2009;mg/kg bodyweight is recommended. No safety regulations are published by the manufacturer regarding the use of ID in puppies, but vomitus is reported as a potential side effect after the use in adult dogs. A second ID injection (4.2&#x2009;mg/kg bodyweight) was applied to avoid a potential disease relapse. The case report highlights the significance of the immunological gap in puppies with Babesia canis infections and the need for ectoparasite prophylaxis in puppies, if vector contact is possible. Der Kenntnisstand bei Welpen mit akuten Babesia canis-Infektionen ist auf 3 F&#xe4;lle im Alter von 43&#x2013;46 Tagen beschr&#xe4;nkt. Im vorliegenden Fallbericht wurde ein m&#xe4;nnlicher Deutscher Sch&#xe4;ferhund-Welpe im Alter von 45 Tagen aufgrund von Lethargie, Inappetenz und Koordinationsst&#xf6;rungen vorgestellt. Eine akute Babesia canis-Infektion wurde mittels positiver PCR diagnostiziert. In der Blutuntersuchung waren eine hochgradige Thrombozytopenie, An&#xe4;mie und Hyperbilirubin&#xe4;mie nachweisbar. Der Welpe wurde mit einer subkutanen Injektion von 2,0&#x2009;mg/kg K&#xf6;rpergewicht Imidocarb Dipropionat (ID) behandelt, worauf sich der Allgemeinzustand besserte. Jedoch wurde von Vomitus berichtet nach der Injektion. Zwei Wochen sp&#xe4;ter wurde eine negative PCR und geringgradige h&#xe4;matologische Befunde festgestellt. Eine zweite subkutane ID-Injektion in der Dosierung 4,2&#x2009;mg/kg K&#xf6;rpergewicht wurde verabreicht. Babesia canis-Infektionen sollten bei Welpen mit Zeckenbefall, Fieber, hochgradiger Thrombozytopenie und hochgradiger An&#xe4;mie differentialdiagnostisch ber&#xfc;cksichtigt werden. Auch transplazentare Babesia canis-Infektionen sind m&#xf6;glich, in diesem Fall jedoch unwahrscheinlich. Der Welpe reagierte gut auf die erste ID-Injektion in niedriger Dosierung, jedoch wurde Vomitus als m&#xf6;gliche Nebenwirkung berichtet. Allgemein wird bei akuten Babesia canis-Infektionen bei erwachsenen Hunden eine hohe Dosierung von 6,6&#x2009;mg/kg K&#xf6;rpergewicht empfohlen. Vomitus ist als m&#xf6;gliche Nebenwirkung bei erwachsenen Hunden beschrieben, jedoch liegen keine Angaben zur Sicherheit und Vertr&#xe4;glichkeit des ID bei Welpen vor. Die zweite ID-Injektion wurde vorgenommen, um einen klinischen Krankheitsr&#xfc;ckfall zu vermeiden. Dieser Fallbericht unterstreicht die Bedeutung der immunologischen L&#xfc;cke bei Welpen mit Babesia canis-Infektionen und die Bedeutung der Ektoparasitenprophylaxe bei Welpen mit m&#xf6;glichem Vektorkontakt.",
-      "authors": [
-        "Sch&#xe4;fer I",
-        "St&#xfc;we S",
-        "F&#xfc;rst K"
-      ],
-      "journal": "Tierarztliche Praxis. Ausgabe K, Kleintiere/Heimtiere",
-      "publicationDate": "Aug 12, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42586170/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-25T06:22:31.619Z"
+      "fetchedAt": "2026-08-26T06:24:38.426Z"
     },
     {
       "pmid": "42614448",
@@ -458,7 +481,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:14.252Z"
+      "fetchedAt": "2026-08-26T06:24:33.740Z"
     },
     {
       "pmid": "42575597",
@@ -481,7 +504,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:23.281Z"
+      "fetchedAt": "2026-08-26T06:24:42.192Z"
     },
     {
       "pmid": "42601898",
@@ -504,7 +527,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:20.719Z"
+      "fetchedAt": "2026-08-26T06:24:39.666Z"
     },
     {
       "pmid": "42591579",
@@ -527,7 +550,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:21.985Z"
+      "fetchedAt": "2026-08-26T06:24:40.901Z"
     },
     {
       "pmid": "42581991",
@@ -550,7 +573,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:22.633Z"
+      "fetchedAt": "2026-08-26T06:24:41.575Z"
     },
     {
       "pmid": "42572573",
@@ -573,7 +596,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:23.922Z"
+      "fetchedAt": "2026-08-26T06:24:42.818Z"
     },
     {
       "pmid": "42608703",
@@ -596,7 +619,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:28.396Z"
+      "fetchedAt": "2026-08-26T06:24:48.850Z"
     },
     {
       "pmid": "42614070",
@@ -618,7 +641,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:14.872Z"
+      "fetchedAt": "2026-08-26T06:24:34.356Z"
     },
     {
       "pmid": "42636340",
@@ -641,7 +664,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:18.124Z"
+      "fetchedAt": "2026-08-26T06:24:37.199Z"
     },
     {
       "pmid": "42636340",
@@ -664,7 +687,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-25T06:22:25.737Z"
+      "fetchedAt": "2026-08-26T06:24:46.372Z"
     }
   ]
 }
