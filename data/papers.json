@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T06:24:51.723Z",
+  "generatedAt": "2026-08-27T16:56:48.428Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:39.048Z"
+      "fetchedAt": "2026-08-27T16:56:37.303Z"
     },
     {
       "pmid": "42635742",
@@ -46,28 +46,29 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:30.689Z"
+      "fetchedAt": "2026-08-27T16:56:32.737Z"
     },
     {
-      "pmid": "42619194",
-      "title": "HHS launches initiatives to reduce Lyme disease.",
-      "abstract": "",
+      "pmid": "42647671",
+      "title": "Lyme disease in a warming world: Rising cases, shifting patterns, and clinical implications.",
+      "abstract": "Lyme disease, the most common vector-borne illness in the United States, is increasingly affecting regions beyond historically endemic areas. Warming temperatures and evolving ecosystems have contributed to the expansion of tick populations and altered seasonal activity, raising the likelihood of human exposure in areas previously considered low-risk. Clinicians must maintain a high index of suspicion for Lyme disease, even in patients without traditional geographic exposure. This article reviews the impact of environmental changes on the distribution and epidemiology of Lyme disease. It also provides an overview of clinical presentations, diagnostic strategies, and treatment recommendations. Emphasis is placed on early recognition, appropriate use of serologic testing, timely antibiotic therapy, and preventive measures to reduce disease burden. Awareness is crucial for delivering effective patient care and preventing complications in an evolving epidemiologic landscape.",
       "authors": [
-        "Roush K"
+        "Shupp R",
+        "Watkins E"
       ],
-      "journal": "The American journal of nursing",
+      "journal": "JAAPA : official journal of the American Academy of Physician Assistants",
       "publicationDate": "Sep 01, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42619194/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42647671/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:32.472Z"
+      "fetchedAt": "2026-08-27T16:56:29.647Z"
     },
     {
       "pmid": "42639072",
@@ -90,7 +91,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:30.069Z"
+      "fetchedAt": "2026-08-27T16:56:32.121Z"
+    },
+    {
+      "pmid": "42643008",
+      "title": "Rheumatological manifestations of Lyme disease and related tick-borne diseases in north America.",
+      "abstract": "Lyme disease is the most common vector-borne infection in North America, and the incidence continues to rise as the geographic range of Ixodes ticks expands. While most patients can be cured with early antibiotic therapy, Lyme arthritis persists as a challenging late manifestation, with a subset developing postantibiotic inflammatory disease that mimics autoimmune arthritis. Recent studies have advanced our understanding of Lyme arthritis. Even after bacterial eradication, in some patients, residual antigens in the synovial fluid can sustain immune activation. Immunologic studies demonstrate specific HLA-DRB1 alleles associated with postantibiotic Lyme arthritis, suggesting a predisposition to chronic inflammation. These findings demonstrate that Lyme arthritis is a complex immune-mediated disorder that bridges infectious and autoimmune mechanisms. Antibiotic therapy is effective for most patients with Lyme arthritis, but optimal management for patients with postantibiotic Lyme arthritis is still uncertain. Continued research into the pathogenesis of postantibiotic Lyme arthritis will be key to improving diagnostic accuracy, refining treatment algorithms, and preventing chronic morbidity associated with Lyme arthritis.",
+      "authors": [
+        "Green B",
+        "Jaber Y",
+        "Schoen RT"
+      ],
+      "journal": "Current opinion in rheumatology",
+      "publicationDate": "Aug 25, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42643008/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-27T16:56:30.882Z"
     },
     {
       "pmid": "42640879",
@@ -113,30 +137,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:29.447Z"
-    },
-    {
-      "pmid": "42607219",
-      "title": "The ecology of Lyme disease: Long-term data, surprises, and a synthesis.",
-      "abstract": "Risk of human exposure to Lyme disease and other tick-borne zoonoses is affected by interactions between ticks, pathogens, vertebrate hosts for ticks and pathogens, and abiotic conditions. Inherent complexities in these ecological systems present challenges to the development of a predictive understanding useful for reducing exposure risk. Here we evaluate a conceptual model of the Lyme disease system using long-term monitoring (>30 y) at sites within an endemic region of New York State, United States. Contrary to conventional wisdom, we found that the abundance of nymphal black-legged ticks-a key risk factor for humans-was not correlated with the abundance of white-tailed deer, the prior abundance of larval ticks, or seasonal temperature extremes. Instead, the abundance of nymphal ticks was correlated with prior abundance of white-footed mice, which in turn was driven by production of acorns by red oak trees. Infection prevalence with zoonotic pathogens at our relatively intact forest sites was not associated with the abundance of white-footed mice, a species known to transmit infection with high efficiency, but instead appeared to arise from the distribution of larval ticks across the entire community of larval hosts. High densities of mice strongly reduced the tick burdens on individual mice and chipmunks, suggesting intraguild competition for parasites. Lyme disease risk arises from the dynamics of the ecological community, rather than from the dynamics of any single population of hosts or from extreme seasonal weather. These dynamics are complex but predictable, such that understanding them can facilitate improvements in management and education aimed at protecting public health.",
-      "authors": [
-        "Ostfeld RS",
-        "LaDeau SL",
-        "Oggenfuss K"
-      ],
-      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-      "publicationDate": "Aug 25, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42607219/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-26T06:24:34.984Z"
+      "fetchedAt": "2026-08-27T16:56:31.503Z"
     },
     {
       "pmid": "42641486",
@@ -159,7 +160,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:45.115Z"
+      "fetchedAt": "2026-08-27T16:56:44.955Z"
     },
     {
       "pmid": "42638067",
@@ -182,7 +183,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:45.752Z"
+      "fetchedAt": "2026-08-27T16:56:45.576Z"
     },
     {
       "pmid": "42632587",
@@ -205,7 +206,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:37.819Z"
+      "fetchedAt": "2026-08-27T16:56:36.072Z"
     },
     {
       "pmid": "42632587",
@@ -228,7 +229,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:47.000Z"
+      "fetchedAt": "2026-08-27T16:56:46.816Z"
     },
     {
       "pmid": "42629945",
@@ -251,34 +252,11 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:31.355Z"
-    },
-    {
-      "pmid": "42628341",
-      "title": "Low healthcare provider knowledge of ehrlichiosis and other tickborne diseases - United States, 2024.",
-      "abstract": "Ehrlichiosis is a significant tick-borne disease in the United States, with a four-fold increase in incidence from 2000-2012 (Nichols Heitman et al., 2016). Because ehrlichiosis can be severe or fatal without treatment with doxycycline, healthcare providers (HCPs) need to know about this disease's geographic distribution and clinical presentation to diagnose and treat patients appropriately. In the 2024 Porter Novelli DocStyles survey, HCPs were asked seven questions on the occurrence of tickborne disease (TBD) among patients in their practice area and on the diagnosis and treatment of ehrlichiosis. A total of 1502 HCPs responded to the survey. HCPs in states with a high incidence of E. chaffeensis were nearly 3 times as likely to select ehrlichiosis as occurring in their practice area compared to HCPs in low-incidence states (OR = 2.8, 95% CI: 2.1-3.7), while the same comparison for Lyme disease incidence was >18 times (OR = 18.4, 95% CI: 11.0-30.8). Primary care physicians (PCPs) were more likely to respond correctly compared to other provider categories (nurse practitioners and physician assistants or pediatricians) to 5 of 6 questions. HCPs in high-incidence ehrlichiosis states were more likely to respond correctly to 4 of the 6 questions compared to HCPs in low-incidence states. These findings demonstrate a discrepancy in familiarity with different TBDs and knowledge of ehrlichiosis across provider categories, demonstrating a need for increased HCP awareness of the geographic distribution, diagnosis, and treatment of ehrlichiosis.",
-      "authors": [
-        "Adams SN",
-        "Taylor ML",
-        "McCormick DW"
-      ],
-      "journal": "Ticks and tick-borne diseases",
-      "publicationDate": "Aug 21, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42628341/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-26T06:24:31.972Z"
+      "fetchedAt": "2026-08-27T16:56:33.355Z"
     },
     {
       "pmid": "42624277",
-      "title": "Underlying causes of thrombocytopenia in dogs from a Mediterranean mixed primary and referral hospital in Barcelona: a retrospective cross-sectional study of 266 cases.",
+      "title": "Underlying causes of thrombocytopenia in dogs from a Mediterranean mixed primary and referral hospital in Barcelona: A retrospective cross-sectional study of 266 cases.",
       "abstract": "Thrombocytopenia is common in dogs and has a wide range of underlying causes, including vector-borne infectious diseases, the relative frequency of which may vary geographically. This retrospective cross-sectional study aimed to characterise the causes and clinicopathological features of thrombocytopenia in a hospital-based cohort of dogs evaluated at a mixed primary and referral veterinary hospital in Barcelona, Spain, and to identify differences across diagnostic categories, particularly those associated with primary immune thrombocytopenia (pITP). Medical records of dogs diagnosed with thrombocytopenia between 2021 and 2023 were reviewed. Of 612 dogs identified, 266 met the inclusion criteria. Neoplasia was the most common diagnosis (31.6%), followed by infectious diseases (24.4%), inflammatory or immune-mediated disorders (16.2%), miscellaneous conditions (15.4%) and primary immune thrombocytopenia (12.4%). Vector-borne diseases accounted for 10.9% of cases, mainly leishmaniosis and babesiosis. Dogs with neoplasia were older than those in other groups. Clinical bleeding was recorded in 42.5% of dogs and was most frequent in primary immune thrombocytopenia (78.8%). Fever was more common in infectious diseases, particularly non-vector-borne diseases. Albumin concentration was higher in primary immune thrombocytopenia than in infectious disease groups, whereas globulin concentration was higher in vector-borne diseases. Dogs with primary immune thrombocytopenia had lower platelet counts than all other groups. In this hospital-based cohort, neoplasia was the most common diagnostic category among dogs with thrombocytopenia, whereas vector-borne diseases were of intermediate frequency compared with reports from other European hospital-based cohorts. Distinct clinicopathological patterns, particularly severe thrombocytopenia and cutaneous haemorrhage, may help clinicians differentiate pITP from other causes of thrombocytopenia.",
       "authors": [
         "Carrasco M",
@@ -286,7 +264,7 @@
         "Feo L"
       ],
       "journal": "Veterinary journal (London, England : 1997)",
-      "publicationDate": "Aug 20, 2026",
+      "publicationDate": "Aug 21, 2026",
       "articleType": "Journal Article",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42624277/",
       "pathogen": "babesia",
@@ -297,44 +275,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:47.616Z"
+      "fetchedAt": "2026-08-27T16:56:47.427Z"
     },
     {
-      "pmid": "42617049",
-      "title": "Assessing the Effectiveness of Crowdsourced Data to Detect Established Tick Populations in Quebec, Canada: Retrospective Ecological Study.",
-      "abstract": "The range expansion of ticks transmitting zoonotic diseases in Canada poses challenges for public health surveillance. Active monitoring of where tick populations are emerging helps inform public health responses, but is resource intensive and logistically complex. Crowdsourced data may provide a cost-effective approach to augment surveillance. In this study, we assessed the value of crowdsourced data from eTick, a platform whereby the public submits tick photographs for expert identification. We aimed to (1) characterize spatial patterns of eTick submissions and identify socioecological factors associated with their occurrence and frequency, and (2) assess the ability of indicators derived from eTick to predict census subdivisions (CSDs) with established tick populations. We conducted a retrospective ecological assessment (2020-2023) for the effectiveness of crowdsourced data to detect established blacklegged tick (Ixodes scapularis) populations in Quebec, Canada. First, we applied a spatial scan approach to assess significantly high submission rates in human- and animal-origin data separately. Then, using zero-inflated regression models, we assessed socioecological factors associated with the occurrence and counts of tick submissions. Next, we used logistic regression models to assess the value of using eTick surveillance data to predict the presence of established tick populations, as documented by active surveillance. Finally, we calculated thresholds for eTick submissions to maximize sensitivity, specificity, or a balance of both metrics for detecting established tick populations, and developed scenarios to interpret linear predictors of submission counts across different socioecological contexts. No clusters in submissions were detected for human and animal-origin data. However, high concentrations of ticks found on humans corresponded with areas reporting a high risk of Lyme disease. Tick submissions of animal origin extended beyond endemic areas, highlighting their complementary surveillance value. Zero-inflated models identified socioeconomic, climatic, and land cover factors significantly associated with submission rates. Logistic regression models, including significant socioecological factors, performed best to identify CSDs with established tick populations. Predictive performance was similar for ticks from humans (area under the curve [AUC] 0.86), animals (AUC 0.83), and all submissions combined (AUC 0.85). Using the best model adjusted for population size, median income, median age, and cumulative degree days above 0 &#xb0;C, an optimal threshold of 3.32 crowdsourced tick submissions allowed the detection of CSDs with established tick populations while maximizing sensitivity and specificity (both 0.76). This work introduces a framework for analyzing crowdsourced surveillance data by correcting for participation bias and benchmarking against active surveillance. Unlike approaches relying on traditional or unadjusted data, it incorporates socioecological factors associated with reporting. We show that crowdsourced data can yield reliable inferences about vector distributions and provide a methodological approach that could be applied across species and regions. Applied to eTick, it supports integration into surveillance systems to improve early detection, targeting interventions, and cost-effective monitoring of emerging risks by public health.",
+      "pmid": "42654807",
+      "title": "Untitled",
+      "abstract": "Pathogen surveillance contributes to the prediction of outbreaks and implementation of strategies to minimize disease transmission. White-tailed deer (Odocoileus virginianus) host important disease vectors and often support the proliferation of associated pathogens. Such vectors include ticks: hematophagous acarids that facilitate pathogen transmission between animals through blood feeding. Piroplasmida, an order of blood-borne protozoa including Babesia and Theileria, exploits this feeding to infect definitive hosts. Accordingly, we investigated the prevalence of Theileria cervi infections in Massachusetts white-tailed deer. Conventional polymerase chain reaction (PCR) was used to detect parasite gene fragments encoding the small ribosomal subunit (18S rRNA). Confirmation of species identity was determined by Oxford nanopore sequencing and Sequencher analysis. This revealed a 32.6% prevalence of T. cervi across Massachusetts. Whilst surveillance of deer blood uncovers parasite abundance and distribution, inversely, this allows us to also monitor vector populations. As Amblyomma americanum is the only vector implicated in the transmission of T. cervi, the detection of T. cervi in regions without anticipated Amblyomma presence may indicate expansion of vector populations. These findings provide valuable insights into the prevalence and ecology of this piroplasm and its vector, with possible implications for veterinary and public health.",
       "authors": [
-        "Dumas A",
-        "Savage J",
-        "Crandall KE"
+        "Borges JO",
+        "Pearson P",
+        "Xu G"
       ],
-      "journal": "JMIR public health and surveillance",
-      "publicationDate": "Aug 19, 2026",
+      "journal": "Pathogens (Basel, Switzerland)",
+      "publicationDate": "Aug 20, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42617049/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-26T06:24:33.109Z"
-    },
-    {
-      "pmid": "42615648",
-      "title": "The establishment of a universal blocking ELISA for echinococcosis using immunoglobulin against a new conserved linear B-cell epitope.",
-      "abstract": "Echinococcosis is a neglected tropical disease that poses a severe threat to global public health and socioeconomic development. Given its alarming global spread, there is an urgent need to develop accurate diagnostic methods to support targeted and personalized treatment. Echinococcus multilocularis Em18 has been demonstrated to exhibit the most prominent diagnostic relevance in the progression of alveolar echinococcosis (AE). In this study, six highly specific monoclonal antibodies (mAbs) against the Em18 protein-designated 8G6F, 11E2E, 11E7C, 11E7E, 11E8C, and 11E10D-were generated using hybridoma technology. Indirect ELISA showed that the supernatant titers ranged from 1:1,600 to 1:12,800, while the ascites titers varied from 1:128,000 to 1:512,000. Further analysis indicated that all mAbs belonged to the IgG1 &#x3ba; isotype. After purification, the ascites-derived mAbs exhibited expected heavy-chain and light-chain bands at approximately 50 kDa and 25 kDa, respectively. Notably, western blot and indirect immunofluorescence assay collectively demonstrated that all mAbs exhibited high specificity for recombinant Em18 protein of approximately 18.65 kDa. Through peptide scanning technology, we identified the antigenic epitope recognized by six mAbs as the region 99RMREKHDAKHKS108, a highly conserved linear B-cell epitope on the Em18 protein. Amino acid sequence alignment confirmed the complete conservation of this epitope, which is surface-exposed. Furthermore, the optimal blocking antibody 11E8C was selected and labeled with horseradish peroxidase (HRP) based on which a blocking ELISA was established using the anti-Em18 mAbs. Serum samples with a percent inhibition (PI) &#x2265;22.48% were determined as positive, and those with PI &#x2264;17.64% as negative. This method showed no cross-reactivity with positive sera against Toxoplasma gondii, Babesia spp., Cysticercus tenuicollis, Coenurus cerebralis, and other non-echinococcosis pathogens. Sensitivity testing showed a positive detection rate of 90%, and positive signals remained stable even when positive sera were diluted up to 1:16. The intra-assay and inter-assay coefficients of variation (CV) were both below 10%. In a concordance evaluation using 47 clinical serum samples from cattle and sheep, the overall agreement between our assay and a commercial kit was 93.62%. Furthermore, the mAbs developed in this study accurately identified intermediate and advanced AE infections, providing a reliable tool for assessing disease progression. Importantly, its cross-reactivity with cystic echinococcosis (CE)-infected sera demonstrates promising potential for the broad-spectrum serodiagnosis of echinococcosis. Collectively, these results suggest that this study provides a novel technical resource for improving serological detection and developing early diagnostic reagents for echinococcosis and offers experimental support for the surveillance, prevention, control, and evaluation of this disease.IMPORTANCEEchinococcosis is a neglected tropical disease posing significant threats to global public health and economic development. We have developed six highly specific mAbs capable of precisely recognizing the Em18 protein, a key biomarker for disease progression, and have for the first time identified their antigenic epitope. These antibodies can not only accurately distinguish intermediate and advanced infection stages but also exhibit cross-reactivity with cystic echinococcosis, demonstrating potential as a broad-spectrum diagnostic tool. This achievement paves a new path for developing rapid and precise clinical detection methods, holding significant importance for improving disease prevention and control capabilities.",
-      "authors": [
-        "Zhou G",
-        "Zheng L",
-        "Xin Z"
-      ],
-      "journal": "Microbiology spectrum",
-      "publicationDate": "Aug 19, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42615648/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42654807/",
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
@@ -343,21 +298,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:48.231Z"
+      "fetchedAt": "2026-08-27T16:56:43.726Z"
     },
     {
-      "pmid": "42607741",
-      "title": "Molecular detection and genetic characterization of Borrelia spp. and piroplasmids in wildlife blood and host-attached ticks from Jeonnam Province, South Korea.",
-      "abstract": "Studies simultaneously examining tick-associated pathogens in wildlife blood and host-attached ticks remain limited in South Korea. We investigated selected Borrelia spp. and piroplasmids in blood samples from 34 animals-16 Korean water deer (Hydropotesinermis), seven raccoon dogs (Nyctereutes procyonoides), and 11 wild boars (Sus scrofa)-and in 246 host-attached ticks collected from 13 animals of the same species-three Korean water deer, six raccoon dogs, and four wild boars-in Jeonnam Province. Paired blood and tick samples were available from eight animals. The ticks were processed as 186 molecular test units and identified as Haemaphysalis longicornis, Amblyomma testudinarium, and Ixodes nipponensis. Borrelia garinii DNA was detected in 156 of 186 test units (83.9%), corresponding to a minimum infection rate (MIR) of 63.4% (156/246 ticks). Twenty representative flaB-positive amplicons yielded identical sequences within the analyzed 347-bp fragment. Second-locus analysis of the 5S-23S rRNA intergenic spacer region in one representative test unit per tick species supported B. garinii identification in those three samples. A Babesia lineage closely related to B. gibsoni was detected in 22 of 34 blood samples (64.7%) and six of 186 tick test units (3.2%; MIR, 2.4%). Borrelia theileri was detected in all three wildlife species, with PCR positivity of 54.5% in wild boars, 37.5% in Korean water deer, and 28.6% in raccoon dogs. Theileria luwenshuni and T. capreoli were detected only in Korean water deer, at 50.0% and 31.3%, respectively. Among the eight paired animals, no concordant pathogen taxon was detected in blood and attached-tick test units. These findings provide regional molecular data on Borrelia spp. and piroplasmids at the wildlife-tick interface. However, the small convenience sample, partial grouping of H. longicornis, use of host-attached ticks, and limited second-locus confirmation preclude inference regarding reservoir competence, transmission cycles, or vector involvement.",
+      "pmid": "42655853",
+      "title": "Untitled",
+      "abstract": "From September 2024 to September 2025, 310 blood samples from cattle (n = 151), camels (n = 44), horses (n = 71), and wild mice (n = 44) across six Xinjiang counties/cities were screened by microscopy, genus-specific PCR, sequencing, and phylogenetic analysis. Overall, 46.77% (145/310) of the samples were positive for haemoprotozoan infection. Trypanosoma spp. showed the highest prevalence (25.48%, 79/310), followed by Theileria (16.13%, 50/310) and Babesia (5.16%, 16/310). Notable host-specific patterns emerged: camels had the highest T. evansi occurrence (86.36%), while wild mice had the highest Theileria prevalence (75%). Dual infections (mostly Trypanosoma + Theileria) occurred in 8.39% (26/310) of animals, and a triple infection was found in 0.32% (1/310). Phylogenetic analysis identified T. evansi as predominant trypanosome, clustering with isolates from India and Saudi Arabia; the major piroplasms identified were T. annulata, T. equi, and an unidentified Babesia sp. This study represents the first multi-host molecular survey in Xinjiang, revealing a high infection burden, diverse parasite species, and frequent co-infections.",
       "authors": [
-        "Lee YJ",
-        "Kim B",
-        "Hyun Y"
+        "Li Y",
+        "Fu X",
+        "Wang Z"
       ],
-      "journal": "Acta tropica",
-      "publicationDate": "Aug 17, 2026",
+      "journal": "Veterinary sciences",
+      "publicationDate": "Aug 19, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42607741/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42655853/",
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
@@ -366,7 +321,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:49.469Z"
+      "fetchedAt": "2026-08-27T16:56:41.848Z"
+    },
+    {
+      "pmid": "42655825",
+      "title": "Untitled",
+      "abstract": "Vector-borne pathogens, predominantly transmitted through arthropod vectors, present a major threat to both livestock production and public health. Melophagus ovinus is a significant disease vector widely distributed across various pastoral regions in China. However, there has been limited research on the prevalence of vector-borne pathogens within M. ovinus populations in Qinghai Province, China. In this study, a total of 433 M. ovinus specimens were collected from Haixi and Hainan prefectures in Qinghai Province between 2024 and 2025. After identifying the parasites via morphological and molecular approaches, the specimens were grouped into 84 pools and tested for the presence of three vector-borne pathogens using PCR techniques. The findings indicated that all collected specimens exhibited morphological features consistent with M. ovinus, and the 18S rRNA gene sequences of the selected parasites (n = 7) demonstrated sequence similarities ranging from 99.1% to 100% relative to reference M. ovinus strains. Among the 84 M. ovinus pools analyzed, 68 tested positive for Bartonella spp. DNA; subsequent genetic characterization identified these isolates (n = 15) as Bartonella melophagi. Additionally, Rickettsia spp. DNA was detected in 18 pools (21.43%), genetic characterization based on the OmpA gene (n = 6) identified all as Rickettsia conorii. No DNA from Babesia spp. or Theileria spp. was detected in any of the pool. Collectively, this investigation elucidates the epidemiological characteristics of three vector-borne pathogens among M. ovinus populations in Qinghai, China, and provides the first evidence of a high prevalence of both B. melophagi and R. conorii, emphasizing the necessity for targeted prevention and control measures.",
+      "authors": [
+        "Zuo M",
+        "Zhu P",
+        "Yang X"
+      ],
+      "journal": "Veterinary sciences",
+      "publicationDate": "Aug 14, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42655825/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-27T16:56:34.833Z"
     },
     {
       "pmid": "42601210",
@@ -389,21 +367,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:40.282Z"
+      "fetchedAt": "2026-08-27T16:56:38.546Z"
     },
     {
-      "pmid": "42600714",
-      "title": "Expression, purification, crystallization and structure solution of glyceraldehyde-3-phosphate dehydrogenase from the babesiosis infective agent Babesia bovis.",
-      "abstract": "Babesia bovis is a species of apicomplexan hemoparasitic protozoa that can be transmitted by ticks, causing a global cattle disease. As it depends mainly on the glycolytic pathway for energy production and life cycle maintenance, glycolytic enzymes are possible targets for drug development against Babesia. Glyceraldehyde-3-Phosphate Dehydrogenase (GAPDH) has been one of such targets, against several parasitic organisms. It performs the reversible oxidative phosphorylation of glyceraldehyde-3-phosphate to 1,3-bisphospho-D-glycerate in the presence of nicotinamide adenine dinucleotide. The protocol for Babesia bovis Glyceraldehyde-3-Phosphate Dehydrogenase (BbGAPDH) expression and purification has been developed to yields of 28&#x202f;mg of pure protein per liter of culture medium, with a specific activity of 55.5&#x202f;&#xb1;&#x202f;6.99 U&#x202f;mg-1 after His-tag removal, indicating preservation of enzymatic activity. For crystallization, the His-tag removal proved essential. Crystals diffracted to 3.12&#x202f;&#xc5; resolution in the P3121 space group; NAD+ cofactor molecules are observed in their respective sites. Comparisons to the theoretical model indicate a number of side chain conformation differences. These results provide support for future enzyme inhibition assays, in addition to crystallization assays with potential inhibitors.",
+      "pmid": "42655825",
+      "title": "Untitled",
+      "abstract": "Vector-borne pathogens, predominantly transmitted through arthropod vectors, present a major threat to both livestock production and public health. Melophagus ovinus is a significant disease vector widely distributed across various pastoral regions in China. However, there has been limited research on the prevalence of vector-borne pathogens within M. ovinus populations in Qinghai Province, China. In this study, a total of 433 M. ovinus specimens were collected from Haixi and Hainan prefectures in Qinghai Province between 2024 and 2025. After identifying the parasites via morphological and molecular approaches, the specimens were grouped into 84 pools and tested for the presence of three vector-borne pathogens using PCR techniques. The findings indicated that all collected specimens exhibited morphological features consistent with M. ovinus, and the 18S rRNA gene sequences of the selected parasites (n = 7) demonstrated sequence similarities ranging from 99.1% to 100% relative to reference M. ovinus strains. Among the 84 M. ovinus pools analyzed, 68 tested positive for Bartonella spp. DNA; subsequent genetic characterization identified these isolates (n = 15) as Bartonella melophagi. Additionally, Rickettsia spp. DNA was detected in 18 pools (21.43%), genetic characterization based on the OmpA gene (n = 6) identified all as Rickettsia conorii. No DNA from Babesia spp. or Theileria spp. was detected in any of the pool. Collectively, this investigation elucidates the epidemiological characteristics of three vector-borne pathogens among M. ovinus populations in Qinghai, China, and provides the first evidence of a high prevalence of both B. melophagi and R. conorii, emphasizing the necessity for targeted prevention and control measures.",
       "authors": [
-        "Ukrainski B",
-        "Galv&#xe3;o EB",
-        "Silva M"
+        "Zuo M",
+        "Zhu P",
+        "Yang X"
       ],
-      "journal": "Protein expression and purification",
+      "journal": "Veterinary sciences",
       "publicationDate": "Aug 14, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42600714/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42655825/",
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
@@ -412,30 +390,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:50.088Z"
+      "fetchedAt": "2026-08-27T16:56:42.484Z"
     },
     {
-      "pmid": "42593617",
-      "title": "Molecular detection and risk factor analysis of Babesia spp. infection in camels from northern Egypt.",
-      "abstract": "Babesia spp. are important tick-borne hemoprotozoan parasites that affect the health and productivity of livestock, including camels. The present study aimed to determine the molecular prevalence of Babesia spp. infection in camels from northern Egypt and to evaluate the associated epidemiological risk factors. A total of 400 blood samples were collected from camels in Kafr El-Sheikh and Qalyubia Governorates, Egypt. Molecular detection of Babesia spp. was performed using PCR targeting the 18&#xa0;S rRNA gene. Epidemiological data related to sex, age, season, body condition, tick infestation, and acaricide application were analyzed to identify potential risk factors associated with infection. The overall prevalence of Babesia spp. infection was 18%. Male camels showed a significantly higher prevalence (23.85%) compared with females (7.14%). Age was significantly associated with infection, with the highest prevalence observed in camels older than 5 years (38.18%), followed by those aged 2-5 years (11.9%), whereas the lowest prevalence was detected in animals younger than 2 years (6.26%). Seasonal analysis revealed higher infection rates during the warm months (OR&#x2009;=&#x2009;2.09; 95% CI: 1.05-4.15), suggesting the influence of climatic conditions on tick activity and pathogen transmission. Emaciated camels (OR&#x2009;=&#x2009;1.96; 95% CI: 1.01-3.79) were more susceptible to infection than healthy animals, likely due to compromised immunity and concurrent parasitic burdens. Tick infestation (OR&#x2009;=&#x2009;2.23; 95% CI: 2.06-4.69)and the absence of acaricide application (OR&#x2009;=&#x2009;2.84; 95% CI: 1.42-5.68) were also significantly associated with increased infection rates, emphasizing the major role of ticks in disease transmission. The findings support the importance of environmental and management-related factors in maintaining Babesia circulation among camel populations. The present study demonstrates that Babesia spp. infection is prevalent among camels in northern Egypt and is significantly associated with age, sex, season, body condition, tick infestation, and acaricide application practices. Effective tick control programs, improved management systems, and regular molecular surveillance are essential for reducing the epidemiological impact of babesiosis in camels. Furthermore, the use of species-specific nested PCR assays is recommended for accurate differentiation of Babesia species in future studies.",
+      "pmid": "42656385",
+      "title": "Untitled",
+      "abstract": "We evaluated the effect of nonthermal extremely low-frequency electromagnetic field (ELF-EMF) exposure on the motility of Borrelia burgdorferi, the causative agent of Lyme disease, using the Electrome BB&#x2122; Protocol, a non-contact, non-ionizing system operating within regulatory safety thresholds. Cultures were exposed and assessed by dark-field microscopy for motility. ELF-EMF exposure was substantially more effective, immobilizing up to 96.8% of spirochetes under the longer-duration treatment condition, compared with 13.1% by doxycycline at 0.5&#x202f;&#x3bc;g/mL in the same assay, a greater than sevenfold separation from this single clinically relevant antibiotic reference condition achieved entirely through a non-pharmacological, biophysical mechanism. Exact one-sided binomial tests against an established baseline motility fraction of 0.85 returned p&#x202f;<&#x202f;10-120 for both conditions, with every individual longer-duration replicate independently significant at p&#x202f;<&#x202f;4.4&#x202f;&#xd7;&#x202f;10-12 after Bonferroni correction; longer exposure produced deeper suppression than shorter exposure at the organism level (exact two-sided Fisher test, p&#x202f;=&#x202f;0.026), consistent with a duration-dependent nonthermal mechanism rather than an acute thermal or stress response. Loss of flagellar motility is functionally equivalent to organismal inactivation in tissue: non-motile B. burgdorferi cannot disseminate, evade immune surveillance, or sustain infection. Because the ELF-EMF mechanism arrests motility without inducing cell lysis, it is also expected to enable host-mediated clearance of intact, motility-arrested spirochetes without triggering the Jarisch-Herxheimer reaction associated with rapid bacterial killing. A controlled murine infection model is the next test in vivo.",
       "authors": [
-        "Selim A",
-        "Marzok M",
-        "Gattan HS"
+        "Nilsen EA",
+        "Adkison H",
+        "Martinez JR"
       ],
-      "journal": "Tropical animal health and production",
-      "publicationDate": "Aug 13, 2026",
+      "journal": "Frontiers in medicine",
+      "publicationDate": "08 12, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42593617/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42656385/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:50.723Z"
+      "fetchedAt": "2026-08-27T16:56:27.773Z"
+    },
+    {
+      "pmid": "42646715",
+      "title": "Lessons Unlearned: The Barriers to Lyme Borreliosis Vaccination and the Risk of Repeating History.",
+      "abstract": "Lyme borreliosis is the most common vector-borne disease in the temperate Northern Hemisphere, with approximately 476,000 diagnoses annually in the United States and over 130,000 reported cases across Europe each year, figures that substantially underestimate true incidence. In 1998, LYMErix became the first licensed vaccine against Lyme borreliosis. Its withdrawal four years later was not driven by evidence of vaccine failure but by the collapse of public confidence, and regulatory endorsement that any successful vaccine programme requires. The field was without a licensed product for twenty-four years. VLA15 (now designated PF-07307405), a second-generation recombinant outer surface protein A vaccine, is now at regulatory submission following phase 3 results reported in March 2026. We examine the barriers that led to LYMErix's withdrawal, revisit the evidence that generated and sustained the safety controversy and consider whether the conditions now exist for a different outcome. The lessons for a robust post-marketing surveillance programme extend beyond Lyme borreliosis to broader questions about how modern medicine evaluates vaccine risk, interprets safety signals, and communicates under uncertainty.",
+      "authors": [
+        "Nagra D",
+        "Biddle K",
+        "Bechman K"
+      ],
+      "journal": "Vaccines",
+      "publicationDate": "Aug 12, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42646715/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-27T16:56:30.270Z"
     },
     {
       "pmid": "42607579",
@@ -458,30 +459,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:38.426Z"
+      "fetchedAt": "2026-08-27T16:56:36.694Z"
     },
     {
-      "pmid": "42614448",
-      "title": "Findings From Electronic Medical Record Review of 2500 Patients Identified With Lyme Disease Diagnoses, Test Orders, and Antibiotic Orders in the SubLyme Network.",
-      "abstract": "Electronic health records provide opportunities for improving Lyme disease surveillance by collecting detailed clinical information and timely, scalable disease incidence estimation. Medical record review can improve understanding of clinical manifestations, how likely and possible cases compare, and potential misclassification of possible cases. The SubLyme Network is a collaboration among 5 healthcare systems, a coordinating center, and the Centers for Disease Control and Prevention. The sites each conducted stratified random sampling of 500 potential acute Lyme disease episodes for medical record review from patients with a diagnosis, test order, and/or appropriate antibiotic in 2022 or 2023. Reviewers abstracted data, including from free text notes, to classify patients as likely or possible Lyme disease and by clinical manifestation. Multivariable logistic regression was used to identify differences between possible compared to likely Lyme disease cases. Among 2500 reviews, 880 patients were categorized as having likely or possible new onset, active Lyme disease. The patient proportion identified as having a specific clinical manifestation ranged from 61% to 76% across sites. Of likely and possible cases, 55.9%, 7.8%, 1.3%, and 3.1% were diagnosed with erythema migrans, Lyme arthritis, Lyme carditis, and neuroborreliosis, respectively. Possible cases differed from likely cases in having more nonspecific symptoms, non-Lyme disease diagnoses, provider uncertainty, and undocumented provider decision-making. Medical record review is expected to be more accurate than computable phenotypes for Lyme disease identification and staging, yet likely and possible cases were challenging to distinguish, and a sizable proportion could not have clinical manifestation assigned. Findings provide direction for computable phenotype refinement to improve case identification. KEY WORDS: clinical manifestations, electronic health records, epidemiology, Lyme disease, surveillance.",
+      "pmid": "42654770",
+      "title": "Untitled",
+      "abstract": "Babesia aktasi is a recently discovered species that is highly prevalent in native goats in T&#xfc;rkiye's Mediterranean region. Although it does not induce clinical disease in local breeds, it causes severe illness in Saanen goats, manifesting with high fever, anemia, hemoglobinuria, and jaundice. Imidocarb dipropionate (IMDP) has been reported to be therapeutically effective against Babesia species. This study aimed to evaluate the therapeutic efficacy of IMDP and its ability to eliminate the parasite in experimentally infected Saanen goats. Twelve goats were assigned to treatment and control groups (n = 5 per group) and infected using fresh blood from two splenectomized donors. All goats developed clinical babesiosis, with parasitemia ranging from 3.8% to 22. Semi-nested PCR specific to B. aktasi was performed for 30 days post-treatment. Following treatment with IMDP (1.2 mg/kg), clinical signs resolved by the third and fourth days, and parasitemia became microscopically undetectable. However, one goat in the treatment group and four goats in the control group died shortly after infection. Hematological parameters (HCT, RBC, HB) decreased during infection but normalized in surviving animals. Notably, B. aktasi DNA remained detectable by PCR up to 30 days after treatment. These findings indicated that IMDP resolved clinical signs and eliminated microscopically detectable parasitemia; however, it may not completely eliminate the parasite at the molecular level in B. aktasi infections. The results of this study provide valuable information for optimizing therapeutic approaches and improving our understanding of treatment responses in new species B. aktasi.",
       "authors": [
-        "Schwartz BS",
-        "Hirsch AG",
-        "Poulsen MN"
+        "Ulucesme MC",
+        "Ozubek S",
+        "Aktas M"
       ],
-      "journal": "Open forum infectious diseases",
-      "publicationDate": "Aug 06, 2026",
+      "journal": "Pathogens (Basel, Switzerland)",
+      "publicationDate": "Aug 10, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42614448/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42654770/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:33.740Z"
+      "fetchedAt": "2026-08-27T16:56:44.342Z"
     },
     {
       "pmid": "42575597",
@@ -504,7 +505,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:42.192Z"
+      "fetchedAt": "2026-08-27T16:56:40.383Z"
+    },
+    {
+      "pmid": "42654748",
+      "title": "Post-Treatment Lyme Disease Syndrome in Six European Countries Using Data from the Burden of Lyme Disease (BOLD) Study.",
+      "abstract": "Up to 10% of patients with Lyme borreliosis (LB) will experience symptoms that fulfill the Infectious Disease Society of America (IDSA) criteria of post-treatment Lyme disease syndrome (PTLDS). This study assesses PTLDS in the Burden of Lyme Disease (BOLD) study through clinical assessment (\"PTLDS Assessed by Clinicians\") and by post hoc evaluation of patient-reported outcomes, including the 36-Item Short Form Health Survey, Fatigue Severity Scale, and Cognitive Failures Questionnaire (\"PTLDS Assessed by Questionnaire\"). Among 242 LB cases who completed antibiotic treatment and had objective manifestations stabilized or resolved, 99 (40.9%) reported &#x2265;1 symptom of fatigue, musculoskeletal pain, or cognitive impairment 10 months after diagnosis. Fifteen (6.2%) cases met the PTLDS criteria assessed by either clinicians or predefined questionnaire severity thresholds; four (1.7%) met both. PTLDS cases assessed by questionnaires and LB cases with persistent symptoms both reported greater symptom severity and poorer physical functioning than PTLDS cases assessed by clinicians. These exploratory findings suggest that clinician- and questionnaire-based assessments may identify partially different subsets of patients with PTLDS and either method could underestimate the proportion of patients with PTLDS.",
+      "authors": [
+        "Yu H",
+        "Mercadante AR",
+        "Halsby K"
+      ],
+      "journal": "Pathogens (Basel, Switzerland)",
+      "publicationDate": "Aug 01, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42654748/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-27T16:56:28.411Z"
     },
     {
       "pmid": "42601898",
@@ -527,7 +551,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:39.666Z"
+      "fetchedAt": "2026-08-27T16:56:37.922Z"
     },
     {
       "pmid": "42591579",
@@ -550,7 +574,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:40.901Z"
+      "fetchedAt": "2026-08-27T16:56:39.154Z"
+    },
+    {
+      "pmid": "42655775",
+      "title": "Untitled",
+      "abstract": "Bovine babesiosis is a tick-borne disease of major veterinary and economic importance, yet molecular epidemiological data from Kazakhstan remain limited. This study investigated the prevalence, distribution, and species composition of Babesia spp. in cattle across all 17 administrative regions of Kazakhstan. A total of 6455 cattle blood samples from 171 villages were screened by nested PCR targeting the cytochrome b (cytb) gene, and positive samples were characterized by sequencing and phylogenetic analysis. The overall positive rate for Babesia spp. were 3.87% (95% CI: 3.41-4.37%). Of 250 PCR-positive samples, 215 yielded high-quality sequences and were assigned to four species: Babesia major (31.2%), B. occultans (29.6%), B. bigemina (18.0%), and B. bovis (7.2%). Marked regional heterogeneity was observed, with B. major and B. occultans predominating across most regions, whereas B. bigemina was dominant in Atyrau. Turkistan was the only region where all four species co-circulated. First molecular evidence of B. bovis and B. bigemina was obtained for Atyrau, Akmola, and West Kazakhstan regions. These findings expand current knowledge of bovine babesiosis in Kazakhstan and reveal a species composition dominated by B. major and B. occultans, contrasting with the B. bovis/B. bigemina-dominated patterns commonly reported elsewhere. The detection of pathogenic Babesia species in previously unsurveyed regions highlights the need for continued molecular surveillance.",
+      "authors": [
+        "Ostrovskii A",
+        "Ryskeldina A",
+        "Lucay V"
+      ],
+      "journal": "Veterinary sciences",
+      "publicationDate": "Jul 29, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42655775/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-27T16:56:43.113Z"
     },
     {
       "pmid": "42581991",
@@ -573,66 +620,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:41.575Z"
+      "fetchedAt": "2026-08-27T16:56:39.761Z"
     },
     {
-      "pmid": "42572573",
-      "title": "Untitled",
-      "abstract": "A previously healthy woman developed acute painless left-eye vision loss after travelling to Colombia, with recent febrile episodes and kitten exposure. Examination showed left neuroretinitis with papilledema and macular star. Bartonella henselae serology confirmed diagnosis. Treatment with doxycycline and rifampicin led to a gradual and complete visual recovery.",
+      "pmid": "42649215",
+      "title": "Core-sheath coupling controls flagellar curvature and motility in Leptospira.",
+      "abstract": "Spirochaete pathogens are among the most invasive bacteria known, causing syphilis, Lyme disease, and leptospirosis. Their tissue penetration depends on periplasmic flagellar filaments that, unlike other bacterial flagella, are encased in a spirochaete-specific multi-protein sheath and deform the cell body into motile waves. How these filaments achieve the mechanical properties needed for invasive motility has remained unclear. Here we determine complete atomic structures of the Leptospira endoflagellar filament, revealing an elaborate sheath of 9 to 12 distinct asymmetrically arranged proteins. We show that the flagellin variant forming the filament core determines sheath composition, producing curvatures ranging from ~3.5&#x2009;&#xb5;m-1 to ~5.6&#x2009;&#xb5;m-1. The lower-curvature architecture, employed by pathogenic Leptospira interrogans, proves essential for motility in viscous environments and during infection. Thus, Leptospira achieves environment-specific motility through modular core-sheath coupling, linking atomic-scale structural plasticity to large-scale changes in swimming behaviour. Conservation of key sheath components suggests this mechanism may extend across spirochaetes.",
       "authors": [
-        "Milcent-Fernandez E",
-        "Lang C",
-        "Prod'hom S"
+        "San Martin F",
+        "Brady MR",
+        "Fule L"
       ],
-      "journal": "IDCases",
-      "publicationDate": "07 27, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42572573/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-26T06:24:42.818Z"
-    },
-    {
-      "pmid": "42608703",
-      "title": "A recombinase polymerase amplification lateral flow assay (RPA-LF) for detection of Babesia divergens-like parasites.",
-      "abstract": "Babesia divergens is a tick-borne apicomplexan parasite found predominantly in Europe, causing babesiosis in livestock and occasionally in humans, with severe disease reported in immunosuppressed or asplenic individuals. As populations of Ixodes ricinus, the principal vector, expand geographically, including into urban environments, there is a growing need for rapid, sensitive, and field-deployable surveillance tools. In this study, we aim to developed a Recombinase Polymerase Amplification Lateral Flow (RPA-LF) assay for the detection of B. divergens. RPA assays targeting B. divergens hsp70, cox1, and 18S rRNA genes were designed and evaluated for sensitivity and specificity using serial dilutions and control samples, including other apicomplexan parasites and tick samples spiked with B. divergens DNA. To assess field performance, 279 I. ricinus ticks were collected from urban parks in Greater London and screened by qPCR and a subset also tested using the new RPA-LF assays. Anaplasma phagocytophilum was screened by qPCR but not detected. The cox1 and 18S rRNA RPA-LF assays demonstrated high specificity, with detection limits of at least 10-5&#xa0;ng/&#x3bc;l and 10-3&#xa0;ng/&#x3bc;l, respectively, under isothermal conditions (39&#xa0;&#xb0;C for 30&#xa0;min). No cross-reactivity was observed with non-target DNA. Field validation using pooled samples revealed a single sample positive for Babesia divergens by qPCR, indicating an estimated nymphal infection prevalence of 0.4-1.2%, as previously observed in UK tick studies. The 18S rRNA RPA-LF assay successfully detected this pool, whereas the cox1 RPA-LF did not. Sanger sequencing confirmed the presence of B. divergens/B. capreoli-like DNA, although species-level discrimination was limited due to high sequence similarity. We report the first successful development of an RPA-LF assay for the detection in ticks of B. divergens or the closely related species B. capreoli. The assay demonstrates high sensitivity and specificity under isothermal conditions and provides a portable and reliable tool for field-based molecular surveillance of emerging tick-borne pathogens. Field validation revealed B. divergens/B. capreoli in questing ticks from urban green spaces in London, underscoring the importance of this tool for early detection and ongoing surveillance of tick-borne parasites in expanding urban ecosystems.",
-      "authors": [
-        "Bin ECJ",
-        "Hughes K",
-        "Whitehorn C"
-      ],
-      "journal": "Parasites & vectors",
-      "publicationDate": "Jul 27, 2026",
+      "journal": "Nature communications",
+      "publicationDate": "Jul 25, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42608703/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-26T06:24:48.850Z"
-    },
-    {
-      "pmid": "42614070",
-      "title": "Synergistic drivers of Lyme disease emergence in North America: an eco-syndemic review.",
-      "abstract": "Lyme disease is a growing public health threat driven by interplay of climatic, ecological and social factors. This review adopts an eco-syndemic framework, viewing Lyme disease emergence as the confluence of multiple synergistic drivers rather than a single- cause phenomenon. We synthesize evidence that climate conditions, ecological circumstances and human behavioural patterns inter- sect to amplify Lyme disease risk. By integrating these seemingly separate domains, our review highlights novel insights; for exam- ple, habitat fragmentation and predator loss may magnify the effects of a warming climate on reservoir or host populations, and human activities in suburban green spaces may mediate infection cycles. This holistic perspective is a departure from reductionist explanations and emphasizes the importance of coupled human-environment systems in studies of disease emergence. We discuss how an eco-syndemic frame can improve surveillance and prevention emphasizing One Health approaches that unite environmental management with animal health and public health outreach. Understanding the interactive and non-linear dynamics of Lyme disease drivers is crucial for developing effective interventions and preparing for future tick-borne disease challenges. While selected com- parative evidence from Europe is used where relevant, the review's primary empirical focus is North America.",
-      "authors": [
-        "Ojo MF",
-        "Kolivras KN"
-      ],
-      "journal": "Geospatial health",
-      "publicationDate": "Jul 23, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42614070/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42649215/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
@@ -641,7 +643,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:34.356Z"
+      "fetchedAt": "2026-08-27T16:56:29.026Z"
     },
     {
       "pmid": "42636340",
@@ -664,7 +666,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:37.199Z"
+      "fetchedAt": "2026-08-27T16:56:35.456Z"
     },
     {
       "pmid": "42636340",
@@ -687,7 +689,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-26T06:24:46.372Z"
+      "fetchedAt": "2026-08-27T16:56:46.208Z"
     }
   ]
 }
