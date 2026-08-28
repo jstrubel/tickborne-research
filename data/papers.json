@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T16:56:48.428Z",
+  "generatedAt": "2026-08-28T17:46:54.410Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:37.303Z"
+      "fetchedAt": "2026-08-28T17:46:44.776Z"
     },
     {
       "pmid": "42635742",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:32.737Z"
+      "fetchedAt": "2026-08-28T17:46:38.990Z"
     },
     {
       "pmid": "42647671",
@@ -68,7 +68,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:29.647Z"
+      "fetchedAt": "2026-08-28T17:46:35.756Z"
     },
     {
       "pmid": "42639072",
@@ -91,7 +91,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:32.121Z"
+      "fetchedAt": "2026-08-28T17:46:38.354Z"
+    },
+    {
+      "pmid": "42663471",
+      "title": "Untitled",
+      "abstract": "The mouse model of tick-mediated Borrelia burgdorferi sensu lato (Bbsl) challenge is integral to the preclinical evaluation of Lyme disease vaccines. The standard measure of vaccine efficacy is the recovery of viable spirochetes from different mouse tissues, monitored weekly for a month post challenge. Serological tests (ELISA and Western blots) with B. burgdorferi lysates, recombinant proteins, or peptides are often used as alternative or confirmatory readouts. While there are several reports suggesting that culture positivity and serology are strongly correlated, a systematic study addressing this issue is lacking. In this report, we took advantage of available data sets from large cohorts of naive and OspA actively and passively immunized mice that had been challenged with Ixodes scapularis nymphs carrying Bbsl strain B31, euthanized 3 weeks later, then assessed for culture positivity across different tissue types (ear, skin, ankle, bladder, and heart) and seropositivity using an OspC and DbpB 2-plex microsphere immunoassay (MIA) and a vmp-like sequence C6 monoplex MIA. Our results demonstrate a 96.5%-97% agreement between culture positivity and seroconversion using the OspC/DbpB and C6 MIAs, suggesting that serology provides a near-perfect readout of disseminated spirochetal infection. While some instances of culture and serological discordance could be attributed to technical errors, others likely reflect aspects of infectivity/immunological dynamics, including the possibility of abortive (non-sterilizing) B. burgdorferi infections. We conclude that serological testing provides a highly accurate and practical measure of disseminated B. burgdorferi infection in mouse models, crucial for the efficient preclinical assessment of Lyme disease vaccines. The laboratory mouse (Mus musculus) plays an indispensable role in the testing of candidate vaccines for Lyme disease, an emerging tick-borne infection caused by the spirochete, Borrelia burgdorferi. While laboratory mice do not develop Lyme disease per se, B. burgdorferi proliferates in skin tissues following a tick bite, then disseminates to other organs over the course of days to weeks. In this report, we examined the concordance between two widely used methodologies to assess disseminated B. burgdorferi infection and offer recommendations to standardize testing across laboratories.",
+      "authors": [
+        "Freeman-Gallant G",
+        "Shrestha M",
+        "You S"
+      ],
+      "journal": "Microbiology spectrum",
+      "publicationDate": "Aug 28, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42663471/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-28T17:46:33.290Z"
+    },
+    {
+      "pmid": "42658418",
+      "title": "Ticks Recovered from Opportunistically Examined Greater Grisons (Galictis vittata) in Veracruz, Mexico.",
+      "abstract": "Information regarding ectoparasites associated with the greater grison (Galictis vittata) remains scarce throughout most of its geographic range, particularly in Mexico. Previous reports of tick parasitism in this mustelid are limited and restricted mainly to isolated records from Central and South America. In the present study, ticks recovered from two G. vittata individuals from Veracruz, Mexico, were identified using morphological and molecular approaches, and screened for selected bacterial microorganisms. Two G. vittata from northern Veracruz, Mexico, were examined for ectoparasites. Ticks were morphologically identified and representative specimens were molecularly characterized by amplification and sequencing of a partial mitochondrial 16S rDNA fragment. Additionally, PCR assays targeting members of the genera Anaplasma, Bartonella, Borrelia, Coxiella, Ehrlichia, Francisella, and Rickettsia were performed. A total of 68 adult ticks was recovered, including Amblyomma ovale (4 males, 6 females), Amblyomma mixtum (1 male), and Amblyomma auricularium (15 males, 42 females). Molecular analyses supported the identification of A. mixtum and A. ovale, whereas sequences obtained from specimens morphologically assigned to A. auricularium clustered within Amblyomma parvum. Two A. ovale specimens tested positive for Francisella-like endosymbionts showing 99% identity with sequences previously reported from South America. No DNA of Anaplasma, Bartonella, Borrelia, Coxiella burnetii, Ehrlichia, or Rickettsia was detected. The present study expands the currently available information on ticks recovered from G. vittata in Mexico. Although based on opportunistic sampling, these findings provide baseline information for future studies on tick-host associations in wild carnivores from the Neotropical region.",
+      "authors": [
+        "Escorcia-Quintana MG",
+        "P&#xe9;rez-Br&#xed;gido CD",
+        "Zazueta-Islas HM"
+      ],
+      "journal": "Acta parasitologica",
+      "publicationDate": "Aug 27, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42658418/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-28T17:46:41.705Z"
     },
     {
       "pmid": "42643008",
@@ -114,7 +160,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:30.882Z"
+      "fetchedAt": "2026-08-28T17:46:36.969Z"
     },
     {
       "pmid": "42640879",
@@ -137,7 +183,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:31.503Z"
+      "fetchedAt": "2026-08-28T17:46:37.748Z"
     },
     {
       "pmid": "42641486",
@@ -160,7 +206,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:44.955Z"
+      "fetchedAt": "2026-08-28T17:46:50.965Z"
     },
     {
       "pmid": "42638067",
@@ -183,7 +229,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:45.576Z"
+      "fetchedAt": "2026-08-28T17:46:51.595Z"
     },
     {
       "pmid": "42632587",
@@ -206,7 +252,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:36.072Z"
+      "fetchedAt": "2026-08-28T17:46:43.555Z"
     },
     {
       "pmid": "42632587",
@@ -229,30 +275,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:46.816Z"
-    },
-    {
-      "pmid": "42629945",
-      "title": "EXPRESS: Discrepancies in widely used serological methods to detect Borrelia infections may cause missed Lyme diagnoses.",
-      "abstract": "Accurate diagnosis of Lyme disease, caused by Borrelia burgdorferi, is essential for timely treatment and prevention of long-term complications. This study investigates discrepancies in widely used serological assays and their impact on diagnostic sensitivity in high-risk populations. We analyzed samples from an annual Lyme screening program conducted by Innatoss Laboratories between November 2020 and May 2022, targeting individuals with occupational exposure to ticks. A retrospective cohort of 60 positive serum samples from 57 participants (aged 23-64) was evaluated using three tier one protocols: EUROIMMUN/ZEUS ELISA, SERION ELISA, and Diasorin CLIA, followed by Viramed immunoblots for confirmation.Our findings revealed significant variability in test sensitivity: the EUROIMMUN/ZEUS protocol detected 96.8% of cases, compared to 84.1% for SERION (p = 0.023) and 69.8.0% for Diasorin (p<0.001). Notably, six recent Borrelia infections were missed due to test selection, as confirmed by longitudinal comparison with previous samples. One case study illustrated the clinical consequences of missed diagnoses, including delayed treatment and symptom persistence.These results underscore the need for standardized serological protocols and routine longitudinal sample comparison. We propose the establishment of a consensus panel to define assay performance criteria and recommend integration of electronic health records with laboratory systems to enable automated historical data retrieval. Adoption of more sensitive testing strategies and harmonized interpretation guidelines could significantly improve diagnostic accuracy and patient outcomes in Lyme disease.",
-      "authors": [
-        "Volokhina E",
-        "Stemerding A",
-        "Smits Y"
-      ],
-      "journal": "Journal of investigative medicine : the official publication of the American Federation for Clinical Research",
-      "publicationDate": "Aug 21, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42629945/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-27T16:56:33.355Z"
+      "fetchedAt": "2026-08-28T17:46:52.796Z"
     },
     {
       "pmid": "42624277",
@@ -275,7 +298,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:47.427Z"
+      "fetchedAt": "2026-08-28T17:46:53.410Z"
     },
     {
       "pmid": "42654807",
@@ -298,7 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:43.726Z"
+      "fetchedAt": "2026-08-28T17:46:49.749Z"
     },
     {
       "pmid": "42655853",
@@ -321,7 +344,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:41.848Z"
+      "fetchedAt": "2026-08-28T17:46:47.877Z"
+    },
+    {
+      "pmid": "42662798",
+      "title": "Untitled",
+      "abstract": "Bartonella bovis is an intracellular bacterium infecting cattle, with competent vectors yet to be determined. We compared B. bovis prevalence between pasture-raised and indoor-housed cattle to assess potential vector candidates. A total of 548 blood samples from Czech cattle and 48 samples from cattle from southeastern Romania were analyzed using qPCR (ssrA gene) and nested PCR (gltA gene). In pasture herds, 18.39% (64/348) of samples were positive, all but one representing a single B. bovis genotype identical to isolates from Brazil, Guatemala, and France. In Romanian herds, also reared outdoors, prevalence was 12.5% (6/48) mostly matching Czech genotypes. These results indicate low genetic diversity of B. bovis compared to other Bartonella species (e.g., B. schoenbuchensis in red deer), supporting a clonal population structure. In contrast, indoor cattle were completely negative (0/200). The exclusive occurrence of B. bovis in pasture-raised cattle and their exposure to blood-feeding arthropods suggests transmission by exophagic vectors, possibly horn flies (Haematobia irritans) or horseflies (Tabanidae). Overall, our findings, while not demonstrating the competence of a specific vector, provide epidemiological indications that outdoor exposure supports vector-borne transmission and narrows the range of plausible candidate vectors in Europe.",
+      "authors": [
+        "Hammerbauerov&#xe1; I",
+        "Dulavov&#xe1; K",
+        "V&#xe1;clavek P"
+      ],
+      "journal": "Parasite epidemiology and control",
+      "publicationDate": "Aug 14, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42662798/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-08-28T17:46:40.501Z"
     },
     {
       "pmid": "42655825",
@@ -344,7 +390,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:34.833Z"
+      "fetchedAt": "2026-08-28T17:46:42.334Z"
     },
     {
       "pmid": "42601210",
@@ -367,7 +413,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:38.546Z"
+      "fetchedAt": "2026-08-28T17:46:46.009Z"
     },
     {
       "pmid": "42655825",
@@ -390,7 +436,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:42.484Z"
+      "fetchedAt": "2026-08-28T17:46:48.508Z"
     },
     {
       "pmid": "42656385",
@@ -413,7 +459,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:27.773Z"
+      "fetchedAt": "2026-08-28T17:46:33.924Z"
     },
     {
       "pmid": "42646715",
@@ -436,7 +482,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:30.270Z"
+      "fetchedAt": "2026-08-28T17:46:36.365Z"
     },
     {
       "pmid": "42607579",
@@ -459,7 +505,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:36.694Z"
+      "fetchedAt": "2026-08-28T17:46:44.170Z"
     },
     {
       "pmid": "42654770",
@@ -482,30 +528,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:44.342Z"
-    },
-    {
-      "pmid": "42575597",
-      "title": "PCR-based screening for vector-borne pathogens reveals different Mycoplasma species in cats from Kosovo.",
-      "abstract": "Vector-borne pathogens (VBPs) comprise a diverse range of pathogens, including viruses, bacteria, protozoa, and helminths, that are transmitted to vertebrate hosts by various species of arthropod vectors. The present study aimed to report the first data on the prevalence of VBPs in domestic cats in Kosovo and investigate associations with potential risk factors. Blood samples were collected from 107 domestic cats between April and October 2024 and preserved on filter papers. Samples were screened for VBPs, including Anaplasma spp., Ehrlichia spp., Babesia spp., Hepatozoon spp., Cytauxzoon spp., Bartonella spp., Filarioidea, Mycoplasma spp., Rickettsia spp., and Trypanosoma spp., using polymerase chain reaction (PCR), followed by sequence analysis. Haemotropic mycoplasma DNA was detected in 9 cats (8.4%, 95% CI: 4.2-15.8). Of the sequences obtained, three were identified as Mycoplasma haemofelis and six as Candidatus Mycoplasma haematominutum. The samples resulted negative for the presence of DNA from other VBPs. Significant variations in infection prevalence were associated with age, sex, outdoor access, and health status. This study provides the first molecular detection of Mycoplasma spp. infection in domestic cats from the capital region, Prishtina, and contributes to a better understanding of the epidemiology of this pathogen in the local feline population, which is essential for the development of effective preventive and control strategies.",
-      "authors": [
-        "Rafuna G",
-        "Sherifi K",
-        "Ahmeti S"
-      ],
-      "journal": "Veterinary parasitology, regional studies and reports",
-      "publicationDate": "Aug 02, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42575597/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-27T16:56:40.383Z"
+      "fetchedAt": "2026-08-28T17:46:50.367Z"
     },
     {
       "pmid": "42654748",
@@ -528,7 +551,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:28.411Z"
+      "fetchedAt": "2026-08-28T17:46:34.523Z"
     },
     {
       "pmid": "42601898",
@@ -551,30 +574,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:37.922Z"
-    },
-    {
-      "pmid": "42591579",
-      "title": "Untitled",
-      "abstract": "Bartonella spp. are vector-borne zoonotic pathogens responsible for cat-scratch disease and several other human disease manifestations. Previous studies in Costa Rica have reported Bartonella DNA in ectoparasites and bats; however, data from companion animals remain limited. Here, we investigated the occurrence of Bartonella spp. in domestic cats and dogs and characterized the circulating strains using molecular, culture-based, and genomic approaches. Blood samples were collected from 152 domestic cats and 188 domestic dogs from different Costa Rican regions. Conventional polymerase chain reaction (PCR) assays targeting citrate synthase (gltA) and the beta subunit of bacterial RNA polymerase (rpoB) were used to detect Bartonella spp. DNA was detected in 44% of the cats and 34% of the dogs. Partial gltA sequencing identified B. henselae, B. rochalimae, and B. clarridgeiae. Four B. henselae isolates recovered from feline blood were subjected to whole-genome sequencing. Comparative pan-genome and multilocus sequence typing (MLST) analyses identified sequence types ST1 and ST5 circulating in Costa Rica. These findings provide the first genomic characterization of Bartonella spp. from companion animals in Costa Rica and expand the current knowledge of the genetic diversity and epidemiology of Bartonella in Central America.",
-      "authors": [
-        "Gonz&#xe1;lez-Espinoza G",
-        "Molina-Mora JA",
-        "Chaves-Leon C"
-      ],
-      "journal": "Frontiers in microbiology",
-      "publicationDate": "07 29, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42591579/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-08-27T16:56:39.154Z"
+      "fetchedAt": "2026-08-28T17:46:45.387Z"
     },
     {
       "pmid": "42655775",
@@ -597,21 +597,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:43.113Z"
+      "fetchedAt": "2026-08-28T17:46:49.145Z"
     },
     {
-      "pmid": "42581991",
-      "title": "Atypical cat-scratch disease with acute high-grade fever and neuropsychiatric symptoms: a case report.",
-      "abstract": "To report an atypical case of neurological cat-scratch disease (NCSD) presenting with acute-onset fever and prominent neuropsychiatric manifestations in an older adult. An 85-year-old East Asian man with a history of hypertension and coronary artery disease. Three months after a cat scratch, the patient developed abrupt high-grade fever, followed by nocturnal delirium with visual hallucinations and a witnessed seizure-like episode, and later complained of occipital headache. Physical examination revealed mild bilateral axillary and left supraclavicular lymphadenopathy without focal neurologic deficits. Cerebrospinal fluid cultures and stains were negative for bacteria and fungi. Serum metagenomic next-generation sequencing (mNGS) detected Bartonella henselae. After antibiotic therapy, the fever and headache resolved. Cat-scratch disease should be considered as a rare but important infectious etiology in patients presenting with febrile illness accompanied by delirium or other neuropsychiatric symptoms. Clinicians should carefully inquire about recent cat exposure or scratch history and consider early pathogen-directed empiric antibiotic therapy to minimize diagnostic delay and improve outcomes.",
+      "pmid": "42661779",
+      "title": "Disseminated Bartonellosis Involving the Kidney and Heart.",
+      "abstract": "Blood culture-negative infective endocarditis poses considerable clinical and diagnostic challenges because of its atypical manifestations and the difficulty in identifying the responsible pathogens. The involvement of Bartonella henselae, a rare etiologic agent of blood culture-negative infective endocarditis, further complicates diagnosis and management. Dissemination of Bartonella across multiple organ systems is a recognized feature of the disease. A 73-year-old female with a one-year history of prosthetic mitral valve replacement for mitral valve stenosis secondary to rheumatic fever presented with a one-year history of self-remitting fevers and worsening anemia. In the months preceding admission, she also experienced a cerebrovascular accident involving the left frontal lobe. She was known to care for feral cats, coming into close contact with them through feeding and combing their fur for fleas. CT (computed tomography) imaging on admission was concerning for a left renal infarction, prompting an embolic workup. The transesophageal echocardiogram was notable for irregular thickening of the bioprosthetic mitral valve and mobile, filamentous densities, suggestive of a vegetation. Bartonella henselae IgG titers were markedly elevated at 1:32,768, raising concerns for infective endocarditis secondary to Bartonella henselae with dissemination to the bone marrow and left kidney. This report emphasizes the need for increased awareness, thorough diagnostic imaging, and thoughtful treatment approaches for a patient with widespread bartonellosis. Early identification of Bartonella henselae should be considered in blood culture-negative endocarditis cases, especially in patients with relevant epidemiological exposure.",
       "authors": [
-        "Song X",
-        "Liu X",
-        "Lou M"
+        "Behjatnia H",
+        "Alvarez-Cardona J",
+        "Madruga M"
       ],
-      "journal": "Frontiers in veterinary science",
-      "publicationDate": "07 28, 2026",
+      "journal": "Cureus",
+      "publicationDate": "Jul 27, 2026",
       "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42581991/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42661779/",
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
@@ -620,7 +620,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:39.761Z"
+      "fetchedAt": "2026-08-28T17:46:41.101Z"
     },
     {
       "pmid": "42649215",
@@ -643,7 +643,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:29.026Z"
+      "fetchedAt": "2026-08-28T17:46:35.152Z"
     },
     {
       "pmid": "42636340",
@@ -666,7 +666,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:35.456Z"
+      "fetchedAt": "2026-08-28T17:46:42.951Z"
     },
     {
       "pmid": "42636340",
@@ -689,7 +689,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-08-27T16:56:46.208Z"
+      "fetchedAt": "2026-08-28T17:46:52.195Z"
     }
   ]
 }
