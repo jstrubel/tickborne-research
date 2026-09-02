@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T10:37:07.836Z",
+  "generatedAt": "2026-09-02T10:02:24.476Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:36:58.202Z"
+      "fetchedAt": "2026-09-02T10:02:16.492Z"
     },
     {
       "pmid": "42656136",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:37:01.749Z"
+      "fetchedAt": "2026-09-02T10:02:20.437Z"
     },
     {
       "pmid": "42673469",
@@ -67,7 +67,30 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:36:46.441Z"
+      "fetchedAt": "2026-09-02T10:02:04.651Z"
+    },
+    {
+      "pmid": "42678044",
+      "title": "Evaluation of a One-Step Serological Test for Lyme Disease.",
+      "abstract": "Lyme disease, a vector-borne zoonosis caused by Borrelia species, is classified into early localized and late disseminated infection. Left untreated, infected patients face multisystem pathology involving the joints, heart, and peripheral and central nervous system, making early antibiotic therapy essential. Lyme diagnosis with standard 2-tier test (STTT) and a modified 2-tier test utilize sequential serological assays. In this study, we evaluated the InBios Lyme Detect&#x2122; Multiplex ELISA (RUO) (InBios ELISA), a one-step method that combines screening and confirmatory tests. While a recent publication (Curr. Issues Mol. Biol. 2021;42:333-84.) demonstrated good performance of the InBios ELISA during early stages of Lyme disease, this study aimed to assess assay performance relative to STTT and to characterize IgG and IgM reactivity compared to standard immunoblot. A convenience sampling of 119 residual sera previously characterized by STTT were analyzed for Lyme antibodies using the InBios ELISA. The evaluation quantified antigen reactivity using imaging and machine-learning analysis, which triggered simultaneous confirmatory analysis to provide an inclusive final interpretation. Among the 119 serum samples, InBios ELISA demonstrated 99.2% concordance with STTT. A single discordant result was observed for one STTT-positive sample with IgM confirmation. Concordance between second-tier immunoblots (IgM or IgG) and InBios IgM or IgG index was 76.2% for both. This study shows that the InBios ELISA can (with minimal discordance) interpret both screen and confirmatory results in one step. Overall, there is a potential to replace the 2-tier test with one-step InBios ELISA to enable rapid turnaround and improve diagnosis of Lyme.",
+      "authors": [
+        "Fagan K",
+        "Urban M",
+        "LaSala PR"
+      ],
+      "journal": "The journal of applied laboratory medicine",
+      "publicationDate": "Sep 01, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42678044/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-02T10:02:04.151Z"
     },
     {
       "pmid": "42647671",
@@ -89,7 +112,76 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:36:50.861Z"
+      "fetchedAt": "2026-09-02T10:02:08.956Z"
+    },
+    {
+      "pmid": "42681944",
+      "title": "Bacterial composition of Polygenis (Polygenis) bohlsi bohlsi (Wagner, 1901) (Siphonaptera: Rhopalopsyllidae) associated with Thrichomys fosteri (Rodentia: Echimyidae) in the Brazilian Pantanal wetland.",
+      "abstract": "Fleas (Insecta: Siphonaptera) are important vectors of zoonotic bacterial pathogens. However, the bacterial communities hosted by fleas remain poorly understood, especially regarding the interactions between nonpathogenic bacteria and pathogens, as well as the factors shaping these bacterial communities. This study aimed to explore the bacterial composition and diversity between female and male Polygenis (Polygenis) bohlsi bohlsi fleas collected from free-living Thrichomys fosteri (Rodentia: Echimyidae) in the Nhecol&#xe2;ndia region of central-western Brazil. Here, bacterial profiling of fleas was performed using a Next-Generation Sequencing approach targeting the V3-V4 hypervariable region of the 16S rRNA gene to assess community structure. Bacterial diversity in P. (P.) bohlsi bohlsi fleas varied by sex, as indicated by significant differences in alpha diversity, while beta diversity showed a trend toward separation between sexes. Pseudomonadota was the predominant phylum in the flea microbiome. Ten bacterial genera showed differentially abundance between male and female fleas, including Bartonella spp., which was detected exclusively in males, and Wolbachia spp., which was more abundant in females than in males. Phylogenetic analysis positioned Bartonella gltA sequences detected in two fleas within the same clade as Bartonella harrusi. While the Wolbachia wsp and 16S rRNA sequences detected in P. (P.) bohlsi bohlsi grouped within the supergroups S (associated with pseudoscorpions), gatB sequences grouped with V (cat flea-related). These findings suggest sex-associated differences in the microbiome of P. (P.) bohlsi bohlsi fleas and highlight the need for further investigation into the potential role of Wolbachia spp. in shaping flea-associated microbial communities and their interactions with Bartonella spp.",
+      "authors": [
+        "Funnicelli MIG",
+        "do Amaral RB",
+        "de Mello VVC"
+      ],
+      "journal": "Medical and veterinary entomology",
+      "publicationDate": "Sep 01, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42681944/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-02T10:02:11.033Z"
+    },
+    {
+      "pmid": "42679680",
+      "title": "Development of a triplex polymerase chain reaction assay for the detection and identification of the bovine hemoparasites, Anaplasma marginale, Babesia bovis, and Babesia bigemina.",
+      "abstract": "Anaplasma marginale, Babesia bovis, and Babesia bigemina are hemoparasites that can co-infect ruminant livestock and cause symptoms that result in substantial economic loss and even death. These parasites are carried by ticks, which bite the host and transfer the hemoparasite into the blood. The standard approach to identify hemoparasites is Giemsa-stained thin blood smears observed under a microscope, but it is time-consuming and can be difficult to identify co-infections. Thus, we developed a novel triplex PCR to simultaneously detect B. bovis and B. bigemina (based on 18S ribosomal DNA [18S rDNA]) and A. marginale (based on the major surface protein 4 [MSP4] gene). The specific primers produced an amplicon of 168 base pairs (bp) for B. bigemina, 267&#x202f;bp for B. bovis, and 478&#x202f;bp&#x202f;A. marginale. The triplex PCR required a minimum of 0.1&#x202f;pg of DNA to identify B. bovis, B. bigemina, or mixed infection, and 1&#x202f;pg of DNA to identify A. marginale. There was no cross-amplification with Theileria spp. and Trypanosoma evansi DNAs. The triplex PCR could successfully amplify the three DNA targets simultaneously in cattle blood samples (n&#x202f;=&#x202f;114) from Thailand. The triplex PCR detected more positive samples (27/114; 23.68%) than microscopic examination (5/114; 4.39%) for all three hemoparasites. Our study offers an alternative, specific, sensitive, and accurate identification and detection tool for co-infection of B. bovis, B. bigemina, and A. marginale in bovine blood. The developed triplex PCR assay could be useful for routine diagnostics in veterinary laboratories and for epidemiological monitoring of hemoparasites.",
+      "authors": [
+        "Nak-On S",
+        "Yousathit S",
+        "Unjit K"
+      ],
+      "journal": "Veterinary parasitology",
+      "publicationDate": "Sep 01, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42679680/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-02T10:02:18.620Z"
+    },
+    {
+      "pmid": "42678579",
+      "title": "Hemotropic mono- and coinfections in Colombian ruminants: descriptive occurrence and host-related factors associated with coinfection in cattle.",
+      "abstract": "Hemotropic pathogens such as Anaplasma, Babesia, Mycoplasma, and Trypanosoma are endemic to cattle and can cause coinfections, complicating disease dynamics and control. However, the host-related factors influencing these infections under tropical conditions remain poorly understood. This study aimed to investigate the occurrence of hemotropic monoinfections and coinfections in ruminants tested for hemotropic pathogens and to identify host-related factors associated with coinfection in cattle under field conditions in Colombia. A total of 104 animals were included: 91 cattle, 10 buffaloes, and 3 goats. Among the cattle, 34 (37.4%) exhibited monoinfections, 47 (51.6%) had coinfections, and 10 tested negative. In buffaloes, seven (70%) presented monoinfections, and two (20%) presented coinfections; in goats, one had a monoinfection, and one had a coinfection, most frequently involving Mycoplasma spp. The predominant coinfection patterns were Anaplasma&#x2009;+&#x2009;Mycoplasma and Mycoplasma&#x2009;+&#x2009;Trypanosoma, particularly in Bos indicus cattle. Bivariate and multivariable analyses revealed that breed was the strongest predictor of coinfection, with animals of less common breeds showing 93% lower odds (aOR&#x2009;=&#x2009;0.07; 95% CI: 0.02-0.30; p&#x2009;<&#x2009;0.001). Bos taurus individuals also tended toward lower odds of coinfection in the multivariable model, although this trend did not reach statistical significance. Our findings demonstrate a high frequency of hemotropic coinfections in cattle, particularly those involving Mycoplasma spp., and highlight the influence of host-related factors on infection dynamics. These results underscore the importance of integrating demographic and genetic information into surveillance and prevention strategies to improve the management of hemotropic infections in tropical livestock systems.",
+      "authors": [
+        "&#xda;suga CR",
+        "Ramos LMR",
+        "Delgado ILJ"
+      ],
+      "journal": "Tropical animal health and production",
+      "publicationDate": "Sep 01, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42678579/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-02T10:02:19.226Z"
     },
     {
       "pmid": "42670973",
@@ -112,7 +204,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:36:47.129Z"
+      "fetchedAt": "2026-09-02T10:02:05.264Z"
     },
     {
       "pmid": "42674103",
@@ -135,7 +227,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:37:01.130Z"
+      "fetchedAt": "2026-09-02T10:02:19.822Z"
     },
     {
       "pmid": "42663471",
@@ -158,7 +250,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:36:48.366Z"
+      "fetchedAt": "2026-09-02T10:02:06.543Z"
     },
     {
       "pmid": "42658418",
@@ -181,76 +273,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:36:55.053Z"
-    },
-    {
-      "pmid": "42643008",
-      "title": "Rheumatological manifestations of Lyme disease and related tick-borne diseases in north America.",
-      "abstract": "Lyme disease is the most common vector-borne infection in North America, and the incidence continues to rise as the geographic range of Ixodes ticks expands. While most patients can be cured with early antibiotic therapy, Lyme arthritis persists as a challenging late manifestation, with a subset developing postantibiotic inflammatory disease that mimics autoimmune arthritis. Recent studies have advanced our understanding of Lyme arthritis. Even after bacterial eradication, in some patients, residual antigens in the synovial fluid can sustain immune activation. Immunologic studies demonstrate specific HLA-DRB1 alleles associated with postantibiotic Lyme arthritis, suggesting a predisposition to chronic inflammation. These findings demonstrate that Lyme arthritis is a complex immune-mediated disorder that bridges infectious and autoimmune mechanisms. Antibiotic therapy is effective for most patients with Lyme arthritis, but optimal management for patients with postantibiotic Lyme arthritis is still uncertain. Continued research into the pathogenesis of postantibiotic Lyme arthritis will be key to improving diagnostic accuracy, refining treatment algorithms, and preventing chronic morbidity associated with Lyme arthritis.",
-      "authors": [
-        "Green B",
-        "Jaber Y",
-        "Schoen RT"
-      ],
-      "journal": "Current opinion in rheumatology",
-      "publicationDate": "Aug 25, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42643008/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-01T10:36:52.107Z"
-    },
-    {
-      "pmid": "42641486",
-      "title": "Species- and elevation-linked variation in the molecular occurrence of tick-borne pathogens in Phylloscopus warblers breeding in Armenia.",
-      "abstract": "Tick-borne pathogens (TBPs) are increasingly reported from migratory passerines, yet data from the South Caucasus remain limited. Warblers of the genus Phylloscopus differ in migratory strategies and elevational distributions, providing an opportunity to examine host-associated variation in the molecular occurrence of TBPs. We screened blood samples from three sympatric species (Phylloscopus collybita, Phylloscopus lorenzii, and Phylloscopus nitidus) breeding in Armenia for TBP DNA using genus-specific PCR and reverse line blot hybridization targeting Anaplasma/Ehrlichia/Neoehrlichia, Babesia/Theileria, Borrelia, and Rickettsia. After excluding incomplete samples, 66 individuals were included in the analyses. Differences in molecular prevalence, elevation effects, and co-detection patterns were assessed statistically. Overall TBP DNA positivity differed significantly among host species, with the highest value in P. collybita. Among pathogens, Candidatus Neoehrlichia mikurensis showed the strongest host-associated pattern, whereas Rickettsia helvetica and Rickettsia slovaca showed weaker differences. The probability of TBP DNA detection decreased with elevation in a univariable model, but this effect weakened after accounting for host species. Multiple detections were relatively uncommon and were dominated by Candidatus N. mikurensis, R. helvetica, and R. slovaca, with only weak evidence of non-random co-occurrence. Our findings demonstrate species- and elevation-associated variation in the molecular occurrence of TBPs in Phylloscopus warblers in Armenia and highlight the need for broader sampling and integrated bird-tick studies to clarify the drivers and epidemiological meaning of pathogen DNA detection.",
-      "authors": [
-        "Asikyan M",
-        "Aghayan SA",
-        "Ruivo M"
-      ],
-      "journal": "Ticks and tick-borne diseases",
-      "publicationDate": "Aug 25, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42641486/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-01T10:37:05.593Z"
-    },
-    {
-      "pmid": "42638067",
-      "title": "Untitled",
-      "abstract": "To combat three major pathogens-Brucella spp.,Babesia bovis, and Pasteurella multocida-threatening cattle health, we developed a rapid and accurate triplex basic-recombinase polymerase amplification (Basic-RPA) detection system. Targeting bcsp31, rap-1, and kmt1, we designed and screened specific RPA primers and optimized the reaction temperature, time, and primer concentration. The best reaction conditions were 38 &#x2103; for 25 min, with primers at 10 &#x3bc;mol/L in a 1:1:1 ratio. We then used reference and non-target strains to evaluate the specificity of the established method and serial DNA dilutions to evaluate the method sensitivity and repeatability. Subsequently, we applied the method to detection of 640 samples collected from cattle farms, slaughterhouses, supermarkets, and wet markets. The limit of detection of this method for all the three pathogens reached 103 CFU/mL (copies/mL). The method showed high specificity, excellent repeatability, and 100% consistency with PCR results. Among the samples, Brucella spp., B. bovis, and P. multocida were detected at rates of 0.31%, 2.34%, and 1.25%, respectively, indicating different patterns of pathogen distribution across production stages. In conclusion, our triplex Basic-RPA method is simple, sensitive, and highly specific. It provides an efficient molecular tool for rapid detection and surveillance of bovine pathogens along the farm-to-market chain and lays the groundwork for developing advanced RPA-based technologies such as recombinase polymerase amplification-lateral flow dipstick (RPA-LFD) and recombinase polymerase amplification-clustered regularly interspaced short palindromic repeats, (RPA-CRISPR). &#x4e3a;&#x5e94;&#x5bf9;&#x5a01;&#x80c1;&#x725b;&#x7fa4;&#x5065;&#x5eb7;&#x7684;3&#x79cd;&#x4e3b;&#x8981;&#x75c5;&#x539f;&#x4f53;&#x2014;&#x2014;&#x5e03;&#x9c81;&#x6c0f;&#x83cc;(Brucella spp.)&#x3001;&#x725b;&#x5df4;&#x8d1d;&#x65af;&#x866b;(Babesia bovis)&#x548c;&#x591a;&#x6740;&#x6027;&#x5df4;&#x6c0f;&#x6746;&#x83cc;(Pasteurella multocida)&#xff0c;&#x672c;&#x7814;&#x7a76;&#x5efa;&#x7acb;&#x4e86;&#x4e00;&#x79cd;&#x5feb;&#x901f;&#x3001;&#x51c6;&#x786e;&#x7684;&#x4e09;&#x91cd;&#x91cd;&#x7ec4;&#x9176;&#x805a;&#x5408;&#x9176;&#x6269;&#x589e;(basic-recombinase polymerase amplification, Basic-RPA)&#x68c0;&#x6d4b;&#x4f53;&#x7cfb;&#x3002;&#x4ee5;bcsp31&#x3001;rap-1&#x548c;kmt1&#x4e3a;&#x9776;&#x57fa;&#x56e0;&#xff0c;&#x8bbe;&#x8ba1;&#x5e76;&#x7b5b;&#x9009;&#x7279;&#x5f02;&#x6027;RPA&#x5f15;&#x7269;&#xff0c;&#x4f18;&#x5316;&#x53cd;&#x5e94;&#x6761;&#x4ef6;&#xff0c;&#x786e;&#x5b9a;&#x6700;&#x4f73;&#x53cd;&#x5e94;&#x6e29;&#x5ea6;38 &#x2103;&#x3001;&#x53cd;&#x5e94;&#x65f6;&#x95f4;25 min&#xff0c;&#x5f15;&#x7269;&#x6d53;&#x5ea6;10 &#x3bc;mol/L&#x3001;&#x914d;&#x6bd4;1:1:1&#x3002;&#x901a;&#x8fc7;&#x6807;&#x51c6;&#x83cc;&#x682a;&#x53ca;&#x975e;&#x76ee;&#x6807;&#x83cc;&#x682a;&#x9a8c;&#x8bc1;&#x7279;&#x5f02;&#x6027;&#xff0c;&#x5e76;&#x68af;&#x5ea6;&#x7a00;&#x91ca;DNA&#x6a21;&#x677f;&#x8bc4;&#x4f30;&#x7075;&#x654f;&#x5ea6;&#x4e0e;&#x91cd;&#x590d;&#x6027;&#x3002;&#x68c0;&#x6d4b;&#x6765;&#x81ea;&#x517b;&#x6b96;&#x573a;&#x3001;&#x5c60;&#x5bb0;&#x573a;&#x3001;&#x8d85;&#x5e02;&#x548c;&#x83dc;&#x5e02;&#x573a;&#x7684;640&#x4efd;&#x6837;&#x54c1;&#xff0c;&#x7ed3;&#x679c;&#x663e;&#x793a;&#xff0c;&#x65b9;&#x6cd5;&#x6700;&#x4f4e;&#x68c0;&#x6d4b;&#x9650;&#x4e3a;103 CFU/mL (copies/mL)&#xff0c;&#x5177;&#x5907;&#x9ad8;&#x7279;&#x5f02;&#x6027;&#x548c;&#x826f;&#x597d;&#x7684;&#x91cd;&#x590d;&#x6027;&#xff0c;&#x68c0;&#x6d4b;&#x7ed3;&#x679c;&#x4e0e;PCR&#x65b9;&#x6cd5;&#x4e00;&#x81f4;&#x6027;&#x8fbe;100%&#x3002;&#x9633;&#x6027;&#x7387;&#x5206;&#x522b;&#x4e3a;:&#x5e03;&#x9c81;&#x6c0f;&#x83cc;0.31%&#x3001;&#x5df4;&#x8d1d;&#x65af;&#x866b;2.34%&#x3001;&#x5df4;&#x6c0f;&#x6746;&#x83cc;1.25%&#xff0c;&#x63ed;&#x793a;&#x4e86;3&#x79cd;&#x75c5;&#x539f;&#x4f53;&#x5728;&#x8089;&#x725b;&#x4ea7;&#x4e1a;&#x94fe;&#x5404;&#x73af;&#x8282;&#x7684;&#x5dee;&#x5f02;&#x5316;&#x5206;&#x5e03;&#x89c4;&#x5f8b;&#x4e0e;&#x6d41;&#x884c;&#x7279;&#x5f81;&#x3002;&#x7814;&#x7a76;&#x8868;&#x660e;&#xff0c;&#x4e09;&#x91cd;Basic-RPA&#x4f53;&#x7cfb;&#x64cd;&#x4f5c;&#x7b80;&#x4fbf;&#x3001;&#x7075;&#x654f;&#x5ea6;&#x9ad8;&#x3001;&#x7279;&#x5f02;&#x6027;&#x5f3a;&#xff0c;&#x9002;&#x7528;&#x4e8e;&#x725b;&#x7fa4;&#x75ab;&#x75c5;&#x7684;&#x73b0;&#x573a;&#x5feb;&#x901f;&#x68c0;&#x6d4b;&#x4e0e;&#x6d41;&#x884c;&#x75c5;&#x5b66;&#x8c03;&#x67e5;&#xff0c;&#x4e3a;&#x201c;&#x517b;&#x6b96;-&#x5c60;&#x5bb0;-&#x5e02;&#x573a;&#x201d;&#x94fe;&#x6761;&#x7684;&#x75c5;&#x539f;&#x9632;&#x63a7;&#x63d0;&#x4f9b;&#x4e86;&#x9ad8;&#x6548;&#x68c0;&#x6d4b;&#x624b;&#x6bb5;&#xff0c;&#x5e76;&#x4e3a;&#x91cd;&#x7ec4;&#x9176;&#x805a;&#x5408;&#x9176;&#x6269;&#x589e;-&#x4fa7;&#x6d41;&#x5c42;&#x6790;&#x8bd5;&#x7eb8;&#x6761;(recombinase polymerase amplification-lateral flow dipstick, RPA-LFD)&#x3001;&#x91cd;&#x7ec4;&#x9176;&#x805a;&#x5408;&#x9176;&#x6269;&#x589e;-&#x6210;&#x7c07;&#x89c4;&#x5f8b;&#x95f4;&#x9694;&#x77ed;&#x56de;&#x6587;&#x91cd;&#x590d;&#x5e8f;&#x5217;(recombinase polymerase amplification-clustered regularly interspaced short palindromic repeats, RPA-CRISPR)&#x7b49;&#x591a;&#x6280;&#x672f;&#x8054;&#x7528;&#x65b9;&#x6cd5;&#x7684;&#x5f00;&#x53d1;&#x5960;&#x5b9a;&#x4e86;&#x57fa;&#x7840;&#x3002;.",
-      "authors": [
-        "Xu Z",
-        "Huang Y",
-        "Xu X"
-      ],
-      "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
-      "publicationDate": "Aug 25, 2026",
-      "articleType": "English Abstract",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42638067/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-01T10:37:06.212Z"
+      "fetchedAt": "2026-09-02T10:02:13.457Z"
     },
     {
       "pmid": "42664742",
@@ -272,7 +295,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:36:47.745Z"
+      "fetchedAt": "2026-09-02T10:02:05.872Z"
     },
     {
       "pmid": "42632587",
@@ -295,7 +318,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:36:56.936Z"
+      "fetchedAt": "2026-09-02T10:02:15.283Z"
     },
     {
       "pmid": "42654807",
@@ -318,7 +341,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:37:04.316Z"
+      "fetchedAt": "2026-09-02T10:02:22.864Z"
     },
     {
       "pmid": "42655853",
@@ -341,7 +364,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:37:02.364Z"
+      "fetchedAt": "2026-09-02T10:02:21.043Z"
     },
     {
       "pmid": "42662798",
@@ -364,7 +387,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:36:53.804Z"
+      "fetchedAt": "2026-09-02T10:02:12.235Z"
     },
     {
       "pmid": "42655825",
@@ -387,30 +410,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:36:55.679Z"
-    },
-    {
-      "pmid": "42601210",
-      "title": "Beyond Suspected Appendicitis: Ultrasonography in a Child With Multifocal Lymphadenitis and Suspected Cat-Scratch Disease.",
-      "abstract": "Ultrasonography is particularly useful in children because it can be repeated without ionizing radiation and can be adapted to the clinical question during the examination. A 10-year-old boy with right lower quadrant pain, right leg pain, and a limp was referred with suspected acute appendicitis. A comprehensive diagnostic ultrasound examination of the abdomen demonstrated a normal appendix and an enlarged lymph node corresponding to the site of right lower quadrant tenderness. During the examination, conversation with the patient and his mother disclosed household cat ownership, frequent exposure to cat fleas, and multiple flea bites. The abdominal findings, exposure history, and pre-existing right leg symptoms were shared with the clinical team. At the physician's request, additional ultrasound evaluation of the right popliteal region demonstrated a second enlarged, tender lymph node. Superb microvascular imaging showed nonspecific vascular signals predominantly near the hila of both nodes. Serologic and molecular testing for Bartonella henselae was not performed; therefore, cat-scratch disease remained a clinical suspicion rather than a confirmed diagnosis. After azithromycin treatment, the symptoms improved and both lymph nodes decreased in size on follow-up ultrasonography. This case does not establish an ultrasonographic diagnosis of cat-scratch disease. Rather, it illustrates how ultrasonography provided anatomic correlates for symptoms at two sites, complemented the information available from clinical assessment alone, and supported noninvasive follow-up.",
-      "authors": [
-        "Shioya S",
-        "Eguchi T",
-        "Muraji T"
-      ],
-      "journal": "Journal of clinical ultrasound : JCU",
-      "publicationDate": "Aug 14, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42601210/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-01T10:36:59.453Z"
+      "fetchedAt": "2026-09-02T10:02:14.060Z"
     },
     {
       "pmid": "42655825",
@@ -433,7 +433,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:37:03.072Z"
+      "fetchedAt": "2026-09-02T10:02:21.649Z"
     },
     {
       "pmid": "42656385",
@@ -456,7 +456,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:36:48.999Z"
+      "fetchedAt": "2026-09-02T10:02:07.150Z"
     },
     {
       "pmid": "42646715",
@@ -479,7 +479,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:36:51.485Z"
+      "fetchedAt": "2026-09-02T10:02:09.563Z"
     },
     {
       "pmid": "42607579",
@@ -502,7 +502,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:36:57.585Z"
+      "fetchedAt": "2026-09-02T10:02:15.890Z"
     },
     {
       "pmid": "42654770",
@@ -525,7 +525,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:37:04.936Z"
+      "fetchedAt": "2026-09-02T10:02:23.476Z"
     },
     {
       "pmid": "42654748",
@@ -548,30 +548,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:36:49.616Z"
-    },
-    {
-      "pmid": "42601898",
-      "title": "Untitled",
-      "abstract": "The honey bee gut microbiota plays a crucial role in host nutrition, immunity, and colony health, yet the relative influence of seasonal and colony-specific factors on its long-term dynamics remains incompletely understood. This study investigated temporal variation in the gut bacterial community of three Apis mellifera ligustica colonies maintained in the same apiary and monitored over two consecutive years (2022-2023). Worker bees were sampled during eight seasonal periods, and gut microbiota composition was characterized using 16S rRNA gene amplicon sequencing. Across all sampling periods, the microbiome was consistently dominated by the characteristic honey bee-associated genera Gilliamella, Snodgrassella, Bartonella, Frischella, Commensalibacter, and Lactobacillus, indicating the persistence of a conserved core bacterial community. Seasonal variation was primarily associated with changes in the relative abundance of dominant taxa rather than with major changes in community composition. In particular, Gilliamella apicola and Snodgrassella alvi exhibited complementary seasonal patterns, with Gilliamella reaching its highest abundance during autumn, particularly in autumn 2023, whereas Snodgrassella predominated during spring and winter. Alpha-diversity metrics (Observed OTUs, Chao1, Shannon, and Simpson indices) showed limited seasonal variation, whereas beta-diversity analyses detected significant differences in community composition among seasons. Principal Coordinates Analysis and PERMANOVA identified season as the factor most strongly associated with microbiome variation, while colony identity did not significantly influence bacterial community composition under the standardized experimental conditions adopted in this study. Overall, these findings show that the gut microbiome of A. mellifera ligustica maintains a conserved core bacterial community while exhibiting reproducible seasonal variation in the relative abundance of its dominant members. This study provides a longitudinal baseline for future investigations aimed at understanding the ecological mechanisms underlying seasonal microbiome dynamics and their relationship with honey bee biology and environmental change.",
-      "authors": [
-        "Iorizzo M",
-        "Pannella G",
-        "Succi M"
-      ],
-      "journal": "Frontiers in insect science",
-      "publicationDate": "07 31, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42601898/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-01T10:36:58.833Z"
+      "fetchedAt": "2026-09-02T10:02:07.754Z"
     },
     {
       "pmid": "42655775",
@@ -594,7 +571,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:37:03.688Z"
+      "fetchedAt": "2026-09-02T10:02:22.258Z"
+    },
+    {
+      "pmid": "42681677",
+      "title": "Postmortem evidence of Babesia and Bartonella infections in chronically ill suicidal young people.",
+      "abstract": "Vector-borne diseases represent an emerging global threat to public health, yet the potential role of flea and tick-borne pathogens as a cause or cofactor in neuropsychiatric illnesses and suicidal ideation remains relatively uninvestigated. Co-infections with vector-borne Babesia and Bartonella spp., as well as infection with more than one Babesia species, may represent a more important cause of neurological and neuropsychiatric illnesses than is currently appreciated. Postmortem blood, tissue, and urine samples from six chronically ill youths who ended or wanted to end their lives were tested for molecular evidence of Babesia, Bartonella, and Borrelia spp. using qPCR, dPCR, and enrichment blood culture. Infections with Babesia, Bartonella, or both genera were confirmed by DNA sequencing in five of six subjects. Three different Babesia spp. were detected in four subjects, of whom two were infected with more than one Babesia sp. All six had equivocal Bartonella spp. dPCR&#x2009;+&#x2009;or enrichment culture dPCR&#x2009;+&#x2009;results. Bartonella henselae was confirmed by DNA sequencing in two individuals. Borrelia dPCR was equivocally positive in one subject but could not be confirmed by DNA sequencing. These findings support the hypothesis that persistent Bartonella and Babesia spp. infections may have a causal role in chronic illness and potentially suicidality in young people. More research is needed to determine the prevalence and role of these pathogens in patients with chronic physical and neuropsychiatric symptoms and suicidal ideation.",
+      "authors": [
+        "Breitschwerdt EB",
+        "Robveille C",
+        "Maggi RG"
+      ],
+      "journal": "Parasites & vectors",
+      "publicationDate": "Jul 27, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42681677/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-02T10:02:11.629Z"
     },
     {
       "pmid": "42661779",
@@ -617,7 +617,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:36:54.422Z"
+      "fetchedAt": "2026-09-02T10:02:12.849Z"
+    },
+    {
+      "pmid": "42681677",
+      "title": "Postmortem evidence of Babesia and Bartonella infections in chronically ill suicidal young people.",
+      "abstract": "Vector-borne diseases represent an emerging global threat to public health, yet the potential role of flea and tick-borne pathogens as a cause or cofactor in neuropsychiatric illnesses and suicidal ideation remains relatively uninvestigated. Co-infections with vector-borne Babesia and Bartonella spp., as well as infection with more than one Babesia species, may represent a more important cause of neurological and neuropsychiatric illnesses than is currently appreciated. Postmortem blood, tissue, and urine samples from six chronically ill youths who ended or wanted to end their lives were tested for molecular evidence of Babesia, Bartonella, and Borrelia spp. using qPCR, dPCR, and enrichment blood culture. Infections with Babesia, Bartonella, or both genera were confirmed by DNA sequencing in five of six subjects. Three different Babesia spp. were detected in four subjects, of whom two were infected with more than one Babesia sp. All six had equivocal Bartonella spp. dPCR&#x2009;+&#x2009;or enrichment culture dPCR&#x2009;+&#x2009;results. Bartonella henselae was confirmed by DNA sequencing in two individuals. Borrelia dPCR was equivocally positive in one subject but could not be confirmed by DNA sequencing. These findings support the hypothesis that persistent Bartonella and Babesia spp. infections may have a causal role in chronic illness and potentially suicidality in young people. More research is needed to determine the prevalence and role of these pathogens in patients with chronic physical and neuropsychiatric symptoms and suicidal ideation.",
+      "authors": [
+        "Breitschwerdt EB",
+        "Robveille C",
+        "Maggi RG"
+      ],
+      "journal": "Parasites & vectors",
+      "publicationDate": "Jul 27, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42681677/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-02T10:02:18.020Z"
     },
     {
       "pmid": "42649215",
@@ -640,7 +663,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:36:50.245Z"
+      "fetchedAt": "2026-09-02T10:02:08.352Z"
     },
     {
       "pmid": "42636340",
@@ -663,30 +686,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-01T10:36:56.305Z"
-    },
-    {
-      "pmid": "42636340",
-      "title": "Bartonella vinsonii subsp. berkhoffii genotype III in a dog with recurrent fever and panniculitis coinfected with Babesia odocoilei-like sp.",
-      "abstract": "A 2-year-old, spayed female, mixed breed dog presented for evaluation of recurrent febrile episodes over 5 months, intermittently accompanied by the development of SC nodules. Histopathologic examination of the SC lesions was indicative of panniculitis. Bartonella vinsonii subsp. berkhoffii genotype III DNA was amplified and sequenced from an excised SC nodule. Indirect immunofluorescence antibody titer was 1:64, whereas Bartonella blood PCR was negative. Babesia odocoilei-like species DNA was amplified and sequenced from 2 blood samples obtained 77&#xa0;days apart at the time of febrile episodes. Treatment with doxycycline, enrofloxacin, and azithromycin for 6 months resulted in a favorable clinical outcome. Fifteen months later, the dog remained healthy. This case indicates that relapsing fever and panniculitis are possible manifestations of B vinsonii subsp. berkhoffii genotype III infection in dogs. To the best of the authors' knowledge, infection with a B odocoilei-like species has not been reported previously in dogs from Greece.",
-      "authors": [
-        "Daravigka A",
-        "Soubasis N",
-        "Ygeionomakis P"
-      ],
-      "journal": "Journal of veterinary internal medicine",
-      "publicationDate": "Jul 01, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42636340/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-01T10:37:06.835Z"
+      "fetchedAt": "2026-09-02T10:02:14.664Z"
     }
   ]
 }
