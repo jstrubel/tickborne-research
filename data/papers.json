@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T10:51:31.316Z",
+  "generatedAt": "2026-09-08T10:10:21.224Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:25.215Z"
+      "fetchedAt": "2026-09-08T10:10:15.849Z"
     },
     {
       "pmid": "42683355",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:27.792Z"
+      "fetchedAt": "2026-09-08T10:10:18.313Z"
     },
     {
       "pmid": "42698997",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:17.052Z"
+      "fetchedAt": "2026-09-08T10:10:06.702Z"
     },
     {
       "pmid": "42683038",
@@ -92,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:10.227Z"
+      "fetchedAt": "2026-09-08T10:09:59.610Z"
     },
     {
       "pmid": "42673469",
@@ -113,7 +113,53 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:11.973Z"
+      "fetchedAt": "2026-09-08T10:10:01.363Z"
+    },
+    {
+      "pmid": "42704380",
+      "title": "A cost-effective and rapid TE-based DNA extraction for near point-of-care detection of Babesia spp. by RPA/CRISPR-Cas12a.",
+      "abstract": "Babesia spp. infects a wide range of mammals, including domestic animals, wildlife, and humans, highlighting the need for rapid diagnostics. This study developed a near point-of-care method combining rapid DNA extraction, recombinase polymerase amplification (RPA), and CRISPR-Cas12a for Babesia detection. The workflow includes three steps: DNA extraction, RPA amplification, and CRISPR-Cas12a signal detection. Five blood DNA extraction methods were evaluated: DNeasy kit, boiling, Tris-EDTA (TE) buffer, methanol-based, and Chelex&#xae;100. The commercial kit, boiling method, and TE buffer extraction yielded positive results using RPA/CRISPR-Cas12a based on the cytochrome c oxidase subunit I (COI) gene. The TE buffer extraction and boiling methods were further optimized by RPA/CRISPR-Cas12a assay using Babesia-specific primers based on the 18S rRNA gene. All these extraction methods produced results comparable to the commercial kit. The TE buffer extraction was selected due to its simplicity and speed. The RPA/CRISPR-Cas12a assay specifically detected Babesia spp., including B. vogeli, B. gibsoni, and B. ovata. The limit of detection using TE-extracted DNA was 104 copies per reaction, lower than that achieved with the commercial kit (103 copies per reaction). Evaluation of rapid DNA extraction for Babesia spp. detection by the RPA/CRISPR-Cas12a assay using seven bovine and eight canine blood samples showed complete concordance between the TE buffer extraction and the commercial kit, with six positive samples detected. The TE buffer extraction offered a low-cost, simple, and equipment-minimal approach suitable for combination with RPA/CRISPR-Cas12a diagnostics, enabling rapid detection of Babesia spp. in resource-limited or field settings.",
+      "authors": [
+        "Paenkaew S",
+        "Sinthao O",
+        "Thapthim T"
+      ],
+      "journal": "Molecular biology reports",
+      "publicationDate": "Sep 07, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42704380/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-08T10:10:14.627Z"
+    },
+    {
+      "pmid": "42704991",
+      "title": "Grating-coupled fluorescent plasmonic (GC-FP) biosensor for point-of-care serological detection of Lyme Disease.",
+      "abstract": "Timely and accurate diagnosis of Lyme disease (LD) remains limited by complicated serological testing, which requires specialized laboratory equipment and has a multi-day turnaround, thereby limiting its utility in point-of-care (POC) settings. We have previously demonstrated a grating-coupled fluorescent plasmonic (GC-FP) biosensor in a microfluidics-based format (MF) for serological detection of LD. In this work, we demonstrate translation of an MF to a simplified dipstick (DS) assay. The assay utilizes miniaturized 4&#x202f;&#xd7;&#x202f;4&#x202f;mm gold-coated chips with a nanoscale grating that enhances fluorescence through surface plasmon-coupled emission (SPCE). The unique dipstick-based workflow eliminates the need for microfluidic pumps and complex instrumentation, with a total assay time of 24&#x202f;min. The DS format integrates both tiers of the standard two-tiered diagnostic algorithm on a single chip, enabling simultaneous detection of first-tier screening antigen C6 and second-tier confirmatory antigens VlsE, DbpA, and DbpB. Validation was performed using thirty human serum samples tested in DS GC-FP chips, MF GC-FP chips, and a commercially available FDA-approved LD diagnostic assay (ZEUS Borrelia MTTT&#xae;). Using a strict two-tiered scoring approach, the DS format achieves 93.33% accuracy, 86.67% sensitivity, & 100% specificity with the limited sample set that was tested. With a single-tiered scoring approach, the DS format yielded equivalent diagnostic results to the MTTT and MF formats. The DS format substantially reduces equipment requirements, material costs, and operational complexity while preserving diagnostic accuracy, making it well-suited for deployment in urgent care centers, physician offices, and resource-limited settings.",
+      "authors": [
+        "Das DK",
+        "Taubner B",
+        "Pelton J"
+      ],
+      "journal": "Biosensors & bioelectronics",
+      "publicationDate": "Sep 04, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42704991/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-08T10:09:58.348Z"
     },
     {
       "pmid": "42700119",
@@ -136,7 +182,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:09.594Z"
+      "fetchedAt": "2026-09-08T10:09:58.972Z"
     },
     {
       "pmid": "42692179",
@@ -159,7 +205,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:17.685Z"
+      "fetchedAt": "2026-09-08T10:10:07.324Z"
     },
     {
       "pmid": "42685839",
@@ -182,7 +228,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:27.097Z"
+      "fetchedAt": "2026-09-08T10:10:17.689Z"
     },
     {
       "pmid": "42678044",
@@ -205,7 +251,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:11.473Z"
+      "fetchedAt": "2026-09-08T10:10:00.862Z"
     },
     {
       "pmid": "42681944",
@@ -228,7 +274,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:18.324Z"
+      "fetchedAt": "2026-09-08T10:10:07.932Z"
     },
     {
       "pmid": "42679680",
@@ -251,7 +297,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:29.044Z"
+      "fetchedAt": "2026-09-08T10:10:19.538Z"
     },
     {
       "pmid": "42678579",
@@ -274,7 +320,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:29.678Z"
+      "fetchedAt": "2026-09-08T10:10:20.224Z"
     },
     {
       "pmid": "42670973",
@@ -297,30 +343,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:12.603Z"
-    },
-    {
-      "pmid": "42674103",
-      "title": "Equine piroplasmosis in China, 2000-2025: A systematic review and meta-analysis of prevalence and risk factors.",
-      "abstract": "Equine piroplasmosis (EP) is a tick-borne disease of equids caused by Theileria equi, Babesia caballi, and Theileria haneyi. We conducted a PRISMA-guided systematic review and meta-analysis to estimate pooled prevalence in China and identify associated risk factors. PubMed, Web of Science, ScienceDirect, CNKI, Wanfang, and VIP were searched through 15 August 2025. Of 2626 records identified, 80 studies met the inclusion criteria. Random-effects models were used to pool prevalence estimates, and prespecified subgroup analyses and univariate meta-regression were used to explore heterogeneity and temporal trends. Overall pooled prevalence during 2000-2025 was 31%; species-specific estimates were 24.28% for T. equi and 18.37% for B. caballi. Only one eligible study reported T. haneyi, so its prevalence was summarized descriptively rather than pooled. Statistically significant subgroup differences were observed by host species, fever status, climate class, and detection method. Prevalence was higher in horses than in donkeys and mules, although the mule estimate was based on only five studies and 31 positive cases. Febrile equids had a higher prevalence than afebrile equids, prevalence was highest in Dwb and lowest in Cfa climates, and PCR-based studies yielded a higher pooled prevalence than ELISA-based studies (36.40% vs 23.97%). No significant differences were detected by region, age, sex, season, management system, or sampling year, and meta-regression showed no significant temporal trend. These findings support risk-based surveillance, prioritization of testing in febrile equids, and combined serological and molecular testing to distinguish exposure from active infection.",
-      "authors": [
-        "Jiao D",
-        "Wei W",
-        "Dong X"
-      ],
-      "journal": "Veterinary journal (London, England : 1997)",
-      "publicationDate": "Aug 31, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42674103/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-07T10:51:30.316Z"
+      "fetchedAt": "2026-09-08T10:10:01.995Z"
     },
     {
       "pmid": "42663471",
@@ -343,7 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:13.862Z"
+      "fetchedAt": "2026-09-08T10:10:03.358Z"
     },
     {
       "pmid": "42658418",
@@ -366,7 +389,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:20.836Z"
+      "fetchedAt": "2026-09-08T10:10:10.482Z"
     },
     {
       "pmid": "42664742",
@@ -388,7 +411,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:13.235Z"
+      "fetchedAt": "2026-09-08T10:10:02.746Z"
     },
     {
       "pmid": "42632587",
@@ -411,7 +434,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:22.724Z"
+      "fetchedAt": "2026-09-08T10:10:12.505Z"
     },
     {
       "pmid": "42698516",
@@ -434,7 +457,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:24.582Z"
+      "fetchedAt": "2026-09-08T10:10:15.237Z"
     },
     {
       "pmid": "42693474",
@@ -457,7 +480,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:25.844Z"
+      "fetchedAt": "2026-09-08T10:10:16.466Z"
     },
     {
       "pmid": "42682422",
@@ -480,7 +503,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:10.853Z"
+      "fetchedAt": "2026-09-08T10:10:00.230Z"
     },
     {
       "pmid": "42662798",
@@ -503,7 +526,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:19.586Z"
+      "fetchedAt": "2026-09-08T10:10:09.261Z"
     },
     {
       "pmid": "42655825",
@@ -526,7 +549,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:21.467Z"
+      "fetchedAt": "2026-09-08T10:10:11.104Z"
     },
     {
       "pmid": "42656385",
@@ -549,7 +572,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:14.508Z"
+      "fetchedAt": "2026-09-08T10:10:04.067Z"
     },
     {
       "pmid": "42693083",
@@ -572,30 +595,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:26.471Z"
-    },
-    {
-      "pmid": "42654748",
-      "title": "Post-Treatment Lyme Disease Syndrome in Six European Countries Using Data from the Burden of Lyme Disease (BOLD) Study.",
-      "abstract": "Up to 10% of patients with Lyme borreliosis (LB) will experience symptoms that fulfill the Infectious Disease Society of America (IDSA) criteria of post-treatment Lyme disease syndrome (PTLDS). This study assesses PTLDS in the Burden of Lyme Disease (BOLD) study through clinical assessment (\"PTLDS Assessed by Clinicians\") and by post hoc evaluation of patient-reported outcomes, including the 36-Item Short Form Health Survey, Fatigue Severity Scale, and Cognitive Failures Questionnaire (\"PTLDS Assessed by Questionnaire\"). Among 242 LB cases who completed antibiotic treatment and had objective manifestations stabilized or resolved, 99 (40.9%) reported &#x2265;1 symptom of fatigue, musculoskeletal pain, or cognitive impairment 10 months after diagnosis. Fifteen (6.2%) cases met the PTLDS criteria assessed by either clinicians or predefined questionnaire severity thresholds; four (1.7%) met both. PTLDS cases assessed by questionnaires and LB cases with persistent symptoms both reported greater symptom severity and poorer physical functioning than PTLDS cases assessed by clinicians. These exploratory findings suggest that clinician- and questionnaire-based assessments may identify partially different subsets of patients with PTLDS and either method could underestimate the proportion of patients with PTLDS.",
-      "authors": [
-        "Yu H",
-        "Mercadante AR",
-        "Halsby K"
-      ],
-      "journal": "Pathogens (Basel, Switzerland)",
-      "publicationDate": "Aug 01, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42654748/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-07T10:51:15.144Z"
+      "fetchedAt": "2026-09-08T10:10:17.080Z"
     },
     {
       "pmid": "42681677",
@@ -618,7 +618,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:18.955Z"
+      "fetchedAt": "2026-09-08T10:10:08.636Z"
     },
     {
       "pmid": "42661779",
@@ -641,7 +641,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:20.214Z"
+      "fetchedAt": "2026-09-08T10:10:09.873Z"
     },
     {
       "pmid": "42681677",
@@ -664,7 +664,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:28.419Z"
+      "fetchedAt": "2026-09-08T10:10:18.931Z"
     },
     {
       "pmid": "42636340",
@@ -687,7 +687,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-07T10:51:22.094Z"
+      "fetchedAt": "2026-09-08T10:10:11.798Z"
     }
   ]
 }
