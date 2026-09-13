@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-09-12T09:41:09.389Z",
+  "generatedAt": "2026-09-13T10:42:18.848Z",
   "totalPapers": 30,
   "papers": [
+    {
+      "pmid": "42731067",
+      "title": "Establishment and application of a multiplex qPCR panel for multi-host surveillance of tick-Borne pathogens.",
+      "abstract": "Tick-borne diseases pose significant public health threats. Non-specific symptoms and co-infections present diagnostic challenges for conventional methods. To address this, we developed the tick-borne pathogen (TBP) Panel, utilizing eight separate multiplex qPCR assays to simultaneously detect 25 TBPs (7 bacteria, 14 viruses, 4 parasites). Optimal Quantification Cycle (Cq) cut-offs were established using nested/semi-nested PCR amplicon sequencing, and digital PCR as reference standards. The Panel was then deployed for screening 2,333 ticks, 59 rodents, and 553 febrile patients. The Panel demonstrated robust analytical performance, achieving limits of detection (LOD99%) being 3.5-131 copies/reaction of plasmid, 102-103 copies/mL of blood and 103-104 copies/tick pool. This study established a tiered determination framework (Cq &#x2264; 36.6 as positive; Cq 36.6-39.6 requiring dual-replicate confirmation), yielding an overall AUC of 0.979, with 96.5% sensitivity and 96.5% specificity. Screening revealed a diverse pathogen landscape, identifying a total of 14 pathogens in 16.9% of the ticks (395/2,333), revealing a diverse geographical distribution. Five pathogens were identified in 7.9% of AFI patients (25/317), including Severe Fever with Thrombocytopenia Syndrome Virus (SFTSV) and Ehrlichia spp., which were found circulating in local ticks. In the FUO cohort, a single case of Rickettsia spp. was identified. Rodent surveillance identified four pathogens, predominantly Bartonella spp. (67.8%). In conclusion , the rigorously validated TBP Panel enables rapid etiological identification of undifferentiated febrile illnesses, serving as a high-throughput tool that bridges large-scale surveillance with clinical diagnostics to close critical gaps in tick-borne disease management.",
+      "authors": [
+        "Li J",
+        "Wang Z",
+        "Li J"
+      ],
+      "journal": "Emerging microbes & infections",
+      "publicationDate": "Dec 12, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42731067/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-13T10:42:04.981Z"
+    },
     {
       "pmid": "42693708",
       "title": "Molecular Detection, Epidemiology and Genetic Diversity of Babesia microti Infecting Wild Rodents.",
@@ -23,30 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:41:05.784Z"
-    },
-    {
-      "pmid": "42683355",
-      "title": "Babesiosis at ultra-low parasitemia presenting as secondary hemophagocytic lymphohistiocytosis in a patient on B cell-depleting therapy.",
-      "abstract": "Babesia microti, a parasite transmitted by the Ixodes scapularis tick, can cause infections ranging in presentation from asymptomatic to fulminant, life-threatening disease. Ocrelizumab, an anti-CD20 B-lymphocyte monoclonal antibody used to treat multiple sclerosis, increases the risk of severe or relapsing infections with tick-borne pathogens. In rare cases, babesiosis may trigger hemophagocytic lymphohistiocytosis (HLH). We report a case of babesiosis manifesting in a subacute fashion with secondary HLH in a 51-year-old female on B cell-depleting therapy. She presented in December with generalized weakness and fever and was found to have pancytopenia, transaminitis, and hyperinflammatory markers consistent with HLH. A microbial cell-free DNA next-generation sequencing test detected Babesia microti, with subsequent confirmation by blood PCR and smear demonstrating <0.01% parasitemia. The patient improved following treatment with atovaquone and azithromycin, along with corticosteroids for HLH. This case highlights the heterogeneity of babesiosis and its potential to present with minimal parasitemia, yet severe systemic inflammation in immunocompromised hosts. Additionally, this case underscores the importance of maintaining a broad differential in patients on B cell-depleting agents who present with new pancytopenia and systemic inflammatory symptoms. Early utilization of microbial cell-free DNA next-generation sequencing tests may aid in timely diagnosis and treatment.",
-      "authors": [
-        "Toumeh N",
-        "Bisono Garcia BS",
-        "Norrie FC"
-      ],
-      "journal": "ASM case reports",
-      "publicationDate": "Sep 24, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42683355/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-12T09:41:08.389Z"
+      "fetchedAt": "2026-09-13T10:42:16.120Z"
     },
     {
       "pmid": "42698997",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:40:56.765Z"
+      "fetchedAt": "2026-09-13T10:42:07.582Z"
     },
     {
       "pmid": "42683038",
@@ -92,7 +92,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:40:48.570Z"
+      "fetchedAt": "2026-09-13T10:42:00.465Z"
+    },
+    {
+      "pmid": "42727695",
+      "title": "Development and Preliminary Evaluation of a Chimeric Epitope-Based Antigen (TevISDY) for Serological Detection of Surra.",
+      "abstract": "Trypanosoma evansi remains a neglected yet economically significant pathogen in Latin America, where current serological diagnostic tools suffer from low specificity, cross-reactivity, and limited field applicability. This study presents the design and preliminary evaluation of a novel chimeric antigen derived from epitopes of the TevSTIB805.3.100 protein, a variant surface glycoprotein (VSG) of T. evansi, and explores its potential application as a serological marker for surra. An ISDY-based chimeric antigen was engineered, expressed, purified, and structurally characterized using integrated bioinformatic, molecular, and biochemical analyses. Its immunogenicity and diagnostic performance were assessed through rodent and chicken immunizations, optimized ELISAs, and blinded evaluation of 136 equine field sera, including cross-reactivity panels with babesiosis and anaplosmosis sera. The TevISDY chimera showed high solubility (GRAVY = -1.361), structural stability (instability index = 28.89), and successful purification, with clear immunoreactivity confirmed by Western blot. ELISA assays suggested that the chimeric antigen is immunogenic and may provide good discrimination of T. evansi-positive field sera (AUC 96.23-99.57%), with specificity ranging from 91.74 to 99.70% and accuracy from 95.83 to 99.70%, while preliminary assessment suggested limited cross-reactivity with the Babesia bigemina and Anaplasma marginale samples included in this study. Overall, the TevISDY antigen showed consistent identification of both experimentally infected and field serum samples in the ELISA assays. The observed performance of TevISDY may reflect the use of a single, conserved, pathogen-specific epitope, which could help reduce cross-reactivity and minimize the batch variability commonly associated with whole-cell lysate antigens, suggesting its potential as a more stable serological target for T. evansi. Broader validation in naturally infected animals and integration into multiepitope or rapid diagnostic platforms will be key next steps toward field-deployable surra diagnostics.",
+      "authors": [
+        "Freire CG",
+        "das Neves GB",
+        "Marques J"
+      ],
+      "journal": "Experimental parasitology",
+      "publicationDate": "Sep 11, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42727695/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-13T10:42:12.300Z"
     },
     {
       "pmid": "42723418",
@@ -115,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:40:54.806Z"
+      "fetchedAt": "2026-09-13T10:42:05.634Z"
     },
     {
       "pmid": "42673469",
@@ -136,7 +159,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:40:50.389Z"
+      "fetchedAt": "2026-09-13T10:42:02.290Z"
     },
     {
       "pmid": "42709285",
@@ -159,7 +182,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:40:55.479Z"
+      "fetchedAt": "2026-09-13T10:42:06.286Z"
     },
     {
       "pmid": "42707429",
@@ -182,7 +205,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:40:56.123Z"
+      "fetchedAt": "2026-09-13T10:42:06.934Z"
     },
     {
       "pmid": "42704380",
@@ -205,7 +228,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:41:04.469Z"
+      "fetchedAt": "2026-09-13T10:42:14.837Z"
     },
     {
       "pmid": "42704991",
@@ -228,7 +251,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:40:47.338Z"
+      "fetchedAt": "2026-09-13T10:41:59.174Z"
     },
     {
       "pmid": "42700119",
@@ -251,7 +274,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:40:47.954Z"
+      "fetchedAt": "2026-09-13T10:41:59.824Z"
     },
     {
       "pmid": "42692179",
@@ -274,7 +297,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:40:57.424Z"
+      "fetchedAt": "2026-09-13T10:42:08.255Z"
     },
     {
       "pmid": "42685839",
@@ -297,7 +320,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:41:07.742Z"
+      "fetchedAt": "2026-09-13T10:42:17.847Z"
     },
     {
       "pmid": "42678044",
@@ -320,7 +343,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:40:49.890Z"
+      "fetchedAt": "2026-09-13T10:42:01.790Z"
     },
     {
       "pmid": "42681944",
@@ -343,7 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:40:58.084Z"
+      "fetchedAt": "2026-09-13T10:42:08.886Z"
     },
     {
       "pmid": "42670973",
@@ -366,53 +389,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:40:51.009Z"
+      "fetchedAt": "2026-09-13T10:42:02.959Z"
     },
     {
-      "pmid": "42663471",
+      "pmid": "42729640",
       "title": "Untitled",
-      "abstract": "The mouse model of tick-mediated Borrelia burgdorferi sensu lato (Bbsl) challenge is integral to the preclinical evaluation of Lyme disease vaccines. The standard measure of vaccine efficacy is the recovery of viable spirochetes from different mouse tissues, monitored weekly for a month post challenge. Serological tests (ELISA and Western blots) with B. burgdorferi lysates, recombinant proteins, or peptides are often used as alternative or confirmatory readouts. While there are several reports suggesting that culture positivity and serology are strongly correlated, a systematic study addressing this issue is lacking. In this report, we took advantage of available data sets from large cohorts of naive and OspA actively and passively immunized mice that had been challenged with Ixodes scapularis nymphs carrying Bbsl strain B31, euthanized 3 weeks later, then assessed for culture positivity across different tissue types (ear, skin, ankle, bladder, and heart) and seropositivity using an OspC and DbpB 2-plex microsphere immunoassay (MIA) and a vmp-like sequence C6 monoplex MIA. Our results demonstrate a 96.5%-97% agreement between culture positivity and seroconversion using the OspC/DbpB and C6 MIAs, suggesting that serology provides a near-perfect readout of disseminated spirochetal infection. While some instances of culture and serological discordance could be attributed to technical errors, others likely reflect aspects of infectivity/immunological dynamics, including the possibility of abortive (non-sterilizing) B. burgdorferi infections. We conclude that serological testing provides a highly accurate and practical measure of disseminated B. burgdorferi infection in mouse models, crucial for the efficient preclinical assessment of Lyme disease vaccines. The laboratory mouse (Mus musculus) plays an indispensable role in the testing of candidate vaccines for Lyme disease, an emerging tick-borne infection caused by the spirochete, Borrelia burgdorferi. While laboratory mice do not develop Lyme disease per se, B. burgdorferi proliferates in skin tissues following a tick bite, then disseminates to other organs over the course of days to weeks. In this report, we examined the concordance between two widely used methodologies to assess disseminated B. burgdorferi infection and offer recommendations to standardize testing across laboratories.",
+      "abstract": "[This corrects the article DOI: 10.3389/fmed.2026.1886935.].",
       "authors": [
-        "Freeman-Gallant G",
-        "Shrestha M",
-        "You S"
+        "Nilsen EA",
+        "Adkison H",
+        "Martinez JR"
       ],
-      "journal": "Microbiology spectrum",
-      "publicationDate": "Aug 28, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42663471/",
+      "journal": "Frontiers in medicine",
+      "publicationDate": "08 28, 2026",
+      "articleType": "Published Erratum",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42729640/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:40:52.277Z"
-    },
-    {
-      "pmid": "42658418",
-      "title": "Ticks Recovered from Opportunistically Examined Greater Grisons (Galictis vittata) in Veracruz, Mexico.",
-      "abstract": "Information regarding ectoparasites associated with the greater grison (Galictis vittata) remains scarce throughout most of its geographic range, particularly in Mexico. Previous reports of tick parasitism in this mustelid are limited and restricted mainly to isolated records from Central and South America. In the present study, ticks recovered from two G. vittata individuals from Veracruz, Mexico, were identified using morphological and molecular approaches, and screened for selected bacterial microorganisms. Two G. vittata from northern Veracruz, Mexico, were examined for ectoparasites. Ticks were morphologically identified and representative specimens were molecularly characterized by amplification and sequencing of a partial mitochondrial 16S rDNA fragment. Additionally, PCR assays targeting members of the genera Anaplasma, Bartonella, Borrelia, Coxiella, Ehrlichia, Francisella, and Rickettsia were performed. A total of 68 adult ticks was recovered, including Amblyomma ovale (4 males, 6 females), Amblyomma mixtum (1 male), and Amblyomma auricularium (15 males, 42 females). Molecular analyses supported the identification of A. mixtum and A. ovale, whereas sequences obtained from specimens morphologically assigned to A. auricularium clustered within Amblyomma parvum. Two A. ovale specimens tested positive for Francisella-like endosymbionts showing 99% identity with sequences previously reported from South America. No DNA of Anaplasma, Bartonella, Borrelia, Coxiella burnetii, Ehrlichia, or Rickettsia was detected. The present study expands the currently available information on ticks recovered from G. vittata in Mexico. Although based on opportunistic sampling, these findings provide baseline information for future studies on tick-host associations in wild carnivores from the Neotropical region.",
-      "authors": [
-        "Escorcia-Quintana MG",
-        "P&#xe9;rez-Br&#xed;gido CD",
-        "Zazueta-Islas HM"
-      ],
-      "journal": "Acta parasitologica",
-      "publicationDate": "Aug 27, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42658418/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-12T09:41:00.752Z"
+      "fetchedAt": "2026-09-13T10:41:58.527Z"
     },
     {
       "pmid": "42718422",
@@ -435,7 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:41:02.544Z"
+      "fetchedAt": "2026-09-13T10:42:12.878Z"
     },
     {
       "pmid": "42707712",
@@ -458,7 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:41:03.809Z"
+      "fetchedAt": "2026-09-13T10:42:14.182Z"
     },
     {
       "pmid": "42664742",
@@ -480,7 +480,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:40:51.662Z"
+      "fetchedAt": "2026-09-13T10:42:03.528Z"
     },
     {
       "pmid": "42698516",
@@ -503,7 +503,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:41:05.127Z"
+      "fetchedAt": "2026-09-13T10:42:15.470Z"
     },
     {
       "pmid": "42693474",
@@ -526,7 +526,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:41:06.425Z"
+      "fetchedAt": "2026-09-13T10:42:16.679Z"
     },
     {
       "pmid": "42682422",
@@ -549,7 +549,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:40:49.230Z"
+      "fetchedAt": "2026-09-13T10:42:01.126Z"
     },
     {
       "pmid": "42662798",
@@ -572,30 +572,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:40:59.406Z"
-    },
-    {
-      "pmid": "42656385",
-      "title": "Untitled",
-      "abstract": "We evaluated the effect of nonthermal extremely low-frequency electromagnetic field (ELF-EMF) exposure on the motility of Borrelia burgdorferi, the causative agent of Lyme disease, using the Electrome BB&#x2122; Protocol, a non-contact, non-ionizing system operating within regulatory safety thresholds. Cultures were exposed and assessed by dark-field microscopy for motility. ELF-EMF exposure was substantially more effective, immobilizing up to 96.8% of spirochetes under the longer-duration treatment condition, compared with 13.1% by doxycycline at 0.5&#x202f;&#x3bc;g/mL in the same assay, a greater than sevenfold separation from this single clinically relevant antibiotic reference condition achieved entirely through a non-pharmacological, biophysical mechanism. Exact one-sided binomial tests against an established baseline motility fraction of 0.85 returned p&#x202f;<&#x202f;10-120 for both conditions, with every individual longer-duration replicate independently significant at p&#x202f;<&#x202f;4.4&#x202f;&#xd7;&#x202f;10-12 after Bonferroni correction; longer exposure produced deeper suppression than shorter exposure at the organism level (exact two-sided Fisher test, p&#x202f;=&#x202f;0.026), consistent with a duration-dependent nonthermal mechanism rather than an acute thermal or stress response. Loss of flagellar motility is functionally equivalent to organismal inactivation in tissue: non-motile B. burgdorferi cannot disseminate, evade immune surveillance, or sustain infection. Because the ELF-EMF mechanism arrests motility without inducing cell lysis, it is also expected to enable host-mediated clearance of intact, motility-arrested spirochetes without triggering the Jarisch-Herxheimer reaction associated with rapid bacterial killing. A controlled murine infection model is the next test in vivo.",
-      "authors": [
-        "Nilsen EA",
-        "Adkison H",
-        "Martinez JR"
-      ],
-      "journal": "Frontiers in medicine",
-      "publicationDate": "08 12, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42656385/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-12T09:40:52.960Z"
+      "fetchedAt": "2026-09-13T10:42:10.199Z"
     },
     {
       "pmid": "42693083",
@@ -618,7 +595,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:41:07.087Z"
+      "fetchedAt": "2026-09-13T10:42:17.282Z"
     },
     {
       "pmid": "42681677",
@@ -641,7 +618,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:40:58.750Z"
+      "fetchedAt": "2026-09-13T10:42:09.529Z"
     },
     {
       "pmid": "42661779",
@@ -664,7 +641,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:41:00.067Z"
+      "fetchedAt": "2026-09-13T10:42:10.781Z"
     },
     {
       "pmid": "42717344",
@@ -687,7 +664,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-12T09:41:03.157Z"
+      "fetchedAt": "2026-09-13T10:42:13.532Z"
+    },
+    {
+      "pmid": "42730232",
+      "title": "Perspectives on Lyme disease among persons of color in the United States: Qualitative research findings.",
+      "abstract": "Lyme disease is the most common vector-borne illness in the United States, with an estimated 476,000 cases diagnosed and treated annually. Although incidence is highest among White individuals, people of color are more likely to experience severe or disseminated manifestations. This study explored factors contributing to this disparity by examining experiences of people of color diagnosed with Lyme disease. Participants resided in high-incidence U.S. states. Self-identified people of color diagnosed with Lyme disease within the past 12 months. Fifteen participants completed in-depth interviews analyzed using inductive and deductive qualitative content analysis. Follow-up focus groups supported consensus-building and thematic refinement. Key themes included limited awareness that people of color are at risk for Lyme disease, perceived discrimination in healthcare encounters, diagnostic delays attributed to the characteristic erythema migrans (EM) rash being less visible on darker skin, and insufficient physician knowledge regarding diverse clinical presentations. Participants also expressed a preference for racially concordant providers. Lyme disease affected physical health, emotional well-being, social relationships, and engagement in outdoor activities. People of color may face distinct challenges in Lyme disease recognition and management, contributing to disparities in outcomes. Findings underscore the need for targeted education for at-risk populations, patients, and providers and for equitable prevention and diagnostic strategies.",
+      "authors": [
+        "Duench SA",
+        "Gould LH",
+        "Kissling A"
+      ],
+      "journal": "Qualitative research in medicine & healthcare",
+      "publicationDate": "07 10, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42730232/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-13T10:41:58.027Z"
     }
   ]
 }
