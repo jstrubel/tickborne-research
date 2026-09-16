@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T10:33:48.510Z",
+  "generatedAt": "2026-09-16T10:22:32.295Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:35.037Z"
+      "fetchedAt": "2026-09-16T10:22:19.082Z"
     },
     {
       "pmid": "42735999",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:44.469Z"
+      "fetchedAt": "2026-09-16T10:22:28.040Z"
     },
     {
       "pmid": "42735987",
@@ -69,7 +69,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:45.112Z"
+      "fetchedAt": "2026-09-16T10:22:28.697Z"
+    },
+    {
+      "pmid": "42740615",
+      "title": "High Prevalence of Brucella microti, Co-Infections With Other Zoonotic Pathogens, and Public Health Risk Related to Overpopulated Common Voles (Microtus arvalis), Czech Republic.",
+      "abstract": "The common vole (Microtus arvalis) is one of the most abundant rodent species in Europe and is known for its cyclic population outbreaks, which result in significant crop damage and an increased risk of transmission of zoonotic pathogens to humans. In this study, we confirmed that common voles are an important reservoir of multiple zoonotic pathogens in South Moravia, Czech Republic, with a high prevalence of infection and frequent co-infections. Overall, we found 70 (50%), 72 (51.4%), 50 (35.7%) and 35 (25%) positive voles for Leptospira spp., Bartonella spp., Brucella spp. and TULV, respectively. Our results highlight the significant epidemiological role of this species in agricultural ecosystems. Therefore, further studies are needed to monitor vole populations and other small mammal species in this area to better understand pathogen dynamics and assess potential risks to human and animal health.",
+      "authors": [
+        "Strakova P",
+        "Dokulilova M",
+        "Heroldova M"
+      ],
+      "journal": "APMIS : acta pathologica, microbiologica, et immunologica Scandinavica",
+      "publicationDate": "Sep 21, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42740615/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-16T10:22:18.388Z"
     },
     {
       "pmid": "42698997",
@@ -92,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:37.489Z"
+      "fetchedAt": "2026-09-16T10:22:21.679Z"
     },
     {
       "pmid": "42736012",
@@ -115,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:43.799Z"
+      "fetchedAt": "2026-09-16T10:22:27.358Z"
     },
     {
       "pmid": "42683038",
@@ -138,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:29.267Z"
+      "fetchedAt": "2026-09-16T10:22:13.609Z"
     },
     {
       "pmid": "42736013",
@@ -161,21 +184,44 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:43.148Z"
+      "fetchedAt": "2026-09-16T10:22:26.705Z"
     },
     {
-      "pmid": "42740615",
-      "title": "High Prevalence of Brucella microti, Co-Infections With Other Zoonotic Pathogens, and Public Health Risk Related to Overpopulated Common Voles (Microtus arvalis), Czech Republic.",
-      "abstract": "The common vole (Microtus arvalis) is one of the most abundant rodent species in Europe and is known for its cyclic population outbreaks, which result in significant crop damage and an increased risk of transmission of zoonotic pathogens to humans. In this study, we confirmed that common voles are an important reservoir of multiple zoonotic pathogens in South Moravia, Czech Republic, with a high prevalence of infection and frequent co-infections. Overall, we found 70 (50%), 72 (51.4%), 50 (35.7%) and 35 (25%) positive voles for Leptospira spp., Bartonella spp., Brucella spp. and TULV, respectively. Our results highlight the significant epidemiological role of this species in agricultural ecosystems. Therefore, further studies are needed to monitor vole populations and other small mammal species in this area to better understand pathogen dynamics and assess potential risks to human and animal health.",
+      "pmid": "42742337",
+      "title": "Untitled",
+      "abstract": "Canine and human anaplasmosis are tick-borne diseases caused by the obligate intracellular bacteria, Anaplasma phagocytophilum and Anaplasma platys, respectively. In veterinary medicine, peptides derived from the immunodominant P44 protein are used to detect antibodies in serological point-of-care tests for anaplasmosis. To inform efforts to develop improved chimeric diagnostic proteins for anaplasmosis, the structure of the predicted surface-exposed domain (residues 151-308) of P44 was determined at a resolution of 1.65 &#xc5;. This domain comprises six &#x3b1;-helices and six short &#x3b2;-strands connected by loop regions. A structural similarity search of the P44151-308 domain using the Distance Matrix Alignment server against the AlphaFold Database revealed that the domain represents a previously uncharacterized protein fold. The determined structure is consistent with AlphaFold v2 predictions, which further predict the core of P44 to be an eight-stranded &#x3b2;-barrel. Using P44 fragments, immunodominant epitopes were mapped within residues 151-308. Four chimeric genes (ADC1, ADC2, ADC3, and ADC4) were designed that incorporate the analogous immunodominant P44 domains from A. phagocytophilum and A. platys. The recombinant ADC chimerics were assessed for sensitivity and specificity by screening with serum from dogs diagnosed with anaplasmosis, Lyme disease, or ehrlichiosis, with sera from specific pathogen-free dogs serving as negative controls. Accuracy was further demonstrated by screening characterized serum samples from coyotes (Canis latrans; wild canids). The ADC1 chimeric provided 100% sensitivity and 98.04% specificity. The sensitivity and specificity of ADC1 support its potential use as a diagnostic Ag for anaplasmosis.",
       "authors": [
-        "Strakova P",
-        "Dokulilova M",
-        "Heroldova M"
+        "Cramer NA",
+        "Brangulis K",
+        "Mann SN"
       ],
-      "journal": "APMIS : acta pathologica, microbiologica, et immunologica Scandinavica",
+      "journal": "Infection and immunity",
       "publicationDate": "Sep 15, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42740615/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42742337/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-16T10:22:10.329Z"
+    },
+    {
+      "pmid": "42743369",
+      "title": "Metagenomic insights into pathogen diversity and public health risk of Haemaphysalis longicornis in Gansu Province of China.",
+      "abstract": "The tick Haemaphysalis longicornis vectors numerous zoonotic pathogens, yet its pathogen diversity and associated spatial health risks are not fully characterized. To profile this vector, we performed metagenomic sequencing on 290 H. longicornis ticks across 29 sites in Gansu Province, China. We resolved 25 bacterial and one protozoan genera, with computational analyses revealing population-level distribution patterns and identifying environmental factors as key drivers of spatial variation.We detected marker genes associated with 12 pathogenic microorganisms. Alongside established threats (Rickettsia conorii, R. rickettsii, Coxiella burnetii, and Francisella novicida), we additionally identified several pathogens not previously reported in this vector, including Candidatus Bartonella merieuxii, Acinetobacter lwoffii, Shigella flexneri, Staphylococcus chromogenes, Moraxella atlantae, Pseudomonas alabamensis, and Trypanosoma spp. Furthermore, four potentially novel strains were identified within R. conorii, Escherichia coli, and Acinetobacter pseudolwoffii. Spatial Bayesian risk modeling localized the highest exposure risks to the Linxia, Zhangye, and Wuwei regions. The tick microbiome contained 31 clinically prioritized antibiotic resistance genes (ARGs), many of which co-localized with mobile genetic elements (MGEs). Overall, these findings reveal the diversity of pathogens associated with H. longicornis and their public health relevance, supporting future efforts in disease surveillance and risk assessment.",
+      "authors": [
+        "Yang B",
+        "Ren Q",
+        "Wang J"
+      ],
+      "journal": "PLoS neglected tropical diseases",
+      "publicationDate": "Sep 15, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42743369/",
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
@@ -184,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:34.462Z"
+      "fetchedAt": "2026-09-16T10:22:17.709Z"
     },
     {
       "pmid": "42735591",
@@ -207,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:45.691Z"
+      "fetchedAt": "2026-09-16T10:22:29.345Z"
     },
     {
       "pmid": "42727695",
@@ -230,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:46.348Z"
+      "fetchedAt": "2026-09-16T10:22:30.007Z"
     },
     {
       "pmid": "42723418",
@@ -253,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:35.633Z"
+      "fetchedAt": "2026-09-16T10:22:19.743Z"
     },
     {
       "pmid": "42673469",
@@ -274,7 +320,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:31.022Z"
+      "fetchedAt": "2026-09-16T10:22:15.396Z"
     },
     {
       "pmid": "42709285",
@@ -297,7 +343,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:36.218Z"
+      "fetchedAt": "2026-09-16T10:22:20.368Z"
     },
     {
       "pmid": "42707429",
@@ -320,7 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:36.872Z"
+      "fetchedAt": "2026-09-16T10:22:21.022Z"
     },
     {
       "pmid": "42737826",
@@ -343,7 +389,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:42.501Z"
+      "fetchedAt": "2026-09-16T10:22:26.007Z"
     },
     {
       "pmid": "42704991",
@@ -366,7 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:27.962Z"
+      "fetchedAt": "2026-09-16T10:22:12.146Z"
     },
     {
       "pmid": "42700119",
@@ -389,7 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:28.626Z"
+      "fetchedAt": "2026-09-16T10:22:12.935Z"
     },
     {
       "pmid": "42692179",
@@ -412,7 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:38.140Z"
+      "fetchedAt": "2026-09-16T10:22:22.343Z"
     },
     {
       "pmid": "42738535",
@@ -435,7 +481,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:41.855Z"
+      "fetchedAt": "2026-09-16T10:22:25.337Z"
     },
     {
       "pmid": "42678044",
@@ -458,7 +504,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:30.522Z"
+      "fetchedAt": "2026-09-16T10:22:14.896Z"
     },
     {
       "pmid": "42681944",
@@ -481,7 +527,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:38.705Z"
+      "fetchedAt": "2026-09-16T10:22:23.002Z"
     },
     {
       "pmid": "42670973",
@@ -504,7 +550,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:31.678Z"
+      "fetchedAt": "2026-09-16T10:22:16.053Z"
     },
     {
       "pmid": "42729640",
@@ -527,7 +573,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:27.345Z"
+      "fetchedAt": "2026-09-16T10:22:11.495Z"
     },
     {
       "pmid": "42718422",
@@ -550,29 +596,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:46.924Z"
-    },
-    {
-      "pmid": "42664742",
-      "title": "Living with persistent illness and uncertainty: Patient narratives on Lyme disease in Nova Scotia, Canada.",
-      "abstract": "Persistent, unexplained symptoms attributed by patients to Lyme disease present significant challenges within healthcare systems where diagnostic uncertainty and contested legitimacy shape clinical and institutional responses. This qualitative study draws on in-depth interviews with individuals in Nova Scotia who experience persistent symptoms following suspected or confirmed Lyme disease. Using an interpretive phenomenological approach informed by the embodied health movement framework, the analysis examines how participants interpreted their experiences and navigated interactions with healthcare and public health systems. Participants described complex diagnostic and treatment trajectories shaped by perceived testing limitations, inconsistent clinical interpretations, and limited recognition of persistent symptoms. These dynamics contributed to feelings of dismissal and uncertainty, prompting many to seek additional opinions, pursue alternative care, or engage in self-advocacy. As these struggles unfolded, participants reported broader disruptions to daily life, including shifts in family roles, relationship strain, and reduced functional capacity. Institutional messaging and jurisdictional constraints further shaped their sense of legitimacy within the healthcare system, while community networks and peer support offered crucial validation and interpretive resources. For some, these engagements extended into advocacy and public education aimed at improving recognition and care. The findings illustrate how individuals navigate the intersecting domains of embodied experience, biomedical uncertainty, and institutional structures, and how experiential knowledge becomes a resource in the absence of clear clinical consensus. This study contributes to broader discussions about contested illness, the politics of visibility, and the need for responsive, context-sensitive approaches to Lyme disease policy, communication, and care.",
-      "authors": [
-        "Cox M",
-        "Levesque M"
-      ],
-      "journal": "Social science & medicine (1982)",
-      "publicationDate": "Aug 22, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42664742/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-15T10:33:32.334Z"
+      "fetchedAt": "2026-09-16T10:22:30.678Z"
     },
     {
       "pmid": "42682422",
@@ -595,30 +619,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:29.841Z"
-    },
-    {
-      "pmid": "42662798",
-      "title": "Untitled",
-      "abstract": "Bartonella bovis is an intracellular bacterium infecting cattle, with competent vectors yet to be determined. We compared B. bovis prevalence between pasture-raised and indoor-housed cattle to assess potential vector candidates. A total of 548 blood samples from Czech cattle and 48 samples from cattle from southeastern Romania were analyzed using qPCR (ssrA gene) and nested PCR (gltA gene). In pasture herds, 18.39% (64/348) of samples were positive, all but one representing a single B. bovis genotype identical to isolates from Brazil, Guatemala, and France. In Romanian herds, also reared outdoors, prevalence was 12.5% (6/48) mostly matching Czech genotypes. These results indicate low genetic diversity of B. bovis compared to other Bartonella species (e.g., B. schoenbuchensis in red deer), supporting a clonal population structure. In contrast, indoor cattle were completely negative (0/200). The exclusive occurrence of B. bovis in pasture-raised cattle and their exposure to blood-feeding arthropods suggests transmission by exophagic vectors, possibly horn flies (Haematobia irritans) or horseflies (Tabanidae). Overall, our findings, while not demonstrating the competence of a specific vector, provide epidemiological indications that outdoor exposure supports vector-borne transmission and narrows the range of plausible candidate vectors in Europe.",
-      "authors": [
-        "Hammerbauerov&#xe1; I",
-        "Dulavov&#xe1; K",
-        "V&#xe1;clavek P"
-      ],
-      "journal": "Parasite epidemiology and control",
-      "publicationDate": "Aug 14, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42662798/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-15T10:33:40.006Z"
+      "fetchedAt": "2026-09-16T10:22:14.273Z"
     },
     {
       "pmid": "42681677",
@@ -641,7 +642,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:39.367Z"
+      "fetchedAt": "2026-09-16T10:22:23.656Z"
     },
     {
       "pmid": "42717344",
@@ -664,7 +665,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:47.508Z"
+      "fetchedAt": "2026-09-16T10:22:31.294Z"
     },
     {
       "pmid": "42730232",
@@ -687,7 +688,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-15T10:33:26.845Z"
+      "fetchedAt": "2026-09-16T10:22:10.996Z"
     }
   ]
 }
