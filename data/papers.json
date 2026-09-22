@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T11:14:01.255Z",
+  "generatedAt": "2026-09-22T10:26:22.571Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:49.185Z"
+      "fetchedAt": "2026-09-22T10:26:10.914Z"
     },
     {
       "pmid": "42692179",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:52.490Z"
+      "fetchedAt": "2026-09-22T10:26:14.085Z"
     },
     {
       "pmid": "42762493",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:38.935Z"
+      "fetchedAt": "2026-09-22T10:26:01.409Z"
     },
     {
       "pmid": "42735999",
@@ -92,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:57.565Z"
+      "fetchedAt": "2026-09-22T10:26:19.930Z"
     },
     {
       "pmid": "42735987",
@@ -115,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:58.257Z"
+      "fetchedAt": "2026-09-22T10:26:20.910Z"
     },
     {
       "pmid": "42740615",
@@ -138,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:48.506Z"
+      "fetchedAt": "2026-09-22T10:26:10.254Z"
     },
     {
       "pmid": "42698997",
@@ -161,7 +161,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:51.805Z"
+      "fetchedAt": "2026-09-22T10:26:13.432Z"
+    },
+    {
+      "pmid": "42768132",
+      "title": "Vertical transmission, infection dynamics and risk factors for the occurrence of tick fever agents in beef cattle from a tropical region.",
+      "abstract": "This study investigated the vertical transmission, infection dynamics, and risk factors associated with tick fever agents in beef calves raised in a tropical region over a two-year period. A total of 98 cow-calf pairs were monitored from birth until slaughter (males) or first calving (females). Blood samples were analyzed by qPCR and iELISA for Anaplasma marginale, Babesia bovis, and Babesia bigemina. Vertical transmission was detected only for A. marginale (6.5%). At 20 days of age, qPCR detected A. marginale DNA in 85% of calves and Babesia spp. DNA in 60-80%, indicating early exposure and active infection. Tick burden was the only variable independently associated with both blood smear positivity and bacteremia, providing observational evidence of a potential epidemiological role of R. microplus in A. marginale infection under field conditions. Low Babesia parasitemia precluded comparative analyses between sexes. Serological prevalence exceeded 75%, indicating widespread exposure within the herd. Nevertheless, clinical cases of anaplasmosis occurred in 20-day-old calves, 8-9-month-old steers, and 13-14-month-old heifers, suggesting that seropositivity alone was not sufficient to prevent clinical disease. These findings reveal significant shifts in the epidemiology of tick fever under tropical conditions, characterized by early infection, widespread pathogen exposure, and the persistence of clinical disease, emphasizing the need to reassess current control strategies for tick fever in beef herds.",
+      "authors": [
+        "de Aquino LM",
+        "de Morais IML",
+        "Salvador VF"
+      ],
+      "journal": "Tropical animal health and production",
+      "publicationDate": "Sep 21, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42768132/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-22T10:26:15.528Z"
     },
     {
       "pmid": "42736012",
@@ -184,30 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:56.869Z"
-    },
-    {
-      "pmid": "42683038",
-      "title": "A case study of Powassan virus encephalitis in an immunocompromised host.",
-      "abstract": "Powassan virus (POWV) is a tick-borne, neurotropic arbovirus endemic to Canada and the United States and is transmitted by Ixodes ticks, which also carry Lyme disease. It is an increasingly recognized cause of neuro-invasive infection in humans, for which treatment is supportive. Prognosis in POWV encephalitis is variable, ranging from complete recovery to death. As with other arboviral encephalitides, the mainstay of diagnosis is serological testing. However, molecular diagnostics play an increasingly important role, particularly in the case of immunocompromised hosts. A 47-year-old woman with rheumatoid arthritis taking methotrexate experienced a tick bite, followed by target-shaped rash. She was clinically diagnosed with Lyme disease and started on doxycycline therapy. She then developed headache, ataxia, dysarthria, and diplopia. An extensive infectious workup was notable for positive Powassan virus IgM confirmed with neutralizing antibody testing several weeks later. CSF Powassan virus PCR was negative. She was treated empirically for neuroborreliosis and later with pulse-dose steroids and intravenous immunoglobulin (IVIG). She ultimately recovered after a 10-day hospitalization and 5 days of inpatient rehabilitation. Physicians should be aware of POWV, an underrecognized cause of encephalitis, and of the complexities in diagnostic testing. Notably, cross-reactive serologies are common in arboviral infection. Serological testing remains first line in diagnosis but requires confirmatory testing typically performed at reference laboratories.",
-      "authors": [
-        "Shehata M",
-        "Betts G",
-        "Chung S"
-      ],
-      "journal": "ASM case reports",
-      "publicationDate": "Sep 20, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42683038/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-21T11:13:44.859Z"
+      "fetchedAt": "2026-09-22T10:26:19.278Z"
     },
     {
       "pmid": "42736013",
@@ -230,7 +230,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:56.246Z"
+      "fetchedAt": "2026-09-22T10:26:18.696Z"
+    },
+    {
+      "pmid": "42766987",
+      "title": "Ticks and tick-borne pathogens of domestic ruminants in southern Africa: A systematic review of diversity, distribution, and epidemiology.",
+      "abstract": "The resurgence of tick-borne diseases remains a global concern, hindering livestock production across southern Africa and resulting in significant economic losses and threatening the livelihoods of small-scale farmers through reduced yields, higher treatment costs, and increased livestock mortality. This review synthesizes evidence on the genetic characterization, distribution, and epidemiology of ticks and tick-borne pathogens affecting domestic ruminants (cattle, goats, and sheep) in southern Africa. A search for peer-reviewed articles published between 2016 and 2025 was conducted across three electronic databases, and 21 studies met the inclusion criteria. Across the region, 28 tick species from six genera were reported, and Zimbabwe recorded the highest tick species richness, with the genus Rhipicephalus showing the highest species diversity. Otobius megnini was reported only in Lesotho, while several tick species were restricted and exclusive to South African cattle. Molecular screening showed that Ehrlichia ruminantium was the most frequently reported pathogen in cattle, with prevalence ranging from 29% in South Africa to 34% in Angola.&#x202f;Other important pathogens included Anaplasma spp., reported at 51% prevalence in goats in Lesotho, and C. burnetii, at 10% prevalence in cattle in South Africa. Piroplasm Babesia and Theileria spp. were also detected, although Theileria spp. were underreported, suggesting limited diagnostic sensitivity or a lack of transovarial transmission. Overall, this review reveals spatial distribution patterns and host-tick interactions, highlighting the need for an updated species checklist, improved surveillance, and stronger molecular diagnostic capacity to inform effective tick control and reduce the burden of tick-borne diseases while protecting livestock health across southern Africa.",
+      "authors": [
+        "Buthelezi TP",
+        "Mkize LS",
+        "Mahlobo-Shwabede SIC"
+      ],
+      "journal": "Veterinary parasitology",
+      "publicationDate": "Sep 18, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42766987/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-22T10:26:16.170Z"
     },
     {
       "pmid": "42749151",
@@ -253,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:54.262Z"
+      "fetchedAt": "2026-09-22T10:26:16.855Z"
     },
     {
       "pmid": "42742337",
@@ -276,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:41.623Z"
+      "fetchedAt": "2026-09-22T10:26:03.956Z"
     },
     {
       "pmid": "42743369",
@@ -299,7 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:47.847Z"
+      "fetchedAt": "2026-09-22T10:26:09.610Z"
     },
     {
       "pmid": "42735591",
@@ -322,30 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:58.917Z"
-    },
-    {
-      "pmid": "42727695",
-      "title": "Development and preliminary evaluation of a chimeric epitope-based antigen (TevISDY) for serological detection of surra.",
-      "abstract": "Trypanosoma evansi remains a neglected yet economically significant pathogen in Latin America, where current serological diagnostic tools suffer from low specificity, cross-reactivity, and limited field applicability. This study presents the design and preliminary evaluation of a novel chimeric antigen derived from epitopes of the TevSTIB805.3.100 protein, a variant surface glycoprotein (VSG) of T. evansi, and explores its potential application as a serological marker for surra. An ISDY-based chimeric antigen was engineered, expressed, purified, and structurally characterized using integrated bioinformatic, molecular, and biochemical analyses. Its immunogenicity and diagnostic performance were assessed through rodent and chicken immunizations, optimized ELISAs, and blinded evaluation of 136 equine field sera, including cross-reactivity panels with babesiosis and anaplosmosis sera. The TevISDY chimera showed high solubility (GRAVY&#x202f;=&#x202f;-1.361), structural stability (instability index&#x202f;=&#x202f;28.89), and successful purification, with clear immunoreactivity confirmed by Western blot. ELISA assays suggested that the chimeric antigen is immunogenic and may provide good discrimination of T. evansi-positive field sera (AUC 96.23-99.57%), with specificity ranging from 91.74 to 99.70% and accuracy from 95.83 to 99.70%, while preliminary assessment suggested limited cross-reactivity with the Babesia bigemina and Anaplasma marginale samples included in this study. Overall, the TevISDY antigen showed consistent identification of both experimentally infected and field serum samples in the ELISA assays. The observed performance of TevISDY may reflect the use of a single, conserved, pathogen-specific epitope, which could help reduce cross-reactivity and minimize the batch variability commonly associated with whole-cell lysate antigens, suggesting its potential as a more stable serological target for T. evansi. Broader validation in naturally infected animals and integration into multiepitope or rapid diagnostic platforms will be key next steps toward field-deployable surra diagnostics.",
-      "authors": [
-        "Freire CG",
-        "das Neves GB",
-        "Marques J"
-      ],
-      "journal": "Experimental parasitology",
-      "publicationDate": "Sep 11, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42727695/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-21T11:13:59.583Z"
+      "fetchedAt": "2026-09-22T10:26:21.570Z"
     },
     {
       "pmid": "42723418",
@@ -368,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:49.819Z"
+      "fetchedAt": "2026-09-22T10:26:11.504Z"
     },
     {
       "pmid": "42761325",
@@ -391,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:47.166Z"
+      "fetchedAt": "2026-09-22T10:26:08.590Z"
     },
     {
       "pmid": "42709285",
@@ -414,7 +414,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:50.506Z"
+      "fetchedAt": "2026-09-22T10:26:12.152Z"
+    },
+    {
+      "pmid": "42769038",
+      "title": "Evidence-domain translation in the Lyme disease controversy over persistent post-treatment symptoms.",
+      "abstract": "The debate between post-treatment Lyme disease syndrome (PTLDS) and chronic Lyme disease (CLD) reflects different views about the causes and treatment of persistent symptoms attributed to Lyme disease, including symptoms that continue after recommended antibiotic treatment. This study examines how competing positions in the controversy draw on different scientific evidence domains, and how findings from those domains are extended into broader clinical and mechanistic claims. We analysed a 2000-2024 literature corpus using a prompt-optimised three-model large language model ensemble to classify abstracts by stance, theme and model-derived study design. We then conducted targeted full-text audits of selected retreatment and treatment-duration trials, and preclinical persistence studies. Across the higher-volume evidence domains, model-derived claim orientations differed by study-design tier. Observational studies and commentaries showed PTLDS-oriented distributions, whereas case reports or series, animal models, and in vitro studies showed CLD-oriented distributions. The smaller RCT and guideline tiers were also PTLDS-oriented, but the small numbers and wide confidence intervals made this direction uncertain. The clinical trial audit showed that some trials reported short-term or symptom-specific improvements, while the interpretation of these findings depended on their durability, endpoint consistency, eligibility criteria, treatment burden, and safety. The citation-conditioned preclinical audit identified findings that support several candidate mechanisms and generate hypotheses for further study, but these findings did not by themselves establish viable infection as the cause of persistent human symptoms or demonstrate the efficacy of prolonged antimicrobial treatment. The findings show a recurring distinction between mechanism-level evidence and the evidence needed to establish patient-level causation or durable clinical benefit. They map how these different forms of evidence are distributed and translated across the PTLDS-CLD literature.",
+      "authors": [
+        "Susnjak T",
+        "Brehme L",
+        "Garg K"
+      ],
+      "journal": "Frontiers in cellular and infection microbiology",
+      "publicationDate": "09 07, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42769038/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-22T10:26:00.764Z"
     },
     {
       "pmid": "42707429",
@@ -437,7 +460,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:51.171Z"
+      "fetchedAt": "2026-09-22T10:26:12.761Z"
     },
     {
       "pmid": "42737826",
@@ -460,7 +483,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:55.565Z"
+      "fetchedAt": "2026-09-22T10:26:18.105Z"
     },
     {
       "pmid": "42704991",
@@ -483,7 +506,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:43.488Z"
+      "fetchedAt": "2026-09-22T10:26:05.693Z"
     },
     {
       "pmid": "42700119",
@@ -506,7 +529,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:44.179Z"
+      "fetchedAt": "2026-09-22T10:26:06.376Z"
     },
     {
       "pmid": "42751105",
@@ -529,7 +552,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:40.967Z"
+      "fetchedAt": "2026-09-22T10:26:03.372Z"
     },
     {
       "pmid": "42738535",
@@ -552,7 +575,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:54.895Z"
+      "fetchedAt": "2026-09-22T10:26:17.512Z"
     },
     {
       "pmid": "42758511",
@@ -575,7 +598,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:39.648Z"
+      "fetchedAt": "2026-09-22T10:26:02.064Z"
     },
     {
       "pmid": "42729640",
@@ -598,30 +621,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:42.799Z"
-    },
-    {
-      "pmid": "42718422",
-      "title": "Untitled",
-      "abstract": "Bovine babesiosis, caused by Babesia bovis is a major cattle disease worldwide, particularly in tropical and subtropical regions. A commonly used drug for the control and treatment of babesiosis is imidocarb dipropionate (ID), which has proved effective against B. bovis. Nevertheless, its toxicity to ruminants and other mammals, along with the persistence of drug residues in meat and milk for several months after treatment, has led to restriction on its use. Furthermore, several reports indicate that complete parasite elimination is not obtained in some cases. Interestingly, the angiotensin-converting enzyme (ACE) inhibitor Fosinopril has been recently found to exhibit potent antibabesial activity against Babesia duncani. In this study, we investigated the in-vitro activity of Fosinopril alone and in fixed-ratio combinations with ID against the B. bovis Texas T2Bo isolate. Quantitative dose-response analyses of the in-vitro activity showed that Fosinopril exhibited measurable activity against the Babesia bovis T2Bo isolate, with an IC50 value of 541.2&#x202f;nM, whereas ID demonstrated greater potency, with an IC50 value of 124.3&#x202f;nM. When fixed-ratio combination studies were conducted to evaluate interactions between two drugs, the low-dose regimen Comb-4 (108&#x202f;nM Fosinopril + 25&#x202f;nM ID) was the only tested combination that met the predefined &#x3a3;FIC criterion for synergy (&#x3a3;FIC&#x202f;=&#x202f;0.40). MDBK cells viability testing showed that ID reduced cell viability at the parasite-relevant concentration tested, whereas Fosinopril and the low-dose combination treatments maintained high MDBK cell viability under the same in-vitro screening conditions. Overall, these proof-of-concept in-vitro findings suggest that Fosinopril has potential as a repurposed therapeutic agent for the treatment of B. bovis-infection in cattle. Low-dose Fosinopril-ID combinations may provide a dose-sparing direction for future pharmacological studies.",
-      "authors": [
-        "Bhowmick B",
-        "Lacy PA",
-        "Suarez CE"
-      ],
-      "journal": "Frontiers in veterinary science",
-      "publicationDate": "08 26, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42718422/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-21T11:14:00.255Z"
+      "fetchedAt": "2026-09-22T10:26:05.035Z"
     },
     {
       "pmid": "42751631",
@@ -644,7 +644,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:40.297Z"
+      "fetchedAt": "2026-09-22T10:26:02.715Z"
     },
     {
       "pmid": "42762016",
@@ -667,7 +667,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:46.500Z"
+      "fetchedAt": "2026-09-22T10:26:07.943Z"
     },
     {
       "pmid": "42730232",
@@ -690,7 +690,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-21T11:13:42.299Z"
+      "fetchedAt": "2026-09-22T10:26:04.535Z"
     }
   ]
 }
