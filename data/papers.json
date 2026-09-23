@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T10:26:22.571Z",
+  "generatedAt": "2026-09-23T10:21:40.454Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,30 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:10.914Z"
-    },
-    {
-      "pmid": "42692179",
-      "title": "Mycoplasma and Bartonella in cats from the tropical tourist Gili Islands, Indonesia.",
-      "abstract": "Bartonella spp. and haemotropic Mycoplasma spp. are important vector-borne bacteria of veterinary and zoonotic relevance, yet information on their circulation in Indonesian island ecosystems remains limited. We investigated their occurrence and molecular diversity in 117 domestic and free-roaming cats from the Gili Islands, Indonesia, using full-length 16S rRNA nanopore metagenomics followed by targeted PCR, sequencing, phylogenetic analysis and multilocus sequence typing (MLST). Bartonella DNA was detected in 18/117 (15.4%) cats and haemotropic Mycoplasma DNA in 40/117 (34.2%). Sequence analysis identified Bartonella henselae as the predominant species together with Bartonella clarridgeiae. MLST of B. henselae revealed three sequence types (ST1, ST16 and ST42), with ST1, a lineage reported in both feline and human isolates, predominating. Comparison with the PubMLST database showed significant geographical differences in the distribution of ST1 and ST42, supporting regional variation in the circulation of B. henselae lineages. Haemoplasma characterization identified Candidatus Mycoplasma haemominutum, Mycoplasma haemofelis, Candidatus Mycoplasma turicensis and a Mycoplasma feliminutum-like organism, comprising ten distinct sequence variants. Haemoplasma positivity was significantly associated with age, with adults showing higher positivity than younger animals (P < 0.001), whereas Bartonella infection was not associated with age, sex or island of origin. The detection of zoonotically relevant B. henselae lineages and the genetic diversity of feline haemoplasmas provide evidence of the circulation of vector-borne bacteria among cats in this tropical island ecosystem. These findings provide the first molecular epidemiological baseline for this region and contribute to understanding the circulation and genetic diversity of feline vector-borne pathogens in Southeast Asia.",
-      "authors": [
-        "Sinaei Z",
-        "Zobba R",
-        "Rizzi B"
-      ],
-      "journal": "Acta tropica",
-      "publicationDate": "Oct 03, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42692179/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-22T10:26:14.085Z"
+      "fetchedAt": "2026-09-23T10:21:29.061Z"
     },
     {
       "pmid": "42762493",
@@ -69,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:01.409Z"
+      "fetchedAt": "2026-09-23T10:21:19.993Z"
     },
     {
       "pmid": "42735999",
@@ -92,7 +69,52 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:19.930Z"
+      "fetchedAt": "2026-09-23T10:21:38.206Z"
+    },
+    {
+      "pmid": "42773980",
+      "title": "Beyond Neuroretinitis: A Multi-Centre Study of Bartonella-Associated Uveitis.",
+      "abstract": "To characterise the spectrum of clinical presentations of Bartonella-associated uveitis across multiple tertiary uveitis centres and assess the frequency of non-neuroretinitis phenotypes. Multi-centre retrospective case series of patients with serologically confirmed Bartonella infection and associated intraocular inflammation. Clinical phenotypes were classified as classical (isolated neuroretinitis) or non-neuroretinitis based on anatomic and multimodal imaging findings, and their relative frequencies were analysed. Seventy eyes of 53 patients were included. Median presenting best-corrected visual acuity was 20/50 (IQR 20/20 to 20/400). Posterior uveitis (57.1%) and panuveitis (30.0%) were the most frequent anatomical classifications. Neuroretinitis was present in 35 (50.0%) eyes. Non-classical manifestations were common and included optic neuritis (34.3%), multifocal retinitis (30.0%), isolated papillitis (24.3%), retinal vascular occlusion (18.6%), and multifocal choroiditis (11.4%). Non-neuroretinitis manifestations of Bartonella-associated uveitis comprise a substantial proportion of presentations in tertiary uveitis practice. Although these phenotypes have been individually described previously, our findings emphasise that Bartonella infection should remain an important differential diagnosis across a broad spectrum of posterior segment inflammatory presentations rather than being considered predominantly a cause of neuroretinitis.",
+      "authors": [
+        "Samalia PD",
+        "Sethi K",
+        "Lim L"
+      ],
+      "journal": "Ocular immunology and inflammation",
+      "publicationDate": "Sep 23, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42773980/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-23T10:21:25.908Z"
+    },
+    {
+      "pmid": "42772934",
+      "title": "Mostly getting along -Borrelia burgdorferi and its manipulation of the host immune system.",
+      "abstract": "Lyme disease is caused when mammalian hosts not part of the sylvatic life cycle, including humans, are infected with Borrelia burgdorferi (Bb) following the bite of an Ixodes tick. Ticks and natural mammalian host reservoirs, including rodents, however, are largely disease tolerant, despite Bb establishing persistent infection. We explore the complex and ongoing interplay between Bb and the immune system. We discuss how Bb infection-induced innate responses seem maladapted to this extracellular bacterial infection, perhaps explaining why CD4+ T cells are ineffective contributors to Bb infection control. While B cell responses critically control Bb tissue burden and disease development they cannot clear the infection, showing a bias towards ongoing plasmablast responses and a lack of functional germinal centers. Identifying the mechanisms that hinder effective immune clearance of Bb may lead to new approaches for the treatment of Lyme Disease.",
+      "authors": [
+        "Sachan S",
+        "Baumgarth N"
+      ],
+      "journal": "ImmunoHorizons",
+      "publicationDate": "Sep 22, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42772934/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-23T10:21:18.847Z"
     },
     {
       "pmid": "42735987",
@@ -115,7 +137,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:20.910Z"
+      "fetchedAt": "2026-09-23T10:21:38.830Z"
     },
     {
       "pmid": "42740615",
@@ -138,7 +160,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:10.254Z"
+      "fetchedAt": "2026-09-23T10:21:28.431Z"
     },
     {
       "pmid": "42698997",
@@ -161,7 +183,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:13.432Z"
+      "fetchedAt": "2026-09-23T10:21:31.618Z"
     },
     {
       "pmid": "42768132",
@@ -184,7 +206,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:15.528Z"
+      "fetchedAt": "2026-09-23T10:21:33.723Z"
     },
     {
       "pmid": "42736012",
@@ -207,7 +229,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:19.278Z"
+      "fetchedAt": "2026-09-23T10:21:37.559Z"
     },
     {
       "pmid": "42736013",
@@ -230,7 +252,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:18.696Z"
+      "fetchedAt": "2026-09-23T10:21:36.917Z"
     },
     {
       "pmid": "42766987",
@@ -253,7 +275,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:16.170Z"
+      "fetchedAt": "2026-09-23T10:21:34.350Z"
     },
     {
       "pmid": "42749151",
@@ -276,7 +298,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:16.855Z"
+      "fetchedAt": "2026-09-23T10:21:34.997Z"
     },
     {
       "pmid": "42742337",
@@ -299,7 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:03.956Z"
+      "fetchedAt": "2026-09-23T10:21:22.498Z"
     },
     {
       "pmid": "42743369",
@@ -322,7 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:09.610Z"
+      "fetchedAt": "2026-09-23T10:21:27.809Z"
     },
     {
       "pmid": "42735591",
@@ -345,7 +367,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:21.570Z"
+      "fetchedAt": "2026-09-23T10:21:39.454Z"
     },
     {
       "pmid": "42723418",
@@ -368,7 +390,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:11.504Z"
+      "fetchedAt": "2026-09-23T10:21:29.696Z"
     },
     {
       "pmid": "42761325",
@@ -391,7 +413,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:08.590Z"
+      "fetchedAt": "2026-09-23T10:21:27.159Z"
     },
     {
       "pmid": "42709285",
@@ -414,7 +436,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:12.152Z"
+      "fetchedAt": "2026-09-23T10:21:30.337Z"
     },
     {
       "pmid": "42769038",
@@ -437,7 +459,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:00.764Z"
+      "fetchedAt": "2026-09-23T10:21:19.421Z"
     },
     {
       "pmid": "42707429",
@@ -460,7 +482,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:12.761Z"
+      "fetchedAt": "2026-09-23T10:21:30.968Z"
     },
     {
       "pmid": "42737826",
@@ -483,7 +505,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:18.105Z"
+      "fetchedAt": "2026-09-23T10:21:36.280Z"
     },
     {
       "pmid": "42704991",
@@ -506,30 +528,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:05.693Z"
-    },
-    {
-      "pmid": "42700119",
-      "title": "Assessment of costs for implementation of park specific tick management plans for selected high-use recreational areas in Monmouth County, New Jersey.",
-      "abstract": "Tick-borne diseases are a major public health threat in the United States, with Lyme disease being the most commonly reported vector-borne disease. Tick-bite prevention is predominantly focused on education and the use of repellents. Currently, the use of tick control interventions is rare, particularly on public properties, in part because deployment costs can be difficult to determine. This study focused on New Jersey, where both Ixodes scapularis Say and Amblyomma americanum (L.) (Acari: Ixodidae) are common throughout much of the state and there is a high incidence of tick-borne diseases. Ten high-use public parks in Monmouth County with high tick abundance were selected to develop tick management plans and assess their implementation cost. We calculated the cost of applying acaricides along trails and the margins of recreational fields where tick habitat is abundant, as well as the cost of deploying 4-Poster Tick Control Deer Feeders (hereafter, 4-Posters) to treat deer with acaricides. The total projected annual cost for focal acaricide treatments in all 10 parks ranged from $23,251 (low-end estimate) to $46,500 (high-end estimate). The use of 4-Posters (without other interventions), with potential for tick suppression across the landscape, was more expensive, estimated to cost $461,970 annually for a sustained program including all 10 parks. Using current tick control methods, area-wide control is considerably more expensive than more focal control efforts. This research provides local land managers with cost estimates for tick control and provides a guide for estimating the cost of deployment as new methods are developed.",
-      "authors": [
-        "Jordan RA",
-        "Burtis JC",
-        "Eisen L"
-      ],
-      "journal": "Journal of medical entomology",
-      "publicationDate": "Sep 04, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42700119/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-22T10:26:06.376Z"
+      "fetchedAt": "2026-09-23T10:21:24.267Z"
     },
     {
       "pmid": "42751105",
@@ -552,7 +551,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:03.372Z"
+      "fetchedAt": "2026-09-23T10:21:21.921Z"
     },
     {
       "pmid": "42738535",
@@ -575,7 +574,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:17.512Z"
+      "fetchedAt": "2026-09-23T10:21:35.620Z"
     },
     {
       "pmid": "42758511",
@@ -598,7 +597,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:02.064Z"
+      "fetchedAt": "2026-09-23T10:21:20.648Z"
     },
     {
       "pmid": "42729640",
@@ -621,7 +620,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:05.035Z"
+      "fetchedAt": "2026-09-23T10:21:23.647Z"
     },
     {
       "pmid": "42751631",
@@ -644,7 +643,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:02.715Z"
+      "fetchedAt": "2026-09-23T10:21:21.276Z"
     },
     {
       "pmid": "42762016",
@@ -667,7 +666,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:07.943Z"
+      "fetchedAt": "2026-09-23T10:21:26.532Z"
     },
     {
       "pmid": "42730232",
@@ -690,7 +689,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-22T10:26:04.535Z"
+      "fetchedAt": "2026-09-23T10:21:23.147Z"
     }
   ]
 }
