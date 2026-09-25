@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T10:36:54.508Z",
+  "generatedAt": "2026-09-25T10:40:25.482Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:43.860Z"
+      "fetchedAt": "2026-09-25T10:40:15.862Z"
     },
     {
       "pmid": "42774704",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:39.886Z"
+      "fetchedAt": "2026-09-25T10:40:12.015Z"
     },
     {
       "pmid": "42762493",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:34.143Z"
+      "fetchedAt": "2026-09-25T10:40:06.504Z"
     },
     {
       "pmid": "42735999",
@@ -92,7 +92,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:52.211Z"
+      "fetchedAt": "2026-09-25T10:40:23.210Z"
+    },
+    {
+      "pmid": "42782139",
+      "title": "MinD-like ATPase FlhG synchronizes flagellation and cell division in spirochetes.",
+      "abstract": "Spirochetes are evolutionarily distinct bacteria defined by their spiral morphology, unique means of motility, and periplasmic flagella (PFs). Because these flagella reside within the periplasm and are mechanically integrated with the cell body, their assembly must be precisely coordinated with cell growth and cytokinesis. However, the mechanism coupling flagellar biogenesis to cell division in spirochetes remains unclear. Using the Lyme disease spirochete Borrelia burgdorferi as a model, we identify FlhG (BB0269), a MinD-like ATPase, as a spatial regulator that links cell division to flagellar patterning. In wild-type cells, 7-11 long helical PFs form at each pole and form ribbon-like bundles that wrap around the cell cylinder to drive motility. Deletion of flhG disrupts this ordered architecture, resulting in pronounced heterogeneity in flagellar number, defective ribbon formation, aberrant septation, and severe motility defects. Mechanistically, FlhG dynamically localizes to the poles and division site, where it spatially organizes FlhF, an SRP-type GTPase that controls flagellar number and positioning, and FliF, the MS-ring protein that is an essential early component for flagellar biogenesis. Through this spatial regulation, FlhG coordinates flagellar biogenesis with cytokinetic progression. Together, these findings uncover a spatial regulatory mechanism that couples cell division to flagellation, providing insight into how spirochetes coordinate morphogenesis and motility to maintain their distinctive cellular architecture. Spirochetes such as Borrelia burgdorferi, the causative agent of Lyme disease, rely on periplasmic flagella for motility and cell shape, yet how these structures are coordinated with cell division has remained unclear. We identify a MinD-like ATPase, FlhG, as a spatial regulator that couples flagellar assembly to cytokinesis. In contrast to its homologs in most bacteria, FlhG does not regulate flagellar protein levels but instead directs subcellular positioning of key assembly factors. By dynamically redistributing between the cell poles and division site, FlhG synchronizes flagellar patterning with septum formation. These findings uncover a previously unrecognized mechanism linking cell morphogenesis to the cell cycle and reveal how conserved ATPases can be repurposed to organize complex bacterial architectures.",
+      "authors": [
+        "Zhang K",
+        "Guo W",
+        "Lynch MJ"
+      ],
+      "journal": "mBio",
+      "publicationDate": "Sep 24, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42782139/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-25T10:40:03.773Z"
+    },
+    {
+      "pmid": "42785622",
+      "title": "Core gut symbionts enhance honeybee (Apis mellifera) resilience to flumethrin stress by upregulating host immunity.",
+      "abstract": "The widespread use of flumethrin has significantly jeopardized the survival of bees. However, the mechanisms by which bees and their intestinal microorganisms resist flumethrin remain to be elucidated. Therefore, this study aimed to explore the mechanism by which the gut microbiota of bees assist the bee host in resiling flumethrin stress. Bees were exposed to various concentrations of flumethrin (0.01, 0.1, and 1 mg/L) for 14 days, subsequently, performance parameters (body weight, gut weight, and food intake) and gut microbiota diversity and composition were assessed. Then, the performance parameters and mRNA expression of bees colonized by core gut bacteria (Bombilactobacillus mellis, Lactobacillus apis, Snodgrassella alvi, Bartonella apis, and Gilliamella apicola) and exposed to 1 mg/L flumethrin were evaluated. Chronic flumethrin exposure significantly reduced survival rate and gut weight, damaged intestinal structure, and induced gut microbiota dysbiosis in bees. However, gut colonization by B. mellis, S. alvi, and G. apicola significantly improved survival rate, body weight, and intestinal weight in bees. Importantly, G. apicola colonization significantly enhanced honeybees resilience to flumethrin, as evidenced by a significant increase in survival rate from 65.8 to 94.1% after G. apicola colonization. Moreover, bacterial gut colonization significantly upregulated the mRNA expression of immune detoxification genes, including superoxide dismutase, catalase, Toll, defensin-1, and abaecin, in bees. Collectively, these findings indicate that gut bacteria confer protection against flumethrin-induced stress by enhancing host immunity, underscoring the critical role of the gut microbiota in mediating honeybee resilience to environmental pollutants.",
+      "authors": [
+        "Liu J",
+        "Chen J",
+        "Wu X"
+      ],
+      "journal": "Environmental pollution (Barking, Essex : 1987)",
+      "publicationDate": "Sep 24, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42785622/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-25T10:40:11.362Z"
     },
     {
       "pmid": "42778602",
@@ -115,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:32.166Z"
+      "fetchedAt": "2026-09-25T10:40:04.416Z"
     },
     {
       "pmid": "42773980",
@@ -138,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:40.545Z"
+      "fetchedAt": "2026-09-25T10:40:12.649Z"
     },
     {
       "pmid": "42772934",
@@ -160,7 +206,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:32.817Z"
+      "fetchedAt": "2026-09-25T10:40:05.063Z"
     },
     {
       "pmid": "42735987",
@@ -183,7 +229,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:52.860Z"
+      "fetchedAt": "2026-09-25T10:40:23.854Z"
     },
     {
       "pmid": "42740615",
@@ -206,7 +252,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:43.202Z"
+      "fetchedAt": "2026-09-25T10:40:15.210Z"
     },
     {
       "pmid": "42768132",
@@ -229,7 +275,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:47.610Z"
+      "fetchedAt": "2026-09-25T10:40:18.761Z"
     },
     {
       "pmid": "42736012",
@@ -252,7 +298,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:51.558Z"
+      "fetchedAt": "2026-09-25T10:40:22.577Z"
     },
     {
       "pmid": "42736013",
@@ -275,7 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:50.898Z"
+      "fetchedAt": "2026-09-25T10:40:21.944Z"
     },
     {
       "pmid": "42766987",
@@ -298,7 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:48.264Z"
+      "fetchedAt": "2026-09-25T10:40:19.385Z"
     },
     {
       "pmid": "42749151",
@@ -321,7 +367,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:48.925Z"
+      "fetchedAt": "2026-09-25T10:40:20.028Z"
     },
     {
       "pmid": "42742337",
@@ -344,7 +390,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:36.811Z"
+      "fetchedAt": "2026-09-25T10:40:09.045Z"
     },
     {
       "pmid": "42743369",
@@ -367,7 +413,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:42.541Z"
+      "fetchedAt": "2026-09-25T10:40:14.566Z"
     },
     {
       "pmid": "42735591",
@@ -390,7 +436,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:53.507Z"
+      "fetchedAt": "2026-09-25T10:40:24.481Z"
     },
     {
       "pmid": "42723418",
@@ -413,7 +459,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:44.520Z"
+      "fetchedAt": "2026-09-25T10:40:16.501Z"
     },
     {
       "pmid": "42761325",
@@ -436,7 +482,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:41.882Z"
+      "fetchedAt": "2026-09-25T10:40:13.930Z"
     },
     {
       "pmid": "42709285",
@@ -459,7 +505,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:45.190Z"
+      "fetchedAt": "2026-09-25T10:40:17.149Z"
     },
     {
       "pmid": "42769038",
@@ -482,30 +528,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:33.484Z"
-    },
-    {
-      "pmid": "42707429",
-      "title": "Beyond Bartonellosis: A Case Report of Hepatic Tuberculosis as a Final Diagnosis in a Child With Down Syndrome.",
-      "abstract": "Hepatic tuberculosis is a rare form of extrapulmonary manifestation. This case report depicts a 6-year-old boy with Down syndrome who presented with prolonged fever, weight loss, and hepatomegaly. The investigation revealed liver abnormalities suggestive of a granulomatous process, with the initial diagnosis of bartonellosis and, later, tuberculosis, with molecular testing and culture from a fragment of the liver biopsy. He underwent treatment and exhibited an excellent clinical response. This case highlights the importance of including hepatic tuberculosis in the differential diagnosis of liver diseases in children, even in the absence of evident pulmonary signs, especially in endemic regions including Brazil.",
-      "authors": [
-        "Camargos P",
-        "Filho AO",
-        "Silva JB"
-      ],
-      "journal": "Case reports in infectious diseases",
-      "publicationDate": "09 07, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42707429/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-24T10:36:45.850Z"
+      "fetchedAt": "2026-09-25T10:40:05.873Z"
     },
     {
       "pmid": "42737826",
@@ -528,7 +551,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:50.230Z"
+      "fetchedAt": "2026-09-25T10:40:21.303Z"
     },
     {
       "pmid": "42751105",
@@ -551,7 +574,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:36.145Z"
+      "fetchedAt": "2026-09-25T10:40:08.416Z"
     },
     {
       "pmid": "42738535",
@@ -574,7 +597,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:49.573Z"
+      "fetchedAt": "2026-09-25T10:40:20.666Z"
     },
     {
       "pmid": "42758511",
@@ -597,30 +620,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:34.821Z"
-    },
-    {
-      "pmid": "42729640",
-      "title": "Untitled",
-      "abstract": "[This corrects the article DOI: 10.3389/fmed.2026.1886935.].",
-      "authors": [
-        "Nilsen EA",
-        "Adkison H",
-        "Martinez JR"
-      ],
-      "journal": "Frontiers in medicine",
-      "publicationDate": "08 28, 2026",
-      "articleType": "Published Erratum",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42729640/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-24T10:36:37.959Z"
+      "fetchedAt": "2026-09-25T10:40:07.138Z"
     },
     {
       "pmid": "42751631",
@@ -643,7 +643,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:35.489Z"
+      "fetchedAt": "2026-09-25T10:40:07.775Z"
     },
     {
       "pmid": "42762016",
@@ -666,7 +666,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:41.209Z"
+      "fetchedAt": "2026-09-25T10:40:13.289Z"
     },
     {
       "pmid": "42730232",
@@ -689,7 +689,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-24T10:36:37.459Z"
+      "fetchedAt": "2026-09-25T10:40:09.691Z"
     }
   ]
 }
