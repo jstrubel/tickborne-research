@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-09-27T10:55:20.338Z",
+  "generatedAt": "2026-09-28T12:08:50.600Z",
   "totalPapers": 30,
   "papers": [
+    {
+      "pmid": "42802567",
+      "title": "Booster vaccination with an investigational Lyme disease vaccine in children, adolescents, and adults: a plain language summary.",
+      "abstract": "What is this summary about?This summary describes an article that was published in The Lancet Infectious Diseases. The article is about a study that looked at whether annual booster vaccinations with VLA15, a vaccine candidate being developed but not yet approved to provide protection against Lyme disease, were well tolerated and could raise antibody levels in children, adolescents, and adults before the next tick season. Study participants first received VLA15 on a Month 0-2-6 schedule or a Month 0-6 schedule or received placebo. At Month 18, study participants in both VLA15 study groups received a first annual VLA15 booster vaccination, and study participants in the placebo study group received another placebo injection. Throughout the study, the staff and study participants did not know to which study group each study participant was assigned.What were the study results?VLA15 vaccinations were well tolerated and led to raised antibody levels, providing strong antibody responses across all age groups. Antibody levels were higher after the Month 18 booster vaccination than after initial vaccination. The percentages of study participants with reactions to the Month 18 booster vaccination were similar to those after the initial VLA15 vaccinations.There were no safety concerns.What do the study results mean?VLA15 booster vaccination after an initial 2 or 3 vaccinations appears to be a safe strategy for raising antibody levels in children, adolescents, and adults before the next tick season. These findings should be considered when deciding vaccination schedules if VLA15 is approved as a vaccine against Lyme disease.",
+      "authors": [
+        "Wagner L",
+        "Messier M",
+        "Stark JH"
+      ],
+      "journal": "Expert review of vaccines",
+      "publicationDate": "Dec 27, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42802567/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-28T12:08:28.381Z"
+    },
     {
       "pmid": "42731067",
       "title": "Establishment and application of a multiplex qPCR panel for multi-host surveillance of tick-Borne pathogens.",
@@ -23,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:11.890Z"
+      "fetchedAt": "2026-09-28T12:08:41.748Z"
     },
     {
       "pmid": "42774704",
@@ -46,21 +69,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:07.952Z"
+      "fetchedAt": "2026-09-28T12:08:37.675Z"
     },
     {
-      "pmid": "42762493",
-      "title": "The Biology, Ecology, and Pathogenesis of Borrelia burgdorferi Sensu Lato: Implications for Tick-Borne Disease and Prevention.",
-      "abstract": "Borrelia burgdorferi is a highly evolved extracellular pathogen that employs diverse strategies to persist within a complex enzootic cycle. As the causative agent of Lyme disease (LD), it has been the focus of extensive research into host-pathogen interactions, particularly its mechanisms of survival in reservoir hosts and transmission dynamics, significantly advancing the field of tick-borne diseases. This review summarized the discovery and development of B. burgdorferi, and contributed towards a holistic view on the transmission dynamics and pathogenic mechanisms, with emphasis on the complement evasion mechanisms of B. burgdorferi, which informed the current prevention efforts. Looking forward, the application of single-cell high-throughput sequencing is expected to elucidate novel molecular mechanisms underlying the transmission, and artificial intelligence technology holds promise for developing global tick-borne disease databases and public communication platforms to support future prevention strategies. Overall, this review provides an integrated framework that bridges molecular pathogenesis, ecological dynamics, and technological innovation to inform both fundamental research and public health responses to LD.",
+      "pmid": "42802892",
+      "title": "The Impact of Infographics and Numerical Framing on Health Risk Perceptions and Behaviors: A Study of Ticks and Lyme Disease.",
+      "abstract": "This study explores how infographic exposure and numerical framing affect perceptions of ticks and Lyme disease. Using an experimental approach, 1,001 participants viewed messages with or without infographics containing numerical data presented either as percentages or absolute values. Infographic exposure boosted susceptibility and behavioral intentions. Numerical framing influenced severity, with percentages perceived as less severe. An interaction between infographic exposure and numerical framing reduced susceptibility. Higher arithmetic aptitude lessened the effects of message variation on behavioral intentions and subjective knowledge. Objective knowledge moderated the impact on severity, behavioral intentions, and subjective knowledge, with stronger message-consistent effects among those with lower knowledge.",
       "authors": [
-        "Wang H",
-        "Qiang Y",
-        "Jin L"
+        "Nadel OM",
+        "Merle P",
+        "Shuvo MSM"
       ],
-      "journal": "Archives of insect biochemistry and physiology",
-      "publicationDate": "Sep 31, 2026",
+      "journal": "Journal of health communication",
+      "publicationDate": "Sep 28, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42762493/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42802892/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
@@ -69,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:03.589Z"
+      "fetchedAt": "2026-09-28T12:08:27.718Z"
     },
     {
       "pmid": "42800079",
@@ -92,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:54:58.336Z"
+      "fetchedAt": "2026-09-28T12:08:29.066Z"
     },
     {
       "pmid": "42782139",
@@ -115,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:00.969Z"
+      "fetchedAt": "2026-09-28T12:08:31.731Z"
     },
     {
       "pmid": "42785622",
@@ -138,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:07.274Z"
+      "fetchedAt": "2026-09-28T12:08:37.000Z"
     },
     {
       "pmid": "42778602",
@@ -161,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:01.625Z"
+      "fetchedAt": "2026-09-28T12:08:32.398Z"
     },
     {
       "pmid": "42773980",
@@ -184,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:08.599Z"
+      "fetchedAt": "2026-09-28T12:08:38.338Z"
     },
     {
       "pmid": "42772934",
@@ -206,7 +229,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:02.266Z"
+      "fetchedAt": "2026-09-28T12:08:33.104Z"
     },
     {
       "pmid": "42740615",
@@ -229,7 +252,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:11.248Z"
+      "fetchedAt": "2026-09-28T12:08:41.057Z"
     },
     {
       "pmid": "42794809",
@@ -252,7 +275,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:18.029Z"
+      "fetchedAt": "2026-09-28T12:08:48.242Z"
     },
     {
       "pmid": "42791784",
@@ -275,7 +298,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:18.679Z"
+      "fetchedAt": "2026-09-28T12:08:48.918Z"
     },
     {
       "pmid": "42797509",
@@ -298,7 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:14.790Z"
+      "fetchedAt": "2026-09-28T12:08:44.868Z"
     },
     {
       "pmid": "42796752",
@@ -321,7 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:15.445Z"
+      "fetchedAt": "2026-09-28T12:08:45.545Z"
     },
     {
       "pmid": "42743369",
@@ -344,7 +367,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:10.577Z"
+      "fetchedAt": "2026-09-28T12:08:40.394Z"
     },
     {
       "pmid": "42797981",
@@ -367,7 +390,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:14.106Z"
+      "fetchedAt": "2026-09-28T12:08:44.217Z"
     },
     {
       "pmid": "42796729",
@@ -390,7 +413,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:54:59.645Z"
+      "fetchedAt": "2026-09-28T12:08:30.400Z"
     },
     {
       "pmid": "42761325",
@@ -413,7 +436,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:09.920Z"
+      "fetchedAt": "2026-09-28T12:08:39.676Z"
     },
     {
       "pmid": "42796727",
@@ -435,7 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:16.080Z"
+      "fetchedAt": "2026-09-28T12:08:46.207Z"
     },
     {
       "pmid": "42769038",
@@ -458,7 +481,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:02.941Z"
+      "fetchedAt": "2026-09-28T12:08:33.789Z"
     },
     {
       "pmid": "42796708",
@@ -481,7 +504,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:16.730Z"
+      "fetchedAt": "2026-09-28T12:08:46.892Z"
     },
     {
       "pmid": "42796700",
@@ -504,7 +527,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:17.374Z"
+      "fetchedAt": "2026-09-28T12:08:47.568Z"
     },
     {
       "pmid": "42796692",
@@ -526,30 +549,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:05.983Z"
-    },
-    {
-      "pmid": "42758511",
-      "title": "Coseropositivity to Tick-Borne Pathogens Among Patients Suspected to Have Lyme Disease.",
-      "abstract": "This cohort study investigates codetection of Borrelia burgdorferi and other tick-borne pathogens in patients being tested for tick-borne disease.",
-      "authors": [
-        "Li Y",
-        "Tong CH",
-        "Givens TS"
-      ],
-      "journal": "JAMA network open",
-      "publicationDate": "Sep 01, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42758511/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-27T10:55:04.257Z"
+      "fetchedAt": "2026-09-28T12:08:35.652Z"
     },
     {
       "pmid": "42799294",
@@ -572,7 +572,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:54:58.989Z"
+      "fetchedAt": "2026-09-28T12:08:29.736Z"
     },
     {
       "pmid": "42799294",
@@ -595,7 +595,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:13.453Z"
+      "fetchedAt": "2026-09-28T12:08:43.529Z"
     },
     {
       "pmid": "42794146",
@@ -618,7 +618,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:06.633Z"
+      "fetchedAt": "2026-09-28T12:08:36.319Z"
     },
     {
       "pmid": "42789116",
@@ -641,7 +641,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:00.302Z"
+      "fetchedAt": "2026-09-28T12:08:31.068Z"
     },
     {
       "pmid": "42789116",
@@ -664,7 +664,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:19.338Z"
+      "fetchedAt": "2026-09-28T12:08:49.599Z"
     },
     {
       "pmid": "42762016",
@@ -687,7 +687,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-27T10:55:09.266Z"
+      "fetchedAt": "2026-09-28T12:08:39.004Z"
     }
   ]
 }
