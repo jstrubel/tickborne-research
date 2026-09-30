@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T11:40:40.448Z",
+  "generatedAt": "2026-09-30T11:27:41.657Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:19.269Z"
+      "fetchedAt": "2026-09-30T11:27:23.085Z"
     },
     {
       "pmid": "42774704",
@@ -46,7 +46,99 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:29.132Z"
+      "fetchedAt": "2026-09-30T11:27:30.107Z"
+    },
+    {
+      "pmid": "42809981",
+      "title": "Evaluation of capture sequencing on the Oxford Nanopore MinION as a stand-alone molecular test for tick-borne diseases.",
+      "abstract": "Molecular diagnostics of tick-borne diseases (TBD) require the capacity to target a broad range of microbial pathogens circulating in ticks, along with the high sensitivity needed for detection of low burden agents such as Borrelia burgdorferi. Next generation sequencing (NGS) can have broad applicability for TBD. However, insufficient sensitivity and large infrastructure requirements limit the utility of this method for diagnostics. The application of capture-based NGS onto the Oxford Nanopore instruments presents an alternative approach that can provide high sensitivity coupled with smaller laboratory footprint. We tested the utility of our capture probe panel targeting tick-borne agents, the TBDCapSeq, on the Oxford Nanopore MinION. In direct comparison to quantitative PCR, we examined 64 whole blood samples, including 41 from patients diagnosed with Lyme disease, 7 from patients with suspected Lyme disease without seroconversion, 12 from symptomatic individuals suspected of tick-borne disease and 4 healthy controls. TBDCapSeq was more sensitive than qPCR. All agents detected by qPCR were correctly identified by TBDCapSeq. However, in analyses of 41 samples from patients with Lyme disease, 7 were positive for B. burgdorferi DNA with TBDCapSeq versus 3 with qPCR. Furthermore, with TBDCapSeq we also recovered substantial portions of the genome essential for downstream phylogenetic analyses. Our study demonstrated the potential utility of capture sequencing for molecular TBD diagnostics.",
+      "authors": [
+        "Sanchez-Vicente S",
+        "Kapoor V",
+        "Park J"
+      ],
+      "journal": "Ticks and tick-borne diseases",
+      "publicationDate": "Sep 29, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42809981/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-30T11:27:19.210Z"
+    },
+    {
+      "pmid": "42809612",
+      "title": "Metabolic regulation of the carbonyl stress pathway and methylglyoxal in Lyme disease and relapsing fever spirochetes.",
+      "abstract": "The carbonyl stress pathway in bacteria is mediated by the enigmatic metabolite methylglyoxal and is thought to be activated in response to cellular carbohydrate and phosphate imbalance. Methylglyoxal, produced from dihydroxyacetone phosphate by methylglyoxal synthase, covalently modifies nucleophilic groups of amino acid residues, such as lysine, arginine and cysteine, to yield advanced glycation end products. In this work, we have identified several environmental signals, including glycerol and peptides, which activate carbonyl stress in the Lyme disease spirochete Borrelia (Borreliella) burgdorferi. We establish that methylglyoxal production and protein glycation is dependent on the mgsA gene (bb0364) product and show that this pathway is active in Lyme disease spirochetes, but not relapsing fever Borrelia or in B. mayonii. Furthermore, we have investigated the role of carbonyl stress in the tick-mouse model of Lyme disease and provide evidence that production of methylglyoxal and glycation of proteins is not necessarily lethal, as previously believed, at least in Lyme disease spirochetes. Finally, we show that expression of the B. burgdorferi mgsA and carbonyl stress pathway in the relapsing fever spirochete B. hermsii significantly reduces the peak level of spirochetemia during the relapse phase of murine infection. Together, our results identify a new post-translation modification system in Lyme disease spirochetes that appears to be important in governing the lifestyle of this pathogen and seems to be selected against in spirochetes that reach high numbers in the blood.",
+      "authors": [
+        "Drecktrah D",
+        "Hall LS",
+        "Cheff B"
+      ],
+      "journal": "PLoS pathogens",
+      "publicationDate": "Sep 29, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42809612/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-30T11:27:19.883Z"
+    },
+    {
+      "pmid": "42808791",
+      "title": "Untitled",
+      "abstract": "In vitro viability assays are essential for studying the survival of Borrelia burgdorferi after exposure to stressful conditions. In contrast to the cumbersome and tedious manual microscopic counting method, fluorescence-based assays are more rapid and convenient and thus can be used in a high-throughput format. In the SYBR Green I/propidium iodide (PI) assay, spirochetes are labeled with different fluorescent dyes, and fluorescence ratios are then compared to calculate the ratio between live and dead spirochetes. Stained spirochetes are also manually counted under a fluorescence microscope or analyzed via flow cytometry to obtain the live/dead ratio. In this study, we compared these methods to determine the most accurate technique for quantifying spirochete viability. Our results showed that, compared with the SYBR Green I/PI assay that carries inherent caveats, both the fluorescent microscopic counting method and the flow cytometry method provide more reliable and accurate results for B. burgdorferi viability assays, and flow cytometry offers significant advantages in speed and reduced labor compared to manual microscopic counting. Leveraging the flow cytometry-based viability assay, we investigated the role of gene bbi29, encoding a putative virulence-associated lipoprotein, in B. burgdorferi stress response. The contribution of bbi29 to B. burgdorferi mammalian infection was also examined using a murine model of Lyme disease. Lyme disease, caused by Borrelia burgdorferi, is the most common tick-borne disease in the United States. Assessment of B. burgdorferi growth and viability has been traditionally challenging due to the slow growth and unique morphology of the spirochete. Recently, an optimized SYBR Green I/PI assay was developed and has since been used by a number of laboratories to assess B. burgdorferi viability. We herein surprisingly found that the SYBR Green I/PI assay has significant caveats and does not provide accurate quantification of B. burgdorferi viability. Rather, our data showed that flow cytometry is a superior alternative to quantify spirochete viability, providing a valuable methodological framework for future studies. Additionally, by investigating the role and requirement for gene bbi29, we have refined our understanding of hypothetical proteins in B. burgdorferi pathogenesis. Together, this work highlights the importance of developing and validating experimental approaches and functionally characterizing B. burgdorferi genes with unknown functions.",
+      "authors": [
+        "Waldron C",
+        "George S",
+        "Ouyang Z"
+      ],
+      "journal": "Applied and environmental microbiology",
+      "publicationDate": "Sep 29, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42808791/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-30T11:27:20.558Z"
+    },
+    {
+      "pmid": "42808196",
+      "title": "Misdiagnosis and Clinical Mimickers of Erythema Migrans: A Systematic Review.",
+      "abstract": "",
+      "authors": [
+        "Levy R",
+        "Bell M",
+        "Rosen CF"
+      ],
+      "journal": "Journal of cutaneous medicine and surgery",
+      "publicationDate": "Sep 29, 2026",
+      "articleType": "Letter",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42808196/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-09-30T11:27:21.057Z"
     },
     {
       "pmid": "42806239",
@@ -69,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:17.945Z"
+      "fetchedAt": "2026-09-30T11:27:21.735Z"
     },
     {
       "pmid": "42802892",
@@ -92,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:18.609Z"
+      "fetchedAt": "2026-09-30T11:27:22.411Z"
     },
     {
       "pmid": "42805403",
@@ -115,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:25.952Z"
+      "fetchedAt": "2026-09-30T11:27:26.948Z"
     },
     {
       "pmid": "42805295",
@@ -138,7 +230,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:26.452Z"
+      "fetchedAt": "2026-09-30T11:27:27.449Z"
     },
     {
       "pmid": "42805403",
@@ -161,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:33.452Z"
+      "fetchedAt": "2026-09-30T11:27:34.596Z"
     },
     {
       "pmid": "42800079",
@@ -184,30 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:19.938Z"
-    },
-    {
-      "pmid": "42782139",
-      "title": "MinD-like ATPase FlhG synchronizes flagellation and cell division in spirochetes.",
-      "abstract": "Spirochetes are evolutionarily distinct bacteria defined by their spiral morphology, unique means of motility, and periplasmic flagella (PFs). Because these flagella reside within the periplasm and are mechanically integrated with the cell body, their assembly must be precisely coordinated with cell growth and cytokinesis. However, the mechanism coupling flagellar biogenesis to cell division in spirochetes remains unclear. Using the Lyme disease spirochete Borrelia burgdorferi as a model, we identify FlhG (BB0269), a MinD-like ATPase, as a spatial regulator that links cell division to flagellar patterning. In wild-type cells, 7-11 long helical PFs form at each pole and form ribbon-like bundles that wrap around the cell cylinder to drive motility. Deletion of flhG disrupts this ordered architecture, resulting in pronounced heterogeneity in flagellar number, defective ribbon formation, aberrant septation, and severe motility defects. Mechanistically, FlhG dynamically localizes to the poles and division site, where it spatially organizes FlhF, an SRP-type GTPase that controls flagellar number and positioning, and FliF, the MS-ring protein that is an essential early component for flagellar biogenesis. Through this spatial regulation, FlhG coordinates flagellar biogenesis with cytokinetic progression. Together, these findings uncover a spatial regulatory mechanism that couples cell division to flagellation, providing insight into how spirochetes coordinate morphogenesis and motility to maintain their distinctive cellular architecture. Spirochetes such as Borrelia burgdorferi, the causative agent of Lyme disease, rely on periplasmic flagella for motility and cell shape, yet how these structures are coordinated with cell division has remained unclear. We identify a MinD-like ATPase, FlhG, as a spatial regulator that couples flagellar assembly to cytokinesis. In contrast to its homologs in most bacteria, FlhG does not regulate flagellar protein levels but instead directs subcellular positioning of key assembly factors. By dynamically redistributing between the cell poles and division site, FlhG synchronizes flagellar patterning with septum formation. These findings uncover a previously unrecognized mechanism linking cell morphogenesis to the cell cycle and reveal how conserved ATPases can be repurposed to organize complex bacterial architectures.",
-      "authors": [
-        "Zhang K",
-        "Guo W",
-        "Lynch MJ"
-      ],
-      "journal": "mBio",
-      "publicationDate": "Sep 24, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42782139/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-29T11:40:22.889Z"
+      "fetchedAt": "2026-09-30T11:27:23.767Z"
     },
     {
       "pmid": "42785622",
@@ -230,30 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:28.465Z"
-    },
-    {
-      "pmid": "42778602",
-      "title": "The anthropogenic fingerprint on emerging infectious diseases.",
-      "abstract": "Emerging infectious diseases are a hallmark of the Anthropocene1,2. Human-driven ecosystem changes and human-wildlife-livestock contact can drive the emergence of zoonotic and vector-borne diseases3-5, but how much these processes shape landscapes of outbreak risk is poorly understood, beyond a few well-studied systems6-8. Here we consolidate 58,319 outbreak event records for 32 diseases and systematically test&#xa0;how 16 hypothesized social and environmental drivers impact outbreak geographies, while accounting for detection and reporting biases. We show that outbreak risks are typically highest in mosaic landscapes where people and livestock live alongside forests and fragmented ecosystems. These combined factors, along with long-term declines in precipitation, share strong impacts across several vector-borne diseases (for example, dengue, Lyme disease and zoonotic arboviruses). By contrast, directly transmitted zoonoses (for example, Ebola and mpox) share few common drivers, and the impacts of most other anthropogenic pressures (for example, deforestation, climate warming and agricultural intensification) vary widely between diseases. Most consistently, the observed geography of outbreaks is shaped by healthcare access: reporting declines by a median of 32% (range across diseases: 1.2-96.7%) for each additional hour's travel time from a health facility. Our findings underscore that infectious disease spillover and emergence are multi-causal, and that no one-size-fits-all strategy can prevent epidemics and pandemics. Ecosystem-based public health interventions9 should always follow system-specific evidence, and be paired with greater investment in health systems and One Health pathogen surveillance.",
-      "authors": [
-        "Gibb R",
-        "Ryan SJ",
-        "Pigott DM"
-      ],
-      "journal": "Nature",
-      "publicationDate": "Sep 23, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42778602/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-29T11:40:23.547Z"
+      "fetchedAt": "2026-09-30T11:27:29.440Z"
     },
     {
       "pmid": "42773980",
@@ -276,29 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:29.806Z"
-    },
-    {
-      "pmid": "42772934",
-      "title": "Mostly getting along -Borrelia burgdorferi and its manipulation of the host immune system.",
-      "abstract": "Lyme disease is caused when mammalian hosts not part of the sylvatic life cycle, including humans, are infected with Borrelia burgdorferi (Bb) following the bite of an Ixodes tick. Ticks and natural mammalian host reservoirs, including rodents, however, are largely disease tolerant, despite Bb establishing persistent infection. We explore the complex and ongoing interplay between Bb and the immune system. We discuss how Bb infection-induced innate responses seem maladapted to this extracellular bacterial infection, perhaps explaining why CD4+ T cells are ineffective contributors to Bb infection control. While B cell responses critically control Bb tissue burden and disease development they cannot clear the infection, showing a bias towards ongoing plasmablast responses and a lack of functional germinal centers. Identifying the mechanisms that hinder effective immune clearance of Bb may lead to new approaches for the treatment of Lyme Disease.",
-      "authors": [
-        "Sachan S",
-        "Baumgarth N"
-      ],
-      "journal": "ImmunoHorizons",
-      "publicationDate": "Sep 22, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42772934/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-29T11:40:24.208Z"
+      "fetchedAt": "2026-09-30T11:27:30.774Z"
     },
     {
       "pmid": "42794809",
@@ -321,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:38.782Z"
+      "fetchedAt": "2026-09-30T11:27:39.990Z"
     },
     {
       "pmid": "42791784",
@@ -344,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:39.447Z"
+      "fetchedAt": "2026-09-30T11:27:40.655Z"
     },
     {
       "pmid": "42797509",
@@ -367,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:35.478Z"
+      "fetchedAt": "2026-09-30T11:27:36.630Z"
     },
     {
       "pmid": "42796752",
@@ -390,7 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:36.137Z"
+      "fetchedAt": "2026-09-30T11:27:37.283Z"
     },
     {
       "pmid": "42743369",
@@ -413,7 +437,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:31.800Z"
+      "fetchedAt": "2026-09-30T11:27:32.744Z"
     },
     {
       "pmid": "42797981",
@@ -436,7 +460,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:34.776Z"
+      "fetchedAt": "2026-09-30T11:27:35.964Z"
     },
     {
       "pmid": "42796729",
@@ -459,7 +483,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:21.241Z"
+      "fetchedAt": "2026-09-30T11:27:25.100Z"
     },
     {
       "pmid": "42761325",
@@ -482,7 +506,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:31.139Z"
+      "fetchedAt": "2026-09-30T11:27:32.081Z"
     },
     {
       "pmid": "42796727",
@@ -504,7 +528,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:36.796Z"
+      "fetchedAt": "2026-09-30T11:27:37.960Z"
     },
     {
       "pmid": "42796708",
@@ -527,7 +551,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:37.459Z"
+      "fetchedAt": "2026-09-30T11:27:38.634Z"
     },
     {
       "pmid": "42796700",
@@ -550,7 +574,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:38.128Z"
+      "fetchedAt": "2026-09-30T11:27:39.317Z"
     },
     {
       "pmid": "42796692",
@@ -572,7 +596,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:27.114Z"
+      "fetchedAt": "2026-09-30T11:27:28.108Z"
     },
     {
       "pmid": "42799294",
@@ -595,7 +619,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:20.589Z"
+      "fetchedAt": "2026-09-30T11:27:24.430Z"
     },
     {
       "pmid": "42799294",
@@ -618,7 +642,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:34.117Z"
+      "fetchedAt": "2026-09-30T11:27:35.267Z"
     },
     {
       "pmid": "42794146",
@@ -641,30 +665,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:27.779Z"
-    },
-    {
-      "pmid": "42789116",
-      "title": "Molecular investigation of tick-borne pathogens in Ixodes ricinus feeding on lizards in the Central Pyrenees, Spain.",
-      "abstract": "Ixodes ricinus is the most widespread tick species in Europe, parasitizing a broad range of vertebrate hosts, including reptiles. However, the role of lizards in the ecology of tick-borne pathogens remains poorly understood. This study investigated tick infestation levels and the occurrence of tick-borne pathogens in I. ricinus feeding on European common lizards (Zootoca vivipara louislantzi) in the central Pyrenees, Spain. A total of 137 lizards were captured in summer and spring of 2024 at two sites (~&#x2009;1700&#xa0;m.a.s.l.). Tick infestation prevalence was 98.5% and a mean abundance of 5.8&#x2009;&#xb1;&#x2009;7.0 ticks. Infestation was significantly higher in males, adults, and during spring. Molecular screening of 525 ticks (188 pools) using real-time and conventional PCR protocols detected Rickettsia spp. DNA in 15.4% pools, with an overall minimum infection rate (MIR) of 5.52%, with stage-specific MIRs of 4.79% in larvae and 7.81% in nymphs. Sequencing of 14 amplicons identified Rickettsia helvetica (n&#x2009;=&#x2009;11) and Rickettsia monacensis (n&#x2009;=&#x2009;3). Babesia DNA was detected at low prevalence (MIR: 0.38%) and sequences clustered within the Babesia divergens-Babesia capreoli complex. No Borrelia burgdorferi sensu lato and Anaplasma phagocytophilum DNA was detected. Our findings show that lizards can sustain high levels of I. ricinus infestation, constituting a reliable bloodmeal source for ticks infected with Rickettsia and Babesia in the mountain ecosystems of the Pyrenees. Although the lizard's role in pathogen transmission remains to be clarified, its consistent exposure to immature ticks highlights its potential value as a sentinel species for monitoring tick-borne pathogen circulation in high-altitude environments.",
-      "authors": [
-        "Soares SM",
-        "S&#xe1;nchez-S&#xe1;nchez M",
-        "Rodr&#xed;guez-Pastor R"
-      ],
-      "journal": "Parasitology research",
-      "publicationDate": "Aug 21, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42789116/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-29T11:40:21.897Z"
+      "fetchedAt": "2026-09-30T11:27:28.774Z"
     },
     {
       "pmid": "42762016",
@@ -687,7 +688,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-29T11:40:30.484Z"
+      "fetchedAt": "2026-09-30T11:27:31.455Z"
     }
   ]
 }
