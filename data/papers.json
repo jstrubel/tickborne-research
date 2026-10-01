@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T11:27:41.657Z",
+  "generatedAt": "2026-10-01T11:55:24.421Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:23.085Z"
+      "fetchedAt": "2026-10-01T11:55:08.470Z"
+    },
+    {
+      "pmid": "42811286",
+      "title": "Persistent Bartonella quintana Infection in Macaques at Primate Research Institute, Japan.",
+      "abstract": "Bartonella quintana, the causative agent of trench fever, is a louseborne bacterial pathogen. During 2016-2017, we investigated B. quintana infection in macaques housed at 2 primate research institutes in Japan. We isolated B. quintana from 3 wild-caught Japanese macaques, which had been introduced into 1 institute in 2009. The macaques had received periodic ivermectin treatment every 1-2 years to control blood-feeding arthropods. Whole-genome comparisons revealed that the 3 isolates exhibit higher homology to a Japanese macaque-derived strain than to rhesus macaque-derived or human-derived strains. In addition, in all 3 isolates, the bepA locus was absent; we classified the trwL locus as structural variant C, consistent with known Japanese macaque-derived strains. Our findings suggest that B. quintana bacteremia in the macaques might have persisted for 7-8 years in captivity, and that the bacterium was not accidentally transmitted to them from humans by reverse zoonosis.",
+      "authors": [
+        "Nomura Y",
+        "Fukudome Y",
+        "Homma A"
+      ],
+      "journal": "Emerging infectious diseases",
+      "publicationDate": "Oct 30, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42811286/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-01T11:55:10.663Z"
     },
     {
       "pmid": "42774704",
@@ -46,7 +69,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:30.107Z"
+      "fetchedAt": "2026-10-01T11:55:14.354Z"
+    },
+    {
+      "pmid": "42815526",
+      "title": "Is 28 days of doxycycline still justified for canine Lyme arthropathy? A call for a randomized controlled trial.",
+      "abstract": "Canine Lyme borreliosis is commonly treated with a 28-day course of doxycycline, a regimen based on historical precedent rather than evidence. Most dogs exposed to Borrelia burgdorferi remain clinically normal despite seroconversion; of those that do develop clinical Lyme disease, the most common presentation is acute or recurrent shifting-leg lameness consistent with Lyme arthropathy. This Viewpoint proposes there is clinical equipoise to evaluate shorter durations of 10 days of doxycycline in dogs with uncomplicated Lyme arthropathy and outlines a prospective parallel-group randomized controlled trial to reassess treatment duration. Determining whether a shorter treatment course is clinically effective also has important implications for antimicrobial stewardship by minimizing unnecessary antimicrobial exposure and selection pressures for antimicrobial resistance.",
+      "authors": [
+        "Emdin F",
+        "Daneman N",
+        "Weese JS"
+      ],
+      "journal": "Journal of the American Veterinary Medical Association",
+      "publicationDate": "Sep 30, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42815526/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-01T11:55:04.152Z"
+    },
+    {
+      "pmid": "42816510",
+      "title": "Genome assembly and gene annotation of Babesia ovis Israeli strain (Piroplasmida: Babesiidae) using PacBio HiFi sequencing.",
+      "abstract": "Babesia ovis is a unicellular parasite of sheep and goats transmitted by the tick Rhipicephalus bursa. B. ovis infection is widespread and can be lethal, and therefore there is need for a deeper understanding of its biology and pathogenesis. There is currently a single genome available for a clinical isolate of B. ovis, and no laboratory strains have been sequenced so far. In this study we have sequenced and assembled the genome of the Israeli laboratory strain of B. ovis using highly accurate long-read sequencing (PacBio HiFi). The resulting assembly has high contiguity, with the four largest contigs comprising 96% of the assembly and representing putative near-complete chromosomes. Annotation identified 3,549 genes, of which 3,046 (85.6%) could be functionally annotated. BUSCO analysis on the annotated genes revealed 95.5%, 98.8% and 100% completeness of the Aconoidasida, Apicomplexa, and Alveolata lineages, respectively. Comparative analysis with other annotated piroplasmida genomes reveals the vast majority of predicted genes clustered in orthogroups. The availability of a high-quality genome assembly for a tractable laboratory strain could prove impactful in unlocking more basic and applied research avenues to be pursued for this important parasite system.",
+      "authors": [
+        "Borges Dias G",
+        "Albuquerque G",
+        "Yngve H"
+      ],
+      "journal": "Scientific data",
+      "publicationDate": "Sep 30, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42816510/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-01T11:55:17.698Z"
     },
     {
       "pmid": "42809981",
@@ -69,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:19.210Z"
+      "fetchedAt": "2026-10-01T11:55:04.775Z"
     },
     {
       "pmid": "42809612",
@@ -92,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:19.883Z"
+      "fetchedAt": "2026-10-01T11:55:05.399Z"
     },
     {
       "pmid": "42808791",
@@ -115,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:20.558Z"
+      "fetchedAt": "2026-10-01T11:55:06.034Z"
     },
     {
       "pmid": "42808196",
@@ -138,7 +207,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:21.057Z"
+      "fetchedAt": "2026-10-01T11:55:06.533Z"
     },
     {
       "pmid": "42806239",
@@ -161,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:21.735Z"
+      "fetchedAt": "2026-10-01T11:55:07.184Z"
     },
     {
       "pmid": "42802892",
@@ -184,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:22.411Z"
+      "fetchedAt": "2026-10-01T11:55:07.799Z"
     },
     {
       "pmid": "42805403",
@@ -207,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:26.948Z"
+      "fetchedAt": "2026-10-01T11:55:11.332Z"
     },
     {
       "pmid": "42805295",
@@ -220,7 +289,7 @@
       ],
       "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
       "publicationDate": "Sep 28, 2026",
-      "articleType": "Published Erratum",
+      "articleType": "Journal Article",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42805295/",
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
@@ -230,7 +299,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:27.449Z"
+      "fetchedAt": "2026-10-01T11:55:11.832Z"
     },
     {
       "pmid": "42805403",
@@ -253,7 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:34.596Z"
+      "fetchedAt": "2026-10-01T11:55:18.347Z"
     },
     {
       "pmid": "42800079",
@@ -276,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:23.767Z"
+      "fetchedAt": "2026-10-01T11:55:09.124Z"
     },
     {
       "pmid": "42785622",
@@ -299,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:29.440Z"
+      "fetchedAt": "2026-10-01T11:55:13.697Z"
     },
     {
       "pmid": "42773980",
@@ -322,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:30.774Z"
+      "fetchedAt": "2026-10-01T11:55:15.018Z"
     },
     {
       "pmid": "42794809",
@@ -345,30 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:39.990Z"
-    },
-    {
-      "pmid": "42791784",
-      "title": "Epidemiological Survey of Tick-Borne Zoonotic Pathogens in Questing Ticks from the Qinghai-Tibetan Plateau of China.",
-      "abstract": "Tick-borne zoonotic pathogens, including Rickettsia, Anaplasma, Ehrlichia, and Babesia spp., pose increasing risks to human and animal health. This study investigated tick species composition and associated zoonotic pathogens across high-(1500-3000 m) and very high-altitude (>3000-5500 m) zones of the Qinghai-Tibetan Plateau area (QTPA). A total of 1025 questing ticks were collected from 11 counties and identified as Haemaphysalis qinghaiensis (n = 316), Dermacentor nuttalli (n = 685), D. silvarum (n = 20), and D. niveus (n = 4). Tick composition showed clear zonal variation. In the high-altitude zone, all four species were present, with H. qinghaiensis as the dominant species. In contrast, only Dermacentor spp. were detected in the very high-altitude zone, where D. nuttalli predominated. PCR and sequence analyses detected DNA of multiple pathogens in 137/1025 (13.4%) ticks. Rickettsia was most prevalent (11.4%), followed by Anaplasmataceae (2.2%) and Babesia (0.2%). In the high-altitude zone, H. qinghaiensis harbored R. raoultii, R. slovaca, Anaplasma phagocytophilum, A. bovis, uncultured Rickettsia, Anaplasma, and Ehrlichia spp., and a Babesia motasi-like organism. In contrast, in the very high-altitude zone, D. nuttalli mainly carried R. raoultii, R. slovaca, A. phagocytophilum, A. ovis, and uncultured Rickettsia and Ehrlichia spp. In conclusion, tick species composition and associated pathogens varied between the altitude zones in QTPA. In particular, the predominance of human-biting D. nuttalli in the very high-altitude zone, together with detection of zoonotic agents, highlights the public health relevance of tick-borne infections in this region. Additional studies are essential to establish vector competence or transmission.",
-      "authors": [
-        "Ma Y",
-        "Li X",
-        "Jian Y"
-      ],
-      "journal": "Animals : an open access journal from MDPI",
-      "publicationDate": "Sep 17, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42791784/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-30T11:27:40.655Z"
+      "fetchedAt": "2026-10-01T11:55:23.420Z"
     },
     {
       "pmid": "42797509",
@@ -391,7 +437,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:36.630Z"
+      "fetchedAt": "2026-10-01T11:55:20.280Z"
     },
     {
       "pmid": "42796752",
@@ -414,30 +460,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:37.283Z"
-    },
-    {
-      "pmid": "42743369",
-      "title": "Metagenomic insights into pathogen diversity and public health risk of Haemaphysalis longicornis in Gansu Province of China.",
-      "abstract": "The tick Haemaphysalis longicornis vectors numerous zoonotic pathogens, yet its pathogen diversity and associated spatial health risks are not fully characterized. To profile this vector, we performed metagenomic sequencing on 290 H. longicornis ticks across 29 sites in Gansu Province, China. We resolved 25 bacterial and one protozoan genera, with computational analyses revealing population-level distribution patterns and identifying environmental factors as key drivers of spatial variation.We detected marker genes associated with 12 pathogenic microorganisms. Alongside established threats (Rickettsia conorii, R. rickettsii, Coxiella burnetii, and Francisella novicida), we additionally identified several pathogens not previously reported in this vector, including Candidatus Bartonella merieuxii, Acinetobacter lwoffii, Shigella flexneri, Staphylococcus chromogenes, Moraxella atlantae, Pseudomonas alabamensis, and Trypanosoma spp. Furthermore, four potentially novel strains were identified within R. conorii, Escherichia coli, and Acinetobacter pseudolwoffii. Spatial Bayesian risk modeling localized the highest exposure risks to the Linxia, Zhangye, and Wuwei regions. The tick microbiome contained 31 clinically prioritized antibiotic resistance genes (ARGs), many of which co-localized with mobile genetic elements (MGEs). Overall, these findings reveal the diversity of pathogens associated with H. longicornis and their public health relevance, supporting future efforts in disease surveillance and risk assessment.",
-      "authors": [
-        "Yang B",
-        "Ren Q",
-        "Wang J"
-      ],
-      "journal": "PLoS neglected tropical diseases",
-      "publicationDate": "Sep 15, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42743369/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-30T11:27:32.744Z"
+      "fetchedAt": "2026-10-01T11:55:20.940Z"
     },
     {
       "pmid": "42797981",
@@ -460,30 +483,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:35.964Z"
-    },
-    {
-      "pmid": "42796729",
-      "title": "Risk Analysis from the Burden of Lyme Disease (BOLD) Study.",
-      "abstract": "Lyme borreliosis (LB) is endemic in many European countries. The prospective, epidemiological Burden of Lyme Disease (BOLD) study used unified case definitions to characterise LB burden in Europe. A retrospective case-control study was nested within the BOLD study to better understand LB risk factors. LB patients were evaluated at 14 healthcare practices in high-LB-incidence areas in six European countries: the Czech Republic, Germany, Poland, Slovakia, Slovenia, and Sweden between April 2021 and December 2022. Enrolled cases and age-group-matched controls were interviewed about potential risk factors, and multivariate regression analysis was used to analyse the responses. Patients with LB were more likely than matched controls to live in neighbourhoods with >50% woods, to have a garden that is composed of less than half dense trees, and to have a garden visited by wild animals. Characteristics associated with lower LB risk included being male and not having a bird feeder. The results are suggestive of risk associated with edge-of-the-forest areas, aligning with the previous literature on the increased risk of LB with forest fragmentation. Our findings support the importance of landscape structure and human-environment interactions in shaping LB risk.",
-      "authors": [
-        "Halsby K",
-        "Loew-Baselli A",
-        "Moniuszko-Malinowska A"
-      ],
-      "journal": "Pathogens (Basel, Switzerland)",
-      "publicationDate": "Sep 09, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42796729/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-30T11:27:25.100Z"
+      "fetchedAt": "2026-10-01T11:55:19.631Z"
     },
     {
       "pmid": "42761325",
@@ -506,7 +506,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:32.081Z"
+      "fetchedAt": "2026-10-01T11:55:16.277Z"
     },
     {
       "pmid": "42796727",
@@ -528,7 +528,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:37.960Z"
+      "fetchedAt": "2026-10-01T11:55:21.560Z"
+    },
+    {
+      "pmid": "42816858",
+      "title": "Efficacy of a low-dose fipronil bait in controlling blacklegged tick (Ixodes scapularis) larvae parasitizing white-footed mice (Peromyscus leucopus) under field conditions in the northeastern United States.",
+      "abstract": "Lyme disease, caused primarily by Borrelia burgdorferi sensu stricto, remains the most common vector-borne disease in the United States despite control efforts. Peromyscus leucopus (white-footed mouse) is a key natural pathogen reservoir and Ixodes scapularis ticks, commonly infesting this rodent, serve as vectors for spirochetes causing human Lyme disease. Laboratory and simulated field studies demonstrated substantial efficacy of a 0.005% fipronil bait in systemically controlling I. scapularis parasitizing treated P. leucopus. To evaluate fipronil bait efficacy under natural conditions, a multi-year field study was conducted in Connecticut. Reusable rodent bait stations containing fipronil bait were deployed on residential properties during the I. scapularis nymphal and larval seasons (May-August) from 2022 to 2024. Bait consumption was monitored and bait replenished as needed. Peromyscus leucopus were captured during larval season each year within treated and control properties to assess parasitizing I. scapularis and determine fipronil concentrations in P. leucopus plasma. Drag sampling/flagging was performed during I. scapularis nymphal seasons to estimate abundance of host-seeking nymphs. Molecular assays were used to determine B. burgdorferi infection in P. leucopus and host-seeking nymphs. An average of 4.9&#xa0;kg of fipronil bait, containing approximately 247&#xa0;mg fipronil, was distributed/property/year. The majority of plasma samples analyzed (100% in 2022 and 2023; 83.3% in 2024) had detectable concentrations of fipronil sulfone. Results indicated that within treated properties, parasitizing larvae and successfully engorging larvae were significantly reduced by up to 84.2% and 92.5%, respectively. Additionally, B. burgdorferi infection in P. leucopus was significantly reduced by up to 34.1% relative to control. While reductions were noted in density and B. burgdorferi infection in host-seeking nymphs within treatment properties, there were no detectable significant differences relative to control. Our results demonstrate potential for a low-dose fipronil bait to significantly reduce parasitizing tick burden, pathogen prevalence in wild mice, with potential to reduce host-seeking nymph density and pathogen infection. Future research should consider increasing the bait application rate during the larval season to more effectively reduce density and B. burgdorferi infection rate in host-seeking nymphs. Additional field studies would aid in confirming these findings and further investigation of the potential impact of largescale treatment.",
+      "authors": [
+        "Poch&#xe9; DM",
+        "Williams SC",
+        "Linske MA"
+      ],
+      "journal": "Parasites & vectors",
+      "publicationDate": "Sep 07, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42816858/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-01T11:55:03.505Z"
     },
     {
       "pmid": "42796708",
@@ -551,7 +574,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:38.634Z"
+      "fetchedAt": "2026-10-01T11:55:22.175Z"
     },
     {
       "pmid": "42796700",
@@ -574,7 +597,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:39.317Z"
+      "fetchedAt": "2026-10-01T11:55:22.794Z"
     },
     {
       "pmid": "42796692",
@@ -596,30 +619,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:28.108Z"
-    },
-    {
-      "pmid": "42799294",
-      "title": "Profound Hemolytic Anemia in Babesiosis With Lyme Disease Coinfection and Occult Strongyloidiasis.",
-      "abstract": "Babesiosis is a tick-borne infection caused by intraerythrocytic Babesia parasites and may result in severe hemolytic anemia and systemic complications. Coinfection with other Ixodes-borne pathogens may further complicate diagnosis and management. We report a 45-year-old immunocompetent man working as a landscaper in Connecticut who presented with syncope following two weeks of fever, fatigue, diaphoresis, arthralgias, jaundice, and dark urine. Laboratory evaluation revealed profound hemolytic anemia with a hemoglobin of 6.8 g/dL, elevated lactate dehydrogenase (LDH), undetectable haptoglobin, reticulocytosis, and stage 1 acute kidney injury. Peripheral blood smear demonstrated characteristic Maltese cross formations, with approximately 0.6% parasitemia, and polymerase chain reaction (PCR) testing confirmed Babesia microti and Borrelia burgdorferi coinfection. Direct antiglobulin testing for immunoglobulin G (IgG) was negative. The patient required intensive care monitoring and transfusion and improved following treatment with atovaquone, azithromycin, and doxycycline. Subsequent outpatient evaluation identified asymptomatic Strongyloides stercoralis infection, which was treated with ivermectin. This finding was clinically significant because warm autoimmune hemolytic anemia is a recognized complication of babesiosis and may require corticosteroid therapy, which can precipitate potentially life-threatening Strongyloides hyperinfection in patients with occult infection. This case highlights that severe babesiosis may occur despite low-level parasitemia and emphasizes the importance of recognizing coinfections and obtaining a detailed occupational and environmental exposure history, particularly when future immunosuppressive therapy may be considered.",
-      "authors": [
-        "Jovanovic N",
-        "Bent T",
-        "Altic A"
-      ],
-      "journal": "Cureus",
-      "publicationDate": "Aug 26, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42799294/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-09-30T11:27:24.430Z"
+      "fetchedAt": "2026-10-01T11:55:12.448Z"
     },
     {
       "pmid": "42799294",
@@ -642,7 +642,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:35.267Z"
+      "fetchedAt": "2026-10-01T11:55:18.984Z"
     },
     {
       "pmid": "42794146",
@@ -665,7 +665,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:28.774Z"
+      "fetchedAt": "2026-10-01T11:55:13.077Z"
     },
     {
       "pmid": "42762016",
@@ -688,7 +688,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-09-30T11:27:31.455Z"
+      "fetchedAt": "2026-10-01T11:55:15.656Z"
     }
   ]
 }
