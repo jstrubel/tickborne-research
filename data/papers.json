@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T11:55:24.421Z",
+  "generatedAt": "2026-10-02T11:27:49.840Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:08.470Z"
+      "fetchedAt": "2026-10-02T11:27:34.380Z"
     },
     {
       "pmid": "42811286",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:10.663Z"
+      "fetchedAt": "2026-10-02T11:27:36.408Z"
     },
     {
       "pmid": "42774704",
@@ -69,7 +69,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:14.354Z"
+      "fetchedAt": "2026-10-02T11:27:39.999Z"
+    },
+    {
+      "pmid": "42822458",
+      "title": "Mitochondrial proteome of the apicomplexan Babesia divergens.",
+      "abstract": "Babesia are tick-transmitted apicomplexan parasites of widespread medical and veterinary importance. Although atovaquone, a first-line therapy for human babesiosis, targets one of the three proteins encoded by mitochondrial DNA, a full characterization of the nuclear-encoded mitochondrial proteome is lacking. Here, we combined organelle immunoprecipitation and density gradient separation to enrich mitochondria from Babesia divergens. Using protein mass spectrometry and protein correlation profiling, we generated B. divergens MitoCarta (BdMitoCarta), a high-confidence inventory of 525 mitochondrial proteins. The B. divergens mitoproteome is broadly conserved across Apicomplexa, which, as a clade, have undergone reductive evolution. As seen in other apicomplexans, metabolite transport and the TCA cycle have diverged, with loss of the pyruvate dehydrogenase complex, presence of malate:quinone oxidoreductase, and a class I fumarate hydratase. Specific to Babesia is the presence of two mitochondrial isocitrate dehydrogenase homologs. Using isolated mitochondria, we performed blue native PAGE complexome analysis and detected previously uncharacterized proteins co-migrating with the ATP synthase and mitochondrial ribosome. Our work has yielded the first mitochondrial proteome and complexome for Babesia, which we expect to be a valuable resource for understanding the evolution of apicomplexan parasites for future therapeutic development.",
+      "authors": [
+        "Betsinger CN",
+        "Calvo SE",
+        "Mian SY"
+      ],
+      "journal": "Current biology : CB",
+      "publicationDate": "Oct 01, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42822458/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-02T11:27:43.277Z"
     },
     {
       "pmid": "42815526",
@@ -92,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:04.152Z"
+      "fetchedAt": "2026-10-02T11:27:30.197Z"
     },
     {
       "pmid": "42816510",
@@ -115,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:17.698Z"
+      "fetchedAt": "2026-10-02T11:27:43.898Z"
     },
     {
       "pmid": "42809981",
@@ -138,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:04.775Z"
+      "fetchedAt": "2026-10-02T11:27:30.807Z"
     },
     {
       "pmid": "42809612",
@@ -161,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:05.399Z"
+      "fetchedAt": "2026-10-02T11:27:31.415Z"
     },
     {
       "pmid": "42808791",
@@ -184,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:06.034Z"
+      "fetchedAt": "2026-10-02T11:27:32.023Z"
     },
     {
       "pmid": "42808196",
@@ -207,7 +230,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:06.533Z"
+      "fetchedAt": "2026-10-02T11:27:32.522Z"
     },
     {
       "pmid": "42806239",
@@ -230,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:07.184Z"
+      "fetchedAt": "2026-10-02T11:27:33.139Z"
     },
     {
       "pmid": "42802892",
@@ -253,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:07.799Z"
+      "fetchedAt": "2026-10-02T11:27:33.754Z"
     },
     {
       "pmid": "42805403",
@@ -276,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:11.332Z"
+      "fetchedAt": "2026-10-02T11:27:37.015Z"
     },
     {
       "pmid": "42805295",
@@ -299,7 +322,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:11.832Z"
+      "fetchedAt": "2026-10-02T11:27:37.514Z"
     },
     {
       "pmid": "42805403",
@@ -322,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:18.347Z"
+      "fetchedAt": "2026-10-02T11:27:44.518Z"
     },
     {
       "pmid": "42800079",
@@ -345,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:09.124Z"
+      "fetchedAt": "2026-10-02T11:27:34.991Z"
     },
     {
       "pmid": "42785622",
@@ -368,7 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:13.697Z"
+      "fetchedAt": "2026-10-02T11:27:39.376Z"
     },
     {
       "pmid": "42773980",
@@ -391,30 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:15.018Z"
-    },
-    {
-      "pmid": "42794809",
-      "title": "Untitled",
-      "abstract": "Babesiosis is an emerging tick-borne zoonosis hampered by drug-resistant Babesia parasites and the absence of vaccines. Rotating magnetic field-activated superparamagnetic iron oxide nanoparticles (RMF-SPIONs) exert anti-tumor and antibacterial effects, yet their efficacy against intraerythrocytic protozoa, including Babesia microti, is unclear. We established murine B. microti and Plasmodium yoelii infection models, using immunodeficient mouse strains and immune cell depletion approaches to dissect the antiparasitic mechanism, alongside cytokine detection, long-term physiological observation and parasite rechallenge assays. RMF-SPION therapy markedly inhibited B. microti proliferation but showed no efficacy against P. yoelii. Macrophages served as the key effector cells through IL-12 secretion, while NK cells likely played auxiliary regulatory roles in this system. Convalescent mice developed strain-specific premunition, though latent infection induced chronic inflammation and visceral lesions. In conclusion, RMF-SPIONs selectively activate macrophages to eliminate B. microti. Combining natural premunition with macrophage-targeted activation likely provides a non-chemical strategy against drug-resistant babesiosis.",
-      "authors": [
-        "Li J",
-        "Wang S",
-        "Wang Y"
-      ],
-      "journal": "International journal of molecular sciences",
-      "publicationDate": "Sep 20, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42794809/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-01T11:55:23.420Z"
+      "fetchedAt": "2026-10-02T11:27:40.615Z"
     },
     {
       "pmid": "42797509",
@@ -437,7 +437,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:20.280Z"
+      "fetchedAt": "2026-10-02T11:27:46.364Z"
     },
     {
       "pmid": "42796752",
@@ -460,7 +460,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:20.940Z"
+      "fetchedAt": "2026-10-02T11:27:46.991Z"
     },
     {
       "pmid": "42797981",
@@ -483,7 +483,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:19.631Z"
+      "fetchedAt": "2026-10-02T11:27:45.754Z"
     },
     {
       "pmid": "42761325",
@@ -506,7 +506,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:16.277Z"
+      "fetchedAt": "2026-10-02T11:27:41.845Z"
     },
     {
       "pmid": "42796727",
@@ -528,7 +528,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:21.560Z"
+      "fetchedAt": "2026-10-02T11:27:47.608Z"
     },
     {
       "pmid": "42816858",
@@ -551,7 +551,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:03.505Z"
+      "fetchedAt": "2026-10-02T11:27:29.578Z"
     },
     {
       "pmid": "42796708",
@@ -574,7 +574,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:22.175Z"
+      "fetchedAt": "2026-10-02T11:27:48.228Z"
     },
     {
       "pmid": "42796700",
@@ -597,7 +597,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:22.794Z"
+      "fetchedAt": "2026-10-02T11:27:48.840Z"
     },
     {
       "pmid": "42796692",
@@ -619,7 +619,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:12.448Z"
+      "fetchedAt": "2026-10-02T11:27:38.146Z"
     },
     {
       "pmid": "42799294",
@@ -642,7 +642,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:18.984Z"
+      "fetchedAt": "2026-10-02T11:27:45.138Z"
     },
     {
       "pmid": "42794146",
@@ -665,7 +665,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:13.077Z"
+      "fetchedAt": "2026-10-02T11:27:38.758Z"
     },
     {
       "pmid": "42762016",
@@ -688,7 +688,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-01T11:55:15.656Z"
+      "fetchedAt": "2026-10-02T11:27:41.235Z"
     }
   ]
 }
