@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T12:18:16.940Z",
+  "generatedAt": "2026-10-07T12:09:32.728Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:17:56.874Z"
+      "fetchedAt": "2026-10-07T12:09:14.678Z"
     },
     {
       "pmid": "42811286",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:05.723Z"
+      "fetchedAt": "2026-10-07T12:09:21.702Z"
     },
     {
       "pmid": "42830543",
@@ -69,7 +69,76 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:03.836Z"
+      "fetchedAt": "2026-10-07T12:09:19.842Z"
+    },
+    {
+      "pmid": "42839832",
+      "title": "When Clades Collide: Genomic Admixture in Blacklegged Ticks (Ixodes scapularis) From the Great Plains.",
+      "abstract": "Ixodes scapularis ticks transmit a number of pathogens important to human health, including Borrelia burgdorferi sensu stricto, the causative agent of Lyme disease. While I. scapularis is found across the Eastern United States, Lyme disease transmission is largely limited to the Northeast and Upper Midwest and is nearly absent in the South. This indicates that differences in northern versus southern clades of I. scapularis are associated with differences in Lyme disease transmission risk. Ixodes scapularis is undergoing range expansion, including into the Great Plains region of the United States. Determining where I. scapularis populations in the Great Plains originated can inform future risk of Lyme disease transmission in this region. In this study, we use a population genomics framework to characterize diversity, structure and B. burgdorferi infection rates of I. scapularis populations in the Great Plains region. We generated whole genome sequence data and single nucleotide polymorphism (SNP) datasets from I. scapularis ticks collected in Iowa, Kansas, Nebraska and South Dakota to compare to publicly available data from across the species' range. Our analysis of 200 I. scapularis SNP datasets indicated geographically well-defined populations that correspond to historical northern and southern ancestral clades of I. scapularis. Ticks from South Dakota, Iowa and northeastern Nebraska are genetically similar populations from the Upper Midwest, while ticks from Kansas are more genetically similar to ticks from the Southeast. Ticks collected in the east central region of Nebraska, however, represent an evenly admixed population of both northern and southern genomic backgrounds. Analysis of B. burgdorferi reads from genomic datasets shows ~50% infection rate in ticks from Iowa and northeastern Nebraska, whereas ticks from Kansas show no evidence of B. burgdorferi infection. Of note, evenly admixed ticks from the east central region of Nebraska also show no evidence of B. burgdorferi infection. These results provide further evidence that tick genomics may influence traits associated with B. burgdorferi infection status, and thus the potential for Lyme disease transmission. As the range of I. scapularis continues to expand, bringing historically isolated populations into contact, there is a clear need to understand the consequence of genomic admixture for B. burgdorferi transmission potential to inform future risk of Lyme disease in the United States.",
+      "authors": [
+        "Herzog KS",
+        "Pella Z",
+        "Smith H"
+      ],
+      "journal": "Molecular ecology",
+      "publicationDate": "Oct 7, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42839832/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-07T12:09:12.166Z"
+    },
+    {
+      "pmid": "42839382",
+      "title": "Rapid Motility Arrest of the Lyme Disease Spirochete, Borrelia burgdorferi, by Vaccine-Induced OspA Antibodies.",
+      "abstract": "Outer surface protein A (OspA)-based Lyme disease vaccines elicit antibodies that inhibit transmission of infectious Borrelia burgdorferi spirochetes from ticks to humans, although the mechanism by which this occurs is unclear. Here we demonstrate using high-resolution, single-cell fluorescence video microscopy that B. burgdorferi motility is arrested within minutes by human OspA-specific monoclonal antibodies and polyclonal OspA antisera from mice immunized with a candidate OspA mRNA lipid nanoparticle vaccine.",
+      "authors": [
+        "Bhattacharyya A",
+        "Yau R",
+        "Bartlett TM"
+      ],
+      "journal": "Molecular microbiology",
+      "publicationDate": "Oct 06, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42839382/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-07T12:09:12.802Z"
+    },
+    {
+      "pmid": "42837310",
+      "title": "Impact of delay in the diagnosis of non-cutaneous Lyme disease.",
+      "abstract": "In our prospective cohort of 5,252 children with suspected Lyme disease, lumbar punctures (6.2% vs. 6.9%) were similar, but joint procedures (14.2% vs. 5.5%) and hospitalization (23.4% vs. 18.7%) were more frequent for children with Lyme disease than mimics.",
+      "authors": [
+        "Nigrovic LE",
+        "Ladell MM",
+        "Chapman LL"
+      ],
+      "journal": "Journal of the Pediatric Infectious Diseases Society",
+      "publicationDate": "Oct 06, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42837310/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-07T12:09:13.420Z"
     },
     {
       "pmid": "42831617",
@@ -92,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:17:56.255Z"
+      "fetchedAt": "2026-10-07T12:09:14.061Z"
     },
     {
       "pmid": "42832605",
@@ -115,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:03.216Z"
+      "fetchedAt": "2026-10-07T12:09:19.220Z"
     },
     {
       "pmid": "42828675",
@@ -138,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:04.452Z"
+      "fetchedAt": "2026-10-07T12:09:20.459Z"
     },
     {
       "pmid": "42822458",
@@ -161,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:11.501Z"
+      "fetchedAt": "2026-10-07T12:09:27.376Z"
     },
     {
       "pmid": "42815526",
@@ -184,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:17:58.119Z"
+      "fetchedAt": "2026-10-07T12:09:15.933Z"
     },
     {
       "pmid": "42816510",
@@ -207,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:12.126Z"
+      "fetchedAt": "2026-10-07T12:09:27.991Z"
     },
     {
       "pmid": "42809981",
@@ -230,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:17:58.746Z"
+      "fetchedAt": "2026-10-07T12:09:16.558Z"
     },
     {
       "pmid": "42809612",
@@ -253,7 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:17:59.374Z"
+      "fetchedAt": "2026-10-07T12:09:17.186Z"
     },
     {
       "pmid": "42808791",
@@ -276,76 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:17:59.987Z"
-    },
-    {
-      "pmid": "42808196",
-      "title": "Misdiagnosis and Clinical Mimickers of Erythema Migrans: A Systematic Review.",
-      "abstract": "",
-      "authors": [
-        "Levy R",
-        "Bell M",
-        "Rosen CF"
-      ],
-      "journal": "Journal of cutaneous medicine and surgery",
-      "publicationDate": "Sep 29, 2026",
-      "articleType": "Letter",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42808196/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-06T12:18:00.487Z"
-    },
-    {
-      "pmid": "42806239",
-      "title": "Prevalence of Lyme disease in patients with peripheral facial palsy in the province of Quebec: a prospective multicenter Canadian study.",
-      "abstract": "Lyme disease is a recognized cause of peripheral facial palsy, but its estimated prevalence in affected patients varies widely, ranging from 2 to 65%. There are no clear guidelines to assist clinicians in the empiric management of undifferentiated peripheral facial palsy in regions where Lyme disease is prevalent. This prospective multicenter study aimed to determine the prevalence of Lyme disease-associated facial palsy in patients presenting with peripheral facial palsy in four emergency departments in the most endemic regions of Quebec, Canada (Estrie and Mont&#xe9;r&#xe9;gie). Emergency physicians at four Quebec hospitals completed a brief online questionnaire for each patient presenting with peripheral facial palsy from February 2022 to September 2023; they were also encouraged to order Lyme disease testing. A subsequent search was conducted in the electronic medical records of each participating hospital to retrieve Borrelia burgdorferi serology results (ELISA and/or Western blot). Among the 83 patients who consulted for peripheral facial palsy, Lyme disease serology testing was performed in 68 cases. Of these, only two had a positive ELISA screening test. None of these patients had a confirmed diagnosis based on confirmatory Western blot testing. The findings of this study indicate a low prevalence of Lyme disease among patients presenting with peripheral facial palsy in Quebec. While the authors recommend testing for Lyme disease as per local guidelines in patients presenting with peripheral facial palsy in endemic regions, empiric treatment should not be routinely initiated in the absence of other clinical signs or symptoms suggestive of the disease given the absence of confirmed cases in this cohort. R&#xe9;SUM&#xe9;: OBJECTIFS: La maladie de Lyme est une cause reconnue de paralysie faciale p&#xe9;riph&#xe9;rique, mais sa pr&#xe9;valence estim&#xe9;e chez les patients atteints varie consid&#xe9;rablement, allant de 2% &#xe0; 65%. Il n&#x2019;y a pas de lignes directrices claires pour aider les cliniciens dans la gestion empirique de la paralysie faciale p&#xe9;riph&#xe9;rique indiff&#xe9;renci&#xe9;e dans les r&#xe9;gions o&#xf9; la maladie de Lyme est r&#xe9;pandue. Cette &#xe9;tude prospective multicentrique avait pour objectif de d&#xe9;terminer la pr&#xe9;valence de la paralysie faciale associ&#xe9;e &#xe0; la maladie de Lyme chez des patients pr&#xe9;sentant une paralysie faciale p&#xe9;riph&#xe9;rique dans quatre services d&#x2019;urgence situ&#xe9;s dans les r&#xe9;gions les plus end&#xe9;miques du Qu&#xe9;bec (Estrie et Mont&#xe9;r&#xe9;gie). M&#xe9;THODES: Les urgentologues de quatre h&#xf4;pitaux du Qu&#xe9;bec ont rempli un bref questionnaire en ligne pour chaque patient atteint de paralysie faciale p&#xe9;riph&#xe9;rique entre f&#xe9;vrier 2022 et septembre 2023 ; ils ont &#xe9;galement &#xe9;t&#xe9; encourag&#xe9;s &#xe0; commander des tests de d&#xe9;pistage de la maladie de Lyme. Une recherche ult&#xe9;rieure a &#xe9;t&#xe9; effectu&#xe9;e dans les dossiers m&#xe9;dicaux &#xe9;lectroniques de chaque h&#xf4;pital participant pour r&#xe9;cup&#xe9;rer les r&#xe9;sultats s&#xe9;rologiques de Borrelia burgdorferi (ELISA et/ou Western blot). R&#xe9;SULTATS: Parmi les 83 patients ayant consult&#xe9; pour une paralysie faciale p&#xe9;riph&#xe9;rique, des tests s&#xe9;rologiques de la maladie de Lyme ont &#xe9;t&#xe9; r&#xe9;alis&#xe9;s dans 68 cas. Parmi ceux-ci, seuls deux ont eu un test de d&#xe9;pistage ELISA positif. Aucun de ces patients n&#x2019;a re&#xe7;u de diagnostic confirm&#xe9; par un test Western blot. CONCLUSIONS: Les r&#xe9;sultats de cette &#xe9;tude indiquent une faible pr&#xe9;valence de la maladie de Lyme chez les patients pr&#xe9;sentant une paralysie faciale p&#xe9;riph&#xe9;rique au Qu&#xe9;bec. Bien que les auteurs recommandent des tests pour la maladie de Lyme conform&#xe9;ment aux directives locales chez les patients pr&#xe9;sentant une paralysie faciale p&#xe9;riph&#xe9;rique dans les r&#xe9;gions end&#xe9;miques, un traitement empirique ne doit pas &#xea;tre initi&#xe9; syst&#xe9;matiquement en l&#x2019;absence d&#x2019;autres signes ou sympt&#xf4;mes cliniques &#xe9;vocateurs de la maladie &#xe9;tant donn&#xe9; l&#x2019;absence de cas confirm&#xe9;s dans cette cohorte.",
-      "authors": [
-        "Vincent M",
-        "Guay &#xc9;",
-        "Blais L"
-      ],
-      "journal": "CJEM",
-      "publicationDate": "Sep 28, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42806239/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-06T12:18:01.102Z"
-    },
-    {
-      "pmid": "42802892",
-      "title": "The Impact of Infographics and Numerical Framing on Health Risk Perceptions and Behaviors: A Study of Ticks and Lyme Disease.",
-      "abstract": "This study explores how infographic exposure and numerical framing affect perceptions of ticks and Lyme disease. Using an experimental approach, 1,001 participants viewed messages with or without infographics containing numerical data presented either as percentages or absolute values. Infographic exposure boosted susceptibility and behavioral intentions. Numerical framing influenced severity, with percentages perceived as less severe. An interaction between infographic exposure and numerical framing reduced susceptibility. Higher arithmetic aptitude lessened the effects of message variation on behavioral intentions and subjective knowledge. Objective knowledge moderated the impact on severity, behavioral intentions, and subjective knowledge, with stronger message-consistent effects among those with lower knowledge.",
-      "authors": [
-        "Nadel OM",
-        "Merle P",
-        "Shuvo MSM"
-      ],
-      "journal": "Journal of health communication",
-      "publicationDate": "Sep 28, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42802892/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-06T12:18:01.726Z"
+      "fetchedAt": "2026-10-07T12:09:17.810Z"
     },
     {
       "pmid": "42805403",
@@ -368,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:06.356Z"
+      "fetchedAt": "2026-10-07T12:09:22.327Z"
     },
     {
       "pmid": "42805295",
@@ -391,7 +391,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:06.856Z"
+      "fetchedAt": "2026-10-07T12:09:22.826Z"
     },
     {
       "pmid": "42805403",
@@ -414,7 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:12.798Z"
+      "fetchedAt": "2026-10-07T12:09:28.609Z"
     },
     {
       "pmid": "42785622",
@@ -437,7 +437,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:08.715Z"
+      "fetchedAt": "2026-10-07T12:09:24.692Z"
     },
     {
       "pmid": "42830720",
@@ -460,7 +460,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:10.242Z"
+      "fetchedAt": "2026-10-07T12:09:26.132Z"
     },
     {
       "pmid": "42797509",
@@ -483,7 +483,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:14.675Z"
+      "fetchedAt": "2026-10-07T12:09:30.474Z"
     },
     {
       "pmid": "42796752",
@@ -506,7 +506,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:15.311Z"
+      "fetchedAt": "2026-10-07T12:09:31.101Z"
     },
     {
       "pmid": "42825085",
@@ -528,7 +528,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:10.860Z"
+      "fetchedAt": "2026-10-07T12:09:26.748Z"
     },
     {
       "pmid": "42797981",
@@ -551,7 +551,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:14.043Z"
+      "fetchedAt": "2026-10-07T12:09:29.848Z"
     },
     {
       "pmid": "42796727",
@@ -573,7 +573,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:15.939Z"
+      "fetchedAt": "2026-10-07T12:09:31.727Z"
     },
     {
       "pmid": "42816858",
@@ -596,7 +596,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:17:57.495Z"
+      "fetchedAt": "2026-10-07T12:09:15.296Z"
     },
     {
       "pmid": "42796692",
@@ -618,7 +618,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:07.468Z"
+      "fetchedAt": "2026-10-07T12:09:23.443Z"
     },
     {
       "pmid": "42825005",
@@ -641,7 +641,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:05.096Z"
+      "fetchedAt": "2026-10-07T12:09:21.091Z"
     },
     {
       "pmid": "42799294",
@@ -664,7 +664,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:13.432Z"
+      "fetchedAt": "2026-10-07T12:09:29.237Z"
     },
     {
       "pmid": "42794146",
@@ -687,7 +687,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-06T12:18:08.096Z"
+      "fetchedAt": "2026-10-07T12:09:24.067Z"
     }
   ]
 }
