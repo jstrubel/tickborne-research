@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:09:32.728Z",
+  "generatedAt": "2026-10-08T12:20:06.679Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:14.678Z"
+      "fetchedAt": "2026-10-08T12:19:49.540Z"
     },
     {
       "pmid": "42811286",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:21.702Z"
+      "fetchedAt": "2026-10-08T12:19:55.794Z"
     },
     {
       "pmid": "42830543",
@@ -69,21 +69,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:19.842Z"
+      "fetchedAt": "2026-10-08T12:19:53.842Z"
     },
     {
-      "pmid": "42839832",
-      "title": "When Clades Collide: Genomic Admixture in Blacklegged Ticks (Ixodes scapularis) From the Great Plains.",
-      "abstract": "Ixodes scapularis ticks transmit a number of pathogens important to human health, including Borrelia burgdorferi sensu stricto, the causative agent of Lyme disease. While I. scapularis is found across the Eastern United States, Lyme disease transmission is largely limited to the Northeast and Upper Midwest and is nearly absent in the South. This indicates that differences in northern versus southern clades of I. scapularis are associated with differences in Lyme disease transmission risk. Ixodes scapularis is undergoing range expansion, including into the Great Plains region of the United States. Determining where I. scapularis populations in the Great Plains originated can inform future risk of Lyme disease transmission in this region. In this study, we use a population genomics framework to characterize diversity, structure and B. burgdorferi infection rates of I. scapularis populations in the Great Plains region. We generated whole genome sequence data and single nucleotide polymorphism (SNP) datasets from I. scapularis ticks collected in Iowa, Kansas, Nebraska and South Dakota to compare to publicly available data from across the species' range. Our analysis of 200 I. scapularis SNP datasets indicated geographically well-defined populations that correspond to historical northern and southern ancestral clades of I. scapularis. Ticks from South Dakota, Iowa and northeastern Nebraska are genetically similar populations from the Upper Midwest, while ticks from Kansas are more genetically similar to ticks from the Southeast. Ticks collected in the east central region of Nebraska, however, represent an evenly admixed population of both northern and southern genomic backgrounds. Analysis of B. burgdorferi reads from genomic datasets shows ~50% infection rate in ticks from Iowa and northeastern Nebraska, whereas ticks from Kansas show no evidence of B. burgdorferi infection. Of note, evenly admixed ticks from the east central region of Nebraska also show no evidence of B. burgdorferi infection. These results provide further evidence that tick genomics may influence traits associated with B. burgdorferi infection status, and thus the potential for Lyme disease transmission. As the range of I. scapularis continues to expand, bringing historically isolated populations into contact, there is a clear need to understand the consequence of genomic admixture for B. burgdorferi transmission potential to inform future risk of Lyme disease in the United States.",
+      "pmid": "42843563",
+      "title": "Tick-borne diseases in French Guiana: A comprehensive review pinpointing differences from mainland France.",
+      "abstract": "French Guiana (FG), an Amazonian French territory, represents a unique ecological and epidemiological setting for tick-borne diseases (TBDs). In contrast to mainland France, where TBDs are well-documented, data from FG remain scarce. We carried out a systematic review using the PRISMA criteria for our search of the PubMed, ScienceDirect, and SciELO data bases. We identified 68 articles, of which 43 met our inclusion criteria. Data from FG were compared with those originating from mainland France. Albeit highly prevalent in Europe, and notwithstanding detection of a distinct Borrelia species in bird-associated ticks, there have been no confirmed autochthonous cases of Lyme disease in French Guiana. Conversely, Q fever occurs more frequently in this overseas territory than in mainland France, even though its causative agent, Coxiella burnetii, has been detected only one time in a local tick. While Rickettsia spp. are widely present in tick populations, no human rickettsiosis has been reported. As for Anaplasma and Ehrlichia spp., they have been identified in wildlife, domestic animals, and ticks, but with only one documented human case of chronic anaplasmosis, which was caused by a novel species, Candidatus Anaplasma sparouinense. Other pathogens, including Babesia, Bartonella, and filarial nematodes, have been detected in animals or ticks, but without evidence of human infection. Of note, emerging conditions have been described, one example being alpha-gal syndrome, an allergy triggered by tick bites to mammalian meat. To summarize, available data remain limited, and in all likelihood, the burden of TBDs in FG is underestimated. Integrated research combining human, animal and environmental surveillance is needed to more precisely characterize epidemiology, assess risks, and facilitate preventive strategies.",
       "authors": [
-        "Herzog KS",
-        "Pella Z",
-        "Smith H"
+        "Cartau T",
+        "Bourne-Watrin M",
+        "Duron O"
       ],
-      "journal": "Molecular ecology",
-      "publicationDate": "Oct 7, 2026",
+      "journal": "Infectious diseases now",
+      "publicationDate": "Oct 07, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42839832/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42843563/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
@@ -92,7 +92,99 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:12.166Z"
+      "fetchedAt": "2026-10-08T12:19:45.017Z"
+    },
+    {
+      "pmid": "42843064",
+      "title": "Public awareness of alpha-gal syndrome and tick bite prevention practices, United States, Fall 2023.",
+      "abstract": "Alpha-gal syndrome (AGS) is a unique non-infectious tickborne disease that can develop after a tick bite. AGS can cause severe allergic symptoms (when patients are exposed to alpha-gal) and be challenging for patients to manage because alpha-gal is found in mammalian meat, dairy, and some non-food products. We sought to understand public awareness of AGS, especially relative to other tickborne diseases. We used a 2023 nationally representative survey of adults to investigate public awareness of AGS in the United States and found that knowledge was very low, with 70% of respondents having no prior knowledge of AGS. Respondents with prior AGS knowledge were more concerned about both AGS and infectious tickborne diseases, including Lyme disease, than those without prior AGS knowledge. This study suggests that improving public awareness of AGS could encourage individuals to try to prevent tick bites.",
+      "authors": [
+        "Taylor ML",
+        "Jones ES",
+        "Premkumar AL"
+      ],
+      "journal": "Ticks and tick-borne diseases",
+      "publicationDate": "Oct 07, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42843064/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-08T12:19:45.661Z"
+    },
+    {
+      "pmid": "42842543",
+      "title": "Barriers to entry: A participatory science study of tick identification, monitoring, and physical barriers to reduce tick bites on horses.",
+      "abstract": "Equine tick-borne diseases pose increasing challenges due to climate change and expanding tick geographical ranges. With no vaccines available for Lyme disease or equine anaplasmosis in horses, tick bite prevention remains the primary control method. This two-year study evaluated tick species composition on horses in Pennsylvania and assessed the effectiveness of physical barriers for tick prevention through community-based participatory research. The study engaged horse owners as research partners. Year 1 (2022) established baseline tick surveillance across 45 participants with 60 horses, conducting weekly tick checks from April to June. Year 2 (2023) evaluated physical barrier interventions using 50 horses assigned to three treatments: No Treatment (control), Physical Barrier (Untreated), and Physical Barrier (Treated with permethrin), with twice-weekly surveillance. A total of 413 ticks were collected, with species composition shifts between years. Species recovered included American dog ticks (Dermacentor variabilis), blacklegged ticks (Ixodes scapularis), and longhorned ticks (Haemaphysalis longicornis), which were detected for the first time in one of the counties in the study region. Tick attachment occurred across eight body locations and differed significantly between years. Physical barriers, particularly untreated fly boots and masks, were associated with reduced tick attachment. Comprehensive whole-body surveillance remains essential given consistent tick distribution across anatomical regions.",
+      "authors": [
+        "Machtinger ET",
+        "Poh KC",
+        "Kenny LB"
+      ],
+      "journal": "PloS one",
+      "publicationDate": "10 07, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42842543/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-08T12:19:46.318Z"
+    },
+    {
+      "pmid": "42843563",
+      "title": "Tick-borne diseases in French Guiana: A comprehensive review pinpointing differences from mainland France.",
+      "abstract": "French Guiana (FG), an Amazonian French territory, represents a unique ecological and epidemiological setting for tick-borne diseases (TBDs). In contrast to mainland France, where TBDs are well-documented, data from FG remain scarce. We carried out a systematic review using the PRISMA criteria for our search of the PubMed, ScienceDirect, and SciELO data bases. We identified 68 articles, of which 43 met our inclusion criteria. Data from FG were compared with those originating from mainland France. Albeit highly prevalent in Europe, and notwithstanding detection of a distinct Borrelia species in bird-associated ticks, there have been no confirmed autochthonous cases of Lyme disease in French Guiana. Conversely, Q fever occurs more frequently in this overseas territory than in mainland France, even though its causative agent, Coxiella burnetii, has been detected only one time in a local tick. While Rickettsia spp. are widely present in tick populations, no human rickettsiosis has been reported. As for Anaplasma and Ehrlichia spp., they have been identified in wildlife, domestic animals, and ticks, but with only one documented human case of chronic anaplasmosis, which was caused by a novel species, Candidatus Anaplasma sparouinense. Other pathogens, including Babesia, Bartonella, and filarial nematodes, have been detected in animals or ticks, but without evidence of human infection. Of note, emerging conditions have been described, one example being alpha-gal syndrome, an allergy triggered by tick bites to mammalian meat. To summarize, available data remain limited, and in all likelihood, the burden of TBDs in FG is underestimated. Integrated research combining human, animal and environmental surveillance is needed to more precisely characterize epidemiology, assess risks, and facilitate preventive strategies.",
+      "authors": [
+        "Cartau T",
+        "Bourne-Watrin M",
+        "Duron O"
+      ],
+      "journal": "Infectious diseases now",
+      "publicationDate": "Oct 07, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42843563/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-08T12:19:52.551Z"
+    },
+    {
+      "pmid": "42843563",
+      "title": "Tick-borne diseases in French Guiana: A comprehensive review pinpointing differences from mainland France.",
+      "abstract": "French Guiana (FG), an Amazonian French territory, represents a unique ecological and epidemiological setting for tick-borne diseases (TBDs). In contrast to mainland France, where TBDs are well-documented, data from FG remain scarce. We carried out a systematic review using the PRISMA criteria for our search of the PubMed, ScienceDirect, and SciELO data bases. We identified 68 articles, of which 43 met our inclusion criteria. Data from FG were compared with those originating from mainland France. Albeit highly prevalent in Europe, and notwithstanding detection of a distinct Borrelia species in bird-associated ticks, there have been no confirmed autochthonous cases of Lyme disease in French Guiana. Conversely, Q fever occurs more frequently in this overseas territory than in mainland France, even though its causative agent, Coxiella burnetii, has been detected only one time in a local tick. While Rickettsia spp. are widely present in tick populations, no human rickettsiosis has been reported. As for Anaplasma and Ehrlichia spp., they have been identified in wildlife, domestic animals, and ticks, but with only one documented human case of chronic anaplasmosis, which was caused by a novel species, Candidatus Anaplasma sparouinense. Other pathogens, including Babesia, Bartonella, and filarial nematodes, have been detected in animals or ticks, but without evidence of human infection. Of note, emerging conditions have been described, one example being alpha-gal syndrome, an allergy triggered by tick bites to mammalian meat. To summarize, available data remain limited, and in all likelihood, the burden of TBDs in FG is underestimated. Integrated research combining human, animal and environmental surveillance is needed to more precisely characterize epidemiology, assess risks, and facilitate preventive strategies.",
+      "authors": [
+        "Cartau T",
+        "Bourne-Watrin M",
+        "Duron O"
+      ],
+      "journal": "Infectious diseases now",
+      "publicationDate": "Oct 07, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42843563/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-08T12:19:59.858Z"
     },
     {
       "pmid": "42839382",
@@ -115,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:12.802Z"
+      "fetchedAt": "2026-10-08T12:19:47.599Z"
     },
     {
       "pmid": "42837310",
@@ -138,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:13.420Z"
+      "fetchedAt": "2026-10-08T12:19:48.259Z"
     },
     {
       "pmid": "42831617",
@@ -161,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:14.061Z"
+      "fetchedAt": "2026-10-08T12:19:48.900Z"
     },
     {
       "pmid": "42832605",
@@ -184,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:19.220Z"
+      "fetchedAt": "2026-10-08T12:19:53.203Z"
     },
     {
       "pmid": "42828675",
@@ -207,7 +299,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:20.459Z"
+      "fetchedAt": "2026-10-08T12:19:54.490Z"
+    },
+    {
+      "pmid": "42839832",
+      "title": "When Clades Collide: Genomic Admixture in Blacklegged Ticks (Ixodes scapularis) From the Great Plains.",
+      "abstract": "Ixodes scapularis ticks transmit a number of pathogens important to human health, including Borrelia burgdorferi sensu stricto, the causative agent of Lyme disease. While I. scapularis is found across the Eastern United States, Lyme disease transmission is largely limited to the Northeast and Upper Midwest and is nearly absent in the South. This indicates that differences in northern versus southern clades of I. scapularis are associated with differences in Lyme disease transmission risk. Ixodes scapularis is undergoing range expansion, including into the Great Plains region of the United States. Determining where I. scapularis populations in the Great Plains originated can inform future risk of Lyme disease transmission in this region. In this study, we use a population genomics framework to characterize diversity, structure and B. burgdorferi infection rates of I. scapularis populations in the Great Plains region. We generated whole genome sequence data and single nucleotide polymorphism (SNP) datasets from I. scapularis ticks collected in Iowa, Kansas, Nebraska and South Dakota to compare to publicly available data from across the species' range. Our analysis of 200 I. scapularis SNP datasets indicated geographically well-defined populations that correspond to historical northern and southern ancestral clades of I. scapularis. Ticks from South Dakota, Iowa and northeastern Nebraska are genetically similar populations from the Upper Midwest, while ticks from Kansas are more genetically similar to ticks from the Southeast. Ticks collected in the east central region of Nebraska, however, represent an evenly admixed population of both northern and southern genomic backgrounds. Analysis of B. burgdorferi reads from genomic datasets shows ~50% infection rate in ticks from Iowa and northeastern Nebraska, whereas ticks from Kansas show no evidence of B. burgdorferi infection. Of note, evenly admixed ticks from the east central region of Nebraska also show no evidence of B. burgdorferi infection. These results provide further evidence that tick genomics may influence traits associated with B. burgdorferi infection status, and thus the potential for Lyme disease transmission. As the range of I. scapularis continues to expand, bringing historically isolated populations into contact, there is a clear need to understand the consequence of genomic admixture for B. burgdorferi transmission potential to inform future risk of Lyme disease in the United States.",
+      "authors": [
+        "Herzog KS",
+        "Pella Z",
+        "Smith H"
+      ],
+      "journal": "Molecular ecology",
+      "publicationDate": "Oct 1, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42839832/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-08T12:19:46.966Z"
     },
     {
       "pmid": "42822458",
@@ -230,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:27.376Z"
+      "fetchedAt": "2026-10-08T12:20:01.786Z"
     },
     {
       "pmid": "42815526",
@@ -253,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:15.933Z"
+      "fetchedAt": "2026-10-08T12:19:50.827Z"
     },
     {
       "pmid": "42816510",
@@ -276,76 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:27.991Z"
-    },
-    {
-      "pmid": "42809981",
-      "title": "Evaluation of capture sequencing on the Oxford Nanopore MinION as a stand-alone molecular test for tick-borne diseases.",
-      "abstract": "Molecular diagnostics of tick-borne diseases (TBD) require the capacity to target a broad range of microbial pathogens circulating in ticks, along with the high sensitivity needed for detection of low burden agents such as Borrelia burgdorferi. Next generation sequencing (NGS) can have broad applicability for TBD. However, insufficient sensitivity and large infrastructure requirements limit the utility of this method for diagnostics. The application of capture-based NGS onto the Oxford Nanopore instruments presents an alternative approach that can provide high sensitivity coupled with smaller laboratory footprint. We tested the utility of our capture probe panel targeting tick-borne agents, the TBDCapSeq, on the Oxford Nanopore MinION. In direct comparison to quantitative PCR, we examined 64 whole blood samples, including 41 from patients diagnosed with Lyme disease, 7 from patients with suspected Lyme disease without seroconversion, 12 from symptomatic individuals suspected of tick-borne disease and 4 healthy controls. TBDCapSeq was more sensitive than qPCR. All agents detected by qPCR were correctly identified by TBDCapSeq. However, in analyses of 41 samples from patients with Lyme disease, 7 were positive for B. burgdorferi DNA with TBDCapSeq versus 3 with qPCR. Furthermore, with TBDCapSeq we also recovered substantial portions of the genome essential for downstream phylogenetic analyses. Our study demonstrated the potential utility of capture sequencing for molecular TBD diagnostics.",
-      "authors": [
-        "Sanchez-Vicente S",
-        "Kapoor V",
-        "Park J"
-      ],
-      "journal": "Ticks and tick-borne diseases",
-      "publicationDate": "Sep 29, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42809981/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-07T12:09:16.558Z"
-    },
-    {
-      "pmid": "42809612",
-      "title": "Metabolic regulation of the carbonyl stress pathway and methylglyoxal in Lyme disease and relapsing fever spirochetes.",
-      "abstract": "The carbonyl stress pathway in bacteria is mediated by the enigmatic metabolite methylglyoxal and is thought to be activated in response to cellular carbohydrate and phosphate imbalance. Methylglyoxal, produced from dihydroxyacetone phosphate by methylglyoxal synthase, covalently modifies nucleophilic groups of amino acid residues, such as lysine, arginine and cysteine, to yield advanced glycation end products. In this work, we have identified several environmental signals, including glycerol and peptides, which activate carbonyl stress in the Lyme disease spirochete Borrelia (Borreliella) burgdorferi. We establish that methylglyoxal production and protein glycation is dependent on the mgsA gene (bb0364) product and show that this pathway is active in Lyme disease spirochetes, but not relapsing fever Borrelia or in B. mayonii. Furthermore, we have investigated the role of carbonyl stress in the tick-mouse model of Lyme disease and provide evidence that production of methylglyoxal and glycation of proteins is not necessarily lethal, as previously believed, at least in Lyme disease spirochetes. Finally, we show that expression of the B. burgdorferi mgsA and carbonyl stress pathway in the relapsing fever spirochete B. hermsii significantly reduces the peak level of spirochetemia during the relapse phase of murine infection. Together, our results identify a new post-translation modification system in Lyme disease spirochetes that appears to be important in governing the lifestyle of this pathogen and seems to be selected against in spirochetes that reach high numbers in the blood.",
-      "authors": [
-        "Drecktrah D",
-        "Hall LS",
-        "Cheff B"
-      ],
-      "journal": "PLoS pathogens",
-      "publicationDate": "Sep 29, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42809612/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-07T12:09:17.186Z"
-    },
-    {
-      "pmid": "42808791",
-      "title": "Untitled",
-      "abstract": "In vitro viability assays are essential for studying the survival of Borrelia burgdorferi after exposure to stressful conditions. In contrast to the cumbersome and tedious manual microscopic counting method, fluorescence-based assays are more rapid and convenient and thus can be used in a high-throughput format. In the SYBR Green I/propidium iodide (PI) assay, spirochetes are labeled with different fluorescent dyes, and fluorescence ratios are then compared to calculate the ratio between live and dead spirochetes. Stained spirochetes are also manually counted under a fluorescence microscope or analyzed via flow cytometry to obtain the live/dead ratio. In this study, we compared these methods to determine the most accurate technique for quantifying spirochete viability. Our results showed that, compared with the SYBR Green I/PI assay that carries inherent caveats, both the fluorescent microscopic counting method and the flow cytometry method provide more reliable and accurate results for B. burgdorferi viability assays, and flow cytometry offers significant advantages in speed and reduced labor compared to manual microscopic counting. Leveraging the flow cytometry-based viability assay, we investigated the role of gene bbi29, encoding a putative virulence-associated lipoprotein, in B. burgdorferi stress response. The contribution of bbi29 to B. burgdorferi mammalian infection was also examined using a murine model of Lyme disease. Lyme disease, caused by Borrelia burgdorferi, is the most common tick-borne disease in the United States. Assessment of B. burgdorferi growth and viability has been traditionally challenging due to the slow growth and unique morphology of the spirochete. Recently, an optimized SYBR Green I/PI assay was developed and has since been used by a number of laboratories to assess B. burgdorferi viability. We herein surprisingly found that the SYBR Green I/PI assay has significant caveats and does not provide accurate quantification of B. burgdorferi viability. Rather, our data showed that flow cytometry is a superior alternative to quantify spirochete viability, providing a valuable methodological framework for future studies. Additionally, by investigating the role and requirement for gene bbi29, we have refined our understanding of hypothetical proteins in B. burgdorferi pathogenesis. Together, this work highlights the importance of developing and validating experimental approaches and functionally characterizing B. burgdorferi genes with unknown functions.",
-      "authors": [
-        "Waldron C",
-        "George S",
-        "Ouyang Z"
-      ],
-      "journal": "Applied and environmental microbiology",
-      "publicationDate": "Sep 29, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42808791/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-07T12:09:17.810Z"
+      "fetchedAt": "2026-10-08T12:20:02.419Z"
     },
     {
       "pmid": "42805403",
@@ -368,7 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:22.327Z"
+      "fetchedAt": "2026-10-08T12:19:56.446Z"
     },
     {
       "pmid": "42805295",
@@ -391,7 +437,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:22.826Z"
+      "fetchedAt": "2026-10-08T12:19:56.945Z"
     },
     {
       "pmid": "42805403",
@@ -414,30 +460,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:28.609Z"
-    },
-    {
-      "pmid": "42785622",
-      "title": "Core gut symbionts enhance honeybee (Apis mellifera) resilience to flumethrin stress by upregulating host immunity.",
-      "abstract": "The widespread use of flumethrin has significantly jeopardized the survival of bees. However, the mechanisms by which bees and their intestinal microorganisms resist flumethrin remain to be elucidated. Therefore, this study aimed to explore the mechanism by which the gut microbiota of bees assist the bee host in resiling flumethrin stress. Bees were exposed to various concentrations of flumethrin (0.01, 0.1, and 1&#xa0;mg/L) for 14 days, subsequently, performance parameters (body weight, gut weight, and food intake) and gut microbiota diversity and composition were assessed. Then, the performance parameters and mRNA expression of bees colonized by core gut bacteria (Bombilactobacillus mellis, Lactobacillus apis, Snodgrassella alvi, Bartonella apis, and Gilliamella apicola) and exposed to 1&#xa0;mg/L flumethrin were evaluated. Chronic flumethrin exposure significantly reduced survival rate and gut weight, damaged intestinal structure, and induced gut microbiota dysbiosis in bees. However, gut colonization by B. mellis, S. alvi, and G. apicola significantly improved survival rate, body weight, and intestinal weight in bees. Importantly, G. apicola colonization significantly enhanced honeybees resilience to flumethrin, as evidenced by a significant increase in survival rate from 65.8 to 94.1% after G. apicola colonization. Moreover, bacterial gut colonization significantly upregulated the mRNA expression of immune detoxification genes, including superoxide dismutase, catalase, Toll, defensin-1, and abaecin, in bees. Collectively, these findings indicate that gut bacteria confer protection against flumethrin-induced stress by enhancing host immunity, underscoring the critical role of the gut microbiota in mediating honeybee resilience to environmental pollutants.",
-      "authors": [
-        "Liu J",
-        "Chen J",
-        "Wu X"
-      ],
-      "journal": "Environmental pollution (Barking, Essex : 1987)",
-      "publicationDate": "Sep 24, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42785622/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-07T12:09:24.692Z"
+      "fetchedAt": "2026-10-08T12:20:03.072Z"
     },
     {
       "pmid": "42830720",
@@ -460,7 +483,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:26.132Z"
+      "fetchedAt": "2026-10-08T12:20:00.496Z"
     },
     {
       "pmid": "42797509",
@@ -483,7 +506,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:30.474Z"
+      "fetchedAt": "2026-10-08T12:20:05.028Z"
     },
     {
       "pmid": "42796752",
@@ -506,7 +529,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:31.101Z"
+      "fetchedAt": "2026-10-08T12:20:05.678Z"
     },
     {
       "pmid": "42825085",
@@ -528,7 +551,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:26.748Z"
+      "fetchedAt": "2026-10-08T12:20:01.140Z"
     },
     {
       "pmid": "42797981",
@@ -551,29 +574,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:29.848Z"
-    },
-    {
-      "pmid": "42796727",
-      "title": "A Two-Phase Approach to the Use of Tafenoquine Was Associated with Cure of Babesiosis in Two Immunocompromised Patients with Relapsing Babesiosis.",
-      "abstract": "Two immunocompromised patients with relapsing babesiosis were cured using a well-tolerated course of tafenoquine (171 and 212 days, respectively), with negative polymerase chain reactivity intentionally exceeding the 120-day lifespan of erythrocytes before discontinuing the tafenoquine. During the first 10 days of tafenoquine both patients also received an atovaquone-containing drug regimen. This was prescribed based on the demonstrated benefit of atovaquone on the efficacy of tafenoquine for completely eradicating B. microti in an animal study.",
-      "authors": [
-        "Osakwe N",
-        "Wormser GP"
-      ],
-      "journal": "Pathogens (Basel, Switzerland)",
-      "publicationDate": "Sep 09, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42796727/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-07T12:09:31.727Z"
+      "fetchedAt": "2026-10-08T12:20:04.380Z"
     },
     {
       "pmid": "42816858",
@@ -596,7 +597,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:15.296Z"
+      "fetchedAt": "2026-10-08T12:19:50.178Z"
     },
     {
       "pmid": "42796692",
@@ -618,7 +619,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:23.443Z"
+      "fetchedAt": "2026-10-08T12:19:57.589Z"
     },
     {
       "pmid": "42825005",
@@ -641,7 +642,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:21.091Z"
+      "fetchedAt": "2026-10-08T12:19:55.143Z"
     },
     {
       "pmid": "42799294",
@@ -664,7 +665,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:29.237Z"
+      "fetchedAt": "2026-10-08T12:20:03.716Z"
     },
     {
       "pmid": "42794146",
@@ -687,7 +688,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-07T12:09:24.067Z"
+      "fetchedAt": "2026-10-08T12:19:58.237Z"
     }
   ]
 }
