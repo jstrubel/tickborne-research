@@ -1,20 +1,19 @@
 {
-  "generatedAt": "2026-10-08T12:20:06.679Z",
+  "generatedAt": "2026-10-09T12:10:34.623Z",
   "totalPapers": 30,
   "papers": [
     {
-      "pmid": "42830935",
-      "title": "Host diversity and landscape structure drive genospecies-specific Lyme disease risk across Eurasia.",
-      "abstract": "Lyme disease poses an escalating global health challenge partly driven by climate change and land-use transformation, while mechanistic understanding of transmission remains limited. We analyzed prevalence records from 43 Eurasian countries to map pathogen biogeography and applied theory-driven structural equation modeling (SEM) to evaluate hypothesized direct, indirect, and cascading pathways linking climate, land cover, landscape structure, and host biodiversity to pathogen prevalence. Genospecies exhibited distinct biogeographic patterns shaped by vector-host specificity, with Ixodes ricinus dominating transmission in Europe and I. persulcatus in Asia. Borrelia afzelii prevalence was associated with climate, forest fragmentation, and landscape heterogeneity, and exhibited a negative association with rodent species richness at the continental scale. Borrelia garinii showed no host diversity effects but responded directly to temperature and landscape structure, reflecting reliance on highly mobile avian hosts. These findings reveal fundamental transmission heterogeneity among genospecies arising from divergent host-reservoir ecologies, with critical implications for disease control. Effective surveillance must integrate genospecies-specific ecology with landscape management to align biodiversity conservation, climate adaptation, and public health.",
+      "pmid": "42849992",
+      "title": "Neurosurgical Manifestations of Rheumatologic Diseases: Clinical, Imaging, and Surgical Implications.",
+      "abstract": "This article reviews the neurosurgical considerations and clinical manifestations of giant cell arteritis, rheumatoid arthritis-related cervical spine disease, ankylosing spondylitis, systemic lupus erythematosus, neurosarcoidosis, and Lyme disease. Across these disease entities, neurosurgical urgency typically reflects inflammatory vascular compromise, skeletal instability, occult fracture with secondary neurologic deficits, or mass-like and meningeal phenotypes that mimic malignancy or infection. The article emphasizes pattern-based triage, high-yield imaging selection, and the limited scenarios requiring neurosurgical intervention including stabilization, CSF diversion, decompression, or biopsy.",
       "authors": [
-        "Sun Y",
-        "Zhang Y",
-        "Wang J"
+        "Latzman S",
+        "Ellis JA"
       ],
-      "journal": "One health (Amsterdam, Netherlands)",
-      "publicationDate": "Dec 22, 2026",
+      "journal": "Rheumatic diseases clinics of North America",
+      "publicationDate": "Nov 04, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42830935/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42849992/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
@@ -23,7 +22,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:49.540Z"
+      "fetchedAt": "2026-10-09T12:10:12.056Z"
     },
     {
       "pmid": "42811286",
@@ -46,7 +45,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:55.794Z"
+      "fetchedAt": "2026-10-09T12:10:25.172Z"
     },
     {
       "pmid": "42830543",
@@ -69,7 +68,76 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:53.842Z"
+      "fetchedAt": "2026-10-09T12:10:23.257Z"
+    },
+    {
+      "pmid": "42850783",
+      "title": "Incidence and Factors of Bacterial Zoonotic Infection in Solid Organ Transplant Recipients.",
+      "abstract": "Infection remains a leading cause of morbidity and mortality among solid organ transplant (SOT) recipients, yet zoonotic pathogens as a distinct category remain underrecognized. We investigated the incidence, and risk factors of bacterial zoonotic infections after transplantation using a large multicenter database. We queried the TriNetX database in from 2014-2024 to identify adult SOT recipients who developed bacterial zoonotic infections. We identified twelve bacterial zoonoses using ICD-10 codes: anthrax, brucellosis, cat scratch disease, glanders, leprosy, leptospirosis, tularemia, parrot fever, pasteurellosis, plague, Q fever, and rat-bite fever. Sixty-one SOT recipients (0.03%) developed a bacterial zoonotic infection, corresponding to an incidence of 4.87 per 100&#xa0;000 person-years. The median time from transplantation to infection was 736 days (IQR, 298-1970), with 72.1% of infections occurring more than one year after transplantation. The hospitalization rate was 41.0%, and the 90-day all-cause mortality rate was 6.6%. The three most common infections were Q fever, cat scratch disease, and pasteurellosis. No cases of anthrax, tularemia, plague, or rat-bite fever were identified. Black recipients had a 49% lower risk of bacterial zoonotic infection than White recipients. Bacterial zoonotic infections were uncommon and occurred predominantly during the late post-transplant period. The lower risk observed among Black recipients reflects differences in animal and environmental exposure that this study could not measure, rather than biological susceptibility. Animal safety counseling should extend beyond the early post-transplant period and continue as part of long-term post-transplant care.",
+      "authors": [
+        "Chiu CY",
+        "Chesdachai S",
+        "Sharath DB"
+      ],
+      "journal": "Clinical transplantation",
+      "publicationDate": "Oct 9, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42850783/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-09T12:10:20.053Z"
+    },
+    {
+      "pmid": "42849646",
+      "title": "Molecular detection and characterization of flea-associated bacteria: genetic diversity and co-occurrence patterns involving Bartonella, Rickettsia, and Wolbachia in Ctenocephalides felis felis from an Atlantic Forest region of Brazil.",
+      "abstract": "Ctenocephalides felis felis is a widespread ectoparasite of dogs and cats and has been associated with transmission of several microorganisms of veterinary and public health relevance. This study investigated the molecular occurrence, genetic diversity, and co-occurrence patterns of Bartonella spp., Rickettsia spp., and Wolbachia spp. in fleas collected from dogs and cats in an Atlantic Forest area encompassing the Ilh&#xe9;us and Itabuna microregions, Bahia State, northeastern Brazil. A total of 1,489 fleas were analyzed, including 1,301 collected from 81 dogs and 188 from 39 cats. PCR targeting the endogenous cox1 gene successfully amplified DNA from 95.77% of fleas collected from dogs and 97.34% of those collected from cats. Quantitative PCR (qPCR) targeting the 16S-23S rRNA internal transcribed spacer (ITS) revealed a higher molecular detection rate of Bartonella spp. in fleas from cats (34.43%) than in those from dogs (8.98%). Conversely, Rickettsia spp. was detected more frequently in fleas collected from dogs (24.8%) than from cats (3.28%). Wolbachia spp. was more frequently detected in female fleas from both dogs (52.8%) and cats (50.3%) than in male fleas (p < 0.05). Triple co-occurrence of the three microorganisms was detected in 0.08% (11/1246) of flea DNA samples positive the cox-1 endogenous gene and subjected to downstream molecular analyses for Bartonella spp., Rickettsia spp., and Wolbachia spp.. Phylogenetic analyses based on multiple molecular markers for Bartonella spp. (gltA, ftsZ, nuoG, and rpoB), Rickettsia spp. (gltA, htrA, ompA, and ompB), and Wolbachia spp. (gatB and wsp) confirmed the detection of Bartonella henselae, Bartonella clarridgeiae, Rickettsia felis, and Wolbachia spp. belonging to supergroups B and F. In fleas collected from dogs, the detection of Wolbachia spp. was associated with a higher predicted probability of Rickettsia spp. detection, whereas in fleas collected from cats it was associated with a lower predicted probability of Bartonella spp. detection. Overall, the findings revealed distinct host-associated molecular detection patterns of Bartonella spp., Rickettsia spp., and Wolbachia spp. in C. felis felis, demonstrating the circulation and genetic diversity of these bacterial agents in flea populations. The detection of zoonotic bacterial agents in fleas highlights their relevance for integrated veterinary and public health surveillance within a One Health framework.",
+      "authors": [
+        "Micolta LFB",
+        "das Neves LF",
+        "Calchi AC"
+      ],
+      "journal": "Acta tropica",
+      "publicationDate": "Oct 08, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42849646/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-09T12:10:21.342Z"
+    },
+    {
+      "pmid": "42849539",
+      "title": "Zinc Metalloproteases of Apicomplexan Parasites: Conserved Targets for Broad-Spectrum Antiparasitic Drug Discovery.",
+      "abstract": "The phylum Apicomplexa includes major protozoan pathogens of humans and animals (Plasmodium falciparum, Toxoplasma gondii, Cryptosporidium parvum, Babesia spp., Eimeria spp., and Neospora caninum) with substantial global health and economic impact. Resistance to key chemotherapeutics, including the partner and antifolate drugs used against several of these diseases, is narrowing a limited arsenal of target-specific treatments, creating an urgent need for mechanistically distinct drug targets. Proteolytic enzymes are attractive candidates, yet antiprotease drug discovery in the Apicomplexa has concentrated on aspartyl and cysteine proteases, leaving zinc metalloproteases (ZMPs) comparatively neglected despite non-redundant roles in haemoglobin digestion, invasion, egress, organelle biogenesis, and immune evasion. This review synthesises the biology, conservation, and drug-target status of apicomplexan ZMPs (MEROPS families M1, M16C, M17, M18, M24, M41) across the six species above. Catalytic-domain conservation, genetic and pharmacological validation status, and inhibitor pharmacology (hydroxamic acid, phosphinic acid, bestatin, amino-benzosuberone, and peptide-based scaffolds) are compared family-by-family. A multi-criteria druggability framework identifies the M17 leucyl aminopeptidase and apicoplast-resident FtsH1 (M41) as the most compelling pan-apicomplexan targets, reflecting genetic essentiality, chemical tractability, and host selectivity, while the expanded M16C insulinase family of C. parvum illustrates a lineage-specific opportunity. Principal gaps include sparse genetic validation outside P. falciparum and T. gondii, near-total absence of experimental structures beyond P. falciparum, and no ZMP inhibitor yet advanced to in vivo or clinical testing. This synthesis aims to advance apicomplexan zinc metalloproteases from an underexplored genomic feature toward a validated class of antiparasitic drug targets.",
+      "authors": [
+        "Mahanta PJ",
+        "Sarma MP",
+        "Lhouvum K"
+      ],
+      "journal": "Molecular and biochemical parasitology",
+      "publicationDate": "Oct 08, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42849539/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-09T12:10:27.815Z"
     },
     {
       "pmid": "42843563",
@@ -92,7 +160,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:45.017Z"
+      "fetchedAt": "2026-10-09T12:10:14.067Z"
     },
     {
       "pmid": "42843064",
@@ -115,7 +183,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:45.661Z"
+      "fetchedAt": "2026-10-09T12:10:14.698Z"
     },
     {
       "pmid": "42842543",
@@ -138,7 +206,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:46.318Z"
+      "fetchedAt": "2026-10-09T12:10:15.346Z"
     },
     {
       "pmid": "42843563",
@@ -161,7 +229,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:52.551Z"
+      "fetchedAt": "2026-10-09T12:10:21.985Z"
     },
     {
       "pmid": "42843563",
@@ -184,7 +252,29 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:59.858Z"
+      "fetchedAt": "2026-10-09T12:10:28.459Z"
+    },
+    {
+      "pmid": "42846156",
+      "title": "Lyme Carditis Beyond Atrioventricular Block: Cardiac Arrest and Transient Atrial Fibrillation With Preserved Atrioventricular Conduction.",
+      "abstract": "Lyme disease may involve the heart during early dissemination and most commonly produces atrioventricular (AV) conduction abnormalities. PR interval prolongation, therefore, frequently guides clinical suspicion and management. We describe a previously healthy man who presented with seizure-like activity, aborted cardiac arrest, transient atrial fibrillation, and cardiac magnetic resonance findings consistent with acute myocarditis, although AV conduction remained normal. Serologic testing subsequently confirmed Lyme carditis. The patient recovered completely with oral doxycycline. This case illustrates that electrical instability may occur despite preserved PR intervals and reinforces the need for suspicion in patients with compatible systemic features.",
+      "authors": [
+        "Anthony JA",
+        "Doktor K"
+      ],
+      "journal": "Case reports in cardiology",
+      "publicationDate": "10 06, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42846156/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-09T12:10:13.400Z"
     },
     {
       "pmid": "42839382",
@@ -207,7 +297,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:47.599Z"
+      "fetchedAt": "2026-10-09T12:10:16.642Z"
     },
     {
       "pmid": "42837310",
@@ -230,7 +320,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:48.259Z"
+      "fetchedAt": "2026-10-09T12:10:17.283Z"
     },
     {
       "pmid": "42831617",
@@ -253,7 +343,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:48.900Z"
+      "fetchedAt": "2026-10-09T12:10:17.917Z"
     },
     {
       "pmid": "42832605",
@@ -276,7 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:53.203Z"
+      "fetchedAt": "2026-10-09T12:10:22.625Z"
     },
     {
       "pmid": "42828675",
@@ -299,7 +389,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:54.490Z"
+      "fetchedAt": "2026-10-09T12:10:23.899Z"
     },
     {
       "pmid": "42839832",
@@ -322,7 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:46.966Z"
+      "fetchedAt": "2026-10-09T12:10:16.005Z"
     },
     {
       "pmid": "42822458",
@@ -345,30 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:20:01.786Z"
-    },
-    {
-      "pmid": "42815526",
-      "title": "Is 28 days of doxycycline still justified for canine Lyme arthropathy? A call for a randomized controlled trial.",
-      "abstract": "Canine Lyme borreliosis is commonly treated with a 28-day course of doxycycline, a regimen based on historical precedent rather than evidence. Most dogs exposed to Borrelia burgdorferi remain clinically normal despite seroconversion; of those that do develop clinical Lyme disease, the most common presentation is acute or recurrent shifting-leg lameness consistent with Lyme arthropathy. This Viewpoint proposes there is clinical equipoise to evaluate shorter durations of 10 days of doxycycline in dogs with uncomplicated Lyme arthropathy and outlines a prospective parallel-group randomized controlled trial to reassess treatment duration. Determining whether a shorter treatment course is clinically effective also has important implications for antimicrobial stewardship by minimizing unnecessary antimicrobial exposure and selection pressures for antimicrobial resistance.",
-      "authors": [
-        "Emdin F",
-        "Daneman N",
-        "Weese JS"
-      ],
-      "journal": "Journal of the American Veterinary Medical Association",
-      "publicationDate": "Sep 30, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42815526/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-08T12:19:50.827Z"
+      "fetchedAt": "2026-10-09T12:10:30.392Z"
     },
     {
       "pmid": "42816510",
@@ -391,7 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:20:02.419Z"
+      "fetchedAt": "2026-10-09T12:10:31.040Z"
     },
     {
       "pmid": "42805403",
@@ -414,30 +481,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:56.446Z"
-    },
-    {
-      "pmid": "42805295",
-      "title": "Retraction notice to \"Prevalence of Coxiella burnetii and Bartonella species as cases of infective endocarditis in Marseilles (1994-2007)\" [CMI 15 (S2) 152-153].",
-      "abstract": "",
-      "authors": [
-        "Casalta JP",
-        "Gouriet F",
-        "Richet H"
-      ],
-      "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
-      "publicationDate": "Sep 28, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42805295/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-08T12:19:56.945Z"
+      "fetchedAt": "2026-10-09T12:10:25.837Z"
     },
     {
       "pmid": "42805403",
@@ -460,7 +504,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:20:03.072Z"
+      "fetchedAt": "2026-10-09T12:10:31.693Z"
     },
     {
       "pmid": "42830720",
@@ -483,7 +527,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:20:00.496Z"
+      "fetchedAt": "2026-10-09T12:10:29.101Z"
     },
     {
       "pmid": "42797509",
@@ -506,30 +550,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:20:05.028Z"
-    },
-    {
-      "pmid": "42796752",
-      "title": "Untitled",
-      "abstract": "In Kazakhstan, despite the diversity of ixodid ticks and extensive livestock movement throughout Central Asia, ovine Babesia infections are poorly characterized. The objective of this study was to determine the occurrence, genetic diversity and geographic distribution of Babesia spp. in sheep from southern and southeastern Kazakhstan. A total of 1458 blood samples from 51 settlements across five regions were screened by nested PCR targeting mitochondrial cytb. Positive samples were characterized by Sanger sequencing, with additional multilocus analysis based on 18S rRNA and mitochondrial cox1 sequences. Babesia DNA was detected in 75/1458 samples (5.1%), with variation in PCR positivity among regions. Positive samples occurred in Turkestan (3.6%), Jambyl (7.2%), and Almaty (21.2%), but not in Kyzylorda or Jetisu. Phylogenetic analyses identified two geographically structured lineages. Nine Turkestan samples formed a lineage related to the Babesia sp. Xinjiang/Dunhuang group and were provisionally designated Babesia sp. TRK. The remaining 66 samples formed a B. motasi lineage comprising five cytb genotypes and showing closer affinity to the Lintan/Tianzhu group than to the Hebei/Ningxian group. Despite high 18S rRNA identity with B. motasi, mitochondrial markers revealed substantial divergence. The findings of the current study expand understanding of ovine Babesia diversity in Central Asia and emphasize the need for genomic characterization to resolve the taxonomic status of the detected lineages.",
-      "authors": [
-        "Akhmetova A",
-        "Ostrovskii A",
-        "Ryskeldina A"
-      ],
-      "journal": "Pathogens (Basel, Switzerland)",
-      "publicationDate": "Sep 16, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42796752/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-08T12:20:05.678Z"
+      "fetchedAt": "2026-10-09T12:10:33.621Z"
     },
     {
       "pmid": "42825085",
@@ -551,7 +572,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:20:01.140Z"
+      "fetchedAt": "2026-10-09T12:10:29.753Z"
     },
     {
       "pmid": "42797981",
@@ -574,21 +595,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:20:04.380Z"
+      "fetchedAt": "2026-10-09T12:10:32.985Z"
     },
     {
-      "pmid": "42816858",
-      "title": "Efficacy of a low-dose fipronil bait in controlling blacklegged tick (Ixodes scapularis) larvae parasitizing white-footed mice (Peromyscus leucopus) under field conditions in the northeastern United States.",
-      "abstract": "Lyme disease, caused primarily by Borrelia burgdorferi sensu stricto, remains the most common vector-borne disease in the United States despite control efforts. Peromyscus leucopus (white-footed mouse) is a key natural pathogen reservoir and Ixodes scapularis ticks, commonly infesting this rodent, serve as vectors for spirochetes causing human Lyme disease. Laboratory and simulated field studies demonstrated substantial efficacy of a 0.005% fipronil bait in systemically controlling I. scapularis parasitizing treated P. leucopus. To evaluate fipronil bait efficacy under natural conditions, a multi-year field study was conducted in Connecticut. Reusable rodent bait stations containing fipronil bait were deployed on residential properties during the I. scapularis nymphal and larval seasons (May-August) from 2022 to 2024. Bait consumption was monitored and bait replenished as needed. Peromyscus leucopus were captured during larval season each year within treated and control properties to assess parasitizing I. scapularis and determine fipronil concentrations in P. leucopus plasma. Drag sampling/flagging was performed during I. scapularis nymphal seasons to estimate abundance of host-seeking nymphs. Molecular assays were used to determine B. burgdorferi infection in P. leucopus and host-seeking nymphs. An average of 4.9&#xa0;kg of fipronil bait, containing approximately 247&#xa0;mg fipronil, was distributed/property/year. The majority of plasma samples analyzed (100% in 2022 and 2023; 83.3% in 2024) had detectable concentrations of fipronil sulfone. Results indicated that within treated properties, parasitizing larvae and successfully engorging larvae were significantly reduced by up to 84.2% and 92.5%, respectively. Additionally, B. burgdorferi infection in P. leucopus was significantly reduced by up to 34.1% relative to control. While reductions were noted in density and B. burgdorferi infection in host-seeking nymphs within treatment properties, there were no detectable significant differences relative to control. Our results demonstrate potential for a low-dose fipronil bait to significantly reduce parasitizing tick burden, pathogen prevalence in wild mice, with potential to reduce host-seeking nymph density and pathogen infection. Future research should consider increasing the bait application rate during the larval season to more effectively reduce density and B. burgdorferi infection rate in host-seeking nymphs. Additional field studies would aid in confirming these findings and further investigation of the potential impact of largescale treatment.",
+      "pmid": "42846282",
+      "title": "Atypical Lyme Neuroborreliosis Presenting With Ventriculitis and Cerebritis: A Case Report.",
+      "abstract": "Lyme neuroborreliosis is a neurological manifestation of infection by Borrelia burgdorferi sensu lato and most commonly presents with lymphocytic meningitis, cranial neuropathy, or painful radiculitis. Central nervous system parenchymal involvement is uncommon, and ventriculitis is rarely reported. We describe a man in his late 70s who presented with acute confusion, dysarthria, and left-sided weakness following several days of severe lower-limb pain and progressive mobility impairment. His neurological status rapidly deteriorated, with secondary seizures requiring invasive mechanical ventilation and intensive care support. Laboratory evaluation demonstrated a marked systemic inflammatory response, thrombocytopenia, acute kidney injury, and cholestatic liver dysfunction. Cerebrospinal fluid (CSF) analysis revealed pleocytosis with initial neutrophilic predominance, markedly elevated protein, and preserved glucose. Routine bacterial cultures and molecular testing for common central nervous system pathogens were negative. Anti-Borrelia IgG and IgM antibodies were detected in CSF, although a paired CSF-serum antibody index was unavailable. Brain magnetic resonance imaging demonstrated inflammatory material within the occipital horns of the lateral ventricles, bilateral leptomeningeal involvement, and focal parenchymal lesions with restricted diffusion suggestive of cerebritis. In the appropriate clinical context, these findings supported a diagnosis of probable Lyme neuroborreliosis with an unusual ventriculitis-like presentation. Despite prolonged antimicrobial therapy and partial improvement in CSF and radiological inflammatory findings, neurological recovery remained limited, and the patient subsequently died following ventilator-associated pneumonia complicated by septic shock. This case illustrates an uncommon and severe central nervous system presentation potentially associated with Lyme neuroborreliosis and highlights both the diagnostic value and limitations of CSF serology when demonstration of intrathecal antibody synthesis is unavailable.",
       "authors": [
-        "Poch&#xe9; DM",
-        "Williams SC",
-        "Linske MA"
+        "Albuquerque A",
+        "Cunha AC",
+        "Gomes O"
       ],
-      "journal": "Parasites & vectors",
+      "journal": "Cureus",
       "publicationDate": "Sep 07, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42816858/",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42846282/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
@@ -597,29 +618,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:50.178Z"
-    },
-    {
-      "pmid": "42796692",
-      "title": "Partial Oral Antibiotic Therapy for Infective Endocarditis: A Practical Review of Current Evidence and Guidelines.",
-      "abstract": "Infective endocarditis (IE) is associated with an in-hospital mortality rate of 15-30%. Standard treatment requires 2 to 6 weeks of intravenous (IV) antibiotic therapy, resulting in prolonged hospitalization with its attendant risks, including catheter-related complications, increased length of stay, and cost. This review summarizes the current evidence, eligibility criteria, antibiotic regimen selection, and practical aspects of partial oral antibiotic therapy (POAT) for IE. Oral treatment is already recommended for right-sided Staphylococcus aureus IE and IE caused by selected atypical pathogens (e.g., Brucella spp., Coxiella burnetii, Bartonella spp., and Tropheryma whipplei). The landmark Partial Oral Treatment of Endocarditis trial (2019) demonstrated the non-inferiority of POAT-initiated after at least 10 days of IV therapy-versus continued IV treatment for left-sided IE caused by streptococci, Enterococcus faecalis, S. aureus, or coagulase-negative staphylococci. Long-term follow-up at 5.4 years demonstrated lower all-cause mortality in the POAT group. The 2023 European Society of Cardiology Guidelines now formally endorse POAT for selected patients fulfilling strict criteria. Despite robust evidence, POAT is currently implemented in fewer than half of eligible patients. These findings have since been corroborated by the WikiGuidelines Group consensus statement and the French Soci&#xe9;t&#xe9; de Pathologie Infectieuse de Langue Fran&#xe7;aise-Association pour l'&#xc9;tude et la Pr&#xe9;vention de l'Endocardite Infectieuse position statement, and extended by real-world evidence (the ENDO-ORAL study) suggesting that carefully selected patients falling outside strict trial-based eligibility criteria may also benefit from oral step-down therapy. In appropriately selected and clinically stable patients, POAT is supported by randomized and real-world evidence as an alternative to prolonged IV therapy. Strict adherence to eligibility criteria, appropriate antibiotic selection based on pathogen susceptibility, and close clinical follow-up are essential to optimize outcomes.",
-      "authors": [
-        "Roland T",
-        "Yombi JC"
-      ],
-      "journal": "Pathogens (Basel, Switzerland)",
-      "publicationDate": "Sep 02, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42796692/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-08T12:19:57.589Z"
+      "fetchedAt": "2026-10-09T12:10:12.719Z"
     },
     {
       "pmid": "42825005",
@@ -642,7 +641,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:55.143Z"
+      "fetchedAt": "2026-10-09T12:10:24.534Z"
     },
     {
       "pmid": "42799294",
@@ -665,21 +664,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:20:03.716Z"
+      "fetchedAt": "2026-10-09T12:10:32.338Z"
     },
     {
-      "pmid": "42794146",
-      "title": "Untitled",
-      "abstract": "Background/Objective: Bartonella henselae, the causative agent of cat-scratch disease (CSD), usually causes a self-limiting zoonotic infection. Osteomyelitis is a rare but increasingly recognized manifestation, particularly in children, and may closely mimic malignant or other infectious bone diseases. We present a case of multifocal pediatric Bartonella henselae osteomyelitis and discuss the associated diagnostic and therapeutic challenges in the context of the current literature. Case presentation: We report the case of a previously healthy 10-year-old girl who presented with a one-month history of fever, fatigue, limping, and progressive thigh and groin pain following cat-scratch exposure. During the course of the illness, she developed unilateral facial nerve palsy and Parinaud oculoglandular syndrome. Initial laboratory investigations demonstrated elevated inflammatory markers and reactive thrombocytosis. Serological testing for Bartonella henselae was positive for both IgM and IgG antibodies, whereas polymerase chain reaction (PCR) testing of both peripheral blood and the bone biopsy specimen was negative. Plain radiographs were unremarkable; however, magnetic resonance imaging (MRI) revealed multifocal lesions involving the right femoral diaphysis, right pubic bone, and left iliac wing, together with focal hepatic and splenic lesions suggestive of disseminated disease. Because of the radiological suspicion of malignancy, a femoral bone biopsy was performed and demonstrated osteomyelitis with necrosis and microabscess formation, without evidence of malignancy. Following targeted antimicrobial therapy, the patient showed rapid clinical and laboratory improvement, with progressive regression of the lesions on follow-up MRI. Conclusions: Bartonella henselae osteomyelitis should be considered in the differential diagnosis of multifocal bone lesions in children, particularly in patients with a history of cat exposure. Because the disease may closely mimic malignancy both clinically and radiologically, establishing the diagnosis requires careful integration of epidemiological, clinical, serological, radiological, molecular, and histopathological findings. Early recognition and appropriate antimicrobial treatment are associated with an excellent prognosis.",
+      "pmid": "42850616",
+      "title": "Broad-spectrum molecular detection of zoonotic agents in wild micromammals: a nationwide surveillance study in the Republic of Korea.",
+      "abstract": "Wild micromammals serve as key hosts for diverse zoonotic pathogens, maintaining these agents in natural ecosystems and facilitating potential spillover to humans. Assessing pathogen prevalence in micromammals is essential for evaluating zoonotic risk and informing public health interventions. In this study, we applied the TaqMan Array Card (TAC) platform, a high-throughput molecular diagnostic tool, to micromammal-borne zoonotic pathogen surveillance. From October to November 2022, a total of 160 wild micromammals, including&#xa0;Apodemus agrarius (Striped field mouse) (90.6,&#xa0;n&#x2009;=&#x2009;145) and&#xa0;Crocidura lasiura&#xa0;(Ussuri white-toothed shrew) (9.4%,&#xa0;n&#x2009;=&#x2009;15), were collected from 12 regions. Spleen tissues were screened for 45 viral, bacterial, and protozoan pathogens using the TAC platform. Viral pathogens were detected at lower frequencies, including Junin virus (2.5%,&#xa0;n&#x2009;=&#x2009;4) and lymphocytic choriomeningitis virus (0.6%, n&#x2009;=&#x2009;1). In contrast, bacterial pathogens showed high prevalence, including Bartonella spp. (78.8%, n&#x2009;=&#x2009;126), Ehrlichia spp. (47.5%, n&#x2009;=&#x2009;76), Anaplasma spp. (46.9%, n&#x2009;=&#x2009;75), Borrelia spp. (36.3%, n&#x2009;=&#x2009;58), Orientia tsutsugamushi (25.6%, n&#x2009;=&#x2009;41), Rickettsia spp. (4.4%, n&#x2009;=&#x2009;7), and Leptospira spp. (2.5%, n&#x2009;=&#x2009;4) as well as protozoan pathogens such as Trypanosoma spp. (87.5%, n&#x2009;=&#x2009;140), Cryptosporidium (20.0%, n&#x2009;=&#x2009;32), and Toxoplasma gondii (1.3%, n&#x2009;=&#x2009;2). However, some detections particularly viral pathogens were based solely on the TAC platform and were not confirmed by conventional PCR and sequencing. Phylogenetic analyses of TAC-positive samples revealed the presence of diverse zoonotic agents, including Anaplasma phagocytophilum, Ehrlichia muris, Candidatus Ehrlichia khabarensis, Candidatus Neoehrlichia mikurensis, Borreliella afzelii, Borrelia miyamotoi, O. tsutsugamushi Saitama and Young-worl strains, Bartonella quintana, B. fuyuanensis, and B. japonica. These findings demonstrate the widespread regional distribution of micromammal-borne zoonotic pathogens across the ROK and provide essential baseline data to support integrated One Health surveillance frameworks for emerging and re-emerging micromammal-borne zoonoses.",
       "authors": [
-        "Ducic S",
-        "Djordjevic S",
-        "Lazovic M"
+        "Yoon H",
+        "Lee HS",
+        "Seo JY"
       ],
-      "journal": "Children (Basel, Switzerland)",
-      "publicationDate": "Aug 23, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42794146/",
+      "journal": "Parasites & vectors",
+      "publicationDate": "Jul 26, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42850616/",
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
@@ -688,7 +687,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-08T12:19:58.237Z"
+      "fetchedAt": "2026-10-09T12:10:20.707Z"
     }
   ]
 }
