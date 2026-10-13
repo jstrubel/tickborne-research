@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T13:40:16.782Z",
+  "generatedAt": "2026-10-13T13:02:13.406Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -22,7 +22,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:39:56.921Z"
+      "fetchedAt": "2026-10-13T13:01:54.990Z"
     },
     {
       "pmid": "42830543",
@@ -45,7 +45,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:07.974Z"
+      "fetchedAt": "2026-10-13T13:02:04.620Z"
     },
     {
       "pmid": "42850783",
@@ -68,7 +68,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:04.596Z"
+      "fetchedAt": "2026-10-13T13:02:01.498Z"
+    },
+    {
+      "pmid": "42863167",
+      "title": "Identifying counties at elevated acarological risk for reporting high incidence of Lyme disease in the eastern United States.",
+      "abstract": "Lyme disease, caused primarily by the bite of a nymphal blacklegged tick (Ixodes scapularis) infected with Borrelia burgdorferi sensu stricto (Bbss), is the most common vector-borne disease in the United States. Counties reporting high Lyme disease incidence (LDI) continue to expand beyond historic foci in the Northeast and Upper Midwest. Identifying areas of expansion aids in targeting efforts to improve Lyme disease awareness in affected communities. Tick surveillance is conducted to track changes in acarological risk for tickborne diseases; the density of host-seeking Bbss-infected I. scapularis nymphs (DIN) is considered the most predictive metric for human LDI. We aimed to identify a threshold in DIN that accurately separated high (&#x2265;10 average annual cases/100,000 and &#x2265;3 cases/year; 2022-2023) from low LDI counties in the eastern US. Using previously reported model-derived DIN, we identified 0.98 Bbss-infected nymphs per 1000&#x202f;m2 as the threshold. Based on this threshold, we classified 18% of eastern counties (487/2695), primarily in the Northeast and Upper Midwest, with both high LDI and elevated acarological risk and 72% (1935/2695) with both low LDI and acarological risk. Another 8% of counties (220/2695), primarily in Michigan, Illinois, Indiana, and Ohio, were predicted to pose elevated acarological risk, but reported low LDI and may reflect areas of emergence that could benefit from expanded tick surveillance and public health outreach. The remaining 2% of counties (53/2695), mainly along the Appalachian Mountains, reported high LDI, but were misclassified as low acarological risk, highlighting the need for additional tick surveillance to improve acarological risk assessments.",
+      "authors": [
+        "Holcomb KM",
+        "Foster E",
+        "Burtis JC"
+      ],
+      "journal": "Ticks and tick-borne diseases",
+      "publicationDate": "Oct 12, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42863167/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-13T13:01:52.484Z"
+    },
+    {
+      "pmid": "42862010",
+      "title": "Untitled",
+      "abstract": "The Lyme disease spirochete, Borrelia burgdorferi, maintains a low burden during vertebrate infection. This limitation has historically proven to be particularly challenging for genome-based studies of B. burgdorferi infection and spirochete presence after antibiotic treatment. Here, we used TBDCapSeq, an oligo capture-based next- generation sequencing assay, to demonstrate its utility for genome recovery of B. burgdorferi directly from C3H- and BALB/c-infected mice. Tissue fragments from the ear, heart, tarsus, and infection-site skin were collected at 3 and 6 months post-tick infection from antibiotic-treated and untreated animals. We evaluated 59 tissues from 20 untreated mice and 48 tissues from 17 doxycycline-treated mice for spirochete burden and extent of genome recovery. In the untreated mice, genome recovery from each tissue was determined by the amount of borrelial DNA present in the sequencing library and was highest in the ear and heart, followed by the skin, and lowest in the tarsus. We established that approximately 50% of the genome could be recovered with as few as 10 spirochetes per assay and >90% recovery could be achieved with only 35 spirochete genomes. In the antibiotic-treated mice, trace quantities of fragmented Borrelia DNA were still present in tissues at 3 and 6 months. However, none of the tissue samples from these mice yielded an intact B. burgdorferi genome characteristic of a viable spirochete. Combined, our findings demonstrate that capture sequencing enables genomic analyses of B. burgdorferi directly within animal hosts.IMPORTANCELyme disease, caused by the spirochete Borrelia burgdorferi, is the most common tick-borne infection in the United States. Low pathogen burden is a major limitation of B. burgdorferi studies in animal hosts and humans that has impacted a wide range of studies ranging from diagnostics, evolutionary analyses, and pathogenesis. It has also contributed to the controversies regarding B. burgdorferi persistence after antibiotic treatment. We show that a next-generation capture sequencing-based approach can readily overcome the current limitations of B. burgdorferi genomic analyses within animal hosts. We successfully recovered abundant genomic information directly from mouse tissues, and we did not find genetic evidence of intact bacteria present after antibiotic treatment. This approach can be employed to gain further insights into B. burgdorferi and provide critical genome data during animal and human infection.",
+      "authors": [
+        "Sanchez-Vicente S",
+        "Park J",
+        "Lipkin WI"
+      ],
+      "journal": "mSystems",
+      "publicationDate": "Oct 12, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42862010/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-13T13:01:53.108Z"
     },
     {
       "pmid": "42853782",
@@ -91,7 +137,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:39:56.296Z"
+      "fetchedAt": "2026-10-13T13:01:54.376Z"
     },
     {
       "pmid": "42858692",
@@ -112,7 +158,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:02.835Z"
+      "fetchedAt": "2026-10-13T13:01:59.745Z"
     },
     {
       "pmid": "42849646",
@@ -135,7 +181,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:05.865Z"
+      "fetchedAt": "2026-10-13T13:02:02.730Z"
     },
     {
       "pmid": "42849539",
@@ -158,7 +204,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:10.755Z"
+      "fetchedAt": "2026-10-13T13:02:07.375Z"
     },
     {
       "pmid": "42843563",
@@ -181,7 +227,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:39:58.822Z"
+      "fetchedAt": "2026-10-13T13:01:57.061Z"
     },
     {
       "pmid": "42843064",
@@ -204,7 +250,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:39:59.449Z"
+      "fetchedAt": "2026-10-13T13:01:57.681Z"
     },
     {
       "pmid": "42842543",
@@ -227,7 +273,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:00.088Z"
+      "fetchedAt": "2026-10-13T13:01:58.297Z"
     },
     {
       "pmid": "42843563",
@@ -250,7 +296,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:06.719Z"
+      "fetchedAt": "2026-10-13T13:02:03.358Z"
     },
     {
       "pmid": "42843563",
@@ -273,7 +319,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:11.383Z"
+      "fetchedAt": "2026-10-13T13:02:08.006Z"
     },
     {
       "pmid": "42846156",
@@ -295,30 +341,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:39:58.197Z"
-    },
-    {
-      "pmid": "42839382",
-      "title": "Rapid Motility Arrest of the Lyme Disease Spirochete, Borrelia burgdorferi, by Vaccine-Induced OspA Antibodies.",
-      "abstract": "Outer surface protein A (OspA)-based Lyme disease vaccines elicit antibodies that inhibit transmission of infectious Borrelia burgdorferi spirochetes from ticks to humans, although the mechanism by which this occurs is unclear. Here we demonstrate using high-resolution, single-cell fluorescence video microscopy that B. burgdorferi motility is arrested within minutes by human OspA-specific monoclonal antibodies and polyclonal OspA antisera from mice immunized with a candidate OspA mRNA lipid nanoparticle vaccine.",
-      "authors": [
-        "Bhattacharyya A",
-        "Yau R",
-        "Bartlett TM"
-      ],
-      "journal": "Molecular microbiology",
-      "publicationDate": "Oct 06, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42839382/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-12T13:40:01.339Z"
+      "fetchedAt": "2026-10-13T13:01:56.235Z"
     },
     {
       "pmid": "42832605",
@@ -341,7 +364,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:07.346Z"
+      "fetchedAt": "2026-10-13T13:02:03.994Z"
     },
     {
       "pmid": "42828675",
@@ -364,7 +387,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:08.682Z"
+      "fetchedAt": "2026-10-13T13:02:05.251Z"
     },
     {
       "pmid": "42856406",
@@ -387,30 +410,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:39:55.654Z"
-    },
-    {
-      "pmid": "42839832",
-      "title": "When Clades Collide: Genomic Admixture in Blacklegged Ticks (Ixodes scapularis) From the Great Plains.",
-      "abstract": "Ixodes scapularis ticks transmit a number of pathogens important to human health, including Borrelia burgdorferi sensu stricto, the causative agent of Lyme disease. While I. scapularis is found across the Eastern United States, Lyme disease transmission is largely limited to the Northeast and Upper Midwest and is nearly absent in the South. This indicates that differences in northern versus southern clades of I. scapularis are associated with differences in Lyme disease transmission risk. Ixodes scapularis is undergoing range expansion, including into the Great Plains region of the United States. Determining where I. scapularis populations in the Great Plains originated can inform future risk of Lyme disease transmission in this region. In this study, we use a population genomics framework to characterize diversity, structure and B. burgdorferi infection rates of I. scapularis populations in the Great Plains region. We generated whole genome sequence data and single nucleotide polymorphism (SNP) datasets from I. scapularis ticks collected in Iowa, Kansas, Nebraska and South Dakota to compare to publicly available data from across the species' range. Our analysis of 200 I. scapularis SNP datasets indicated geographically well-defined populations that correspond to historical northern and southern ancestral clades of I. scapularis. Ticks from South Dakota, Iowa and northeastern Nebraska are genetically similar populations from the Upper Midwest, while ticks from Kansas are more genetically similar to ticks from the Southeast. Ticks collected in the east central region of Nebraska, however, represent an evenly admixed population of both northern and southern genomic backgrounds. Analysis of B. burgdorferi reads from genomic datasets shows ~50% infection rate in ticks from Iowa and northeastern Nebraska, whereas ticks from Kansas show no evidence of B. burgdorferi infection. Of note, evenly admixed ticks from the east central region of Nebraska also show no evidence of B. burgdorferi infection. These results provide further evidence that tick genomics may influence traits associated with B. burgdorferi infection status, and thus the potential for Lyme disease transmission. As the range of I. scapularis continues to expand, bringing historically isolated populations into contact, there is a clear need to understand the consequence of genomic admixture for B. burgdorferi transmission potential to inform future risk of Lyme disease in the United States.",
-      "authors": [
-        "Herzog KS",
-        "Pella Z",
-        "Smith H"
-      ],
-      "journal": "Molecular ecology",
-      "publicationDate": "Oct 1, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42839832/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-12T13:40:00.713Z"
+      "fetchedAt": "2026-10-13T13:01:53.733Z"
     },
     {
       "pmid": "42822458",
@@ -433,7 +433,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:13.260Z"
+      "fetchedAt": "2026-10-13T13:02:09.888Z"
     },
     {
       "pmid": "42857225",
@@ -456,7 +456,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:10.131Z"
+      "fetchedAt": "2026-10-13T13:02:06.760Z"
     },
     {
       "pmid": "42816510",
@@ -479,7 +479,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:13.892Z"
+      "fetchedAt": "2026-10-13T13:02:10.510Z"
     },
     {
       "pmid": "42805403",
@@ -502,7 +502,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:14.507Z"
+      "fetchedAt": "2026-10-13T13:02:11.132Z"
     },
     {
       "pmid": "42856766",
@@ -525,7 +525,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:03.335Z"
+      "fetchedAt": "2026-10-13T13:02:00.244Z"
     },
     {
       "pmid": "42830720",
@@ -548,7 +548,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:12.023Z"
+      "fetchedAt": "2026-10-13T13:02:08.625Z"
     },
     {
       "pmid": "42825085",
@@ -570,7 +570,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:12.642Z"
+      "fetchedAt": "2026-10-13T13:02:09.266Z"
     },
     {
       "pmid": "42797981",
@@ -593,7 +593,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:15.780Z"
+      "fetchedAt": "2026-10-13T13:02:12.405Z"
     },
     {
       "pmid": "42852165",
@@ -616,7 +616,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:03.976Z"
+      "fetchedAt": "2026-10-13T13:02:00.868Z"
     },
     {
       "pmid": "42846282",
@@ -639,7 +639,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:39:57.562Z"
+      "fetchedAt": "2026-10-13T13:01:55.610Z"
     },
     {
       "pmid": "42799294",
@@ -662,7 +662,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:15.133Z"
+      "fetchedAt": "2026-10-13T13:02:11.783Z"
     },
     {
       "pmid": "42850616",
@@ -685,7 +685,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-12T13:40:05.221Z"
+      "fetchedAt": "2026-10-13T13:02:02.109Z"
     }
   ]
 }
