@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T10:26:43.215Z",
+  "generatedAt": "2026-10-16T10:14:02.179Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -22,21 +22,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:24.297Z"
+      "fetchedAt": "2026-10-16T10:13:44.180Z"
     },
     {
-      "pmid": "42850783",
-      "title": "Incidence and Factors of Bacterial Zoonotic Infection in Solid Organ Transplant Recipients.",
-      "abstract": "Infection remains a leading cause of morbidity and mortality among solid organ transplant (SOT) recipients, yet zoonotic pathogens as a distinct category remain underrecognized. We investigated the incidence, and risk factors of bacterial zoonotic infections after transplantation using a large multicenter database. We queried the TriNetX database in from 2014-2024 to identify adult SOT recipients who developed bacterial zoonotic infections. We identified twelve bacterial zoonoses using ICD-10 codes: anthrax, brucellosis, cat scratch disease, glanders, leprosy, leptospirosis, tularemia, parrot fever, pasteurellosis, plague, Q fever, and rat-bite fever. Sixty-one SOT recipients (0.03%) developed a bacterial zoonotic infection, corresponding to an incidence of 4.87 per 100&#xa0;000 person-years. The median time from transplantation to infection was 736 days (IQR, 298-1970), with 72.1% of infections occurring more than one year after transplantation. The hospitalization rate was 41.0%, and the 90-day all-cause mortality rate was 6.6%. The three most common infections were Q fever, cat scratch disease, and pasteurellosis. No cases of anthrax, tularemia, plague, or rat-bite fever were identified. Black recipients had a 49% lower risk of bacterial zoonotic infection than White recipients. Bacterial zoonotic infections were uncommon and occurred predominantly during the late post-transplant period. The lower risk observed among Black recipients reflects differences in animal and environmental exposure that this study could not measure, rather than biological susceptibility. Animal safety counseling should extend beyond the early post-transplant period and continue as part of long-term post-transplant care.",
+      "pmid": "42885240",
+      "title": "Functional Metagenomics Reveals Gut Microbial Biosynthetic Potential for Essential Nutrients in Juvenile Chum Salmon.",
+      "abstract": "The fish gut microbiota contributes to host nutrition, immunity and homeostasis, yet how its metabolic capacity relates to gaps in the host genome remains poorly characterized. Here we used shotgun metagenomic sequencing and KEGG module completion analysis to compare the biosynthetic potential of the gut microbiome with that of the host genome in juvenile chum salmon (Oncorhynchus keta) at 35&#x2009;days posthatching, when exogenous feeding begins. Because small juvenile guts yield low microbial biomass and a high proportion of host DNA, we first optimized a protocol combining enzymatic lysis with NEBNext-based host DNA depletion. This raised the bacterial sequence fraction from 11.3% to 41.2% and increased the number of KEGG Orthology identifiers mapped to modules from 1128 to 1532. Module Completion Ratio analysis revealed complementation in functional potential: the chum salmon genome was incomplete for de novo biosynthesis of essential amino acids (threonine, leucine, valine/isoleucine, lysine) and B-vitamins (thiamine, riboflavin, biotin), whereas the gut metagenome encoded complete or near-complete modules for these pathways. Sequences assigned to Bartonella-like, Acinetobacter and Enterococcus lineages contributed most. These observations indicate that the gut microbiome encodes biosynthetic potential the host genome lacks, although demonstrating a nutritional benefit to the host will require experimental manipulation.",
       "authors": [
-        "Chiu CY",
-        "Chesdachai S",
-        "Sharath DB"
+        "Ghosh SK",
+        "Wassel MA",
+        "Wong MK"
       ],
-      "journal": "Clinical transplantation",
-      "publicationDate": "Oct 17, 2026",
+      "journal": "Environmental microbiology",
+      "publicationDate": "Oct 16, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42850783/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42885240/",
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
@@ -45,7 +45,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:32.783Z"
+      "fetchedAt": "2026-10-16T10:13:48.333Z"
+    },
+    {
+      "pmid": "42880574",
+      "title": "Laboratory larval exposure to mixed-size polystyrene micro/nanoplastics disrupts lipid metabolism and reshapes the hemolymph metabolome and gut microbiota of adult honeybee workers.",
+      "abstract": "Micro/nanoplastics are pervasive contaminants in terrestrial ecosystems, yet their developmental toxicity to pollinators remains insufficiently understood. Here, worker larvae of the honeybee (Apis mellifera) were orally exposed under controlled laboratory conditions to a mixed-size polystyrene micro/nanoplastic (PS-MNP) system containing 50 nm, 100 nm, and 5 &#x3bc;m particles at a 1:1:1 mass ratio across 1-500 mg/L. Survival was assessed using 48 larvae per group, and adult hemolymph metabolomics and gut microbiome analyses were conducted for adults derived from the 10 mg/L larval exposure group using six biological replicates per treatment. Larval PS-MNP exposure reduced survival, transiently increased larval body mass, and disrupted nutrient allocation, as reflected by decreased total protein and free fatty acids but increased glycogen and triglyceride. In the larval fat body, PS-MNPs induced oxidative stress and lipid droplet accumulation, accompanied by transcriptional changes consistent with enhanced lipid storage and impaired lipophagy. These developmental disturbances were followed by post-metamorphic effects. Newly emerged workers exhibited midgut injury and oxidative imbalance. Moreover, adults derived from exposed larvae displayed pronounced hemolymph metabolomic reprogramming and altered gut microbiota after colony reintroduction. More than 1,200 differential hemolymph metabolites were detected, with downregulated features enriched mainly in lipid-remodeling, eicosanoid-related, and autophagy-associated pathways. The adult gut microbiota showed depletion of Gilliamella apicola and Bartonella apis and enrichment of Lactobacillus apis and Frischella perrara. Collectively, these findings show that larval-only exposure to a mixed-size PS-MNP system can disturb developmental lipid/redox homeostasis and be followed by intestinal, hemolymph metabolic, and gut microbial alterations after metamorphosis. This integrated cross-stage evidence advances understanding of micro/nanoplastic developmental ecotoxicology in beneficial terrestrial insects and provides evidence for considering developmental windows in future pollinator risk assessment.",
+      "authors": [
+        "Wei Q",
+        "Wu J",
+        "Kang W"
+      ],
+      "journal": "Environmental pollution (Barking, Essex : 1987)",
+      "publicationDate": "Oct 15, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42880574/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-16T10:13:50.236Z"
+    },
+    {
+      "pmid": "42878589",
+      "title": "Donor-Derived Bartonella Infection After Kidney Transplantation: Challenges of Microbiological Confirmation and Heterogeneous Clinical Manifestations in Two Recipients From a Single Donor.",
+      "abstract": "",
+      "authors": [
+        "Saul&#x12b;te M",
+        "Cvetkova S",
+        "Kigitovi&#x10d;a D"
+      ],
+      "journal": "Transplant infectious disease : an official journal of the Transplantation Society",
+      "publicationDate": "Oct 15, 2026",
+      "articleType": "Letter",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42878589/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-16T10:13:50.736Z"
     },
     {
       "pmid": "42873390",
@@ -68,7 +114,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:36.414Z"
+      "fetchedAt": "2026-10-16T10:13:56.706Z"
     },
     {
       "pmid": "42868802",
@@ -91,7 +137,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:37.060Z"
+      "fetchedAt": "2026-10-16T10:13:57.336Z"
     },
     {
       "pmid": "42863167",
@@ -114,7 +160,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:21.713Z"
+      "fetchedAt": "2026-10-16T10:13:41.632Z"
     },
     {
       "pmid": "42862010",
@@ -137,7 +183,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:22.352Z"
+      "fetchedAt": "2026-10-16T10:13:42.272Z"
     },
     {
       "pmid": "42853782",
@@ -160,7 +206,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:23.636Z"
+      "fetchedAt": "2026-10-16T10:13:43.536Z"
     },
     {
       "pmid": "42858692",
@@ -181,34 +227,11 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:31.015Z"
-    },
-    {
-      "pmid": "42849646",
-      "title": "Molecular detection and characterization of flea-associated bacteria: genetic diversity and co-occurrence patterns involving Bartonella, Rickettsia, and Wolbachia in Ctenocephalides felis felis from an Atlantic Forest region of Brazil.",
-      "abstract": "Ctenocephalides felis felis is a widespread ectoparasite of dogs and cats and has been associated with transmission of several microorganisms of veterinary and public health relevance. This study investigated the molecular occurrence, genetic diversity, and co-occurrence patterns of Bartonella spp., Rickettsia spp., and Wolbachia spp. in fleas collected from dogs and cats in an Atlantic Forest area encompassing the Ilh&#xe9;us and Itabuna microregions, Bahia State, northeastern Brazil. A total of 1,489 fleas were analyzed, including 1,301 collected from 81 dogs and 188 from 39 cats. PCR targeting the endogenous cox1 gene successfully amplified DNA from 95.77% of fleas collected from dogs and 97.34% of those collected from cats. Quantitative PCR (qPCR) targeting the 16S-23S rRNA internal transcribed spacer (ITS) revealed a higher molecular detection rate of Bartonella spp. in fleas from cats (34.43%) than in those from dogs (8.98%). Conversely, Rickettsia spp. was detected more frequently in fleas collected from dogs (24.8%) than from cats (3.28%). Wolbachia spp. was more frequently detected in female fleas from both dogs (52.8%) and cats (50.3%) than in male fleas (p < 0.05). Triple co-occurrence of the three microorganisms was detected in 0.08% (11/1246) of flea DNA samples positive the cox-1 endogenous gene and subjected to downstream molecular analyses for Bartonella spp., Rickettsia spp., and Wolbachia spp.. Phylogenetic analyses based on multiple molecular markers for Bartonella spp. (gltA, ftsZ, nuoG, and rpoB), Rickettsia spp. (gltA, htrA, ompA, and ompB), and Wolbachia spp. (gatB and wsp) confirmed the detection of Bartonella henselae, Bartonella clarridgeiae, Rickettsia felis, and Wolbachia spp. belonging to supergroups B and F. In fleas collected from dogs, the detection of Wolbachia spp. was associated with a higher predicted probability of Rickettsia spp. detection, whereas in fleas collected from cats it was associated with a lower predicted probability of Bartonella spp. detection. Overall, the findings revealed distinct host-associated molecular detection patterns of Bartonella spp., Rickettsia spp., and Wolbachia spp. in C. felis felis, demonstrating the circulation and genetic diversity of these bacterial agents in flea populations. The detection of zoonotic bacterial agents in fleas highlights their relevance for integrated veterinary and public health surveillance within a One Health framework.",
-      "authors": [
-        "Micolta LFB",
-        "das Neves LF",
-        "Calchi AC"
-      ],
-      "journal": "Acta tropica",
-      "publicationDate": "Oct 08, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42849646/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-15T10:26:34.054Z"
+      "fetchedAt": "2026-10-16T10:13:53.285Z"
     },
     {
       "pmid": "42849539",
-      "title": "Zinc Metalloproteases of Apicomplexan Parasites: Conserved Targets for Broad-Spectrum Antiparasitic Drug Discovery.",
+      "title": "Zinc metalloproteases of apicomplexan parasites: Conserved targets for broad-spectrum antiparasitic drug discovery.",
       "abstract": "The phylum Apicomplexa includes major protozoan pathogens of humans and animals (Plasmodium falciparum, Toxoplasma gondii, Cryptosporidium parvum, Babesia spp., Eimeria spp., and Neospora caninum) with substantial global health and economic impact. Resistance to key chemotherapeutics, including the partner and antifolate drugs used against several of these diseases, is narrowing a limited arsenal of target-specific treatments, creating an urgent need for mechanistically distinct drug targets. Proteolytic enzymes are attractive candidates, yet antiprotease drug discovery in the Apicomplexa has concentrated on aspartyl and cysteine proteases, leaving zinc metalloproteases (ZMPs) comparatively neglected despite non-redundant roles in haemoglobin digestion, invasion, egress, organelle biogenesis, and immune evasion. This review synthesises the biology, conservation, and drug-target status of apicomplexan ZMPs (MEROPS families M1, M16C, M17, M18, M24, M41) across the six species above. Catalytic-domain conservation, genetic and pharmacological validation status, and inhibitor pharmacology (hydroxamic acid, phosphinic acid, bestatin, amino-benzosuberone, and peptide-based scaffolds) are compared family-by-family. A multi-criteria druggability framework identifies the M17 leucyl aminopeptidase and apicoplast-resident FtsH1 (M41) as the most compelling pan-apicomplexan targets, reflecting genetic essentiality, chemical tractability, and host selectivity, while the expanded M16C insulinase family of C. parvum illustrates a lineage-specific opportunity. Principal gaps include sparse genetic validation outside P. falciparum and T. gondii, near-total absence of experimental structures beyond P. falciparum, and no ZMP inhibitor yet advanced to in vivo or clinical testing. This synthesis aims to advance apicomplexan zinc metalloproteases from an underexplored genomic feature toward a validated class of antiparasitic drug targets.",
       "authors": [
         "Mahanta PJ",
@@ -227,7 +250,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:38.419Z"
+      "fetchedAt": "2026-10-16T10:13:58.613Z"
     },
     {
       "pmid": "42843563",
@@ -250,7 +273,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:26.186Z"
+      "fetchedAt": "2026-10-16T10:13:46.095Z"
     },
     {
       "pmid": "42843064",
@@ -273,30 +296,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:26.832Z"
-    },
-    {
-      "pmid": "42843563",
-      "title": "Tick-borne diseases in French Guiana: A comprehensive review pinpointing differences from mainland France.",
-      "abstract": "French Guiana (FG), an Amazonian French territory, represents a unique ecological and epidemiological setting for tick-borne diseases (TBDs). In contrast to mainland France, where TBDs are well-documented, data from FG remain scarce. We carried out a systematic review using the PRISMA criteria for our search of the PubMed, ScienceDirect, and SciELO data bases. We identified 68 articles, of which 43 met our inclusion criteria. Data from FG were compared with those originating from mainland France. Albeit highly prevalent in Europe, and notwithstanding detection of a distinct Borrelia species in bird-associated ticks, there have been no confirmed autochthonous cases of Lyme disease in French Guiana. Conversely, Q fever occurs more frequently in this overseas territory than in mainland France, even though its causative agent, Coxiella burnetii, has been detected only one time in a local tick. While Rickettsia spp. are widely present in tick populations, no human rickettsiosis has been reported. As for Anaplasma and Ehrlichia spp., they have been identified in wildlife, domestic animals, and ticks, but with only one documented human case of chronic anaplasmosis, which was caused by a novel species, Candidatus Anaplasma sparouinense. Other pathogens, including Babesia, Bartonella, and filarial nematodes, have been detected in animals or ticks, but without evidence of human infection. Of note, emerging conditions have been described, one example being alpha-gal syndrome, an allergy triggered by tick bites to mammalian meat. To summarize, available data remain limited, and in all likelihood, the burden of TBDs in FG is underestimated. Integrated research combining human, animal and environmental surveillance is needed to more precisely characterize epidemiology, assess risks, and facilitate preventive strategies.",
-      "authors": [
-        "Cartau T",
-        "Bourne-Watrin M",
-        "Duron O"
-      ],
-      "journal": "Infectious diseases now",
-      "publicationDate": "Oct 07, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42843563/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-15T10:26:34.693Z"
+      "fetchedAt": "2026-10-16T10:13:46.731Z"
     },
     {
       "pmid": "42843563",
@@ -319,7 +319,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:39.046Z"
+      "fetchedAt": "2026-10-16T10:13:59.257Z"
     },
     {
       "pmid": "42846156",
@@ -341,7 +341,29 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:25.554Z"
+      "fetchedAt": "2026-10-16T10:13:45.456Z"
+    },
+    {
+      "pmid": "42878683",
+      "title": "Untitled",
+      "abstract": "Rodents play a central role as reservoirs of zoonotic pathogens, yet the ecological and meteorological factors affecting pathogen prevalence remain unclear. In this study, a meta-analysis was used to evaluate the influence of host species and meteorological factors on the prevalence of Babesia microti in two common Japanese field mice, Apodemus speciosus and A. argenteus. The data were collected from seven published studies conducted across Japan. To examine the effects of total annual precipitation, average annual temperature, and host species, generalized linear mixed models were employed. The prevalence of the Hobetsu/Otsu-type B. microti was significantly higher in A. speciosus than in A. argenteus, indicating possible differences in reservoir competence and vector preference by Ixodes ovatus, which mainly infests terrestrial rodents. Conversely, the prevalence of the Kobe-type B. microti showed no significant differences between host species; however, it was negatively correlated with increasing precipitation. These findings suggest that meteorological factors may reflect a behavioral mismatch between the tick vectors, Haemaphysalis longicornis and Ixodes nipponensis, and their Apodemus hosts. One possible explanation for these results is that the vectors for Kobe-type B. microti, such as H. longicornis and I. nipponensis, primarily quest on vegetation, and the frequency of host-vector contact decreases when rodents remain in their burrows during heavy rain. This study provides the first quantitative evidence of host-environment interactions impacting rodent-borne babesiosis in Japan. It underscores the importance of considering meteorological and ecological perspectives when forecasting tick-borne disease risks in the context of climate change.",
+      "authors": [
+        "Matsuyama H",
+        "Hidaka M"
+      ],
+      "journal": "Zoological science",
+      "publicationDate": "Oct 5, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42878683/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-16T10:13:56.071Z"
     },
     {
       "pmid": "42856406",
@@ -364,7 +386,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:22.988Z"
+      "fetchedAt": "2026-10-16T10:13:42.899Z"
     },
     {
       "pmid": "42822458",
@@ -387,7 +409,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:40.952Z"
+      "fetchedAt": "2026-10-16T10:14:01.177Z"
     },
     {
       "pmid": "42857225",
@@ -410,30 +432,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:37.786Z"
-    },
-    {
-      "pmid": "42816510",
-      "title": "Genome assembly and gene annotation of Babesia ovis Israeli strain (Piroplasmida: Babesiidae) using PacBio HiFi sequencing.",
-      "abstract": "Babesia ovis is a unicellular parasite of sheep and goats transmitted by the tick Rhipicephalus bursa. B. ovis infection is widespread and can be lethal, and therefore there is need for a deeper understanding of its biology and pathogenesis. There is currently a single genome available for a clinical isolate of B. ovis, and no laboratory strains have been sequenced so far. In this study we have sequenced and assembled the genome of the Israeli laboratory strain of B. ovis using highly accurate long-read sequencing (PacBio HiFi). The resulting assembly has high contiguity, with the four largest contigs comprising 96% of the assembly and representing putative near-complete chromosomes. Annotation identified 3,549 genes, of which 3,046 (85.6%) could be functionally annotated. BUSCO analysis on the annotated genes revealed 95.5%, 98.8% and 100% completeness of the Aconoidasida, Apicomplexa, and Alveolata lineages, respectively. Comparative analysis with other annotated piroplasmida genomes reveals the vast majority of predicted genes clustered in orthogroups. The availability of a high-quality genome assembly for a tractable laboratory strain could prove impactful in unlocking more basic and applied research avenues to be pursued for this important parasite system.",
-      "authors": [
-        "Borges Dias G",
-        "Albuquerque G",
-        "Yngve H"
-      ],
-      "journal": "Scientific data",
-      "publicationDate": "Sep 30, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42816510/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-15T10:26:41.585Z"
+      "fetchedAt": "2026-10-16T10:13:57.988Z"
     },
     {
       "pmid": "42871197",
@@ -456,7 +455,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:21.079Z"
+      "fetchedAt": "2026-10-16T10:13:40.998Z"
     },
     {
       "pmid": "42865692",
@@ -479,7 +478,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:29.731Z"
+      "fetchedAt": "2026-10-16T10:13:52.006Z"
     },
     {
       "pmid": "42865411",
@@ -502,30 +501,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:30.380Z"
+      "fetchedAt": "2026-10-16T10:13:52.645Z"
     },
     {
-      "pmid": "42805403",
-      "title": "Molecular survey of tick-borne pathogens and other parasites associated with an anemia outbreak in llamas (Lama glama).",
-      "abstract": "The global expansion of South American camelid farming contrasts with the limited knowledge of the pathogens that can infect them. This study investigated the presence of multiple infectious agents, including Anaplasmataceae, Bartonella sp., hemotropic Mycoplasma, piroplasmids, trypanosomatids, and gastrointestinal parasites, in 10 surviving llamas sampled following an outbreak of clinical anemia. Ehrlichia sp. was molecularly detected in 1/10 animal, hemotropic Mycoplasma sp. in 4/10, and 7/10 were infected with apicomplexans, while parasitological stool analysis showed that 6/9 were infected with Strongyloides sp. Co-infections were detected in 4/10 of the positive animals. All samples tested negative for Anaplasma sp., A. marginale, Bartonella sp., and trypanosomes. Genetic sequencing indicated that the detected Ehrlichia sp. was closely related to 'Candidatus Ehrlichia regneryi', the hemotropic Mycoplasma sp. showed high identity to 'Candidatus Mycoplasma haemolamae', and the apicomplexans were identified as Babesia bovis and Sarcocystis masoni. These findings constitute the first report of B. bovis-like and an Ehrlichia species molecularly detected in llamas, highlighting the diverse range of agents that can circulate in these animals and underscoring the need for a greater understanding of pathogen epidemiology in camelid production.",
+      "pmid": "42883013",
+      "title": "Giving a Rat's: Acquisition of Baseline Health Data on Native Australian Rodents During a Conservation Translocation.",
+      "abstract": "Little is known about the baseline health status of Australia's native rodents. The resultant knowledge gaps are problematic for wildlife translocations, as assessing disease risk is integral to translocation planning and outcomes. A disease risk analysis was conducted for the conservation translocation of native rodents to Dirk Hartog Island, Western Australia. This analysis resulted in a recommendation for a multidisciplinary project to reduce knowledge gaps about the health status of Shark Bay mice (Pseudomys gouldii) and greater-stick-nest rats (Leporillus conditor). Between 2021 and 2022, 130 Shark Bay mice and 122 greater stick-nest rats were translocated to Dirk Hartog Island. Mucosal swabs, whole blood, faeces, and ectoparasites were collected from a subset of these individuals. Molecular testing for four infectious agents was performed, parasite burdens and haematological parameters were examined, and relationships between these variables, health metrics and post-translocation short-term survival were assessed. Necropsies with routine histological assessment on translocation mortalities were performed where feasible. Several indicators of non-infectious factors contributing to morbidity or mortality were found, highlighting the need to iteratively evaluate translocation strategies. There was also an apparent absence of some host-specific parasites, suggesting that active approaches to parasite conservation during translocations should be considered. Molecular evidence of herpesviruses, a paramyxovirus, Bartonella sp., Trypanosoma sp. and Mycoplasma spp. were detected among the translocated animals. Although not associated with morbidity or short-term mortality in this study, the disease potential of these agents is still present. Overall, these results contribute important new data on health baselines for both species, which will assist in informing future conservation planning.",
       "authors": [
-        "Col&#xe1;cio N",
-        "de Ara&#xfa;jo MVV",
-        "Andrade JP"
+        "Knox F",
+        "Austen JM",
+        "Sharp CR"
       ],
-      "journal": "Parasitology international",
-      "publicationDate": "Sep 28, 2026",
+      "journal": "Animals : an open access journal from MDPI",
+      "publicationDate": "Sep 27, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42805403/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42883013/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:42.215Z"
+      "fetchedAt": "2026-10-16T10:13:48.967Z"
     },
     {
       "pmid": "42856766",
@@ -548,7 +547,53 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:31.515Z"
+      "fetchedAt": "2026-10-16T10:13:53.785Z"
+    },
+    {
+      "pmid": "42882950",
+      "title": "Untitled",
+      "abstract": "Vector-borne diseases (VBDs) represent a concern for animal and public health, and wildlife surveillance is valuable for their monitoring. The occurrence, molecular diversity and host distribution of tick-borne protozoa (TBP: Babesia spp., Theileria spp. and Hepatozoon spp.) and Bartonella spp. were investigated in wild carnivores from three regions of northwestern Italy. Spleen samples from 690 wild carnivores were screened for TBP and/or Bartonella spp. by PCR followed by sequencing. Among the 503 carnivores screened for TBP, 197 animals (39.2%) tested positive for at least one targeted protozoan species, including 87 positives for Babesia spp. (17.3%) and 120 for Hepatozoon spp. (23.9%). Bartonella spp. DNA was additionally detected in only one of the 363 animals tested (0.3%). Sequencing identified Babesia sp. badger types A and C in badgers, B. vulpes in foxes and B. canis in wolves, Hepatozoon canis in wolves and foxes, H. martis in stone martens and Hepatozoon sp. in stone and pine martens. Phylogenetic analyses supported the host-associated clustering of the detected lineages, confirming the molecular identification. These findings indicate the frequent occurrence of different TBP in wild carnivores from northwestern Italy, with marked host associated patterns, contributing to our understanding of VBD epidemiology with a One Health approach.",
+      "authors": [
+        "Sel E",
+        "Moroni B",
+        "Robetto S"
+      ],
+      "journal": "Animals : an open access journal from MDPI",
+      "publicationDate": "Sep 22, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42882950/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-16T10:13:49.600Z"
+    },
+    {
+      "pmid": "42882950",
+      "title": "Untitled",
+      "abstract": "Vector-borne diseases (VBDs) represent a concern for animal and public health, and wildlife surveillance is valuable for their monitoring. The occurrence, molecular diversity and host distribution of tick-borne protozoa (TBP: Babesia spp., Theileria spp. and Hepatozoon spp.) and Bartonella spp. were investigated in wild carnivores from three regions of northwestern Italy. Spleen samples from 690 wild carnivores were screened for TBP and/or Bartonella spp. by PCR followed by sequencing. Among the 503 carnivores screened for TBP, 197 animals (39.2%) tested positive for at least one targeted protozoan species, including 87 positives for Babesia spp. (17.3%) and 120 for Hepatozoon spp. (23.9%). Bartonella spp. DNA was additionally detected in only one of the 363 animals tested (0.3%). Sequencing identified Babesia sp. badger types A and C in badgers, B. vulpes in foxes and B. canis in wolves, Hepatozoon canis in wolves and foxes, H. martis in stone martens and Hepatozoon sp. in stone and pine martens. Phylogenetic analyses supported the host-associated clustering of the detected lineages, confirming the molecular identification. These findings indicate the frequent occurrence of different TBP in wild carnivores from northwestern Italy, with marked host associated patterns, contributing to our understanding of VBD epidemiology with a One Health approach.",
+      "authors": [
+        "Sel E",
+        "Moroni B",
+        "Robetto S"
+      ],
+      "journal": "Animals : an open access journal from MDPI",
+      "publicationDate": "Sep 22, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42882950/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-16T10:13:55.444Z"
     },
     {
       "pmid": "42830720",
@@ -571,7 +616,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:39.686Z"
+      "fetchedAt": "2026-10-16T10:13:59.890Z"
     },
     {
       "pmid": "42825085",
@@ -593,30 +638,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:40.325Z"
-    },
-    {
-      "pmid": "42852165",
-      "title": "Masquerade Syndrome Presenting as Optic Neuritis and Retinitis Due to Pituitary Germinoma.",
-      "abstract": "Masquerade syndrome is a collective term for various ocular diseases presenting with clinical features resembling intraocular inflammation. Delays in definitive diagnosis and treatment can not only lead to irreversible vision loss but also impact the patient's prognosis regarding survival. We report the case of a 26-year-old male patient who presented with impaired vision in the right eye, which had persisted for six months; neuroretinitis was diagnosed. Although infectious neuroretinitis was suspected, tests for pathogens such as Mycobacterium tuberculosis, Toxoplasma, Toxocara, and Bartonella were all negative. Treatment with betamethasone eye drops alone resulted in a fluctuating course of improvement and worsening of the neuroretinitis. Ten months after the initial visit, the patient's headache-which had begun one month prior-worsened and was accompanied by vomiting and a pulsating sensation, leading to a consultation with our department of neurosurgery. Magnetic resonance imaging (MRI) revealed a lobulated mass extending from the right midbrain to the right thalamus, causing narrowing of the cerebral aqueduct and hydrocephalus. Four days after the neurosurgical consultation, the patient underwent endoscopic third ventriculostomy (ETV) and a brain biopsy, leading to a definitive diagnosis of germinoma. The headache improved the day after surgery, and by one month after the operation, the hydrocephalus had resolved, while neuroretinitis also showed improvement. The patient received carboplatin and etoposide (CARE) treatment in the second, third, and fourth months post-surgery, whole-ventricle radiotherapy (24 Gy/15 fractions) in the fifth and sixth months, and ifosfamide (IFO), cisplatin (CDDP), and etoposide (VP-16) (ICE) treatment in the seventh, ninth, and 11th months. No recurrence of the brain tumor has been observed since then. At the final follow-up visit five years post-surgery, the neuroretinitis had resolved. When neuroretinitis is observed in a young patient and infectious causes have been ruled out, intracranial germinoma should be considered in the differential diagnosis.",
-      "authors": [
-        "Fukushima A",
-        "Kato Y",
-        "Tabuchi H"
-      ],
-      "journal": "Cureus",
-      "publicationDate": "Sep 08, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42852165/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-15T10:26:32.148Z"
+      "fetchedAt": "2026-10-16T10:14:00.539Z"
     },
     {
       "pmid": "42846282",
@@ -639,7 +661,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:24.929Z"
+      "fetchedAt": "2026-10-16T10:13:44.817Z"
     },
     {
       "pmid": "42871255",
@@ -662,30 +684,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-15T10:26:29.099Z"
-    },
-    {
-      "pmid": "42850616",
-      "title": "Broad-spectrum molecular detection of zoonotic agents in wild micromammals: a nationwide surveillance study in the Republic of Korea.",
-      "abstract": "Wild micromammals serve as key hosts for diverse zoonotic pathogens, maintaining these agents in natural ecosystems and facilitating potential spillover to humans. Assessing pathogen prevalence in micromammals is essential for evaluating zoonotic risk and informing public health interventions. In this study, we applied the TaqMan Array Card (TAC) platform, a high-throughput molecular diagnostic tool, to micromammal-borne zoonotic pathogen surveillance. From October to November 2022, a total of 160 wild micromammals, including&#xa0;Apodemus agrarius (Striped field mouse) (90.6,&#xa0;n&#x2009;=&#x2009;145) and&#xa0;Crocidura lasiura&#xa0;(Ussuri white-toothed shrew) (9.4%,&#xa0;n&#x2009;=&#x2009;15), were collected from 12 regions. Spleen tissues were screened for 45 viral, bacterial, and protozoan pathogens using the TAC platform. Viral pathogens were detected at lower frequencies, including Junin virus (2.5%,&#xa0;n&#x2009;=&#x2009;4) and lymphocytic choriomeningitis virus (0.6%, n&#x2009;=&#x2009;1). In contrast, bacterial pathogens showed high prevalence, including Bartonella spp. (78.8%, n&#x2009;=&#x2009;126), Ehrlichia spp. (47.5%, n&#x2009;=&#x2009;76), Anaplasma spp. (46.9%, n&#x2009;=&#x2009;75), Borrelia spp. (36.3%, n&#x2009;=&#x2009;58), Orientia tsutsugamushi (25.6%, n&#x2009;=&#x2009;41), Rickettsia spp. (4.4%, n&#x2009;=&#x2009;7), and Leptospira spp. (2.5%, n&#x2009;=&#x2009;4) as well as protozoan pathogens such as Trypanosoma spp. (87.5%, n&#x2009;=&#x2009;140), Cryptosporidium (20.0%, n&#x2009;=&#x2009;32), and Toxoplasma gondii (1.3%, n&#x2009;=&#x2009;2). However, some detections particularly viral pathogens were based solely on the TAC platform and were not confirmed by conventional PCR and sequencing. Phylogenetic analyses of TAC-positive samples revealed the presence of diverse zoonotic agents, including Anaplasma phagocytophilum, Ehrlichia muris, Candidatus Ehrlichia khabarensis, Candidatus Neoehrlichia mikurensis, Borreliella afzelii, Borrelia miyamotoi, O. tsutsugamushi Saitama and Young-worl strains, Bartonella quintana, B. fuyuanensis, and B. japonica. These findings demonstrate the widespread regional distribution of micromammal-borne zoonotic pathogens across the ROK and provide essential baseline data to support integrated One Health surveillance frameworks for emerging and re-emerging micromammal-borne zoonoses.",
-      "authors": [
-        "Yoon H",
-        "Lee HS",
-        "Seo JY"
-      ],
-      "journal": "Parasites & vectors",
-      "publicationDate": "Jul 26, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42850616/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-15T10:26:33.423Z"
+      "fetchedAt": "2026-10-16T10:13:51.375Z"
     }
   ]
 }
