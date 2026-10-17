@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T10:14:02.179Z",
+  "generatedAt": "2026-10-17T09:47:53.870Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -22,7 +22,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:44.180Z"
+      "fetchedAt": "2026-10-17T09:47:37.562Z"
+    },
+    {
+      "pmid": "42886695",
+      "title": "A promoter G-quadruplex recruits Hrb27C to regulate NEMO and immune defense against Lyme disease pathogens in the deer tick.",
+      "abstract": "Genomic DNA can adopt noncanonical secondary structures, such as G-quadruplexes (G4s), which serve as critical regulatory elements beyond the traditional double helix. Whether promoter G4s also participate in controlling innate immune signaling and host-pathogen interactions, however, remains unknown in arthropods. In this study, we identify a G4 structure within the promoter of the NEMO (NF-&#x3ba;B essential modulator) gene in the deer tick Ixodes scapularis. Using a combination of circular dichroism, isothermal difference spectra, and fluorescence-based assays, we demonstrate that this sequence forms a stable, parallel G4 topology in vitro and in vivo. Functional characterization via luciferase reporter assays reveals that this G4 scaffold is essential for proper NEMO transcriptional output. Importantly, disruption of the G4 structure significantly reduces NEMO expression and increases the burden of the Lyme disease spirochete Borrelia burgdorferi. Genome-wide expression profiling further reveals that perturbation of the NEMO G4 produces transcriptional changes that overlap with those observed following NEMO silencing. These shared transcriptional responses are enriched for immune-associated genes and ribonucleoprotein-related pathways. We further identify the heterogeneous nuclear ribonucleoprotein Hrb27C as a structural binding protein that specifically recognizes the NEMO G4 through its RNA recognition motif domains and facilitates NEMO expression. Collectively, our findings establish promoter G4 architecture as an important regulatory layer in tick immunity, linking DNA topology to pathogen proliferation and providing a structural framework for understanding host-pathogen dynamics in disease vectors.",
+      "authors": [
+        "Lyu B",
+        "Gao X",
+        "Anderson DM"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "publicationDate": "Oct 20, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42886695/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-17T09:47:33.290Z"
     },
     {
       "pmid": "42885240",
@@ -34,7 +57,7 @@
         "Wong MK"
       ],
       "journal": "Environmental microbiology",
-      "publicationDate": "Oct 16, 2026",
+      "publicationDate": "Oct 19, 2026",
       "articleType": "Journal Article",
       "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42885240/",
       "pathogen": "bartonella",
@@ -45,7 +68,75 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:48.333Z"
+      "fetchedAt": "2026-10-17T09:47:40.960Z"
+    },
+    {
+      "pmid": "42885934",
+      "title": "Untitled",
+      "abstract": "Peromyscus leucopus (P. leucopus) is an important reservoir host for several zoonoses, including Borrelia burgdorferi (B. burgdorferi), the causative agent of Lyme disease. However, the immunoglobulin germline repertoire underlying antibody responses in this reservoir host remains poorly defined. In this study, we characterized the immunoglobulin variable genes of P. leucopus and identified 12 IGHV, 12 IGKV, and 3 IGLV gene families comprising 129, 87, and 12 genes, respectively. These genes exhibited similar usage patterns to those of Mus musculus (M. musculus). We also identified a high-divergence region (HDR) within the germline IGHV loci of three Borrelia sp.-susceptible Cricetidae species, P. leucopus, Peromyscus maniculatus (P. maniculatus), and Arvicola amphibius (A. amphibius). Compared with the corresponding regions in Muridae species, the Cricetidae HDRs are expanded and contain a large number of IGHV genes. To investigate the antigen-specific features of the repertoire, we analyzed the antibody responses of P. leucopus to B. burgdorferi outer surface protein A (OspA), a highly immunogenic tick midgut adhesin involved in midgut colonization. Comparative analysis of more than 140 IGHV genes from immunized P. leucopus showed that germline IGHV genes encoding anti-OspA antibodies exhibited higher sequence similarity to corresponding germline IGHV genes in P. maniculatus and A. amphibius than did P. leucopus germline IGHV genes not associated with anti-OspA responses.IMPORTANCEThis study characterized the immunoglobulin gene repertoire of Peromyscus leucopus and revealed extensive diversity across its variable-region loci. Analysis of antibody response to outer surface protein A (OspA) showed that germline IGHV genes encoding anti-OspA antibodies showed higher sequence similarity to their corresponding germline IGHV genes in other Borrelia-susceptible cricetid rodents, suggesting that conserved germline IGHV features are associated with OspA recognition. These findings lay the foundation for further understanding of antibody responses in this important reservoir host.",
+      "authors": [
+        "Zhou Y",
+        "Telford SR",
+        "Buchthal J"
+      ],
+      "journal": "mSphere",
+      "publicationDate": "Oct 16, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42885934/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-17T09:47:33.894Z"
+    },
+    {
+      "pmid": "42886367",
+      "title": "[Bed bugs, lice and fleas-an up-to-date overview of diagnosis, treatment and prevention].",
+      "abstract": "Despite high standards of hygiene, ectoparasites remain a&#xa0;significant issue in dermatology. Bedbugs (Cimex lectularius) have become significantly more prevalent worldwide over the past two decades, whilst head lice infestation (Pediculus humanus capitis) remains one of the most common parasitic infections in children. Pubic lice (Pthirus pubis) are predominantly transmitted sexually. Body lice (Pediculus humanus corporis) are rare in Central Europe, but remain of infectious disease significance as vectors of Rickettsia prowazekii, Bartonella quintana and Borrelia recurrentis. Flea bites in humans are now predominantly caused by the cat flea (Ctenocephalides felis). The clinical spectrum ranges from asymptomatic cases through papular and urticarial reactions to bullous arthropod reactions and bacterial superinfections. Diagnosis is based on medical history, clinical findings and the direct detection of parasites, nits or characteristic environmental traces. Dermoscopy facilitates the differentiation of live parasites from nits and pseudonits, particularly in cases of pediculosis. Treatment for lice infestations comprises topical pediculicides and physically acting preparations. In the case of bedbug and flea infestations, consistent environmental control measures are crucial for long-term therapeutic success; in the case of flea infestations, concurrent veterinary treatment of infested pets is also essential. This article summarises the current state of knowledge regarding the epidemiology, biology, clinical presentation, diagnosis, treatment and prevention of these medically important ectoparasitic infestations. Ektoparasiten stellen trotz hoher Hygienestandards weiterhin ein relevantes Thema in der Dermatologie dar. Bettwanzenbef&#xe4;lle (Cimex lectularius) haben in den vergangenen 2&#xa0;Jahrzehnten weltweit deutlich zugenommen, w&#xe4;hrend der Kopflausbefall (Pediculus humanus capitis) unver&#xe4;ndert zu den h&#xe4;ufigsten parasit&#xe4;ren Erkrankungen im Kindesalter z&#xe4;hlt. Filzl&#xe4;use (Pthirus pubis) werden &#xfc;berwiegend sexuell &#xfc;bertragen. Kleiderl&#xe4;use (Pediculus humanus corporis) sind in Mitteleuropa selten, besitzen jedoch als Vektoren von Rickettsia prowazekii, Bartonella quintana und Borrelia recurrentis weiterhin infektiologische Bedeutung. Flohstiche beim Menschen werden heute &#xfc;berwiegend durch den Katzenfloh (Ctenocephalides felis) verursacht. Das klinische Spektrum reicht von asymptomatischen Verl&#xe4;ufen &#xfc;ber papul&#xf6;se und urtikarielle Reaktionen bis hin zu bull&#xf6;sen Arthropodenreaktionen und bakteriellen Superinfektionen. Die Diagnostik basiert auf Anamnese, klinischem Befund sowie dem direkten Nachweis von Parasiten, Nissen oder charakteristischen Umweltspuren. Die Dermatoskopie erleichtert insbesondere bei Pedikulosen die Differenzierung vitaler Parasiten von Nissen und Pseudonissen. Die Therapie umfasst bei L&#xe4;useinfestationen topische Pedikulozide und physikalisch wirkende Pr&#xe4;parate. Bei Bettwanzen- und Flohbefall sind konsequente Umgebungsma&#xdf;nahmen sowie beim Flohbefall die veterin&#xe4;rmedizinische Mitbehandlung befallener Haustiere entscheidend f&#xfc;r den nachhaltigen Therapieerfolg. Der Beitrag fasst den aktuellen Kenntnisstand zu Epidemiologie, Biologie, Klinik, Diagnostik, Therapie und Pr&#xe4;vention dieser wichtigen humanmedizinisch relevanten Ektoparasitosen zusammen.",
+      "authors": [
+        "Seelig J",
+        "Elsner E"
+      ],
+      "journal": "Dermatologie (Heidelberg, Germany)",
+      "publicationDate": "Oct 16, 2026",
+      "articleType": "English Abstract",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42886367/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-17T09:47:40.323Z"
+    },
+    {
+      "pmid": "42887808",
+      "title": "Development and Evaluation of an RPA-CRISPR/Cas12a Molecular Assay for Rapid Diagnosis of Theileria annulata Infection in Bovines.",
+      "abstract": "Tropical theileriosis, caused by Theileria annulata, continues to be the most significant tick-borne disease affecting cattle, particularly in endemic regions where it leads to significant production losses. Prompt and reliable diagnosis is critically important for timely treatment and disease control; however, conventional diagnostic methods have important limitations. Microscopic examination lacks sensitivity, particularly in carrier animals, while PCR requires specialized laboratory infrastructure. To overcome these limitations, a fluorescence-based RPA-CRISPR/Cas12a assay targeting the multicopy mitochondrial cytb gene was developed for rapid detection of T. annulata. Five RPA primer pairs were designed and evaluated, and primer set-5, generating a 324-bp amplicon, exhibited the best amplification performance. A CRISPR RNA (crRNA) was designed within the selected amplicon to enable specific Cas12a-mediated target recognition. The assay was completed within 50 min and demonstrated no cross-reactivity with DNA from Theileria orientalis, Babesia bigemina, Babesia bovis, Anaplasma marginale, and bovine host DNA, confirming excellent analytical specificity. Sensitivity analysis using recombinant plasmid DNA demonstrated a detection limit of approximately ten copies per reaction. The field evaluation of the assay was done by testing 206 bovine field samples. showed that the developed assay identified 163 positive samples, exceeding the detection rates obtained by PCR (151 positives) and microscopy (116 positives). On comparison with PCR, the assay achieved 100% diagnostic sensitivity, 78.18% specificity, 92.64% positive predictive value, 100% negative predictive value, with an overall agreement of 94.17%. These findings indicate that the RPA-CRISPR/Cas12a platform is a rapid, sensitive, and accurate molecular diagnostic approach with strong potential for field application and point-of-care diagnosis of bovine tropical theileriosis, particularly in resource-constrained settings.",
+      "authors": [
+        "Mondal A",
+        "Saravanan BC",
+        "Singh PP"
+      ],
+      "journal": "Acta tropica",
+      "publicationDate": "Oct 16, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42887808/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-17T09:47:47.368Z"
     },
     {
       "pmid": "42880574",
@@ -68,7 +159,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:50.236Z"
+      "fetchedAt": "2026-10-17T09:47:42.797Z"
     },
     {
       "pmid": "42878589",
@@ -91,7 +182,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:50.736Z"
+      "fetchedAt": "2026-10-17T09:47:43.297Z"
     },
     {
       "pmid": "42873390",
@@ -114,7 +205,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:56.706Z"
+      "fetchedAt": "2026-10-17T09:47:50.413Z"
+    },
+    {
+      "pmid": "42887364",
+      "title": "In vitro induction of the sexual stage of Babesia ovata enhances infection efficiency of Haemaphysalis longicornis ticks in a semi-artificial feeding model.",
+      "abstract": "Haemaphysalis longicornis is an important tick species that transmits multiple pathogens to animals and humans, and its global distribution is expanding. Understanding tickpathogen interaction requires efficient tick infection models. However, a cost-effective, rapid, and easy-to-operate model remains lacking. This study aimed to improve the infection efficiency of a semi-artificial feeding model by in vitro induction of Babesia ovata using dithiothreitol. Induction was confirmed by morphological observation, reverse transcription-quantitative PCR analysis of sexual-stage marker genes (HAP2, 6CYS, CCP2, and CCP3), and immunofluorescence detection of HAP2 and CCP3 proteins. Ticks were subsequently fed blood containing induced or non-induced B. ovata (at 1-2% or 4-5% parasitemia) or red blood cell controls. Infection rates were assessed by nested PCR detection of B. ovata in tick embryo samples. Embryos derived from ticks that fed sexually induced parasites exhibited significantly higher infection rates compared to those from ticks that fed non-induced parasites (18.87% (10/53) vs. 1.92% (1/52), p&#x202f;=&#x202f;0.0080). The highest infection rate (22.22% (6/27)) occurred in the induced 1-2% parasitemia group, with no infection detected in controls. These findings demonstrate that in vitro induction of B. ovata sexual stage enhances tick infection efficiency. Incorporating sexual-stage induction into the existing semi-artificial feeding method may further enhance the efficiency of establishing B. ovata infection in ticks, providing a valuable approach for studies of tick-pathogen interactions.",
+      "authors": [
+        "Dong L",
+        "Sato N",
+        "Mizuno K"
+      ],
+      "journal": "Veterinary parasitology",
+      "publicationDate": "Oct 13, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42887364/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-17T09:47:47.983Z"
+    },
+    {
+      "pmid": "42887363",
+      "title": "Host genomic markers and candidate regions associated with Babesia bovis infection in cattle: A systematic review.",
+      "abstract": "Babesia bovis is one of the most pathogenic agents of bovine babesiosis and remains a major constraint to cattle production in tropical and subtropical regions. This systematic review synthesizes the available evidence on host genomic markers linked to B. bovis in cattle, with emphasis on genome-wide association studies, major histocompatibility complex variants, and host-response studies relevant to marker discovery. PubMed/MEDLINE, Scopus, and Web of Science Core Collection were searched using a predefined strategy, complemented by targeted searching and citation tracking. The searches identified 1090 records; after removal of 463 duplicates, 627 unique records were screened and 23 reports were retained for structured narrative synthesis. A meta-analysis was not performed because the evidence was heterogeneous in phenotype definition, population, design, and effect measure. Direct host-side genomic evidence remains scarce and is dominated by a small number of population-specific studies. The strongest genome-wide evidence comes from Hereford and Braford cattle, with top SNP signals on BTA1, 2, 5, 6, 12, 16, 17, 18, 24 and 26 and positional candidate genes including ATP8A1, LCP1, LRCH1, QSOX1, FGF2, DSC1, DSC3, FGFR2 and CEBPG. BoLA-DRB3*011:01 was associated with resistance to B. bovis infection in Crioulo Lageano cattle. Overall, host response appears polygenic, weakly heritable, and strongly influenced by immune regulation, breed background, host-vector interaction, and epidemiological context. No single marker is currently validated for routine selection across breeds; future progress will require larger reference populations, improved phenotyping, and independent validation.",
+      "authors": [
+        "Aguilar-Meraz P",
+        "Aguilar-Dom&#xed;nguez M",
+        "Vega-Murillo VE"
+      ],
+      "journal": "Veterinary parasitology",
+      "publicationDate": "Oct 13, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42887363/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-17T09:47:48.594Z"
     },
     {
       "pmid": "42868802",
@@ -137,7 +274,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:57.336Z"
+      "fetchedAt": "2026-10-17T09:47:51.029Z"
     },
     {
       "pmid": "42863167",
@@ -160,7 +297,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:41.632Z"
+      "fetchedAt": "2026-10-17T09:47:35.114Z"
     },
     {
       "pmid": "42862010",
@@ -183,7 +320,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:42.272Z"
+      "fetchedAt": "2026-10-17T09:47:35.727Z"
     },
     {
       "pmid": "42853782",
@@ -206,7 +343,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:43.536Z"
+      "fetchedAt": "2026-10-17T09:47:36.950Z"
     },
     {
       "pmid": "42858692",
@@ -227,7 +364,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:53.285Z"
+      "fetchedAt": "2026-10-17T09:47:45.741Z"
     },
     {
       "pmid": "42849539",
@@ -250,53 +387,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:58.613Z"
-    },
-    {
-      "pmid": "42843563",
-      "title": "Tick-borne diseases in French Guiana: A comprehensive review pinpointing differences from mainland France.",
-      "abstract": "French Guiana (FG), an Amazonian French territory, represents a unique ecological and epidemiological setting for tick-borne diseases (TBDs). In contrast to mainland France, where TBDs are well-documented, data from FG remain scarce. We carried out a systematic review using the PRISMA criteria for our search of the PubMed, ScienceDirect, and SciELO data bases. We identified 68 articles, of which 43 met our inclusion criteria. Data from FG were compared with those originating from mainland France. Albeit highly prevalent in Europe, and notwithstanding detection of a distinct Borrelia species in bird-associated ticks, there have been no confirmed autochthonous cases of Lyme disease in French Guiana. Conversely, Q fever occurs more frequently in this overseas territory than in mainland France, even though its causative agent, Coxiella burnetii, has been detected only one time in a local tick. While Rickettsia spp. are widely present in tick populations, no human rickettsiosis has been reported. As for Anaplasma and Ehrlichia spp., they have been identified in wildlife, domestic animals, and ticks, but with only one documented human case of chronic anaplasmosis, which was caused by a novel species, Candidatus Anaplasma sparouinense. Other pathogens, including Babesia, Bartonella, and filarial nematodes, have been detected in animals or ticks, but without evidence of human infection. Of note, emerging conditions have been described, one example being alpha-gal syndrome, an allergy triggered by tick bites to mammalian meat. To summarize, available data remain limited, and in all likelihood, the burden of TBDs in FG is underestimated. Integrated research combining human, animal and environmental surveillance is needed to more precisely characterize epidemiology, assess risks, and facilitate preventive strategies.",
-      "authors": [
-        "Cartau T",
-        "Bourne-Watrin M",
-        "Duron O"
-      ],
-      "journal": "Infectious diseases now",
-      "publicationDate": "Oct 07, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42843563/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-16T10:13:46.095Z"
-    },
-    {
-      "pmid": "42843064",
-      "title": "Public awareness of alpha-gal syndrome and tick bite prevention practices, United States, Fall 2023.",
-      "abstract": "Alpha-gal syndrome (AGS) is a unique non-infectious tickborne disease that can develop after a tick bite. AGS can cause severe allergic symptoms (when patients are exposed to alpha-gal) and be challenging for patients to manage because alpha-gal is found in mammalian meat, dairy, and some non-food products. We sought to understand public awareness of AGS, especially relative to other tickborne diseases. We used a 2023 nationally representative survey of adults to investigate public awareness of AGS in the United States and found that knowledge was very low, with 70% of respondents having no prior knowledge of AGS. Respondents with prior AGS knowledge were more concerned about both AGS and infectious tickborne diseases, including Lyme disease, than those without prior AGS knowledge. This study suggests that improving public awareness of AGS could encourage individuals to try to prevent tick bites.",
-      "authors": [
-        "Taylor ML",
-        "Jones ES",
-        "Premkumar AL"
-      ],
-      "journal": "Ticks and tick-borne diseases",
-      "publicationDate": "Oct 07, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42843064/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-16T10:13:46.731Z"
+      "fetchedAt": "2026-10-17T09:47:52.252Z"
     },
     {
       "pmid": "42843563",
@@ -319,7 +410,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:59.257Z"
+      "fetchedAt": "2026-10-17T09:47:52.870Z"
     },
     {
       "pmid": "42846156",
@@ -341,7 +432,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:45.456Z"
+      "fetchedAt": "2026-10-17T09:47:38.784Z"
     },
     {
       "pmid": "42878683",
@@ -363,7 +454,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:56.071Z"
+      "fetchedAt": "2026-10-17T09:47:49.811Z"
     },
     {
       "pmid": "42856406",
@@ -386,30 +477,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:42.899Z"
-    },
-    {
-      "pmid": "42822458",
-      "title": "Mitochondrial proteome of the apicomplexan Babesia divergens.",
-      "abstract": "Babesia are tick-transmitted apicomplexan parasites of widespread medical and veterinary importance. Although atovaquone, a first-line therapy for human babesiosis, targets one of the three proteins encoded by mitochondrial DNA, a full characterization of the nuclear-encoded mitochondrial proteome is lacking. Here, we combined organelle immunoprecipitation and density gradient separation to enrich mitochondria from Babesia divergens. Using protein mass spectrometry and protein correlation profiling, we generated B. divergens MitoCarta (BdMitoCarta), a high-confidence inventory of 525 mitochondrial proteins. The B. divergens mitoproteome is broadly conserved across Apicomplexa, which, as a clade, have undergone reductive evolution. As seen in other apicomplexans, metabolite transport and the TCA cycle have diverged, with loss of the pyruvate dehydrogenase complex, presence of malate:quinone oxidoreductase, and a class I fumarate hydratase. Specific to Babesia is the presence of two mitochondrial isocitrate dehydrogenase homologs. Using isolated mitochondria, we performed blue native PAGE complexome analysis and detected previously uncharacterized proteins co-migrating with the ATP synthase and mitochondrial ribosome. Our work has yielded the first mitochondrial proteome and complexome for Babesia, which we expect to be a valuable resource for understanding the evolution of apicomplexan parasites for future therapeutic development.",
-      "authors": [
-        "Betsinger CN",
-        "Calvo SE",
-        "Mian SY"
-      ],
-      "journal": "Current biology : CB",
-      "publicationDate": "Oct 01, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42822458/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-16T10:14:01.177Z"
+      "fetchedAt": "2026-10-17T09:47:36.345Z"
     },
     {
       "pmid": "42857225",
@@ -432,7 +500,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:57.988Z"
+      "fetchedAt": "2026-10-17T09:47:51.643Z"
     },
     {
       "pmid": "42871197",
@@ -455,7 +523,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:40.998Z"
+      "fetchedAt": "2026-10-17T09:47:34.506Z"
     },
     {
       "pmid": "42865692",
@@ -478,7 +546,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:52.006Z"
+      "fetchedAt": "2026-10-17T09:47:44.523Z"
     },
     {
       "pmid": "42865411",
@@ -501,7 +569,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:52.645Z"
+      "fetchedAt": "2026-10-17T09:47:45.129Z"
     },
     {
       "pmid": "42883013",
@@ -524,30 +592,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:48.967Z"
-    },
-    {
-      "pmid": "42856766",
-      "title": "Editorial: Evolution of antimicrobial resistance in intracellular bacterial pathogens: a genomic and historical perspective.",
-      "abstract": "",
-      "authors": [
-        "Karthik K",
-        "Dadar M",
-        "Anbazhagan S"
-      ],
-      "journal": "Frontiers in microbiology",
-      "publicationDate": "09 25, 2026",
-      "articleType": "Editorial",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42856766/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-16T10:13:53.785Z"
+      "fetchedAt": "2026-10-17T09:47:41.570Z"
     },
     {
       "pmid": "42882950",
@@ -570,7 +615,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:49.600Z"
+      "fetchedAt": "2026-10-17T09:47:42.181Z"
     },
     {
       "pmid": "42882950",
@@ -593,52 +638,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:55.444Z"
-    },
-    {
-      "pmid": "42830720",
-      "title": "Untitled",
-      "abstract": "The Fea's muntjac (Muntiacus feae) and the northern red muntjac (Muntiacus vaginalis) are Asian cervids maintained in captive conservation programmes in Thailand, yet information on blood-borne pathogens in these species remains limited. This study aimed to investigate Theileria spp. infection in 34 captive muntjacs from four facilities across Thailand using PCR, Sanger sequencing, phylogenetic analysis, and liquid chromatography-tandem mass spectrometry (LC-MS/MS)-based serum proteomics. All animals appeared clinically healthy, and no hemoparasites were observed on blood smears. Nevertheless, Theileria spp. DNA was detected by PCR in every individual, indicating subclinical infection. Babesia spp. were below the detection limit of the PCR assay, while members of the Anaplasmataceae were not detected. Phylogenetic analysis of 15 sequences positioned most isolates among T. capreoli-associated (9/15) or other cervid-associated Theileria lineages (5/15), while one isolate (1/15) was positioned separately; relationships involving the study isolates were generally weakly supported. Serum proteomics identified 414 Theileria-associated proteins consistently detected in both host species. Functional annotation revealed proteins involved in invasion (rhoptry-associated proteins), proteolysis (aspartyl proteases and calpain-like proteins), ubiquitin-mediated regulation, vesicular trafficking, and RNA processing, providing preliminary functional insight into Theileria-associated biological processes during subclinical infection. These findings suggest a potential role of captive muntjacs in parasite maintenance where competent vectors are present and demonstrate the value of integrating molecular detection with proteomic profiling to investigate host-parasite interactions in wildlife.",
-      "authors": [
-        "Supapannachart P",
-        "Roytrakul S",
-        "Phaonakrop N"
-      ],
-      "journal": "Current research in parasitology & vector-borne diseases",
-      "publicationDate": "09 16, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42830720/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-16T10:13:59.890Z"
-    },
-    {
-      "pmid": "42825085",
-      "title": "Untitled",
-      "abstract": "Borrelia miyamotoi is a relapsing-fever spirochete that conventional tick-borne testing does not detect. We report a case notable for two findings not emphasized in prior series: creatine kinase elevation to 1464&#x202f;U/L and glucose concentrations above 500&#x202f;mg/dL without ketoacidosis in a pump-treated patient with type 1 diabetes mellitus. A 36-year-old man with frequent wooded exposure presented with fever, headache, myalgias, and rash, along with leukopenia, thrombocytopenia, and mild transaminitis. Lyme serology, Babesia smear, Anaplasma and Ehrlichia PCR, spotted-fever group Rickettsia serology, and blood cultures were negative; blood real-time PCR identified B. miyamotoi after discharge. The hyperglycemia was attributable to infection-related insulin resistance and interruption of pump delivery. Seventeen days of doxycycline produced full clinical and laboratory recovery. Exercise and dehydration may have contributed to the hyperCKemia. This case supports early blood PCR during the febrile illness in culture-negative tick-borne disease and illustrates that insulin requirements may rise sharply when infection coincides with failure of insulin-delivery technology.",
-      "authors": [
-        "Sun K",
-        "Guo Y"
-      ],
-      "journal": "IDCases",
-      "publicationDate": "09 14, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42825085/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-16T10:14:00.539Z"
+      "fetchedAt": "2026-10-17T09:47:49.204Z"
     },
     {
       "pmid": "42846282",
@@ -661,7 +661,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:44.817Z"
+      "fetchedAt": "2026-10-17T09:47:38.177Z"
     },
     {
       "pmid": "42871255",
@@ -684,7 +684,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-16T10:13:51.375Z"
+      "fetchedAt": "2026-10-17T09:47:43.911Z"
     }
   ]
 }
