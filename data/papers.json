@@ -1,7 +1,53 @@
 {
-  "generatedAt": "2026-10-17T09:47:53.870Z",
+  "generatedAt": "2026-10-18T09:59:45.987Z",
   "totalPapers": 30,
   "papers": [
+    {
+      "pmid": "42891409",
+      "title": "Mortality dynamics of West Nile virus and Lyme disease in the United States: Temporal, spatial, and socioeconomic dimensions (2003-2021).",
+      "abstract": "West Nile virus (WNV) and Lyme disease pose a growing public health threat in the United States. This study investigated spatial and temporal mortality trends of WNV and Lyme disease and evaluated associations with individual and county-level factors. We utilized National Center for Health Statistics data to identify WNV- and Lyme-related deaths (2003-2021), including demographics and the decedent's county of residence. County-level insurance status was sourced from the U.S. Census Bureau, and urbanicity was defined using the 2013 National Center For Health Statistics classification. We applied negative binomial regression models to identify predictors of mortality. Our analysis of 3694 deaths (WNV: 2,628 [71.2%]; Lyme: 1,066 [28.8%]) revealed WNV peaks occurred in 2003 (246 deaths, 9.4% of WNV deaths) and 2012 (281 deaths, 10.7%), and an increasing trend for Lyme (103 deaths, 9.7% in 2021). Overall, deaths were highest in 2012 (343, 9.3%) and lowest in 2009 (105, 2.6%). Age &#x2265;65 (rate ratio [RR] = 1.5, confidence interval [CI] = 1.27, 1.48), male sex (RR = 1.2, CI = 1.04, 1.26), and White race (RR = 1.7, CI = 1.37, 1.73) were associated with increased mortality. Spatial analysis indicated high WNV mortality in California, Colorado, Arizona, and Texas, and states along the Mississippi River. In contrast, Lyme disease deaths were concentrated in the Northeast and the Upper Midwest. Our results suggest that age, sex, race, and urbanicity are important factors influencing mortality from WNV and Lyme disease. More research is needed to link exposures and incidence to mortality of WNV and Lyme to better understand the drivers of regional variation, given the spatial and temporal variability.",
+      "authors": [
+        "Mohammadi R",
+        "Gwon Y",
+        "Herstein JJ"
+      ],
+      "journal": "Environmental epidemiology (Philadelphia, Pa.)",
+      "publicationDate": "Dec 15, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42891409/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-18T09:59:24.511Z"
+    },
+    {
+      "pmid": "42891013",
+      "title": "Not always cancer-Probable Lyme disease mimicking squamous cell carcinoma: A case report.",
+      "abstract": "Lyme disease, caused by Borrelia burgdorferi, can produce head and neck manifestations in up to 75% of cases, most commonly facial palsy and lymphadenopathy. Borrelial lymphoid proliferations are recognized mimics of malignancy; however, tonsillar involvement simulating a malignant neoplasm has not been previously described. We report a 57-year-old male patient who presented with a right cervical lump associated with odynophagia, weight loss, and low-grade fever. PET-CT demonstrated intense FDG uptake in a right palatine tonsillar mass and right cervical lymph nodes, with loss of fat plane definition relative to the adjacent sternocleidomastoid muscle. Subsequent MRI revealed an irregular tonsillar mass with restricted diffusion and heterogeneous post-contrast enhancement of the cervical lymph node conglomerate, with internal areas of necrosis, imaging features highly suspicious for oropharyngeal squamous cell carcinoma with extranodal extension. Histopathological examination of the cervical lymph nodes revealed reactive lymphadenitis, and serological testing detected IgM for Borrelia burgdorferi. The patient was treated with doxycycline and demonstrated significant reduction of the tonsillar mass and cervical lymph nodes at three-month follow-up imaging. This case illustrates that infectious etiologies, even rare ones, can produce imaging findings that closely mimic carcinoma, and reinforces the importance of clinical correlation and imaging follow-up before committing to aggressive treatment.",
+      "authors": [
+        "Nagano SY",
+        "Tavares MW",
+        "Chojniak R"
+      ],
+      "journal": "Radiology case reports",
+      "publicationDate": "Dec 05, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42891013/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-18T09:59:25.145Z"
+    },
     {
       "pmid": "42849992",
       "title": "Neurosurgical Manifestations of Rheumatologic Diseases: Clinical, Imaging, and Surgical Implications.",
@@ -22,7 +68,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:37.562Z"
+      "fetchedAt": "2026-10-18T09:59:30.223Z"
     },
     {
       "pmid": "42886695",
@@ -45,7 +91,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:33.290Z"
+      "fetchedAt": "2026-10-18T09:59:25.784Z"
     },
     {
       "pmid": "42885240",
@@ -68,7 +114,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:40.960Z"
+      "fetchedAt": "2026-10-18T09:59:33.279Z"
+    },
+    {
+      "pmid": "42891877",
+      "title": "Molecular evidence of Bartonella spp. in wild felids from Brazil.",
+      "abstract": "Among Felidae, domestic cats play a role as reservoirs for Bartonella henselae, Bartonella clarridgeiae, and Bartonella koehlerae. Despite the well-known relationship between Bartonella spp. and domestic cats, to date, there is still a paucity of reports on Bartonella spp. in wild felids. The aim of this study was to molecularly detect and characterize Bartonella spp. in blood and tissue samples from wild felids sampled in Brazil. Among 291 DNA samples (211 blood, 77 spleens and three livers), 3.09% (9/291) were positive in the Quantitative Real-Time PCR (qPCR) assay for Bartonella spp. based on the nuoG gene: 1/44 Leopardus pardalis, 3/61 Leopardus geoffroyi, 1/66 Panthera onca, 1/3 Herpailurus yagouaroundi, and 3/32 Leopardus wiedii. In the phylogenetic analyses, while the gltA sequence detected in L. wiedii grouped with Bartonella henselae, the gltA and ftsZ sequences detected in L. geoffroyi clustered within the same subclade as Bartonella sp. sequences previously identified in wild rodents and associated fleas. These findings reinforce that besides harboring Bartonella species associated with cats, wild felids also may act as accidental hosts for Bartonella species associated with wild small mammals, possibly as a consequence of predation.",
+      "authors": [
+        "Dias CM",
+        "Lee DAB",
+        "da Silva JVDSA"
+      ],
+      "journal": "Veterinary research communications",
+      "publicationDate": "Oct 17, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42891877/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-18T09:59:32.012Z"
     },
     {
       "pmid": "42885934",
@@ -91,7 +160,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:33.894Z"
+      "fetchedAt": "2026-10-18T09:59:26.417Z"
     },
     {
       "pmid": "42886367",
@@ -113,7 +182,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:40.323Z"
+      "fetchedAt": "2026-10-18T09:59:32.647Z"
     },
     {
       "pmid": "42887808",
@@ -136,7 +205,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:47.368Z"
+      "fetchedAt": "2026-10-18T09:59:39.312Z"
     },
     {
       "pmid": "42880574",
@@ -159,7 +228,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:42.797Z"
+      "fetchedAt": "2026-10-18T09:59:35.163Z"
     },
     {
       "pmid": "42878589",
@@ -182,7 +251,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:43.297Z"
+      "fetchedAt": "2026-10-18T09:59:35.663Z"
     },
     {
       "pmid": "42873390",
@@ -205,7 +274,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:50.413Z"
+      "fetchedAt": "2026-10-18T09:59:42.457Z"
     },
     {
       "pmid": "42887364",
@@ -228,7 +297,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:47.983Z"
+      "fetchedAt": "2026-10-18T09:59:39.943Z"
     },
     {
       "pmid": "42887363",
@@ -251,7 +320,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:48.594Z"
+      "fetchedAt": "2026-10-18T09:59:40.574Z"
     },
     {
       "pmid": "42868802",
@@ -274,7 +343,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:51.029Z"
+      "fetchedAt": "2026-10-18T09:59:43.085Z"
     },
     {
       "pmid": "42863167",
@@ -297,7 +366,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:35.114Z"
+      "fetchedAt": "2026-10-18T09:59:27.695Z"
     },
     {
       "pmid": "42862010",
@@ -320,7 +389,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:35.727Z"
+      "fetchedAt": "2026-10-18T09:59:28.330Z"
     },
     {
       "pmid": "42853782",
@@ -343,28 +412,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:36.950Z"
-    },
-    {
-      "pmid": "42858692",
-      "title": "Molecular detection of Bartonella dromedarii-like in Microthoracius spp. (Phthiraptera: Microthoraciidae) associated with alpacas from the southern Andes of Peru.",
-      "abstract": "Blood-sucking insects, such as lice, act as potential vectors of vector-borne pathogens. The proposed study aimed to diagnose molecularly Bartonella sp., an arthropod-borne bacterium in Microthoracius lice collected from alpacas in Peru. Ninety-six lice of the Microthoracius genus were collected from alpaca crias from the Quenamari and Chillihua communities from Cuzco, Peru. All lice were molecularly analyzed by PCR protocols for Bartonella sp. Bartonella genus detection was performed by amplifying the 16S-23S internal transcribed spacer (ITS) region. Bartonella species were identified amplifying the citrate synthase gene (gltA), the RNA polymerase beta-subunit gene (rpoB), and the cell division protein gene (ftsZ). Bartonella DNA was detected in 33.3% (32/96) lice. M. mazzai had the highest Bartonella prevalence (50%; 10/20), followed by M. praelongiceps (28.9%; 22/76). Sequencing of PCR products of fragments of the gltA, rpoB, and ftsZ genes showed homology of 100%, 99.8-100%, and 99.4-99.9%, respectively, with Bartonella dromedarii. No statistical association was observed between B. dromedarii-like detection and louse species and communities. This study records for the first time the occurrence of Bartonella in alpaca lice and suggests that these insects may act as potential vectors for these pathogens, but further, more detailed studies are required. As Microthoracius lice are common camelid ectoparasites, future studies will be necessary to understand the situation of bartonellosis by B. dromedarii-like in domestic and wild South American camelids in various regions of the Peruvian Andes.",
-      "authors": [
-        "Gomez-Puerta LA"
-      ],
-      "journal": "Comparative immunology, microbiology and infectious diseases",
-      "publicationDate": "Oct 08, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42858692/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-17T09:47:45.741Z"
+      "fetchedAt": "2026-10-18T09:59:29.586Z"
     },
     {
       "pmid": "42849539",
@@ -387,7 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:52.252Z"
+      "fetchedAt": "2026-10-18T09:59:44.357Z"
     },
     {
       "pmid": "42843563",
@@ -410,29 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:52.870Z"
-    },
-    {
-      "pmid": "42846156",
-      "title": "Lyme Carditis Beyond Atrioventricular Block: Cardiac Arrest and Transient Atrial Fibrillation With Preserved Atrioventricular Conduction.",
-      "abstract": "Lyme disease may involve the heart during early dissemination and most commonly produces atrioventricular (AV) conduction abnormalities. PR interval prolongation, therefore, frequently guides clinical suspicion and management. We describe a previously healthy man who presented with seizure-like activity, aborted cardiac arrest, transient atrial fibrillation, and cardiac magnetic resonance findings consistent with acute myocarditis, although AV conduction remained normal. Serologic testing subsequently confirmed Lyme carditis. The patient recovered completely with oral doxycycline. This case illustrates that electrical instability may occur despite preserved PR intervals and reinforces the need for suspicion in patients with compatible systemic features.",
-      "authors": [
-        "Anthony JA",
-        "Doktor K"
-      ],
-      "journal": "Case reports in cardiology",
-      "publicationDate": "10 06, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42846156/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-17T09:47:38.784Z"
+      "fetchedAt": "2026-10-18T09:59:44.985Z"
     },
     {
       "pmid": "42878683",
@@ -454,7 +480,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:49.811Z"
+      "fetchedAt": "2026-10-18T09:59:41.826Z"
     },
     {
       "pmid": "42856406",
@@ -477,7 +503,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:36.345Z"
+      "fetchedAt": "2026-10-18T09:59:28.959Z"
     },
     {
       "pmid": "42857225",
@@ -500,7 +526,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:51.643Z"
+      "fetchedAt": "2026-10-18T09:59:43.730Z"
     },
     {
       "pmid": "42871197",
@@ -523,7 +549,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:34.506Z"
+      "fetchedAt": "2026-10-18T09:59:27.048Z"
     },
     {
       "pmid": "42865692",
@@ -546,7 +572,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:44.523Z"
+      "fetchedAt": "2026-10-18T09:59:36.920Z"
     },
     {
       "pmid": "42865411",
@@ -569,7 +595,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:45.129Z"
+      "fetchedAt": "2026-10-18T09:59:37.551Z"
     },
     {
       "pmid": "42883013",
@@ -592,7 +618,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:41.570Z"
+      "fetchedAt": "2026-10-18T09:59:33.908Z"
     },
     {
       "pmid": "42882950",
@@ -615,7 +641,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:42.181Z"
+      "fetchedAt": "2026-10-18T09:59:34.538Z"
     },
     {
       "pmid": "42882950",
@@ -638,30 +664,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:49.204Z"
-    },
-    {
-      "pmid": "42846282",
-      "title": "Atypical Lyme Neuroborreliosis Presenting With Ventriculitis and Cerebritis: A Case Report.",
-      "abstract": "Lyme neuroborreliosis is a neurological manifestation of infection by Borrelia burgdorferi sensu lato and most commonly presents with lymphocytic meningitis, cranial neuropathy, or painful radiculitis. Central nervous system parenchymal involvement is uncommon, and ventriculitis is rarely reported. We describe a man in his late 70s who presented with acute confusion, dysarthria, and left-sided weakness following several days of severe lower-limb pain and progressive mobility impairment. His neurological status rapidly deteriorated, with secondary seizures requiring invasive mechanical ventilation and intensive care support. Laboratory evaluation demonstrated a marked systemic inflammatory response, thrombocytopenia, acute kidney injury, and cholestatic liver dysfunction. Cerebrospinal fluid (CSF) analysis revealed pleocytosis with initial neutrophilic predominance, markedly elevated protein, and preserved glucose. Routine bacterial cultures and molecular testing for common central nervous system pathogens were negative. Anti-Borrelia IgG and IgM antibodies were detected in CSF, although a paired CSF-serum antibody index was unavailable. Brain magnetic resonance imaging demonstrated inflammatory material within the occipital horns of the lateral ventricles, bilateral leptomeningeal involvement, and focal parenchymal lesions with restricted diffusion suggestive of cerebritis. In the appropriate clinical context, these findings supported a diagnosis of probable Lyme neuroborreliosis with an unusual ventriculitis-like presentation. Despite prolonged antimicrobial therapy and partial improvement in CSF and radiological inflammatory findings, neurological recovery remained limited, and the patient subsequently died following ventilator-associated pneumonia complicated by septic shock. This case illustrates an uncommon and severe central nervous system presentation potentially associated with Lyme neuroborreliosis and highlights both the diagnostic value and limitations of CSF serology when demonstration of intrathecal antibody synthesis is unavailable.",
-      "authors": [
-        "Albuquerque A",
-        "Cunha AC",
-        "Gomes O"
-      ],
-      "journal": "Cureus",
-      "publicationDate": "Sep 07, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42846282/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-17T09:47:38.177Z"
+      "fetchedAt": "2026-10-18T09:59:41.198Z"
     },
     {
       "pmid": "42871255",
@@ -684,7 +687,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-17T09:47:43.911Z"
+      "fetchedAt": "2026-10-18T09:59:36.297Z"
     }
   ]
 }
