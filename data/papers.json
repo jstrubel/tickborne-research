@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T10:44:19.553Z",
+  "generatedAt": "2026-10-23T10:36:08.432Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:00.928Z"
+      "fetchedAt": "2026-10-23T10:35:51.267Z"
     },
     {
       "pmid": "42891013",
@@ -46,7 +46,76 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:01.590Z"
+      "fetchedAt": "2026-10-23T10:35:51.907Z"
+    },
+    {
+      "pmid": "42905553",
+      "title": "IL36&#x3b3; signaling promotes mammalian anti-tick immunity.",
+      "abstract": "Ticks, like Ixodes scapularis, can parasitize a diverse array of vertebrates, favoring natural hosts but feeding opportunistically on others. Natural hosts, as well as permissive hosts such as laboratory mice, tolerate repeated infestations, while many incidental hosts may acquire anti-tick immunity, as first described in guinea pigs. We show that tick-immune guinea pigs display altered dermal cytology and a distinct transcriptome, predominantly upregulating the IL36&#x3b3; cytokine. Interference with IL36&#x3b3; signaling, via gene knockdown, chemical inhibition, or its natural antagonist IL36RN, reversed anti-tick immunity in guinea pigs. Conversely, genome engineering to silence IL36RN in C3H mice, representing a permissive host, disrupted tick engorgement, interfering with the transmission of Lyme disease pathogens. These findings firmly establish IL36&#x3b3; as a central mediator of protective anti-tick immunity involving I. scapularis in mammalian hosts and support future strategies to interfere with tick-transmitted infections.",
+      "authors": [
+        "Kitsou C",
+        "Rana VS",
+        "Zhang M"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "publicationDate": "Oct 27, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42905553/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-23T10:35:48.417Z"
+    },
+    {
+      "pmid": "42905950",
+      "title": "Quantifying lifetime risk of Lyme disease: a population-based modelling study in the United States.",
+      "abstract": "",
+      "authors": [
+        "Baksh RH",
+        "Willis SJ",
+        "Cocoros NM"
+      ],
+      "journal": "American journal of epidemiology",
+      "publicationDate": "Oct 21, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42905950/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-23T10:35:47.567Z"
+    },
+    {
+      "pmid": "42905250",
+      "title": "Borrelia garinii spirochetemia in a previously healthy child presenting with Streptococcus anginosus group brain abscess: a case report.",
+      "abstract": "The clinical significance of transient Borrelia burgdorferi sensu lato complex (hereafter referred to as B. burgdorferi) spirochetemia remains poorly understood and has rarely been documented. We report the isolation of viable B. garinii genospecies from the blood of a previously healthy child presenting with a Streptococcus anginosus group (SAG) brain abscess. An eight-year-old girl presented with four days of headache, fever, nausea, slightly reduced general condition, and mild facial asymmetry. Initial evaluation, including lumbar puncture, raised suspicion of viral meningitis or Lyme neuroborreliosis (LNB). Based on the differential diagnosis of Lyme disease, she was enrolled in the prospective BRILLIANT study (NCT06045416), with additional blood and cerebrospinal fluid (CSF) sampling for B. burgdorferi culture and serology. Following initial outpatient management, she re-presented with clinical deterioration and signs of raised intracranial pressure. Cranial magnetic resonance imaging revealed a brain abscess requiring surgical drainage. Abscess cultures yielded SAG. Dental treatment four days before symptom onset provided a plausible source of infectious spread. Treatment with intravenous ceftriaxone and metronidazole for six weeks resulted in complete clinical recovery and radiological improvement. Borrelia burgdorferi-specific two-tier serology and CSF culture remained negative. In contrast, blood plasma culture for B. burgdorferi obtained at initial presentation yielded viable spirochetes after seven weeks. Borrelia burgdorferi DNA was confirmed by flaB-targeted qPCR, and hybrid whole-genome sequencing generated a near-complete genome identifying B. garinii genospecies. This case demonstrates viable B. garinii spirochetemia without serological evidence of LNB, incidentally detected during investigation of a SAG brain abscess. It highlights the uncertain clinical significance of transient B. burgdorferi spirochetemia, and the importance of interpreting microbiological findings within the clinical context.",
+      "authors": [
+        "Greiter BM",
+        "Hugelshofer M",
+        "Seiler M"
+      ],
+      "journal": "Infection",
+      "publicationDate": "Oct 21, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42905250/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-23T10:35:49.026Z"
     },
     {
       "pmid": "42900278",
@@ -68,7 +137,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:43:59.311Z"
+      "fetchedAt": "2026-10-23T10:35:49.637Z"
     },
     {
       "pmid": "42900183",
@@ -91,7 +160,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:43:59.810Z"
+      "fetchedAt": "2026-10-23T10:35:50.137Z"
     },
     {
       "pmid": "42886695",
@@ -114,7 +183,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:02.200Z"
+      "fetchedAt": "2026-10-23T10:35:52.536Z"
     },
     {
       "pmid": "42900407",
@@ -137,7 +206,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:13.110Z"
+      "fetchedAt": "2026-10-23T10:36:03.258Z"
     },
     {
       "pmid": "42900278",
@@ -159,7 +228,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:13.745Z"
+      "fetchedAt": "2026-10-23T10:36:03.874Z"
     },
     {
       "pmid": "42893073",
@@ -181,7 +250,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:00.311Z"
+      "fetchedAt": "2026-10-23T10:35:50.638Z"
     },
     {
       "pmid": "42885240",
@@ -204,7 +273,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:07.398Z"
+      "fetchedAt": "2026-10-23T10:35:56.887Z"
     },
     {
       "pmid": "42895251",
@@ -225,7 +294,30 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:14.244Z"
+      "fetchedAt": "2026-10-23T10:36:04.373Z"
+    },
+    {
+      "pmid": "42906313",
+      "title": "Development and validation of a recombinant chimeric antigen based on Leishmania infantum B-cell epitopes for canine serology.",
+      "abstract": "This study describes the development and validation of a novel multi-epitope chimeric protein (rChi) for the serodiagnosis of canine leishmaniasis caused by Leishmania infantum (CanL). The rChi construct was engineered based on B-cell epitopes from hypothetical proteins previously identified through immunoproteomic profiling. To evaluate its diagnostic performance, an indirect ELISA was conducted using a comprehensive panel of canine serum samples (n&#x202f;=&#x202f;291), including clinically affected, subclinically infected, and non-infected dogs, as well as Leish-Tec&#xae;-vaccinated animals and those infected with potentially cross-reactive pathogens (Babesia vogeli, Ehrlichia canis, and Trypanosoma cruzi). The rChi-ELISA demonstrated superior diagnostic parameters compared to L. infantum soluble Leishmania antigen (SLA), achieving 92.2% sensitivity and 76.2% specificity (AUC = 0.85; Accuracy = 80.8%), whereas SLA showed only 50.0% sensitivity and 68.3% accuracy. These findings indicate that the rChi protein significantly enhances CanL detection and represents a promising tool for more accurate veterinary diagnostics and surveillance.",
+      "authors": [
+        "Menezes-Souza D",
+        "Dos Santos WV",
+        "Costa SS"
+      ],
+      "journal": "Veterinary parasitology",
+      "publicationDate": "Oct 18, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42906313/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-23T10:36:02.024Z"
     },
     {
       "pmid": "42891877",
@@ -248,7 +340,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:06.158Z"
+      "fetchedAt": "2026-10-23T10:35:55.628Z"
     },
     {
       "pmid": "42885934",
@@ -271,7 +363,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:02.815Z"
+      "fetchedAt": "2026-10-23T10:35:53.149Z"
     },
     {
       "pmid": "42886367",
@@ -293,7 +385,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:06.775Z"
+      "fetchedAt": "2026-10-23T10:35:56.280Z"
     },
     {
       "pmid": "42887808",
@@ -316,7 +408,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:14.858Z"
+      "fetchedAt": "2026-10-23T10:36:04.990Z"
     },
     {
       "pmid": "42880574",
@@ -339,7 +431,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:09.262Z"
+      "fetchedAt": "2026-10-23T10:35:58.710Z"
     },
     {
       "pmid": "42878589",
@@ -362,30 +454,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:09.762Z"
-    },
-    {
-      "pmid": "42873390",
-      "title": "Comprehensive Assessment of Babesia gibsoni Infection in Dogs: Clinicopathological, Imaging, and Oxidative Stress Perspectives.",
-      "abstract": "The present study investigated clinico-pathological alterations associated with naturally occurring Babesia gibsoni infection in dogs from Mizoram, India. Diagnosis was established using rapid antibody detection, microscopic blood smear examination, and polymerase chain reaction (PCR). Blood samples were collected to study the haemogram, and serum samples were used for the evaluation of serum biochemical profile and oxidant-antioxidant indices. Abdominal ultrasonography was performed in the infected dogs. Of 138 samples screened, 43 (31.15%), 70 (50.72%), and 85 (61.59%) were positive by rapid antibody test, blood smear examination, and PCR, respectively. The most consistent clinical signs included depression/lethargy, inappetence/anorexia, and pyrexia. Splenomegaly and splenic lesions were the most consistent ultrasonographic findings noticed. Major haemato-biochemical alterations comprised anaemia, leukocytosis with neutrophilia and eosinophilia, thrombocytopaenia, hypoproteinaemia, hypoalbuminaemia, hyperbilirubinaemia, azotaemia, and increased alanine aminotransferase (ALT), alkaline phosphatase (ALP), and C-reactive protein (CRP) levels. Dogs with B. gibsoni infection exhibited significantly (P&#x2009;<&#x2009;0.001) higher lipid peroxide (LPO) levels and significantly (P&#x2009;<&#x2009;0.001) lower total antioxidant capacity (T-AOC) and reduced glutathione (GSH). Red blood cell (RBC) count showed a negative correlation with LPO (r&#x2009;=&#x2009;-&#x2009;0.741; P&#x2009;<&#x2009;0.01) and a positive correlation with GSH (r =&#x2009;0.714; P&#x2009;<&#x2009;0.01) and T-AOC (r =&#x2009;0.828; P&#x2009;<&#x2009;0.01), indicating a role of oxidant-antioxidant imbalance in the severity of anaemia. These findings underscore the multiorgan involvement of the disease and suggest a potential role of oxidative stress in the pathogenesis of B. gibsoni-induced anaemia in dogs.",
-      "authors": [
-        "Khan N",
-        "Sandilya A",
-        "Eregowda CG"
-      ],
-      "journal": "Acta parasitologica",
-      "publicationDate": "Oct 14, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42873390/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-22T10:44:17.935Z"
+      "fetchedAt": "2026-10-23T10:35:59.210Z"
     },
     {
       "pmid": "42887364",
@@ -408,7 +477,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:15.470Z"
+      "fetchedAt": "2026-10-23T10:36:05.596Z"
     },
     {
       "pmid": "42887363",
@@ -431,21 +500,44 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:16.083Z"
+      "fetchedAt": "2026-10-23T10:36:06.219Z"
     },
     {
-      "pmid": "42868802",
-      "title": "Tick-borne pathogens in Finnish wildlife: The role of non-native raccoon dog and European hare.",
-      "abstract": "The role of different host species in the circulation dynamics of tick-borne pathogens (TBPs) in northern ecosystems remains insufficiently characterized, despite the widespread distribution of these pathogens in European wildlife. In particular, the contribution of medium-sized mammals, including non-native species, to TBP circulation is poorly understood. We screened 446 skin samples from nine wildlife species in Finland for multiple zoonotic TBPs to assess pathogen occurrence across host species with particular emphasis on the invasive raccoon dog (Nyctereutes procyonoides) and non-native European hare (Lepus europaeus). Borrelia burgdorferi s.l., Anaplasma phagocytophilum, and Rickettsia helvetica were the most frequently detected pathogens, with prevalence varying among host species. Babesia spp. was predominantly detected in ungulates, whereas Spiroplasma ixodetis and Borrelia miyamotoi were rare. Raccoon dogs and European hares showed generally low pathogen prevalence, while the highest TBP prevalences were observed in squirrels, hedgehogs, and ungulates. We also screened for two Ixodes-associated endosymbionts (Rickettsiella spp. and Midichloria mitochondrii) as potential indicators of tick exposure. Although Rickettsiella spp. was associated with TBP infections, the low prevalence of both endosymbionts suggests their limited utility as tick bite markers. These findings provide a cross-sectional overview of TBP occurrence in Finnish wildlife and demonstrate that host-pathogen associations vary among species. The relatively low pathogen prevalence observed in the raccoon dog and European hare suggests that these species are unlikely to play a major role in maintaining TBP transmission in northern ecosystems, although they may contribute to tick abundance and dispersal.",
+      "pmid": "42904107",
+      "title": "Disseminated Bartonella washoensis infection in a kidney transplant recipient diagnosed by 16S rRNA next-generation sequencing: A case report.",
+      "abstract": "Bartonella species are increasingly recognized as causes of invasive infections in immunocompromised hosts. We report the first case in Colombia of disseminated Bartonella washoensis infection in a kidney transplant recipient. A 43-year-old woman receiving maintenance immunosuppression presented with prolonged fever, constitutional symptoms, abdominal pain, multiple splenic lesions, and vertebral osteomyelitis. Extensive microbiological, serological, and molecular investigations were initially negative. Due to persistent fever and diagnostic uncertainty, a diagnostic splenectomy was performed, which revealed necrotizing granulomas. Broad-range bacterial 16S rRNA next-generation sequencing of splenic tissue identified B. washoensis, establishing the diagnosis of disseminated bartonellosis. Targeted antimicrobial therapy resulted in clinical and radiological improvement without recurrence during follow-up. This case highlights the potential for rare zoonotic Bartonella species to cause disseminated disease in transplant recipients and underscores the diagnostic value of broad-range bacterial 16S rRNA amplicon sequencing when conventional diagnostic methods are unrevealing.",
       "authors": [
-        "Sipari S",
-        "Nykky J",
-        "Nylund M"
+        "Garz&#xf3;n J",
+        "Diaz-Brochero C",
+        "Ordo&#xf1;ez T"
       ],
-      "journal": "Ticks and tick-borne diseases",
-      "publicationDate": "Oct 13, 2026",
+      "journal": "IDCases",
+      "publicationDate": "10 12, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42904107/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-23T10:35:55.011Z"
+    },
+    {
+      "pmid": "42902963",
+      "title": "[What should you request to the laboratory for a patient bitten by a tick ?].",
+      "abstract": "Ticks are a growing concern for the public, owing to their abundance and a longer activity season. In Switzerland, more than 99% of ticks removed from humans are of the species Ixodes ricinus. This article reviews the tick-borne diseases documented in the country : Lyme borreliosis, tick-borne encephalitis, tularaemia, neoehrlichiosis, anaplasmosis, babesiosis, Borrelia miyamotoi relapsing fever, and rickettsiosis. Carriage of a microorganism by a tick does not imply infection, just as isolated seropositivity does not imply disease. Testing should be guided by pretest probability and disease stage, using validated assays only. Here, the laboratory is a key partner : it guides test selection and the interpretation of results, helping to avoid both under and overdiagnosis. Les tiques inqui&#xe8;tent la population, du fait de leur abondance et d&#x2019;une saison d&#x2019;activit&#xe9; prolong&#xe9;e. En Suisse, plus de 99 % des tiques retir&#xe9;es de l&#x2019;homme sont de l&#x2019;esp&#xe8;ce Ixodes ricinus. Cet article passe en revue les maladies vectorielles &#xe0; tiques document&#xe9;es dans le pays : borr&#xe9;liose de Lyme, m&#xe9;ningo-enc&#xe9;phalite verno-estivale, tular&#xe9;mie, neoehrlichiose, anaplasmose, bab&#xe9;siose, fi&#xe8;vre r&#xe9;currente &#xe0; Borrelia miyamotoi et rickettsioses. Le portage d&#x2019;un micro-organisme par la tique ne signifie pas une infection, comme une s&#xe9;ropositivit&#xe9; isol&#xe9;e ne signifie pas une maladie. Le choix des examens doit reposer sur la probabilit&#xe9; pr&#xe9;test et le stade clinique, en privil&#xe9;giant les tests valid&#xe9;s. Le laboratoire est ici un partenaire essentiel : il oriente leur prescription et l&#x2019;interpr&#xe9;tation des r&#xe9;sultats, &#xe9;vitant aussi bien le sous-diagnostic que le surdiagnostic.",
+      "authors": [
+        "Lienhard R",
+        "Ackermann-G&#xe4;umann R",
+        "Croxatto A"
+      ],
+      "journal": "Revue medicale suisse",
+      "publicationDate": "Oct 07, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42868802/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42902963/",
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
@@ -454,53 +546,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:18.552Z"
-    },
-    {
-      "pmid": "42863167",
-      "title": "Identifying counties at elevated acarological risk for reporting high incidence of Lyme disease in the eastern United States.",
-      "abstract": "Lyme disease, caused primarily by the bite of a nymphal blacklegged tick (Ixodes scapularis) infected with Borrelia burgdorferi sensu stricto (Bbss), is the most common vector-borne disease in the United States. Counties reporting high Lyme disease incidence (LDI) continue to expand beyond historic foci in the Northeast and Upper Midwest. Identifying areas of expansion aids in targeting efforts to improve Lyme disease awareness in affected communities. Tick surveillance is conducted to track changes in acarological risk for tickborne diseases; the density of host-seeking Bbss-infected I. scapularis nymphs (DIN) is considered the most predictive metric for human LDI. We aimed to identify a threshold in DIN that accurately separated high (&#x2265;10 average annual cases/100,000 and &#x2265;3 cases/year; 2022-2023) from low LDI counties in the eastern US. Using previously reported model-derived DIN, we identified 0.98 Bbss-infected nymphs per 1000&#x202f;m2 as the threshold. Based on this threshold, we classified 18% of eastern counties (487/2695), primarily in the Northeast and Upper Midwest, with both high LDI and elevated acarological risk and 72% (1935/2695) with both low LDI and acarological risk. Another 8% of counties (220/2695), primarily in Michigan, Illinois, Indiana, and Ohio, were predicted to pose elevated acarological risk, but reported low LDI and may reflect areas of emergence that could benefit from expanded tick surveillance and public health outreach. The remaining 2% of counties (53/2695), mainly along the Appalachian Mountains, reported high LDI, but were misclassified as low acarological risk, highlighting the need for additional tick surveillance to improve acarological risk assessments.",
-      "authors": [
-        "Holcomb KM",
-        "Foster E",
-        "Burtis JC"
-      ],
-      "journal": "Ticks and tick-borne diseases",
-      "publicationDate": "Oct 12, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42863167/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-22T10:44:04.081Z"
-    },
-    {
-      "pmid": "42862010",
-      "title": "Untitled",
-      "abstract": "The Lyme disease spirochete, Borrelia burgdorferi, maintains a low burden during vertebrate infection. This limitation has historically proven to be particularly challenging for genome-based studies of B. burgdorferi infection and spirochete presence after antibiotic treatment. Here, we used TBDCapSeq, an oligo capture-based next- generation sequencing assay, to demonstrate its utility for genome recovery of B. burgdorferi directly from C3H- and BALB/c-infected mice. Tissue fragments from the ear, heart, tarsus, and infection-site skin were collected at 3 and 6 months post-tick infection from antibiotic-treated and untreated animals. We evaluated 59 tissues from 20 untreated mice and 48 tissues from 17 doxycycline-treated mice for spirochete burden and extent of genome recovery. In the untreated mice, genome recovery from each tissue was determined by the amount of borrelial DNA present in the sequencing library and was highest in the ear and heart, followed by the skin, and lowest in the tarsus. We established that approximately 50% of the genome could be recovered with as few as 10 spirochetes per assay and >90% recovery could be achieved with only 35 spirochete genomes. In the antibiotic-treated mice, trace quantities of fragmented Borrelia DNA were still present in tissues at 3 and 6 months. However, none of the tissue samples from these mice yielded an intact B. burgdorferi genome characteristic of a viable spirochete. Combined, our findings demonstrate that capture sequencing enables genomic analyses of B. burgdorferi directly within animal hosts.IMPORTANCELyme disease, caused by the spirochete Borrelia burgdorferi, is the most common tick-borne infection in the United States. Low pathogen burden is a major limitation of B. burgdorferi studies in animal hosts and humans that has impacted a wide range of studies ranging from diagnostics, evolutionary analyses, and pathogenesis. It has also contributed to the controversies regarding B. burgdorferi persistence after antibiotic treatment. We show that a next-generation capture sequencing-based approach can readily overcome the current limitations of B. burgdorferi genomic analyses within animal hosts. We successfully recovered abundant genomic information directly from mouse tissues, and we did not find genetic evidence of intact bacteria present after antibiotic treatment. This approach can be employed to gain further insights into B. burgdorferi and provide critical genome data during animal and human infection.",
-      "authors": [
-        "Sanchez-Vicente S",
-        "Park J",
-        "Lipkin WI"
-      ],
-      "journal": "mSystems",
-      "publicationDate": "Oct 12, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42862010/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-22T10:44:04.694Z"
+      "fetchedAt": "2026-10-23T10:36:02.634Z"
     },
     {
       "pmid": "42878683",
@@ -522,30 +568,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:17.312Z"
-    },
-    {
-      "pmid": "42871197",
-      "title": "Development of bilateral facial nerve palsies while receiving doxycycline for early disseminated Lyme disease.",
-      "abstract": "Disease progression is uncommon in patients diagnosed with Lyme disease who receive appropriate therapy. Here we report a case of a patient developing bilateral facial nerve palsies while receiving oral doxycycline therapy for early disseminated Lyme disease and review the literature of similar cases. A 58-year-old previously healthy male from the mid-Atlantic area in the U.S. presented with a multifocal erythematous rash consistent with erythema migrans after international travel. His clinical presentation and two-step Lyme-serology testing confirmed a diagnosis of Lyme disease. Four days into initiation of doxycycline therapy, he developed bilateral facial weakness including difficulty raising the corners of his mouth and lifting his eyebrows bilaterally. He experienced neurologic improvement with ongoing antimicrobial therapy with ceftriaxone and subsequent doxycycline and had complete recovery 7 weeks later. This case describes an uncommon presentation of neuroborreliosis with bilateral facial palsies which developed after initiation of treatment of early disseminated Lyme disease. The manifestations in this case may be due to host immune reaction as seen in other spirochetal diseases. The findings resolved with continued therapy. In our review of the literature, we identified three additional cases of neuroborreliosis which progressed on treatment but also had eventual resolution of signs and symptoms. Clinicians should be aware that facial palsies rarely can occur on therapy for Lyme disease but do not necessarily imply a worse prognosis.",
-      "authors": [
-        "Chang BH",
-        "Nussenblatt VR",
-        "Goldberg JA"
-      ],
-      "journal": "IDCases",
-      "publicationDate": "09 28, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42871197/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-22T10:44:03.464Z"
+      "fetchedAt": "2026-10-23T10:36:07.432Z"
     },
     {
       "pmid": "42865692",
@@ -568,30 +591,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:11.012Z"
-    },
-    {
-      "pmid": "42865411",
-      "title": "Untitled",
-      "abstract": "Dasatinib is a second-generation tyrosine kinase inhibitor (TKI) used in Philadelphia chromosome-positive (Ph+) acute lymphoblastic leukemia (ALL), and chylothorax is one of its rare but serious lymphatic complications. We encountered a 14-year-old boy with Ph + acute lymphoblastic leukemia (ALL) who developed bilateral chylothorax while on dasatinib, with concurrent B. henselae infection (cat-scratch disease) confirmed in the pleural fluid. Prompted by this index case, we performed a systematic review of the literature to explore the potential association between dasatinib-associated chylothorax and Bartonella henselae infection. We searched multiple databases up to March 2026 and identified 24 cases of TKI-associated chylothorax and 11 cases of leukemia-related cat-scratch disease. In our index case, the pleural fluid triglyceride concentration reached 20.40&#xa0;mmol/L (&#x2248;1806&#xa0;mg/dL)-the highest value reported to date-and mNGS detected B. henselae together with other organisms. After dasatinib was discontinued and the patient received chest drainage, somatostatin, fasting, and anti-infective therapy with doxycycline plus rifampicin, imaging showed near-complete resolution of the effusion, and repeat mNGS confirmed clearance of B. henselae. A formal causality assessment using the Naranjo scale gave a score of 7, indicating a \"probable\" adverse drug reaction. This case illustrates that lymphatic and infectious complications can coincide in the same patient. Dasatinib-mediated inhibition of Src family kinases may simultaneously impair lymphatic endothelial integrity and suppress T-cell-mediated immune surveillance, thereby facilitating both chylous leakage and opportunistic infection. Clinicians managing paediatric patients receiving long-term dasatinib therapy should remain vigilant for both lymphatic complications and atypical opportunistic infections.",
-      "authors": [
-        "Liu C",
-        "Xia Z",
-        "Lu R"
-      ],
-      "journal": "Frontiers in pharmacology",
-      "publicationDate": "09 28, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42865411/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-22T10:44:11.630Z"
+      "fetchedAt": "2026-10-23T10:36:00.445Z"
     },
     {
       "pmid": "42883013",
@@ -614,7 +614,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:08.036Z"
+      "fetchedAt": "2026-10-23T10:35:57.494Z"
     },
     {
       "pmid": "42882950",
@@ -637,7 +637,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:08.652Z"
+      "fetchedAt": "2026-10-23T10:35:58.105Z"
     },
     {
       "pmid": "42882950",
@@ -660,7 +660,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:16.697Z"
+      "fetchedAt": "2026-10-23T10:36:06.827Z"
     },
     {
       "pmid": "42871255",
@@ -683,7 +683,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-22T10:44:10.387Z"
+      "fetchedAt": "2026-10-23T10:35:59.836Z"
     }
   ]
 }
