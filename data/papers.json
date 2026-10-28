@@ -1,30 +1,7 @@
 {
-  "generatedAt": "2026-10-27T11:09:13.308Z",
+  "generatedAt": "2026-10-28T11:43:48.802Z",
   "totalPapers": 30,
   "papers": [
-    {
-      "pmid": "42891409",
-      "title": "Mortality dynamics of West Nile virus and Lyme disease in the United States: Temporal, spatial, and socioeconomic dimensions (2003-2021).",
-      "abstract": "West Nile virus (WNV) and Lyme disease pose a growing public health threat in the United States. This study investigated spatial and temporal mortality trends of WNV and Lyme disease and evaluated associations with individual and county-level factors. We utilized National Center for Health Statistics data to identify WNV- and Lyme-related deaths (2003-2021), including demographics and the decedent's county of residence. County-level insurance status was sourced from the U.S. Census Bureau, and urbanicity was defined using the 2013 National Center For Health Statistics classification. We applied negative binomial regression models to identify predictors of mortality. Our analysis of 3694 deaths (WNV: 2,628 [71.2%]; Lyme: 1,066 [28.8%]) revealed WNV peaks occurred in 2003 (246 deaths, 9.4% of WNV deaths) and 2012 (281 deaths, 10.7%), and an increasing trend for Lyme (103 deaths, 9.7% in 2021). Overall, deaths were highest in 2012 (343, 9.3%) and lowest in 2009 (105, 2.6%). Age &#x2265;65 (rate ratio [RR] = 1.5, confidence interval [CI] = 1.27, 1.48), male sex (RR = 1.2, CI = 1.04, 1.26), and White race (RR = 1.7, CI = 1.37, 1.73) were associated with increased mortality. Spatial analysis indicated high WNV mortality in California, Colorado, Arizona, and Texas, and states along the Mississippi River. In contrast, Lyme disease deaths were concentrated in the Northeast and the Upper Midwest. Our results suggest that age, sex, race, and urbanicity are important factors influencing mortality from WNV and Lyme disease. More research is needed to link exposures and incidence to mortality of WNV and Lyme to better understand the drivers of regional variation, given the spatial and temporal variability.",
-      "authors": [
-        "Mohammadi R",
-        "Gwon Y",
-        "Herstein JJ"
-      ],
-      "journal": "Environmental epidemiology (Philadelphia, Pa.)",
-      "publicationDate": "Dec 15, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42891409/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-27T11:08:57.602Z"
-    },
     {
       "pmid": "42920978",
       "title": "Untitled",
@@ -46,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:09:00.549Z"
+      "fetchedAt": "2026-10-28T11:43:37.861Z"
     },
     {
       "pmid": "42920978",
@@ -69,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:09:08.687Z"
+      "fetchedAt": "2026-10-28T11:43:45.974Z"
     },
     {
       "pmid": "42905553",
@@ -92,7 +69,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:08:54.728Z"
+      "fetchedAt": "2026-10-28T11:43:32.787Z"
+    },
+    {
+      "pmid": "42935780",
+      "title": "Untitled",
+      "abstract": "The white-footed mouse, Peromyscus leucopus, is a generalist species found throughout the eastern and central United States that serves as an important reservoir for many tick-borne pathogens relevant to human health. Patterns of P. leucopus relative abundance within small mammal communities have been shown to correlate with the prevalence of Borrelia burgdorferi, the main causative agent of Lyme disease, in vector species. However, efforts to investigate patterns of P. leucopus population size and small mammal community structure often lack geographic variation. In this study, we characterized patterns of P. leucopus population size and small mammal community species richness across a broad geographic range in Pennsylvania. Population sizes and small mammal community richness values in northeastern Pennsylvania (mean   N ^    &#x2009;=&#x2009;28.6; mean richness&#x2009;=&#x2009;5.3) were greater than those in northwestern Pennsylvania (mean   N ^    &#x2009;=&#x2009;19.7; mean richness&#x2009;=&#x2009;2.8). Projected changes in climate and the expansion of human-caused disturbance have the potential to greatly influence the prevalence of P. leucopus in small mammal communities, so regular characterizations of P. leucopus community dynamics will likely be helpful to inform projections and assessments of human exposure to tick-borne pathogen risk.",
+      "authors": [
+        "Rowley MG",
+        "Davies G",
+        "Langlais P"
+      ],
+      "journal": "Ecology and evolution",
+      "publicationDate": "Oct 26, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42935780/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-28T11:43:29.850Z"
     },
     {
       "pmid": "42932384",
@@ -115,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:08:52.977Z"
+      "fetchedAt": "2026-10-28T11:43:31.072Z"
     },
     {
       "pmid": "42934956",
@@ -138,7 +138,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:08:59.296Z"
+      "fetchedAt": "2026-10-28T11:43:36.645Z"
+    },
+    {
+      "pmid": "42936128",
+      "title": "Circulating IP-10/CXCL10 Correlates With Parasitemia and Disease Severity in Patients With Babesiosis: A Pilot Study.",
+      "abstract": "Human babesiosis is an emerging tick-borne zoonosis that can cause serious complications, including death. Immune mechanisms that confer protection or promote disease severity in human babesiosis are poorly understood. We measured the cytokine and antibody profile in a cohort of hospitalized patients who had babesiosis. Cytokine levels were measured in plasma using the Bio-Plex Pro Human Cytokine 27-Plex Assay, and Babesia microti-specific total IgG and its 4 isotypes were measured using an immunofluorescence assay. Cytokine profile was analyzed in relation to immune status, peak parasitemia, lowest hemoglobin levels, and disease severity. There were enhanced levels of 8 cytokines (eotaxin, IL-6, IL-8, IL-10, IP-10/CXCL10, MCP-1, MIP-1&#x3b1;, and TNF-&#x3b1;) in the plasma of 16 patients with babesiosis as compared with 7 controls. A positive correlation was found between IP-10 levels and parasitemia (Spearman R = 0.52, P = .04). Patients with severe babesiosis had elevated levels of IP-10 and IL-5 as compared with the other 2 clinical categories (ie, moderate and moderately severe). Immunosuppression was associated with low levels of the VEGF and FGF basic angiogenic factors. There was also an inverse correlation between hemoglobin and IL-1&#x3b2; or IL-9 levels. Last, patients with babesiosis produced abundant levels of immunofluorescence assay total IgG and IgG1 and IgG3 but low levels of IgG2 and no IgG4. IP-10 and other cytokines that exhibited elevated levels should be further investigated as biomarkers of severe babesiosis.",
+      "authors": [
+        "Oakley MS",
+        "Hayashi CTH",
+        "Spichler-Moffarah A"
+      ],
+      "journal": "Open forum infectious diseases",
+      "publicationDate": "Oct 26, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42936128/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-28T11:43:43.518Z"
     },
     {
       "pmid": "42932013",
@@ -161,7 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:09:06.819Z"
+      "fetchedAt": "2026-10-28T11:43:44.135Z"
     },
     {
       "pmid": "42927829",
@@ -184,7 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:08:59.930Z"
+      "fetchedAt": "2026-10-28T11:43:37.255Z"
     },
     {
       "pmid": "42927829",
@@ -207,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:09:08.072Z"
+      "fetchedAt": "2026-10-28T11:43:45.368Z"
     },
     {
       "pmid": "42920256",
@@ -230,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:08:53.597Z"
+      "fetchedAt": "2026-10-28T11:43:31.679Z"
     },
     {
       "pmid": "42905950",
@@ -253,7 +276,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:08:54.098Z"
+      "fetchedAt": "2026-10-28T11:43:32.178Z"
     },
     {
       "pmid": "42905250",
@@ -276,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:08:55.349Z"
+      "fetchedAt": "2026-10-28T11:43:33.406Z"
     },
     {
       "pmid": "42900278",
@@ -298,30 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:08:55.967Z"
-    },
-    {
-      "pmid": "42900183",
-      "title": "Biomarker and pathogenicity claims for antiphospholipid antibodies in post-treatment Lyme disease syndrome.",
-      "abstract": "",
-      "authors": [
-        "Alaedini A",
-        "Wormser GP",
-        "Crow MK"
-      ],
-      "journal": "Infection and immunity",
-      "publicationDate": "Oct 20, 2026",
-      "articleType": "Letter",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42900183/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-27T11:08:56.467Z"
+      "fetchedAt": "2026-10-28T11:43:34.015Z"
     },
     {
       "pmid": "42900407",
@@ -344,51 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:09:10.561Z"
-    },
-    {
-      "pmid": "42900278",
-      "title": "Lyme Disease and Other Tick-Borne Infections.",
-      "abstract": "The neurologic manifestations of selected tick-transmitted infections in North America and Eurasia were reviewed. Both Powassan virus in North America, and Tick-Borne Encephalitis (TBE) virus in Eurasia can cause encephalitis, often with significant neurologic morbidity. Lyme disease, Ehrlichia chaffeensis (the cause of human monocytic ehrlichiosis [HME]), and Borrelia miyamotoi infections can cause meningitis (the third primarily in immunocompromised individuals). Patients with Lyme disease may also develop cranial neuropathy, and/or radiculoneuropathy. Tick-borne infections are being increasingly recognized in North America and Eurasia. While many tick-borne infections can cause headaches, lethargy or other non-specific symptoms, these are generally not evidence of nervous system infection - i.e., neuroinvasive disease. The latter is less common but may occur in infections due to Powassan and TBE viruses, in HME and in Lyme disease. Patients with symptomatic nervous system infection due to Powassan or TBE virus are at high risk of developing significant neurologic impairment and sequelae.",
-      "authors": [
-        "Halperin JJ",
-        "Wormser GP"
-      ],
-      "journal": "Current neurology and neuroscience reports",
-      "publicationDate": "Oct 20, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42900278/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-27T11:09:11.181Z"
-    },
-    {
-      "pmid": "42893073",
-      "title": "Demystifying Lyme disease.",
-      "abstract": "",
-      "authors": [
-        "Blundell H",
-        "Hunter E"
-      ],
-      "journal": "The Ulster medical journal",
-      "publicationDate": "Oct 19, 2026",
-      "articleType": "Editorial",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42893073/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-27T11:08:56.968Z"
+      "fetchedAt": "2026-10-28T11:43:47.802Z"
     },
     {
       "pmid": "42885240",
@@ -411,28 +367,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:09:03.028Z"
-    },
-    {
-      "pmid": "42895251",
-      "title": "Untitled",
-      "abstract": "",
-      "authors": [
-        "Rizk MA"
-      ],
-      "journal": "Future microbiology",
-      "publicationDate": "Oct 19, 2026",
-      "articleType": "Editorial",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42895251/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
-        "whyItMatters": "Read the full abstract for clinical details.",
-        "limitations": "AI summary unavailable.",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-27T11:09:11.680Z"
+      "fetchedAt": "2026-10-28T11:43:40.287Z"
     },
     {
       "pmid": "42906313",
@@ -455,7 +390,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:09:09.321Z"
+      "fetchedAt": "2026-10-28T11:43:46.575Z"
     },
     {
       "pmid": "42891877",
@@ -478,7 +413,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:09:01.788Z"
+      "fetchedAt": "2026-10-28T11:43:39.075Z"
     },
     {
       "pmid": "42886367",
@@ -500,44 +435,43 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:09:02.408Z"
+      "fetchedAt": "2026-10-28T11:43:39.671Z"
     },
     {
-      "pmid": "42887808",
-      "title": "Development and evaluation of an RPA-CRISPR/Cas12a molecular assay for rapid diagnosis of Theileria annulata infection in bovines.",
-      "abstract": "Tropical theileriosis, caused by Theileria annulata, continues to be the most significant tick-borne disease affecting cattle, particularly in endemic regions where it leads to significant production losses. Prompt and reliable diagnosis is critically important for timely treatment and disease control; however, conventional diagnostic methods have important limitations. Microscopic examination lacks sensitivity, particularly in carrier animals, while PCR requires specialized laboratory infrastructure. To overcome these limitations, a fluorescence-based RPA-CRISPR/Cas12a assay targeting the multicopy mitochondrial cytb gene was developed for rapid detection of T. annulata. Five RPA primer pairs were designed and evaluated, and primer set-5, generating a 324-bp amplicon, exhibited the best amplification performance. A CRISPR RNA (crRNA) was designed within the selected amplicon to enable specific Cas12a-mediated target recognition. The assay was completed within 50&#x202f;min and demonstrated no cross-reactivity with DNA from Theileria orientalis, Babesia bigemina, Babesia bovis, Anaplasma marginale, and bovine host DNA, confirming excellent analytical specificity. Sensitivity analysis using recombinant plasmid DNA demonstrated a detection limit of approximately ten copies per reaction. The field evaluation of the assay was done by testing 206 bovine field samples showed that the developed assay identified 163 positive samples, exceeding the detection rates obtained by PCR (151 positives) and microscopy (116 positives). On comparison with PCR, the assay achieved 100% diagnostic sensitivity, 78.18% specificity, 92.64% positive predictive value, 100% negative predictive value, with an overall agreement of 94.17%. These findings indicate that the RPA-CRISPR/Cas12a platform is a rapid, sensitive, and accurate molecular diagnostic approach with strong potential for field application and point-of-care diagnosis of bovine tropical theileriosis, particularly in resource-constrained settings.",
+      "pmid": "42943578",
+      "title": "Untitled",
+      "abstract": "The family Borreliaceae comprises the genera Cristispira and Borrelia, the latter including the subgenera Borrelia and Borreliella. Australia hosts a unique assemblage of wildlife and tick species that may support the circulation of indigenous Borrelia lineages. A narrative review of the available literature was conducted to summarize current knowledge of the taxonomy, diversity, ecology, tick associations, vertebrate hosts, and potential public health significance of Borreliaceae detected in Australia. The diversity of Australian Borrelia is currently represented by members of the relapsing fever (RF) and Echidna-Reptile (REP) groups. These include Borrelia queenslandica, Borrelia sp. HB, Candidatus Borrelia tachyglossi, Ca. B. undatumii, and Ca. B. rubricentralis, which have been detected in association with native wildlife and tick species. However, vector competence has not yet been demonstrated for most tick-associated Borrelia lineages identified in Australia. To date, no indigenous member of the Borrelia burgdorferi sensu lato complex has been convincingly detected in Australian ticks, wildlife, or humans. Nevertheless, persistent symptom complexes following tick exposure have been reported and are currently grouped under the umbrella term Debilitating Symptom Complexes Attributed to Ticks (DSCATT). Current evidence indicates that Australian Borreliaceae fauna is dominated by indigenous relapsing fever and reptile-associated lineages rather than Lyme borreliosis agents. Further genomic, ecological, reservoir-host, and vector-competence studies are needed to clarify their transmission cycles, evolutionary relationships, zoonotic potential, and their significance within a One Health framework.",
       "authors": [
-        "Mondal A",
-        "Saravanan BC",
-        "Singh PP"
+        "Trevisan G",
+        "Bonin S"
       ],
-      "journal": "Acta tropica",
-      "publicationDate": "Oct 16, 2026",
+      "journal": "Microorganisms",
+      "publicationDate": "Oct 14, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42887808/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42943578/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:09:12.308Z"
+      "fetchedAt": "2026-10-28T11:43:28.591Z"
     },
     {
-      "pmid": "42880574",
-      "title": "Laboratory larval exposure to mixed-size polystyrene micro/nanoplastics disrupts lipid metabolism and reshapes the hemolymph metabolome and gut microbiota of adult honeybee workers.",
-      "abstract": "Micro/nanoplastics are pervasive contaminants in terrestrial ecosystems, yet their developmental toxicity to pollinators remains insufficiently understood. Here, worker larvae of the honeybee (Apis mellifera) were orally exposed under controlled laboratory conditions to a mixed-size polystyrene micro/nanoplastic (PS-MNP) system containing 50&#xa0;nm, 100&#xa0;nm, and 5&#xa0;&#x3bc;m particles at a 1:1:1 mass ratio across 1-500&#xa0;mg/L. Survival was assessed using 48 larvae per group, and adult hemolymph metabolomics and gut microbiome analyses were conducted for adults derived from the 10&#xa0;mg/L larval exposure group using six biological replicates per treatment. Larval PS-MNP exposure reduced survival, transiently increased larval body mass, and disrupted nutrient allocation, as reflected by decreased total protein and free fatty acids but increased glycogen and triglyceride. In the larval fat body, PS-MNPs induced oxidative stress and lipid droplet accumulation, accompanied by transcriptional changes consistent with enhanced lipid storage and impaired lipophagy. These developmental disturbances were followed by post-metamorphic effects. Newly emerged workers exhibited midgut injury and oxidative imbalance. Moreover, adults derived from exposed larvae displayed pronounced hemolymph metabolomic reprogramming and altered gut microbiota after colony reintroduction. More than 1200 differential hemolymph metabolites were detected, with downregulated features enriched mainly in lipid-remodeling, eicosanoid-related, and autophagy-associated pathways. The adult gut microbiota showed depletion of Gilliamella apicola and Bartonella apis and enrichment of Lactobacillus apis and Frischella perrara. Collectively, these findings show that larval-only exposure to a mixed-size PS-MNP system can disturb developmental lipid/redox homeostasis and be followed by intestinal, hemolymph metabolic, and gut microbial alterations after metamorphosis. This integrated cross-stage evidence advances understanding of micro/nanoplastic developmental ecotoxicology in beneficial terrestrial insects and provides evidence for considering developmental windows in future pollinator risk assessment.",
+      "pmid": "42936271",
+      "title": "Vector-borne zoonotic bacteria in Tunisia: from fragmented data to an integrated One Health surveillance framework.",
+      "abstract": "Vector-borne and vector-associated bacterial zoonoses represent an important component of infectious disease epidemiology in Tunisia. This review synthesizes available evidence on major bacterial groups, including Rickettsia, Bartonella, Anaplasma, Ehrlichia, Borrelia, Coxiella burnetii, and other arthropod-associated bacteria, using a One Health framework integrating human, animal, vector, wildlife, and environmental compartments. The available evidence reveals heterogeneous levels of knowledge across bacterial taxa. Rickettsia represents the most established tick-associated zoonotic system, with Rickettsia conorii as the main confirmed human pathogen, while additional species have been detected mainly in arthropods or animal-associated settings. Bartonella has a significant clinical association with blood culture-negative endocarditis, whereas other bacterial groups show predominantly animal- or vector-associated evidence. Coxiella burnetii remains a major zoonotic concern linked to livestock, camels, reproductive materials, and environmental exposure. For Borrelia, Anaplasma, and Ehrlichia, substantial evidence of circulation exists in vectors and animals, but human clinical relevance remains incompletely characterized. Across bacterial groups, a recurrent limitation is the imbalance between molecular detection in vectors or animal hosts and confirmed evidence of transmission or human disease. Detection of bacterial DNA should therefore be interpreted cautiously and not considered equivalent to infection, reservoir competence, or vectorial transmission. Additional arthropod-associated bacteria identified through microbiome studies require further investigation to clarify their ecological significance. The Tunisian evidence base demonstrates active circulation of diverse vector-associated bacteria but remains fragmented across clinical, veterinary, entomological, and ecological domains. Strengthening integrated One Health surveillance through coordinated human diagnosis, animal sentinel systems, vector monitoring, environmental investigations, and advanced molecular approaches is essential to better assess zoonotic risks in Tunisia and the wider North African-Mediterranean region.",
       "authors": [
-        "Wei Q",
-        "Wu J",
-        "Kang W"
+        "Ben Said M",
+        "Selmi R",
+        "Belkahia H"
       ],
-      "journal": "Environmental pollution (Barking, Essex : 1987)",
-      "publicationDate": "Oct 15, 2026",
+      "journal": "Frontiers in microbiology",
+      "publicationDate": "10 12, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42880574/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42936271/",
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
@@ -546,7 +480,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:09:04.896Z"
+      "fetchedAt": "2026-10-28T11:43:36.032Z"
     },
     {
       "pmid": "42904107",
@@ -569,7 +503,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:09:01.167Z"
+      "fetchedAt": "2026-10-28T11:43:38.466Z"
     },
     {
       "pmid": "42902963",
@@ -592,7 +526,99 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:09:09.936Z"
+      "fetchedAt": "2026-10-28T11:43:47.196Z"
+    },
+    {
+      "pmid": "42940937",
+      "title": "Honey Bees as Bioindicators of Environmental PFASs Contamination and Potential Effects on Gut-Microbial Communities.",
+      "abstract": "Honey bees are valuable bioindicators of environmental contamination due to their wide foraging range and exposure to diverse biotic and abiotic stressors. This study evaluates the use of honey bees as bioindicators for detecting per- and polyfluoroalkyl substances (PFASs) in areas with varying levels of exposure risk (high-, intermediate-, and low-), as well as their potential effects on gut-microbial communities. Analytical chemistry to detect PFASs and pesticide residues were combined with molecular and metagenomic analyses to identify common honey bee pathogens and characterize gut-microbial communities. Short-chain PFASs were predominated over long-chain compounds, particularly in high-risk areas, while pesticide residues occurred in only a few apiaries. Molecular analyses revealed several widespread pathogens, while metagenomics showed a stable gut microbiome mainly composed of the genera Lactobacillus, Bartonella, Bombilactobacillus, Snodgrassella, Gilliamella, Bifidobacterium, and Gluconacetobacter. However, microbial-community composition differed significantly between apiaries with high- versus low-risk PFAS exposure. These results support honey bees as effective bioindicators for environmental PFAS monitoring and suggest that PFAS exposure may be associated with alterations in their gut-microbial communities. Further research is needed to elucidate the impact of PFASs on honey bee toxicity, gut-microbiota composition, and overall health.",
+      "authors": [
+        "Zulian L",
+        "Peruzzo A",
+        "Bertola M"
+      ],
+      "journal": "Insects",
+      "publicationDate": "Oct 06, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42940937/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-28T11:43:35.427Z"
+    },
+    {
+      "pmid": "42939695",
+      "title": "Untitled",
+      "abstract": "Lyme neuroborreliosis (LNB), caused by Borrelia garinii, often leads to persistent neurological deficits, yet early diagnosis remains insensitive and the temporal metabolic changes in the infected brain are largely unexplored. In this study, a murine model of B. garinii infection was established using 80 female BALB/c mice, and brain tissues were collected at acute 7 (days post-infection, DPI), mid- (15 and 21 DPI), and chronic (30 DPI) stages for untargeted gas chromatography-time-of-flight mass spectrometry (GC-TOF-MS) metabolomics. Thirty-one differential metabolites were identified, with downregulated metabolites predominating acutely and upregulated metabolites prevailing chronically. Twelve common metabolites, including creatine, lysine, and galactose derivatives, were consistently altered. KEGG analysis revealed disrupted amino acid metabolism, particularly valine, leucine, and isoleucine biosynthesis (ko00290), arginine and proline metabolism (ko00330), and aminoacyl-tRNA biosynthesis (ko00970). ROC analysis identified five candidate biomarkers, hydroxylamine, 2,3-dihydroxypyridine, galactose 1, galactose 2, and monostearin, with high diagnostic accuracy. This study provides a comprehensive temporal metabolomic landscape of the brain during B. garinii infection, revealing time-dependent metabolic reprogramming with sustained disruptions in amino acid and energy metabolism, and offering candidate biomarkers for improved diagnosis of central nervous system involvement in Lyme disease.",
+      "authors": [
+        "Zhai B",
+        "Niu Q",
+        "Yang H"
+      ],
+      "journal": "Biomolecules",
+      "publicationDate": "Oct 03, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42939695/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-28T11:43:29.229Z"
+    },
+    {
+      "pmid": "42944131",
+      "title": "Retrospective Serological Survey of Equine Influenza Virus and Piroplasm Parasites in Free-Ranging Wild Equids from Kenya and Tanzania.",
+      "abstract": "Wild equids may act as reservoirs for infectious pathogens affecting domestic equine populations, yet data on exposure to equine infectious anemia virus (EIAV), equine influenza virus (EIV), and equine piroplasmosis agents in African wildlife remain scarce. Our objectives were to retrospectively determine serological evidence of exposure to EIAV, EIV, Theileria equi, and Babesia caballi among Grevy's zebras and rhinoceroses from Kenya and Tanzania. A total of 284 archived serum samples from 215 Grevy's zebras and 69 rhinoceroses were analyzed using commercial ELISAs. Positive EIAV screening tests were retested using a second confirmatory assay. No confirmed EIAV antibodies were detected in zebras or rhinoceroses. Antibodies against EIV were identified in 20/215 zebras (9.3%), all originating from Serengeti National Park. Theileria equi antibodies were detected in 194/206 zebras (94.2%), while Babesia caballi antibodies were detected in 8/206 zebras (3.9%). Rhinoceroses were negative for all pathogens tested. This study provides evidence of widespread exposure of Grevy's zebras to T. equi and limited exposure to EIV in East Africa while failing to identify serologic evidence of EIAV infection in zebras or rhinoceroses. These findings improve understanding of infectious disease ecology at the wildlife-livestock interface and support continued wildlife surveillance programs.",
+      "authors": [
+        "Marchi S",
+        "Issel C",
+        "Kanyari P"
+      ],
+      "journal": "Veterinary sciences",
+      "publicationDate": "Sep 30, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42944131/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-28T11:43:42.297Z"
+    },
+    {
+      "pmid": "42944124",
+      "title": "Untitled",
+      "abstract": "Theileria annulata causes tropical theileriosis in cattle and is endemic in Kazakhstan. Although molecular diagnostic methods for this pathogen exist, data on its molecular surveillance and genetic diversity in Kazakhstan remain limited. This study aimed to develop and experimentally validate a species-specific real-time PCR (qPCR) assay for the detection of Theileria annulata and to conduct molecular surveillance and phylogenetic analysis of circulating isolates. A total of 709 cattle blood samples from 10 regions of Kazakhstan were analysed. Species-specific primers and a probe were designed targeting the 18S rRNA gene, and diagnostic performance was evaluated against sequencing as the reference method. Theileria annulata infection was confirmed in 110 of 709 samples (15.51%), with positive samples identified in the Turkistan, West Kazakhstan, Kyzylorda, and Zhambyl regions. The developed assay showed high diagnostic sensitivity (99.09%), specificity (99.67%), and diagnostic efficiency (99.58%), with no cross-reactivity with Theileria orientalis, Theileria parva, Babesia bovis, Babesia bigemina, or Anaplasma marginale. Phylogenetic analysis of partial 28S rRNA sequences confirmed the species identity of the detected isolates and demonstrated their close relationship with previously reported Kazakhstani and Chinese isolates. The developed qPCR assay is suitable for the molecular diagnosis and surveillance of bovine tropical theileriosis in Kazakhstan.",
+      "authors": [
+        "Myrzakhmet A",
+        "Barmak S",
+        "Sultankulova K"
+      ],
+      "journal": "Veterinary sciences",
+      "publicationDate": "Sep 29, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42944124/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-10-28T11:43:42.910Z"
     },
     {
       "pmid": "42883013",
@@ -615,7 +641,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:09:03.650Z"
+      "fetchedAt": "2026-10-28T11:43:40.903Z"
     },
     {
       "pmid": "42934219",
@@ -638,7 +664,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:08:52.338Z"
+      "fetchedAt": "2026-10-28T11:43:30.462Z"
     },
     {
       "pmid": "42931168",
@@ -661,30 +687,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-27T11:09:07.452Z"
-    },
-    {
-      "pmid": "42882950",
-      "title": "Untitled",
-      "abstract": "Vector-borne diseases (VBDs) represent a concern for animal and public health, and wildlife surveillance is valuable for their monitoring. The occurrence, molecular diversity and host distribution of tick-borne protozoa (TBP: Babesia spp., Theileria spp. and Hepatozoon spp.) and Bartonella spp. were investigated in wild carnivores from three regions of northwestern Italy. Spleen samples from 690 wild carnivores were screened for TBP and/or Bartonella spp. by PCR followed by sequencing. Among the 503 carnivores screened for TBP, 197 animals (39.2%) tested positive for at least one targeted protozoan species, including 87 positives for Babesia spp. (17.3%) and 120 for Hepatozoon spp. (23.9%). Bartonella spp. DNA was additionally detected in only one of the 363 animals tested (0.3%). Sequencing identified Babesia sp. badger types A and C in badgers, B. vulpes in foxes and B. canis in wolves, Hepatozoon canis in wolves and foxes, H. martis in stone martens and Hepatozoon sp. in stone and pine martens. Phylogenetic analyses supported the host-associated clustering of the detected lineages, confirming the molecular identification. These findings indicate the frequent occurrence of different TBP in wild carnivores from northwestern Italy, with marked host associated patterns, contributing to our understanding of VBD epidemiology with a One Health approach.",
-      "authors": [
-        "Sel E",
-        "Moroni B",
-        "Robetto S"
-      ],
-      "journal": "Animals : an open access journal from MDPI",
-      "publicationDate": "Sep 22, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42882950/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-27T11:09:04.272Z"
+      "fetchedAt": "2026-10-28T11:43:44.754Z"
     }
   ]
 }
