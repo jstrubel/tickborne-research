@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:18:34.728Z",
+  "generatedAt": "2026-11-01T12:08:28.465Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:24.930Z"
+      "fetchedAt": "2026-11-01T12:08:19.430Z"
     },
     {
       "pmid": "42920978",
@@ -46,7 +46,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:32.507Z"
+      "fetchedAt": "2026-11-01T12:08:27.464Z"
+    },
+    {
+      "pmid": "42922405",
+      "title": "Computational Optimisation of EtAMA1 Reveals Its Potential as a Vaccine Candidate Against Eimeria tenella.",
+      "abstract": "Eimeria tenella is among the most pathogenic chicken-infecting Eimeria species; hence, coccidiosis remains one of the most economically damaging diseases in the poultry industry globally due to poor growth performance, reduced feed efficiency, intestinal pathology, and increased mortality. Conventional control measures, including chemotherapeutic drugs and live-attenuated vaccines, are increasingly limited due to drug resistance, residue concerns, safety concerns, and high production costs, prompting interest in alternative strategies such as apical membrane antigen-1 (AMA1), a conserved and highly immunogenic microneme protein essential for host-cell invasion. Previous studies in Plasmodium, Toxoplasma, and Babesia have demonstrated the successful use of AMA1 in recombinant and immunoinformatic-designed vaccines, underscoring its potential as a cross-species subunit vaccine candidate. This study explored Eimeria tenella AMA1 (EtAMA1) with the aim of investigating the physicochemical and structural properties, identifying antigenic T-cell and B-cell epitopes using immunoinformatic tools and evaluating the effectiveness of EtAMA1 in inducing an immune response within the host. The structural analysis revealed a z-score of -6.86 and a Ramachandran plot of 97.19%. EtAMA1 contained three CD8+, seven CD4+ T-cell epitopes, one linear, and eight discontinuous B-cell epitopes. The ability of EtAMA1 to elicit an immune response was assessed via an in silico immune simulation. The binding interaction energy generated via molecular docking and dynamics simulations indicated a strong binding interaction of EtAMA1 to Toll-like receptor 5. The results indicate that EtAMA1 is a strong vaccine candidate; however, experimental validation is required.",
+      "authors": [
+        "Rafeer NM",
+        "Adeleke VT",
+        "Adeleke MA"
+      ],
+      "journal": "Veterinary medicine and science",
+      "publicationDate": "Nov 16, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42922405/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-01T12:08:26.854Z"
     },
     {
       "pmid": "42960394",
@@ -68,7 +91,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:14.989Z"
+      "fetchedAt": "2026-11-01T12:08:07.994Z"
     },
     {
       "pmid": "42963069",
@@ -91,7 +114,53 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:14.250Z"
+      "fetchedAt": "2026-11-01T12:08:07.269Z"
+    },
+    {
+      "pmid": "42966012",
+      "title": "One Health approach to Babesia and Bartonella species: occupational zoonotic infections in veterinary workers and their families.",
+      "abstract": "This study investigated the presence of Babesia, Bartonella, and Borrelia spp infection in an extended veterinary family. Between May 2023 and August 2025, 8 individuals enrolled in an Institutional Review Board-approved observational study. Serological evidence of Bartonella spp exposure and molecular evidence of Babesia, Bartonella, and Borrelia spp infection were assessed. Among other symptoms, at least half of the study participants reported chronic fatigue, headaches, anxiety, depression, and difficulty remembering. On the basis of PCR amplification and DNA sequencing, infection with Babesia odocoilei, Babesia divergens-like MO-1, Babesia gibsoni, or Babesia microti was confirmed in 4 individuals. Three other individuals were PCR positive for Piroplasmida/Apicomplexa DNA. Four individuals were seroreactive to 1 or more Bartonella spp and 6 individuals were Bartonella PCR positive in blood, serum, or enrichment blood cultures. Six individuals had at least 1 Borrelia partition detected by digital PCR; however, efforts in our laboratory to confirm Borrelia digital PCR positivity by DNA sequencing were not successful. Similar to this extended veterinary family, previous studies have documented that veterinarians and veterinary workers may be occupationally at risk for exposure to Bartonella spp. On the basis of the results of this study, veterinary workers may also be at risk for infection with Babesia spp and potentially other Piroplasmida/Apicomplexa organisms. The potential that chronic intravascular or endotheliotropic infections with vector-borne pathogens contributes to multisystem illnesses in veterinary workers deserves future research considerations, which, on a clinical, epidemiological, and microbiological basis, will require sequential lifetime studies.",
+      "authors": [
+        "Breitschwerdt EB",
+        "Maggi RG",
+        "Kaufman D"
+      ],
+      "journal": "Journal of the American Veterinary Medical Association",
+      "publicationDate": "Oct 30, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42966012/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-01T12:08:15.123Z"
+    },
+    {
+      "pmid": "42966012",
+      "title": "One Health approach to Babesia and Bartonella species: occupational zoonotic infections in veterinary workers and their families.",
+      "abstract": "This study investigated the presence of Babesia, Bartonella, and Borrelia spp infection in an extended veterinary family. Between May 2023 and August 2025, 8 individuals enrolled in an Institutional Review Board-approved observational study. Serological evidence of Bartonella spp exposure and molecular evidence of Babesia, Bartonella, and Borrelia spp infection were assessed. Among other symptoms, at least half of the study participants reported chronic fatigue, headaches, anxiety, depression, and difficulty remembering. On the basis of PCR amplification and DNA sequencing, infection with Babesia odocoilei, Babesia divergens-like MO-1, Babesia gibsoni, or Babesia microti was confirmed in 4 individuals. Three other individuals were PCR positive for Piroplasmida/Apicomplexa DNA. Four individuals were seroreactive to 1 or more Bartonella spp and 6 individuals were Bartonella PCR positive in blood, serum, or enrichment blood cultures. Six individuals had at least 1 Borrelia partition detected by digital PCR; however, efforts in our laboratory to confirm Borrelia digital PCR positivity by DNA sequencing were not successful. Similar to this extended veterinary family, previous studies have documented that veterinarians and veterinary workers may be occupationally at risk for exposure to Bartonella spp. On the basis of the results of this study, veterinary workers may also be at risk for infection with Babesia spp and potentially other Piroplasmida/Apicomplexa organisms. The potential that chronic intravascular or endotheliotropic infections with vector-borne pathogens contributes to multisystem illnesses in veterinary workers deserves future research considerations, which, on a clinical, epidemiological, and microbiological basis, will require sequential lifetime studies.",
+      "authors": [
+        "Breitschwerdt EB",
+        "Maggi RG",
+        "Kaufman D"
+      ],
+      "journal": "Journal of the American Veterinary Medical Association",
+      "publicationDate": "Oct 30, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42966012/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-01T12:08:21.923Z"
     },
     {
       "pmid": "42935780",
@@ -114,7 +183,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:17.431Z"
+      "fetchedAt": "2026-11-01T12:08:10.473Z"
     },
     {
       "pmid": "42932384",
@@ -137,7 +206,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:18.655Z"
+      "fetchedAt": "2026-11-01T12:08:11.703Z"
+    },
+    {
+      "pmid": "42966018",
+      "title": "Bacterial diversity associated with Streblidae flies parasitizing cave-dwelling bats from northeastern Brazil.",
+      "abstract": "Bats (Chiroptera) are highly diverse mammals that play key ecological roles and harbor a wide range of microorganisms, yet the microbiome of their ectoparasitic flies remains poorly understood. This study characterized and compared the bacterial microbiomes associated with two bat-ectoparasite systems, Pteronotus gymnonotus-Trichobius johnsonae and Desmodus rotundus-Trichobius parasiticus, from cave-dwelling bat populations in northeastern Brazil using 16S rRNA gene sequencing. Sixty-eight bat fly samples were successfully sequenced, and 67 were retained for downstream ecological analyses after quality filtering. Bacterial communities were dominated by members of the classes Gammaproteobacteria and Alphaproteobacteria, with Arsenophonus, Bartonella, and unresolved endosymbiont-associated taxa among the most abundant bacterial groups. Alpha-diversity patterns varied according to the metric considered: observed ASV richness was influenced by bat fly species, sex, and their interaction, Shannon diversity differed according to streblid fly species and sex, and Faith's phylogenetic diversity differed between bat fly sexes. Notably, male T. johnsonae exhibited greater observed ASV richness than females, whereas no significant sex difference was detected in T. parasiticus. Beta-diversity analyses consistently revealed differences in bacterial community composition between the two bat-ectoparasite systems, while the influence of sex was system-dependent, with significant differentiation between T. johnsonae males and females but not between sexes of T. parasiticus in phylogenetically informed analyses. Differential abundance analysis further identified Romboutsia, Bartonella, Bacteroides, and an unclassified Pseudomonadota genus as discriminatory taxa among groups. Overall, these findings reveal distinct bacterial diversity and composition patterns between the two bat-ectoparasite systems and indicate that sex-associated microbiome variation is not uniform across bat fly species.",
+      "authors": [
+        "de Mello VVC",
+        "Funnicelli MIG",
+        "Barbier E"
+      ],
+      "journal": "Comparative immunology, microbiology and infectious diseases",
+      "publicationDate": "Oct 26, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42966018/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-01T12:08:14.513Z"
     },
     {
       "pmid": "42961242",
@@ -160,7 +252,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:21.244Z"
+      "fetchedAt": "2026-11-01T12:08:15.747Z"
     },
     {
       "pmid": "42934956",
@@ -183,7 +275,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:23.716Z"
+      "fetchedAt": "2026-11-01T12:08:18.200Z"
     },
     {
       "pmid": "42936128",
@@ -206,7 +298,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:30.039Z"
+      "fetchedAt": "2026-11-01T12:08:24.381Z"
     },
     {
       "pmid": "42932013",
@@ -229,7 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:30.647Z"
+      "fetchedAt": "2026-11-01T12:08:25.005Z"
     },
     {
       "pmid": "42927829",
@@ -252,7 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:24.324Z"
+      "fetchedAt": "2026-11-01T12:08:18.811Z"
     },
     {
       "pmid": "42927829",
@@ -275,7 +367,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:31.896Z"
+      "fetchedAt": "2026-11-01T12:08:26.239Z"
     },
     {
       "pmid": "42920256",
@@ -298,7 +390,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:19.260Z"
+      "fetchedAt": "2026-11-01T12:08:12.322Z"
     },
     {
       "pmid": "42905950",
@@ -321,75 +413,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:19.760Z"
-    },
-    {
-      "pmid": "42906313",
-      "title": "Development and validation of a recombinant chimeric antigen based on Leishmania infantum B-cell epitopes for canine serology.",
-      "abstract": "This study describes the development and validation of a novel multi-epitope chimeric protein (rChi) for the serodiagnosis of canine leishmaniasis caused by Leishmania infantum (CanL). The rChi construct was engineered based on B-cell epitopes from hypothetical proteins previously identified through immunoproteomic profiling. To evaluate its diagnostic performance, an indirect ELISA was conducted using a comprehensive panel of canine serum samples (n&#x202f;=&#x202f;291), including clinically affected, subclinically infected, and non-infected dogs, as well as Leish-Tec&#xae;-vaccinated animals and those infected with potentially cross-reactive pathogens (Babesia vogeli, Ehrlichia canis, and Trypanosoma cruzi). The rChi-ELISA demonstrated superior diagnostic parameters compared to L. infantum soluble Leishmania antigen (SLA), achieving 92.2% sensitivity and 76.2% specificity (AUC = 0.85; Accuracy = 80.8%), whereas SLA showed only 50.0% sensitivity and 68.3% accuracy. These findings indicate that the rChi protein significantly enhances CanL detection and represents a promising tool for more accurate veterinary diagnostics and surveillance.",
-      "authors": [
-        "Menezes-Souza D",
-        "Dos Santos WV",
-        "Costa SS"
-      ],
-      "journal": "Veterinary parasitology",
-      "publicationDate": "Oct 18, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42906313/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-31T11:18:33.109Z"
-    },
-    {
-      "pmid": "42891877",
-      "title": "Molecular evidence of Bartonella spp. in wild felids from Brazil.",
-      "abstract": "Among Felidae, domestic cats play a role as reservoirs for Bartonella henselae, Bartonella clarridgeiae, and Bartonella koehlerae. Despite the well-known relationship between Bartonella spp. and domestic cats, to date, there is still a paucity of reports on Bartonella spp. in wild felids. The aim of this study was to molecularly detect and characterize Bartonella spp. in blood and tissue samples from wild felids sampled in Brazil. Among 291 DNA samples (211 blood, 77 spleens and three livers), 3.09% (9/291) were positive in the Quantitative Real-Time PCR (qPCR) assay for Bartonella spp. based on the nuoG gene: 1/44 Leopardus pardalis, 3/61 Leopardus geoffroyi, 1/66 Panthera onca, 1/3 Herpailurus yagouaroundi, and 3/32 Leopardus wiedii. In the phylogenetic analyses, while the gltA sequence detected in L. wiedii grouped with Bartonella henselae, the gltA and ftsZ sequences detected in L. geoffroyi clustered within the same subclade as Bartonella sp. sequences previously identified in wild rodents and associated fleas. These findings reinforce that besides harboring Bartonella species associated with cats, wild felids also may act as accidental hosts for Bartonella species associated with wild small mammals, possibly as a consequence of predation.",
-      "authors": [
-        "Dias CM",
-        "Lee DAB",
-        "da Silva JVDSA"
-      ],
-      "journal": "Veterinary research communications",
-      "publicationDate": "Oct 17, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42891877/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-31T11:18:26.151Z"
-    },
-    {
-      "pmid": "42886367",
-      "title": "[Bed bugs, lice and fleas-an up-to-date overview of diagnosis, treatment and prevention].",
-      "abstract": "Despite high standards of hygiene, ectoparasites remain a&#xa0;significant issue in dermatology. Bedbugs (Cimex lectularius) have become significantly more prevalent worldwide over the past two decades, whilst head lice infestation (Pediculus humanus capitis) remains one of the most common parasitic infections in children. Pubic lice (Pthirus pubis) are predominantly transmitted sexually. Body lice (Pediculus humanus corporis) are rare in Central Europe, but remain of infectious disease significance as vectors of Rickettsia prowazekii, Bartonella quintana and Borrelia recurrentis. Flea bites in humans are now predominantly caused by the cat flea (Ctenocephalides felis). The clinical spectrum ranges from asymptomatic cases through papular and urticarial reactions to bullous arthropod reactions and bacterial superinfections. Diagnosis is based on medical history, clinical findings and the direct detection of parasites, nits or characteristic environmental traces. Dermoscopy facilitates the differentiation of live parasites from nits and pseudonits, particularly in cases of pediculosis. Treatment for lice infestations comprises topical pediculicides and physically acting preparations. In the case of bedbug and flea infestations, consistent environmental control measures are crucial for long-term therapeutic success; in the case of flea infestations, concurrent veterinary treatment of infested pets is also essential. This article summarises the current state of knowledge regarding the epidemiology, biology, clinical presentation, diagnosis, treatment and prevention of these medically important ectoparasitic infestations. Ektoparasiten stellen trotz hoher Hygienestandards weiterhin ein relevantes Thema in der Dermatologie dar. Bettwanzenbef&#xe4;lle (Cimex lectularius) haben in den vergangenen 2&#xa0;Jahrzehnten weltweit deutlich zugenommen, w&#xe4;hrend der Kopflausbefall (Pediculus humanus capitis) unver&#xe4;ndert zu den h&#xe4;ufigsten parasit&#xe4;ren Erkrankungen im Kindesalter z&#xe4;hlt. Filzl&#xe4;use (Pthirus pubis) werden &#xfc;berwiegend sexuell &#xfc;bertragen. Kleiderl&#xe4;use (Pediculus humanus corporis) sind in Mitteleuropa selten, besitzen jedoch als Vektoren von Rickettsia prowazekii, Bartonella quintana und Borrelia recurrentis weiterhin infektiologische Bedeutung. Flohstiche beim Menschen werden heute &#xfc;berwiegend durch den Katzenfloh (Ctenocephalides felis) verursacht. Das klinische Spektrum reicht von asymptomatischen Verl&#xe4;ufen &#xfc;ber papul&#xf6;se und urtikarielle Reaktionen bis hin zu bull&#xf6;sen Arthropodenreaktionen und bakteriellen Superinfektionen. Die Diagnostik basiert auf Anamnese, klinischem Befund sowie dem direkten Nachweis von Parasiten, Nissen oder charakteristischen Umweltspuren. Die Dermatoskopie erleichtert insbesondere bei Pedikulosen die Differenzierung vitaler Parasiten von Nissen und Pseudonissen. Die Therapie umfasst bei L&#xe4;useinfestationen topische Pedikulozide und physikalisch wirkende Pr&#xe4;parate. Bei Bettwanzen- und Flohbefall sind konsequente Umgebungsma&#xdf;nahmen sowie beim Flohbefall die veterin&#xe4;rmedizinische Mitbehandlung befallener Haustiere entscheidend f&#xfc;r den nachhaltigen Therapieerfolg. Der Beitrag fasst den aktuellen Kenntnisstand zu Epidemiologie, Biologie, Klinik, Diagnostik, Therapie und Pr&#xe4;vention dieser wichtigen humanmedizinisch relevanten Ektoparasitosen zusammen.",
-      "authors": [
-        "Seelig J",
-        "Elsner E"
-      ],
-      "journal": "Dermatologie (Heidelberg, Germany)",
-      "publicationDate": "Oct 16, 2026",
-      "articleType": "English Abstract",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42886367/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-31T11:18:26.760Z"
+      "fetchedAt": "2026-11-01T12:08:12.822Z"
     },
     {
       "pmid": "42943578",
@@ -411,7 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:16.204Z"
+      "fetchedAt": "2026-11-01T12:08:09.236Z"
     },
     {
       "pmid": "42948493",
@@ -433,7 +457,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:21.853Z"
+      "fetchedAt": "2026-11-01T12:08:16.359Z"
     },
     {
       "pmid": "42936271",
@@ -456,7 +480,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:23.113Z"
+      "fetchedAt": "2026-11-01T12:08:17.582Z"
     },
     {
       "pmid": "42904107",
@@ -479,30 +503,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:25.537Z"
-    },
-    {
-      "pmid": "42902963",
-      "title": "[What should you request to the laboratory for a patient bitten by a tick ?].",
-      "abstract": "Ticks are a growing concern for the public, owing to their abundance and a longer activity season. In Switzerland, more than 99% of ticks removed from humans are of the species Ixodes ricinus. This article reviews the tick-borne diseases documented in the country : Lyme borreliosis, tick-borne encephalitis, tularaemia, neoehrlichiosis, anaplasmosis, babesiosis, Borrelia miyamotoi relapsing fever, and rickettsiosis. Carriage of a microorganism by a tick does not imply infection, just as isolated seropositivity does not imply disease. Testing should be guided by pretest probability and disease stage, using validated assays only. Here, the laboratory is a key partner : it guides test selection and the interpretation of results, helping to avoid both under and overdiagnosis. Les tiques inqui&#xe8;tent la population, du fait de leur abondance et d&#x2019;une saison d&#x2019;activit&#xe9; prolong&#xe9;e. En Suisse, plus de 99 % des tiques retir&#xe9;es de l&#x2019;homme sont de l&#x2019;esp&#xe8;ce Ixodes ricinus. Cet article passe en revue les maladies vectorielles &#xe0; tiques document&#xe9;es dans le pays : borr&#xe9;liose de Lyme, m&#xe9;ningo-enc&#xe9;phalite verno-estivale, tular&#xe9;mie, neoehrlichiose, anaplasmose, bab&#xe9;siose, fi&#xe8;vre r&#xe9;currente &#xe0; Borrelia miyamotoi et rickettsioses. Le portage d&#x2019;un micro-organisme par la tique ne signifie pas une infection, comme une s&#xe9;ropositivit&#xe9; isol&#xe9;e ne signifie pas une maladie. Le choix des examens doit reposer sur la probabilit&#xe9; pr&#xe9;test et le stade clinique, en privil&#xe9;giant les tests valid&#xe9;s. Le laboratoire est ici un partenaire essentiel : il oriente leur prescription et l&#x2019;interpr&#xe9;tation des r&#xe9;sultats, &#xe9;vitant aussi bien le sous-diagnostic que le surdiagnostic.",
-      "authors": [
-        "Lienhard R",
-        "Ackermann-G&#xe4;umann R",
-        "Croxatto A"
-      ],
-      "journal": "Revue medicale suisse",
-      "publicationDate": "Oct 07, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42902963/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-10-31T11:18:33.727Z"
+      "fetchedAt": "2026-11-01T12:08:20.042Z"
     },
     {
       "pmid": "42940937",
@@ -525,7 +526,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:22.475Z"
+      "fetchedAt": "2026-11-01T12:08:16.972Z"
     },
     {
       "pmid": "42939695",
@@ -548,7 +549,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:16.820Z"
+      "fetchedAt": "2026-11-01T12:08:09.848Z"
     },
     {
       "pmid": "42944131",
@@ -571,7 +572,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:28.824Z"
+      "fetchedAt": "2026-11-01T12:08:23.145Z"
     },
     {
       "pmid": "42957733",
@@ -594,7 +595,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:28.217Z"
+      "fetchedAt": "2026-11-01T12:08:22.538Z"
     },
     {
       "pmid": "42944124",
@@ -617,7 +618,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:29.431Z"
+      "fetchedAt": "2026-11-01T12:08:23.769Z"
     },
     {
       "pmid": "42934219",
@@ -640,7 +641,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:18.041Z"
+      "fetchedAt": "2026-11-01T12:08:11.088Z"
     },
     {
       "pmid": "42931168",
@@ -663,7 +664,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:31.259Z"
+      "fetchedAt": "2026-11-01T12:08:25.621Z"
     },
     {
       "pmid": "42950337",
@@ -686,7 +687,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-10-31T11:18:15.592Z"
+      "fetchedAt": "2026-11-01T12:08:08.625Z"
     }
   ]
 }
