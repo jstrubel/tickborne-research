@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T13:57:54.106Z",
+  "generatedAt": "2026-11-03T13:05:51.103Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,30 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:45.064Z"
-    },
-    {
-      "pmid": "42920978",
-      "title": "Untitled",
-      "abstract": "Deer keds are blood-feeding ectoparasites of cervids and can carry diverse microorganisms of veterinary or potential zoonotic relevance. Nationwide information on their distribution, mitochondrial diversity, and associated microorganisms has been lacking in the Republic of Korea (ROK). This study investigated deer keds collected from cervids across the ROK and characterized their species identity, COX1 diversity, and sequence-confirmed microorganisms. A total of 405 deer keds were opportunistically collected from 116 cervids made available through ongoing regional wildlife management activities across nine provinces of the Republic of Korea, including Korean water deer (Hydropotes inermis) on the mainland and Siberian roe deer (Capreolus pygargus) on Jeju Island. All 405 specimens were examined morphologically, and 186 were analyzed using cytochrome oxidase subunit 1 (COX1) sequencing for molecular confirmation and population-genetic analysis. Selected viral, bacterial, and protozoan microorganisms were screened using pooled qPCR/qRT-PCR or conventional PCR, followed by individual conventional PCR and Sanger sequencing for confirmation. Host-level clustering was evaluated using binomial generalized linear mixed models when sufficient confirmed detections were available. All 405 deer keds were identified morphologically as Lipoptena fortisetosa, and all 186 COX1-sequenced specimens were molecularly consistent with this identification. The 617-bp COX1 dataset comprised 29 haplotypes (Hd&#x202f;=&#x202f;0.681&#x202f;&#xb1;&#x202f;0.038; &#x3c0;&#x202f;=&#x202f;0.01262&#x202f;&#xb1;&#x202f;0.00101). AMOVA showed significant mitochondrial differentiation between Jeju Island and mainland samples (&#x3a6;ST&#x202f;=&#x202f;0.615, P&#x202f;<&#x202f;0.001), although host species and geography were completely confounded. Sequence-confirmed microorganisms included Bartonella spp. in 94/405 deer keds (23.21%), Theileria spp. in 40/405 (9.88%), Coxiella-like organisms in 4/405 (0.99%), and Anaplasma capra in 2/405 (0.49%). No sequence-confirmed Babesia spp., Ehrlichia spp., Borrelia spp., Hepatozoon spp., or SFTSV were obtained. Bartonella detection showed very strong host-level clustering and a marked Jeju-mainland contrast, whereas Theileria detection did not differ significantly between regions after accounting for host clustering. Lipoptena fortisetosa was widely associated with the cervids examined across the ROK and showed substantial mitochondrial genetic structure between the sampled Jeju and mainland groups. Bartonella spp. were the most frequently sequence-confirmed microorganisms, followed by Theileria spp. Molecular detection alone does not establish vector competence, and the geographic and host-species effects in the present sampling design cannot be separated. Standardized longitudinal sampling and host-vector-microorganism interaction studies are required to clarify transmission ecology and population structure.",
-      "authors": [
-        "Jeong JU",
-        "Kim JM",
-        "Kang HE"
-      ],
-      "journal": "International journal for parasitology. Parasites and wildlife",
-      "publicationDate": "Dec 15, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42920978/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-02T13:57:53.105Z"
+      "fetchedAt": "2026-11-03T13:05:42.346Z"
     },
     {
       "pmid": "42922405",
@@ -69,7 +46,53 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:52.483Z"
+      "fetchedAt": "2026-11-03T13:05:50.102Z"
+    },
+    {
+      "pmid": "42969672",
+      "title": "Untitled",
+      "abstract": "Following a tick bite, Borrelia burgdorferi spirochetes replicate in human skin and disseminate through tissues, including subcutaneous adipose tissue. Adipose is a complex organ containing both immune and non-immune cells that play a significant role in the immune response, yet little is known about adipose-specific immune signaling after B. burgdorferi infection. We investigated the landscape of immune signaling within adipose tissue-resident cells during B. burgdorferi infection in human tissue (skin and adipose tissue) ex vivo. Single-cell sequencing pathway analysis revealed upregulation of inflammatory pathways in skin, yet overall downregulation of immune pathways in adipose tissue cells during B. burgdorferi infection. Adipose-resident myeloid cells and adipose stem/progenitor cells (ASPCs) displayed an inflammatory profile characterized by the increased expression of IL-1&#x3b2;, TNF, and NFKB1. CellChat, a cellular communication comparative analysis, showed increased cell-to-cell communication across adipose-resident cell populations. ASPCs demonstrated the strongest outgoing signals, positioning them as key hubs of intercellular communication in adipose tissue. Interestingly, we observed adipose-specific downregulation of serum amyloid A (SAA), an inflammatory serum marker known to have antimicrobial properties and typically elevated in Lyme disease patients during acute infection. Therefore, we further evaluated the interaction between SAA and B. burgdorferi. Here, we show that human recombinant SAA protein directly binds B. burgdorferi spirochetes, reduces spirochete viability in a dose-dependent manner in vitro, and enhances phagocytosis. Taken together, these findings show that adipose tissue is a site of active immune signaling in the setting of infection and identify SAA as a host defense factor against B. burgdorferi.IMPORTANCEBorrelia burgdorferi is the bacterium that is transmitted by ticks and causes Lyme disease. These bacteria replicate in the skin to cause the localized skin rash erythema migrans, then disseminate to cause symptoms in other organs, including the joints and heart. Adipose tissue, or fat, is adjacent to skin, joints, and heart-all target organs of infection. In this study, we set out to understand how adipose tissue/fat plays a role in Lyme disease. We discovered that B. burgdorferi infection leads to an immune response in adipose tissue cells with specific downregulation of a gene called serum amyloid A (SAA). Our work shows that B. burgdorferi bacteria bind serum amyloid A (SAA), leading to decreased viability in vitro and enhanced uptake of B. burgdorferi by white blood cells. These findings highlight the dynamic role our fat can play during B. burgdorferi infection and can lead to the identification of new treatments for Lyme disease.",
+      "authors": [
+        "Esterly AT",
+        "Du S",
+        "Lee B"
+      ],
+      "journal": "mBio",
+      "publicationDate": "Nov 02, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42969672/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-03T13:05:30.338Z"
+    },
+    {
+      "pmid": "42969439",
+      "title": "Babesia blood donor screening: A tool for safety and surveillance.",
+      "abstract": "Babesia is a transfusion-transmissible, tick-borne parasite endemic in the northeastern and upper midwestern US. Since 2020, nucleic acid test screening of blood donations has been implemented in endemic areas to reduce transfusion-transmitted babesiosis. American Red Cross blood donations collected between May 2020 and April 2026 in 13 endemic states and Washington, DC, were screened using the FDA-licensed Procleix Babesia transcription-mediated amplification assay. Reactive donations were analyzed by season, geography, donor characteristics, and state-level reactivity rates. Incidence estimates were evaluated using rolling 2-year periods. About 10 million donations were screened, of which 2505 were Babesia-reactive. Overall donor reactivity increased significantly from 0.02% during 2020-2021 to 0.03% during 2021-2026 (p&#x2009;<&#x2009;.001). Significant increases were observed in Maine, New York, and Pennsylvania, and no state demonstrated a significant decline. Donation reactivity exhibited a consistent seasonal pattern, while geographic analyses showed expansion of donor reactivity across the northeastern US, particularly along the eastern seaboard. Incidence increased from 63.2 to 71.0 per 100,000 person-years across the study period, with sustained increases in several states. Among 1638 reinstated donors, 59% returned to donate and 2% tested reactive again, suggesting persistent infection or reinfection. Six years of routine Babesia screening have effectively protected the blood supply while providing valuable surveillance for asymptomatic infection. Rising donor reactivity, expanding geographic distribution, and evidence of persistent or recurrent infection indicate an increasing risk of babesiosis in the United States and support continued screening and surveillance.",
+      "authors": [
+        "Tonnetti L",
+        "Groves J",
+        "Crawford E"
+      ],
+      "journal": "Transfusion",
+      "publicationDate": "Nov 02, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42969439/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-03T13:05:44.498Z"
     },
     {
       "pmid": "42960394",
@@ -91,7 +114,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:34.161Z"
+      "fetchedAt": "2026-11-03T13:05:32.083Z"
     },
     {
       "pmid": "42967188",
@@ -114,7 +137,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:33.028Z"
+      "fetchedAt": "2026-11-03T13:05:30.965Z"
     },
     {
       "pmid": "42963069",
@@ -137,7 +160,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:33.528Z"
+      "fetchedAt": "2026-11-03T13:05:31.465Z"
     },
     {
       "pmid": "42966012",
@@ -160,7 +183,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:40.719Z"
+      "fetchedAt": "2026-11-03T13:05:37.956Z"
     },
     {
       "pmid": "42966012",
@@ -183,7 +206,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:47.506Z"
+      "fetchedAt": "2026-11-03T13:05:45.116Z"
     },
     {
       "pmid": "42935780",
@@ -206,7 +229,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:36.635Z"
+      "fetchedAt": "2026-11-03T13:05:34.592Z"
     },
     {
       "pmid": "42932384",
@@ -229,7 +252,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:37.850Z"
+      "fetchedAt": "2026-11-03T13:05:35.851Z"
     },
     {
       "pmid": "42966018",
@@ -252,7 +275,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:40.090Z"
+      "fetchedAt": "2026-11-03T13:05:37.335Z"
     },
     {
       "pmid": "42961242",
@@ -275,7 +298,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:41.336Z"
+      "fetchedAt": "2026-11-03T13:05:38.578Z"
     },
     {
       "pmid": "42934956",
@@ -298,7 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:43.819Z"
+      "fetchedAt": "2026-11-03T13:05:41.089Z"
     },
     {
       "pmid": "42936128",
@@ -321,7 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:50.002Z"
+      "fetchedAt": "2026-11-03T13:05:47.619Z"
     },
     {
       "pmid": "42932013",
@@ -344,7 +367,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:50.624Z"
+      "fetchedAt": "2026-11-03T13:05:48.239Z"
     },
     {
       "pmid": "42927829",
@@ -367,7 +390,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:44.434Z"
+      "fetchedAt": "2026-11-03T13:05:41.724Z"
     },
     {
       "pmid": "42927829",
@@ -390,30 +413,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:51.869Z"
-    },
-    {
-      "pmid": "42920256",
-      "title": "A Case Report of Lyme Carditis Presenting as New-Onset Atrial Flutter in the Emergency Department.",
-      "abstract": "Lyme disease (LD) is the most common vector-borne disease in the United States and has several well-known pathologic sequelae if not treated, including third-degree atrioventricular block. However, an association between Lyme carditis and atrial arrhythmias has been described in some cardiology literature but has not been reported in emergency medicine or wilderness medicine literature. This case report describes an older adult with new-onset atrial flutter with rapid ventricular rate in the setting of early disseminated LD, who ultimately was treated with antibiotics, had resolution of atrial flutter, and has had no recurrence. As cardiac inflammation secondary to organ infection may manifest as multiple forms of arrhythmia, this case report highlights the importance of considering LD as a differential diagnosis when treating tick-exposed patients with new cardiac arrhythmias, including atrial flutter.",
-      "authors": [
-        "Hemsworth A",
-        "Cyndari KI",
-        "Van Heukelom P"
-      ],
-      "journal": "Wilderness & environmental medicine",
-      "publicationDate": "Oct 23, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42920256/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-02T13:57:38.480Z"
+      "fetchedAt": "2026-11-03T13:05:49.477Z"
     },
     {
       "pmid": "42943578",
@@ -435,7 +435,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:35.390Z"
+      "fetchedAt": "2026-11-03T13:05:33.331Z"
     },
     {
       "pmid": "42948493",
@@ -457,7 +457,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:41.950Z"
+      "fetchedAt": "2026-11-03T13:05:39.205Z"
     },
     {
       "pmid": "42936271",
@@ -480,7 +480,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:43.198Z"
+      "fetchedAt": "2026-11-03T13:05:40.474Z"
     },
     {
       "pmid": "42904107",
@@ -503,7 +503,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:45.679Z"
+      "fetchedAt": "2026-11-03T13:05:42.955Z"
     },
     {
       "pmid": "42940937",
@@ -526,7 +526,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:42.569Z"
+      "fetchedAt": "2026-11-03T13:05:39.826Z"
     },
     {
       "pmid": "42939695",
@@ -549,7 +549,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:36.010Z"
+      "fetchedAt": "2026-11-03T13:05:33.946Z"
     },
     {
       "pmid": "42944131",
@@ -572,7 +572,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:48.763Z"
+      "fetchedAt": "2026-11-03T13:05:46.366Z"
     },
     {
       "pmid": "42957733",
@@ -595,7 +595,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:48.131Z"
+      "fetchedAt": "2026-11-03T13:05:45.743Z"
     },
     {
       "pmid": "42944124",
@@ -618,7 +618,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:49.375Z"
+      "fetchedAt": "2026-11-03T13:05:46.988Z"
     },
     {
       "pmid": "42934219",
@@ -641,7 +641,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:37.240Z"
+      "fetchedAt": "2026-11-03T13:05:35.215Z"
     },
     {
       "pmid": "42931168",
@@ -664,7 +664,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:51.243Z"
+      "fetchedAt": "2026-11-03T13:05:48.856Z"
     },
     {
       "pmid": "42950337",
@@ -687,7 +687,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-02T13:57:34.775Z"
+      "fetchedAt": "2026-11-03T13:05:32.712Z"
     }
   ]
 }
