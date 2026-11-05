@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:22:24.089Z",
+  "generatedAt": "2026-11-05T13:35:47.731Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,21 +23,44 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:15.725Z"
+      "fetchedAt": "2026-11-05T13:35:39.815Z"
     },
     {
-      "pmid": "42922405",
-      "title": "Computational Optimisation of EtAMA1 Reveals Its Potential as a Vaccine Candidate Against Eimeria tenella.",
-      "abstract": "Eimeria tenella is among the most pathogenic chicken-infecting Eimeria species; hence, coccidiosis remains one of the most economically damaging diseases in the poultry industry globally due to poor growth performance, reduced feed efficiency, intestinal pathology, and increased mortality. Conventional control measures, including chemotherapeutic drugs and live-attenuated vaccines, are increasingly limited due to drug resistance, residue concerns, safety concerns, and high production costs, prompting interest in alternative strategies such as apical membrane antigen-1 (AMA1), a conserved and highly immunogenic microneme protein essential for host-cell invasion. Previous studies in Plasmodium, Toxoplasma, and Babesia have demonstrated the successful use of AMA1 in recombinant and immunoinformatic-designed vaccines, underscoring its potential as a cross-species subunit vaccine candidate. This study explored Eimeria tenella AMA1 (EtAMA1) with the aim of investigating the physicochemical and structural properties, identifying antigenic T-cell and B-cell epitopes using immunoinformatic tools and evaluating the effectiveness of EtAMA1 in inducing an immune response within the host. The structural analysis revealed a z-score of -6.86 and a Ramachandran plot of 97.19%. EtAMA1 contained three CD8+, seven CD4+ T-cell epitopes, one linear, and eight discontinuous B-cell epitopes. The ability of EtAMA1 to elicit an immune response was assessed via an in silico immune simulation. The binding interaction energy generated via molecular docking and dynamics simulations indicated a strong binding interaction of EtAMA1 to Toll-like receptor 5. The results indicate that EtAMA1 is a strong vaccine candidate; however, experimental validation is required.",
+      "pmid": "42980158",
+      "title": "Untitled",
+      "abstract": "Lyme disease is a tick-borne disease primarily caused by the bacterium Borrelia burgdorferi (Bb). Following a tick bite, Bb is injected into the dermis and colonizes the local tissue, where it can spread to distant organs through the vascular system. Although dissemination is a crucial factor in disease progression, our understanding of the mechanisms and factors that affect Bb dissemination through circulation is incomplete. To assess the role of wall shear stress (WSS) on Bb adhesion and extravasation, we perfused a 3D tissue-engineered microvessel with fluorescently labeled Bb at different wall shear stresses. The rate of Bb adhesion and extravasation from the microvessel was strongly dependent on WSS. Bb adhered to the endothelium in an elongated morphology and occasionally exhibited \"flipping\" events with one end of the Bb anchored and the other end detaching and reattaching downstream. Finally, circulating Bb did not induce endothelial activation following 6 h of perfusion, although increased microvessel permeability at low WSS was correlated with increased Bb adhesion events. Our results provide a new approach to investigating Bb dissemination and offers new insights into the mechanisms of Bb extravasation.IMPORTANCEFollowing a tick bite, Borrelia burgdorferi (Bb), the causative agent for Lyme disease, can disseminate to distant organs through the vascular system. Here, we utilize a 3D tissue-engineered microvessel model to gain insight into how wall shear stress (WSS) impacts Bb extravasation and Bb migration behavior across endothelial cells. During perfusion, Bb transiently adhered to the endothelium prior to detaching or extravasating into the surrounding extracellular matrix. The number of adhesion events was strongly dependent on WSS, and extravasation events were only observed at the lowest WSS. Adherent Bb were usually elongated and aligned in the direction of flow, and did not exhibit the helical morphology associated with migration under static conditions or in the extracellular matrix. Adherent Bb exhibited \"flipping\" events in which the back (upstream) end of the Bb detached and subsequently reattached downstream, becoming the front end while the other end remained anchored to the endothelium.",
       "authors": [
-        "Rafeer NM",
-        "Adeleke VT",
-        "Adeleke MA"
+        "Xia Z",
+        "Wang L",
+        "Chung C"
       ],
-      "journal": "Veterinary medicine and science",
-      "publicationDate": "Nov 16, 2026",
+      "journal": "Microbiology spectrum",
+      "publicationDate": "Nov 04, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42922405/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42980158/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-05T13:35:27.640Z"
+    },
+    {
+      "pmid": "42981383",
+      "title": "Iron sourcing strategies and adaptive protein responses to iron deprivation in the intraerythrocytic parasite Babesia divergens.",
+      "abstract": "Iron is indispensable for the survival and pathogenicity of Babesia parasites, yet the mechanisms underlying its acquisition remain largely unresolved. In contrast to other apicomplexan parasites, tick-borne Babesia species rapidly lose the parasitophorous vacuole following erythrocyte invasion and do not form hemozoin, suggesting the evolution of distinct strategies for iron metabolism. Here, we demonstrate that Babesia divergens utilizes a sequential, multi-route iron acquisition system to meet its metabolic demands within host erythrocytes. Kinetic uptake analyses reveal a pronounced preference for ferrous iron (Fe2+), which is imported through an active, energy-dependent process supported by extracellular ferric reductase activity that converts host-derived ferric iron (Fe3+) into a bioavailable form prior to uptake. Using immunogold transmission electron microscopy, we provide evidence for the active internalization of host transferrin and show that parasite proliferation is dose-dependently inhibited by apo-transferrin, establishing iron as a limiting factor for parasite growth. Quantitative proteomic profiling revealed a limited, stage-specific response to deferoxamine-induced iron deprivation. Three proteins showed statistically significant changes in abundance in free merozoites: the conserved multipass membrane protein Bdiv_019230 increased, whereas the hypothetical protein Bdiv_002300 and the putative serine hydroxymethyltransferase Bdiv_027330 decreased. No proteins reached the statistical significance threshold in intraerythrocytic parasites. These results identify a small set of statistically supported candidates for investigating the response of extracellular B. divergens merozoites to iron-restricted conditions.",
+      "authors": [
+        "Levytska V",
+        "Mach J",
+        "Robbertse L"
+      ],
+      "journal": "PLoS neglected tropical diseases",
+      "publicationDate": "Nov 04, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42981383/",
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
@@ -46,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:23.087Z"
+      "fetchedAt": "2026-11-05T13:35:41.372Z"
     },
     {
       "pmid": "42969672",
@@ -69,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:02.172Z"
+      "fetchedAt": "2026-11-05T13:35:28.238Z"
     },
     {
       "pmid": "42969439",
@@ -92,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:17.383Z"
+      "fetchedAt": "2026-11-05T13:35:41.967Z"
     },
     {
       "pmid": "42960394",
@@ -114,7 +137,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:03.952Z"
+      "fetchedAt": "2026-11-05T13:35:29.944Z"
     },
     {
       "pmid": "42967188",
@@ -137,7 +160,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:02.805Z"
+      "fetchedAt": "2026-11-05T13:35:28.834Z"
     },
     {
       "pmid": "42963069",
@@ -160,7 +183,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:03.306Z"
+      "fetchedAt": "2026-11-05T13:35:29.335Z"
     },
     {
       "pmid": "42966012",
@@ -183,7 +206,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:10.868Z"
+      "fetchedAt": "2026-11-05T13:35:35.660Z"
     },
     {
       "pmid": "42966012",
@@ -206,7 +229,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:18.011Z"
+      "fetchedAt": "2026-11-05T13:35:42.566Z"
     },
     {
       "pmid": "42935780",
@@ -229,7 +252,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:06.502Z"
+      "fetchedAt": "2026-11-05T13:35:32.319Z"
     },
     {
       "pmid": "42966018",
@@ -252,7 +275,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:10.240Z"
+      "fetchedAt": "2026-11-05T13:35:35.062Z"
     },
     {
       "pmid": "42961242",
@@ -275,7 +298,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:11.644Z"
+      "fetchedAt": "2026-11-05T13:35:36.253Z"
     },
     {
       "pmid": "42934956",
@@ -298,7 +321,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:14.457Z"
+      "fetchedAt": "2026-11-05T13:35:38.634Z"
     },
     {
       "pmid": "42936128",
@@ -321,7 +344,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:20.549Z"
+      "fetchedAt": "2026-11-05T13:35:44.948Z"
     },
     {
       "pmid": "42932013",
@@ -344,7 +367,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:21.186Z"
+      "fetchedAt": "2026-11-05T13:35:45.542Z"
     },
     {
       "pmid": "42927829",
@@ -367,7 +390,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:15.083Z"
+      "fetchedAt": "2026-11-05T13:35:39.225Z"
     },
     {
       "pmid": "42927829",
@@ -390,7 +413,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:22.460Z"
+      "fetchedAt": "2026-11-05T13:35:46.730Z"
     },
     {
       "pmid": "42978018",
@@ -413,7 +436,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:09.580Z"
+      "fetchedAt": "2026-11-05T13:35:34.470Z"
     },
     {
       "pmid": "42943578",
@@ -435,7 +458,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:05.241Z"
+      "fetchedAt": "2026-11-05T13:35:31.129Z"
     },
     {
       "pmid": "42948493",
@@ -457,7 +480,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:12.280Z"
+      "fetchedAt": "2026-11-05T13:35:36.845Z"
     },
     {
       "pmid": "42936271",
@@ -480,7 +503,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:13.569Z"
+      "fetchedAt": "2026-11-05T13:35:38.044Z"
     },
     {
       "pmid": "42940937",
@@ -503,7 +526,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:12.942Z"
+      "fetchedAt": "2026-11-05T13:35:37.453Z"
     },
     {
       "pmid": "42939695",
@@ -526,7 +549,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:05.870Z"
+      "fetchedAt": "2026-11-05T13:35:31.718Z"
     },
     {
       "pmid": "42944131",
@@ -549,7 +572,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:19.272Z"
+      "fetchedAt": "2026-11-05T13:35:43.752Z"
     },
     {
       "pmid": "42957733",
@@ -572,7 +595,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:18.636Z"
+      "fetchedAt": "2026-11-05T13:35:43.163Z"
     },
     {
       "pmid": "42944124",
@@ -595,7 +618,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:19.906Z"
+      "fetchedAt": "2026-11-05T13:35:44.344Z"
     },
     {
       "pmid": "42934219",
@@ -618,7 +641,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:07.136Z"
+      "fetchedAt": "2026-11-05T13:35:32.913Z"
     },
     {
       "pmid": "42931168",
@@ -641,7 +664,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:21.824Z"
+      "fetchedAt": "2026-11-05T13:35:46.142Z"
     },
     {
       "pmid": "42950337",
@@ -664,30 +687,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-04T13:22:04.586Z"
-    },
-    {
-      "pmid": "42975670",
-      "title": "Signal peptide substitution improves immunoreactivity of Borrelia burgdorferi protein on E. coli-derived vesicles.",
-      "abstract": "Bacterial infections account for millions of deaths every year, with many lacking preventative options. Bacterial lipoproteins are strong targets for vaccines, but are often expressed in a truncated form that may not properly recapitulate native epitopes, resulting in a reduced, or even ineffective, immune response. Borrelia burgdorferi, the causative agent of Lyme disease, contains numerous surface expressed lipoproteins, including outer surface protein C (OspC). OspC has been explored as a vaccine target in its recombinant form, but has resulted in a wide variation in immune response. This may be due to structural dissimilarity between the recombinant protein and the native protein expressed on the bacterium, as OspC is hypothesized to present itself in the form of a dimer containing non-linear epitopes. Presentation of OspC in a lipid membrane, such as on an outer membrane vesicle (OMV), may improve quaternary epitope presentation across dimers and better mimic the native protein. Here, we explored expression of two proteins on E. coli-derived OMVs: OspC derived from B. burgdorferi sensu lato, and a fusion protein replacing the OspC leader sequence with Braun's lipoprotein leader sequence (Lpp). Analysis shows that replacing the OspC leader sequence with Lpp improves surface expression and immunoreactivity of the OspC protein on E. coli-derived OMVs exposed to recombinant anti-OspC antibodies derived from B5 and B11, as well as to B. burgdorferi-positive human sera. This strong antibody reactivity indicates that the OMV structure may aid in recapitulating the quaternary epitopes of OspC and provide a strategy for future development of Lyme disease vaccines. KEY POINTS: &#x2022; E. coli-derived OMVs expressed OspC when the native leader sequence was replaced with Lpp &#x2022; Lpp-OspC on OMV surfaces has conserved epitopes that react to B5- and B11-derived antibodies &#x2022; Lyme-positive serum recognizes Lpp-OspC OMVs with minimal cross-reactivity.",
-      "authors": [
-        "Krimer D",
-        "Taubner B",
-        "Squissato J"
-      ],
-      "journal": "Applied microbiology and biotechnology",
-      "publicationDate": "Aug 06, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42975670/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-04T13:22:01.533Z"
+      "fetchedAt": "2026-11-05T13:35:30.531Z"
     }
   ]
 }
