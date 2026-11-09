@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:17:53.854Z",
+  "generatedAt": "2026-11-09T14:30:05.311Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,30 +23,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:34.900Z"
+      "fetchedAt": "2026-11-09T14:29:47.947Z"
     },
     {
-      "pmid": "42985196",
+      "pmid": "42999876",
       "title": "Untitled",
-      "abstract": "Tick-borne pathogens are emerging across Southeast Asia, but their diversity and ecological drivers in Malaysia remain poorly understood. We screened 539 ixodid ticks collected from natural forests, marginal habitats, and oil palm plantations in Peninsular Malaysia for Rickettsia spp., Borrelia spp., and Orientia tsutsugamushi using PCR and phylogenetic analyses. Overall, 10.61% (7/66) of tick pools tested positive for bacterial pathogens. Rickettsia was detected in 4.55% (3/66) of pools from Dermacentor auratus and Amblyomma cordiferum, whereas Borrelia was detected in 6.06% (4/66) of pools from A. cordiferum, Haemaphysalis hystricis, and Ixodes granulatus. Orientia tsutsugamushi was not detected. Phylogenetic analyses placed the detected Rickettsia within ancestral and spotted fever groups and the detected Borrelia within Lyme disease and relapsing fever clades. Positive detections suggested habitat-specific patterns, with Borrelia identified only in forest-derived tick pools, Rickettsia detected in both forest and marginal habitats, and none of the targeted pathogens detected in plantation-derived pools. This study provides comparative molecular evidence of zoonotic tick-borne bacteria across contrasting landscapes in Peninsular Malaysia, establishing a baseline for future surveillance and underscoring the need to investigate how land-use change may influence pathogen transmission at the human-wildlife interface.",
+      "abstract": "Bats and their ectoparasites form complex host-vector systems capable of maintaining diverse bacterial pathogens, yet these interactions remain poorly characterized in the Caucasus. We conducted the first high-throughput molecular survey of bacterial and protozoan pathogens in bat ectoparasites in Armenia. A total of 450 ectoparasites (mites and ticks) collected from 72 bats were pooled into 189 samples and screened using microfluidic real-time PCR targeting 43 bacterial and protozoan pathogens. The ectoparasite community was dominated by Spinturnix myoti and S. psi, which showed structured but overlapping associations with Myotis blythii and Miniopterus pallidus. Bartonella DNA was detected in 34.4% of pools, whereas Rickettsia spp. was rare (1.1%). At the bat level, 62.5% of individuals carried Bartonella-positive ectoparasites. Bartonella detection frequency in pools varied significantly among ectoparasite taxa, with Spinturnix mites showing approximately higher odds of Bartonella DNA detection than Macronyssus granulosus. Life stage was a strong predictor of DNA detection, with adult mites far more frequently positive than immature stages. Host species, region, and sex did not significantly influence pool positivity. These findings highlight the potentially relevant association of spinturnicid mites in Bartonella circulation within Armenian bat colonies requiring further study and provide essential baseline data for understanding the ecology of vector-borne bacteria in the Transcaucasia.",
       "authors": [
-        "Taufik AS",
-        "Husin NA",
-        "AbdulHalim AA"
+        "Grigoryan GG",
+        "Ghazaryan A",
+        "Shcherbakov O"
       ],
-      "journal": "International journal for parasitology. Parasites and wildlife",
-      "publicationDate": "Dec 22, 2026",
+      "journal": "One health (Amsterdam, Netherlands)",
+      "publicationDate": "Dec 27, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42985196/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42999876/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:36.783Z"
+      "fetchedAt": "2026-11-09T14:29:50.900Z"
     },
     {
       "pmid": "42991458",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:39.726Z"
+      "fetchedAt": "2026-11-09T14:29:51.533Z"
     },
     {
       "pmid": "42997769",
@@ -92,7 +92,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:32.400Z"
+      "fetchedAt": "2026-11-09T14:29:45.415Z"
     },
     {
       "pmid": "42997614",
@@ -115,7 +115,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:33.027Z"
+      "fetchedAt": "2026-11-09T14:29:46.040Z"
     },
     {
       "pmid": "42995416",
@@ -138,7 +138,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:33.657Z"
+      "fetchedAt": "2026-11-09T14:29:46.669Z"
     },
     {
       "pmid": "42994791",
@@ -161,7 +161,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:34.276Z"
+      "fetchedAt": "2026-11-09T14:29:47.315Z"
     },
     {
       "pmid": "42986002",
@@ -184,30 +184,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:36.149Z"
-    },
-    {
-      "pmid": "42980158",
-      "title": "Untitled",
-      "abstract": "Lyme disease is a tick-borne disease primarily caused by the bacterium Borrelia burgdorferi (Bb). Following a tick bite, Bb is injected into the dermis and colonizes the local tissue, where it can spread to distant organs through the vascular system. Although dissemination is a crucial factor in disease progression, our understanding of the mechanisms and factors that affect Bb dissemination through circulation is incomplete. To assess the role of wall shear stress (WSS) on Bb adhesion and extravasation, we perfused a 3D tissue-engineered microvessel with fluorescently labeled Bb at different wall shear stresses. The rate of Bb adhesion and extravasation from the microvessel was strongly dependent on WSS. Bb adhered to the endothelium in an elongated morphology and occasionally exhibited \"flipping\" events with one end of the Bb anchored and the other end detaching and reattaching downstream. Finally, circulating Bb did not induce endothelial activation following 6 h of perfusion, although increased microvessel permeability at low WSS was correlated with increased Bb adhesion events. Our results provide a new approach to investigating Bb dissemination and offers new insights into the mechanisms of Bb extravasation.IMPORTANCEFollowing a tick bite, Borrelia burgdorferi (Bb), the causative agent for Lyme disease, can disseminate to distant organs through the vascular system. Here, we utilize a 3D tissue-engineered microvessel model to gain insight into how wall shear stress (WSS) impacts Bb extravasation and Bb migration behavior across endothelial cells. During perfusion, Bb transiently adhered to the endothelium prior to detaching or extravasating into the surrounding extracellular matrix. The number of adhesion events was strongly dependent on WSS, and extravasation events were only observed at the lowest WSS. Adherent Bb were usually elongated and aligned in the direction of flow, and did not exhibit the helical morphology associated with migration under static conditions or in the extracellular matrix. Adherent Bb exhibited \"flipping\" events in which the back (upstream) end of the Bb detached and subsequently reattached downstream, becoming the front end while the other end remained anchored to the endothelium.",
-      "authors": [
-        "Xia Z",
-        "Wang L",
-        "Chung C"
-      ],
-      "journal": "Microbiology spectrum",
-      "publicationDate": "Nov 04, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42980158/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-08T12:17:37.411Z"
+      "fetchedAt": "2026-11-09T14:29:49.201Z"
     },
     {
       "pmid": "42981383",
@@ -230,30 +207,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:47.784Z"
-    },
-    {
-      "pmid": "42969672",
-      "title": "Untitled",
-      "abstract": "Following a tick bite, Borrelia burgdorferi spirochetes replicate in human skin and disseminate through tissues, including subcutaneous adipose tissue. Adipose is a complex organ containing both immune and non-immune cells that play a significant role in the immune response, yet little is known about adipose-specific immune signaling after B. burgdorferi infection. We investigated the landscape of immune signaling within adipose tissue-resident cells during B. burgdorferi infection in human tissue (skin and adipose tissue) ex vivo. Single-cell sequencing pathway analysis revealed upregulation of inflammatory pathways in skin, yet overall downregulation of immune pathways in adipose tissue cells during B. burgdorferi infection. Adipose-resident myeloid cells and adipose stem/progenitor cells (ASPCs) displayed an inflammatory profile characterized by the increased expression of IL-1&#x3b2;, TNF, and NFKB1. CellChat, a cellular communication comparative analysis, showed increased cell-to-cell communication across adipose-resident cell populations. ASPCs demonstrated the strongest outgoing signals, positioning them as key hubs of intercellular communication in adipose tissue. Interestingly, we observed adipose-specific downregulation of serum amyloid A (SAA), an inflammatory serum marker known to have antimicrobial properties and typically elevated in Lyme disease patients during acute infection. Therefore, we further evaluated the interaction between SAA and B. burgdorferi. Here, we show that human recombinant SAA protein directly binds B. burgdorferi spirochetes, reduces spirochete viability in a dose-dependent manner in vitro, and enhances phagocytosis. Taken together, these findings show that adipose tissue is a site of active immune signaling in the setting of infection and identify SAA as a host defense factor against B. burgdorferi.IMPORTANCEBorrelia burgdorferi is the bacterium that is transmitted by ticks and causes Lyme disease. These bacteria replicate in the skin to cause the localized skin rash erythema migrans, then disseminate to cause symptoms in other organs, including the joints and heart. Adipose tissue, or fat, is adjacent to skin, joints, and heart-all target organs of infection. In this study, we set out to understand how adipose tissue/fat plays a role in Lyme disease. We discovered that B. burgdorferi infection leads to an immune response in adipose tissue cells with specific downregulation of a gene called serum amyloid A (SAA). Our work shows that B. burgdorferi bacteria bind serum amyloid A (SAA), leading to decreased viability in vitro and enhanced uptake of B. burgdorferi by white blood cells. These findings highlight the dynamic role our fat can play during B. burgdorferi infection and can lead to the identification of new treatments for Lyme disease.",
-      "authors": [
-        "Esterly AT",
-        "Du S",
-        "Lee B"
-      ],
-      "journal": "mBio",
-      "publicationDate": "Nov 02, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42969672/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-08T12:17:38.033Z"
+      "fetchedAt": "2026-11-09T14:29:59.144Z"
     },
     {
       "pmid": "42987484",
@@ -276,7 +230,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:40.356Z"
+      "fetchedAt": "2026-11-09T14:29:52.185Z"
     },
     {
       "pmid": "42987484",
@@ -299,7 +253,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:47.154Z"
+      "fetchedAt": "2026-11-09T14:29:58.497Z"
     },
     {
       "pmid": "42969439",
@@ -322,7 +276,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:48.441Z"
+      "fetchedAt": "2026-11-09T14:29:59.796Z"
     },
     {
       "pmid": "42966012",
@@ -345,7 +299,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:42.234Z"
+      "fetchedAt": "2026-11-09T14:29:54.099Z"
     },
     {
       "pmid": "42966012",
@@ -368,7 +322,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:49.071Z"
+      "fetchedAt": "2026-11-09T14:30:00.419Z"
     },
     {
       "pmid": "42990379",
@@ -391,7 +345,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:35.528Z"
+      "fetchedAt": "2026-11-09T14:29:48.576Z"
     },
     {
       "pmid": "42966018",
@@ -414,7 +368,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:41.607Z"
+      "fetchedAt": "2026-11-09T14:29:53.469Z"
     },
     {
       "pmid": "42961242",
@@ -437,30 +391,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:42.857Z"
-    },
-    {
-      "pmid": "42934956",
-      "title": "Molecular Screening of Arthropod-Borne Pathogens in Domestic Cats from Northeast of Mexico: First Report of Infection and Coinfection in the Country.",
-      "abstract": "Cat-associated pathogens transmitted by arthropods are of global public and veterinary health importance. Cats, as well as dogs, have historically coexisted with humans in rural and urban environments. However, studies on microorganisms associated with cats are much less extensive than those on dogs. Therefore, the present study aims to document natural infections of Anaplasma, Bartonella, Ehrlichia, and Rickettsia in cats (Felis catus) using PCR in northeastern Mexico. Blood samples were collected from cats with the support of the Canine and Feline Control Centers and veterinary clinics. Specific pathogens were amplified by PCR, and some positive samples were sequenced. A total of 250 cats were obtained from three municipalities in Nuevo Leon, Mexico. Specific PCR testing showed that 33.6% (84/250) cats tested positive for at least one of the pathogens. The overall natural pathogen infection rates were Ehrlichia with 20.8% (52/250), followed by Anaplasma with 8% (20/250), Bartonella with 3.2% (8/250), and Rickettsia with 1.6% (4/250). Phylogenetic analysis placed the Bartonella sequence within a well-supported B. quintana clade. The partial 16S rRNA sequence obtained from Ehrlichia was conservatively classified as Ehrlichia sp. closely related to E. chaffeensis. These findings document exposure or infection of cats with multiple arthropod-borne bacteria and support continued molecular surveillance using additional discriminatory loci.",
-      "authors": [
-        "Hern&#xe1;ndez-Escare&#xf1;o JJ",
-        "Rodr&#xed;guez-Rojas JJ",
-        "Gal&#xe1;n-Huerta KA"
-      ],
-      "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
-      "publicationDate": "Oct 26, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42934956/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-08T12:17:45.385Z"
+      "fetchedAt": "2026-11-09T14:29:54.732Z"
     },
     {
       "pmid": "42936128",
@@ -483,7 +414,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:51.585Z"
+      "fetchedAt": "2026-11-09T14:30:03.016Z"
     },
     {
       "pmid": "42932013",
@@ -506,7 +437,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:52.216Z"
+      "fetchedAt": "2026-11-09T14:30:03.669Z"
     },
     {
       "pmid": "42978018",
@@ -529,7 +460,76 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:40.983Z"
+      "fetchedAt": "2026-11-09T14:29:52.829Z"
+    },
+    {
+      "pmid": "42999106",
+      "title": "Untitled",
+      "abstract": "The Lyme disease spirochete Borreliella burgdorferi possesses bipolar periplasmic flagella that are essential for its distinctive flat-wave morphology, motility, and infectivity. However, how the molecular architecture of these flagella contributes to spirochetal morphology and motility remains poorly understood. Here, using in situ single-particle cryo-electron microscopy, we determine near-atomic structures of native periplasmic flagellar filaments and reveal two distinct architectures: half-sheathed and unsheathed. We show that the spirochete-specific protein FlaA forms an asymmetric sheath along the convex surface of the conserved FlaB filament core, with sheath assembly restricted to the proximal filament region near the flagellar motor. Atomic models reveal that FlaA anchors to the FlaB core through specific interactions with two surface-exposed loops, while genetic and motility analyses demonstrate distinct roles for these loops in maintaining cell morphology and motility. Structural comparisons reveal that the FlaB core possesses intrinsic curvature and supercoiling, which are substantially amplified by asymmetric FlaA assembly. These findings support a model in which localized FlaA sheath assembly reinforces the proximal filament and potentially modulates its mechanical properties. Together, our results uncover a previously unrecognized mechanism by which asymmetric sheath assembly enhances flagellar supercoiling, providing a molecular basis for understanding the distinctive morphology and motility of spirochetes. The Lyme disease spirochete Borreliella burgdorferi relies on periplasmic flagella for its distinctive morphology and motility, but how filament architecture contributes to these properties remains unclear. Using in situ cryo-electron microscopy, we reveal that the spirochete-specific protein FlaA forms an asymmetric sheath around the FlaB filament core exclusively near the cell poles. FlaA anchors to flexible surface loops of FlaB through specific molecular interactions, while genetic analyses reveal distinct roles for these loops in maintaining cell morphology and motility. Asymmetric FlaA assembly amplifies the intrinsic supercoiling of the FlaB core, potentially modifying filament mechanics near the motor. These findings reveal how localized, asymmetric sheath assembly contributes to the distinctive morphology and motility of spirochetes.",
+      "authors": [
+        "Wang J",
+        "Zhang K",
+        "Guo W"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publicationDate": "Oct 16, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42999106/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-09T14:29:44.767Z"
+    },
+    {
+      "pmid": "42999270",
+      "title": "A molecular clutch governs stator engagement and flagellar torque.",
+      "abstract": "Motile bacteria must continuously adjust their motility to navigate and colonize diverse environments, including mammalian hosts, yet the underlying mechanisms remain poorly understood. Here, using in situ single-particle cryo-electron microscopy, we determine near-atomic structures of the flagellar motor in the Lyme disease spirochete Borrelia burgdorferi and uncover a novel mechanism for controlling torque generation. We identify a distinct neutral state in which individual torque-generating MotA 5 B 2 stator complexes remain incorporated in the motor but adopt an extended, tilted conformation disengaged from the rotor. Two conserved flagellar proteins, FliL and FlcA, form a transmembrane scaffold that retains 16 stator complexes, while FapA, a newly identified multidomain flagellar protein, binds the cytoplasmic base of the stator complex and stabilizes its rotor-disengaged conformation. Strikingly, rotor-engaged and rotor-disengaged stators coexist within individual motors, demonstrating that stator retention and torque engagement are separable states. Our findings establish a motor-retained neutral stator state and reveal a molecular-clutch mechanism that independently controls the engagement of individual stator units with the rotor, enabling rapid and precise regulation of flagellar torque and motility.",
+      "authors": [
+        "Guo W",
+        "Yue J",
+        "Zhang K"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publicationDate": "Oct 15, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42999270/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-09T14:29:43.461Z"
+    },
+    {
+      "pmid": "42999203",
+      "title": "Untitled",
+      "abstract": "Bacterial flagellar motors are diverse rotary machines that require robust mechanical coupling to transmit torque across components with distinct architectures, yet how such coupling is achieved remains poorly understood. Here, we determine near-atomic in situ structures of the periplasmic flagellar motor in the Lyme disease spirochete Borrelia burgdorferi , revealing how an expanded rotor is mechanically coupled to the conserved rod through symmetry breaking and local remodeling of the rotor-rod interface. Surprisingly, pentameric FrbA forms a split washer-shaped brace around the rotor-rod junction, providing a second layer of mechanical reinforcement. Deletion of frbA destabilizes distal flagellar structures and impairs motility, particularly under increased viscous load. FrbA homologues are broadly distributed across spirochetes, suggesting a conserved mechanism for reinforcing high-torque flagellar motors. Together, these findings reveal how symmetry breaking couples an expanded rotor to a conserved driveshaft, while a molecular split washer reinforces this interface to enable robust torque transmission and motility.",
+      "authors": [
+        "Yue J",
+        "Guo W",
+        "Rahman MK"
+      ],
+      "journal": "bioRxiv : the preprint server for biology",
+      "publicationDate": "Oct 15, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42999203/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-09T14:29:44.114Z"
     },
     {
       "pmid": "42948493",
@@ -551,7 +551,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:43.493Z"
+      "fetchedAt": "2026-11-09T14:29:55.375Z"
     },
     {
       "pmid": "42936271",
@@ -574,7 +574,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:44.758Z"
+      "fetchedAt": "2026-11-09T14:29:56.647Z"
     },
     {
       "pmid": "42940937",
@@ -597,7 +597,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:44.127Z"
+      "fetchedAt": "2026-11-09T14:29:56.011Z"
     },
     {
       "pmid": "42944131",
@@ -620,7 +620,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:50.330Z"
+      "fetchedAt": "2026-11-09T14:30:01.747Z"
     },
     {
       "pmid": "42957733",
@@ -643,7 +643,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:49.697Z"
+      "fetchedAt": "2026-11-09T14:30:01.089Z"
     },
     {
       "pmid": "42944124",
@@ -666,7 +666,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:50.963Z"
+      "fetchedAt": "2026-11-09T14:30:02.382Z"
     },
     {
       "pmid": "42931168",
@@ -689,7 +689,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-08T12:17:52.854Z"
+      "fetchedAt": "2026-11-09T14:30:04.311Z"
     }
   ]
 }
