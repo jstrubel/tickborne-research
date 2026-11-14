@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T13:30:21.442Z",
+  "generatedAt": "2026-11-14T12:36:18.373Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:09.285Z"
+      "fetchedAt": "2026-11-14T12:36:07.595Z"
     },
     {
       "pmid": "42991458",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:09.907Z"
+      "fetchedAt": "2026-11-14T12:36:08.223Z"
     },
     {
       "pmid": "42997769",
@@ -69,7 +69,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:03.805Z"
+      "fetchedAt": "2026-11-14T12:36:02.803Z"
     },
     {
       "pmid": "43011829",
@@ -92,21 +92,133 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:01.266Z"
+      "fetchedAt": "2026-11-14T12:36:00.159Z"
     },
     {
-      "pmid": "42997614",
-      "title": "A New Outlook on Infection-Associated Chronic Conditions and Illnesses.",
-      "abstract": "Infection-associated chronic conditions and illnesses (IACCI) encompass several debilitating syndromes with overlapping symptoms that have been identified and documented for decades, primarily following infectious disease outbreaks. Conditions following infection that are diagnosed with objective clinical tests have been relatively well characterized and accepted by the medical establishment, although the relationship to infection can be challenging to establish. In contrast, syndromes that lack objective tests, even when following a recognized infection, such as myalgic encephalomyelitis/chronic fatigue syndrome, post-treatment Lyme disease syndrome, and dysautonomia, are underrecognized and often stigmatized. The COVID-19 pandemic and subsequent recognition of Long COVID as the newest example of IACCI offer new opportunities to address all aspects of IACCI. Lessons learned from the government's multi-agency public health response to Long COVID could be beneficial to ensure readiness for the long-term consequences of sporadic infections, outbreaks, and future pandemics.",
+      "pmid": "43025990",
+      "title": "Deer, ticks and people: tolerating Lyme disease in the Scottish Highlands and Islands.",
+      "abstract": "",
       "authors": [
-        "Bertolli J",
-        "Hinckley AF",
-        "Mead PS"
+        "Cleary C",
+        "Soncco R"
       ],
-      "journal": "Open forum infectious diseases",
-      "publicationDate": "Nov 30, 2026",
+      "journal": "Medical humanities",
+      "publicationDate": "Nov 13, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42997614/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43025990/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-14T12:35:56.990Z"
+    },
+    {
+      "pmid": "43025731",
+      "title": "Uncovering the Hidden Pattern Behind America's Tick-Borne Disease Surge.",
+      "abstract": "",
+      "authors": [
+        "Joseph JT",
+        "Wormser GP"
+      ],
+      "journal": "The American journal of medicine",
+      "publicationDate": "Nov 13, 2026",
+      "articleType": "Editorial",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43025731/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-14T12:35:57.490Z"
+    },
+    {
+      "pmid": "43026010",
+      "title": "Parinaud's oculoglandular syndrome: cat scratch disease without reported feline trauma.",
+      "abstract": "",
+      "authors": [
+        "Quah NQX",
+        "Tsimpida M",
+        "Georgoudis P"
+      ],
+      "journal": "BMJ case reports",
+      "publicationDate": "Nov 13, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43026010/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-14T12:36:05.053Z"
+    },
+    {
+      "pmid": "43025731",
+      "title": "Uncovering the Hidden Pattern Behind America's Tick-Borne Disease Surge.",
+      "abstract": "",
+      "authors": [
+        "Joseph JT",
+        "Wormser GP"
+      ],
+      "journal": "The American journal of medicine",
+      "publicationDate": "Nov 13, 2026",
+      "articleType": "Editorial",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43025731/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-14T12:36:12.338Z"
+    },
+    {
+      "pmid": "43023268",
+      "title": "Untitled",
+      "abstract": "Using a multiplex PCR amplicon sequencing assay, Babesia odocoilei and an undescribed Babesia species were detected in Ixodes scapularis, Amblyomma americanum, and Amblyomma maculatum ticks, which previously tested positive in a Babesia divergens-like PCR assay. These results could have important One Health implications for the etiology of babesiosis cases in Alabama.",
+      "authors": [
+        "Holdbrooks DC",
+        "Roberts RW",
+        "Rayner JO"
+      ],
+      "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+      "publicationDate": "Nov 13, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43023268/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-14T12:36:13.595Z"
+    },
+    {
+      "pmid": "43022803",
+      "title": "Status of Notifiable Infectious Diseases Reporting in the Seoul Metropolitan Area, Republic of Korea, 2025.",
+      "abstract": "The Capital Regional Center for Disease Control and Prevention has jurisdiction over four cities and provinces (Seoul Metropolitan City, Incheon Metropolitan City, Gyeonggi province, and Gangwon State), which account for 53.9% of total population of the Republic of Korea. To analyze and summarize the prevalence and high incidence of notifiable infectious diseases reported in the Seoul Metropolitan Area in 2025. This study analyzes surveillance data to identify trends in infectious disease outbreaks in the Seoul Metropolitan Area and to inform the Capital Regional Center for Disease Control and Prevention's future policies on infectious disease prevention, management, preparedness, and response. Data on reported cases of notifiable infectious diseases were collected through the Infectious Disease Information System. Based on this, we analyzed 66 infectious diseases subject to mandatory surveillance. In 2025, the Seoul Metropolitan Area reported 74,895 cases of notifiable infectious diseases subject to mandatory reporting, an 18.9% decrease from 2024. Carbapenem-resistant Enterobacterales (CRE) infection, varicella, and tuberculosis were the most common, while Mpox, malaria, and Lyme disease were high-proportion infectious diseases in the Seoul Metropolitan Area relative to the nationwide total. Infectious disease characteristics in the Seoul Metropolitan Area included a continuous increase in CRE infection, which is Healthcare-Associated Infections; a concentration of syphilis cases, a sexually transmitted infection; and a high proportion of imported infectious diseases. Furthermore, the Seoul Metropolitan Area accounts for approximately 90% of all malaria cases nationwide, with most cases occurring in the region. This study helps to understand infectious disease trends in the Area and develop policies for prevention, control, preparedness, and response. The center will strengthen its cooperative system with four provinces. By implementing field-based, immediate responses, it will help prevent infectious disease introduction and reduce further spread. &#xc218;&#xb3c4;&#xad8c;&#xc9c8;&#xbcd1;&#xb300;&#xc751;&#xc13c;&#xd130;(&#xc218;&#xb3c4;&#xad8c;&#xc13c;&#xd130;)&#xb294; &#xc6b0;&#xb9ac;&#xb098;&#xb77c; &#xc804;&#xccb4; &#xc778;&#xad6c;&#xc758; 53.9%&#xac00; &#xc18d;&#xd574; &#xc788;&#xb294; 4&#xac1c; &#xc2dc;&#xb3c4;(&#xc11c;&#xc6b8;&#xd2b9;&#xbcc4;&#xc2dc;, &#xc778;&#xcc9c;&#xad11;&#xc5ed;&#xc2dc;, &#xacbd;&#xae30;&#xb3c4;, &#xac15;&#xc6d0;&#xd2b9;&#xbcc4;&#xc790;&#xce58;&#xb3c4;)&#xb97c; &#xad00;&#xd560;&#xd55c;&#xb2e4;. &#xbcf8; &#xc5f0;&#xad6c;&#xb294; &#xbc29;&#xc5ed;&#xd1b5;&#xd569;&#xc815;&#xbcf4;&#xc2dc;&#xc2a4;&#xd15c; &#xc2e0;&#xace0;&#xc815;&#xbcf4;&#xb97c; &#xae30;&#xbc18;&#xc73c;&#xb85c; &#xd558;&#xc5ec; 2025&#xb144; &#xd55c; &#xd574; &#xb3d9;&#xc548; &#xc218;&#xb3c4;&#xad8c;&#xc5ed;&#xc5d0;&#xc11c; &#xbc1c;&#xc0dd;&#xd55c; &#xc804;&#xc218;&#xac10;&#xc2dc; &#xbc95;&#xc815; &#xac10;&#xc5fc;&#xbcd1;(&#xc81c;1&#x2013;3&#xae09;)&#xc758; &#xb2e4;&#xbc1c;&#xc0dd;&#x2027;&#xace0;&#xbe44;&#xc911; &#xd604;&#xd669; &#xbc0f; &#xd2b9;&#xc131;&#xc744; &#xbd84;&#xc11d;&#xd558;&#xc600;&#xb2e4;. &#xbcf8; &#xc5f0;&#xad6c;&#xb294; &#xac10;&#xc2dc;&#xbd84;&#xc11d;&#xc790;&#xb8cc;&#xb97c; &#xd1b5;&#xd574; &#xc218;&#xb3c4;&#xad8c;&#xc5ed; &#xb0b4; &#xac10;&#xc5fc;&#xbcd1; &#xbc1c;&#xc0dd;&#xc758; &#xacbd;&#xd5a5;&#xc131;&#xc744; &#xd30c;&#xc545;&#xd558;&#xc5ec;, &#xd5a5;&#xd6c4; &#xc218;&#xb3c4;&#xad8c;&#xc13c;&#xd130;&#xc758; &#xac10;&#xc5fc;&#xbcd1; &#xc608;&#xbc29;&#x2027;&#xad00;&#xb9ac; &#xbc0f; &#xb300;&#xbe44;&#x2027;&#xb300;&#xc751; &#xc815;&#xcc45;&#xc744; &#xc218;&#xb9bd;&#xd558;&#xb294; &#xae30;&#xcd08;&#xc790;&#xb8cc;&#xb85c; &#xd65c;&#xc6a9;&#xd558;&#xb294; &#xac83;&#xc744; &#xbaa9;&#xc801;&#xc73c;&#xb85c; &#xd55c;&#xb2e4;. &#xbc29;&#xc5ed;&#xd1b5;&#xd569;&#xc815;&#xbcf4;&#xc2dc;&#xc2a4;&#xd15c;&#xc744; &#xd1b5;&#xd574; &#xc218;&#xc9d1;&#xd55c; &#xc218;&#xb3c4;&#xad8c;&#xc5ed; &#xbc95;&#xc815; &#xac10;&#xc5fc;&#xbcd1; &#xd658;&#xc790;&#xc758; &#xbc1c;&#xc0dd; &#xc2e0;&#xace0;&#xc790;&#xb8cc;&#xb97c; &#xd1a0;&#xb300;&#xb85c; &#xc81c;1&#x2027;2&#x2027;3&#xae09; &#xc804;&#xc218;&#xac10;&#xc2dc; &#xac10;&#xc5fc;&#xbcd1; &#xcd1d; 66&#xc885;&#xc744; &#xb300;&#xc0c1;&#xc73c;&#xb85c; &#xc911;&#xbcf5;&#xc744; &#xc81c;&#xc678;&#xd558;&#xace0; &#xbc1c;&#xc0dd; &#xc2e0;&#xace0;&#xac74;&#xc218;, &#xc2e0;&#xace0;&#xbe44;&#xc911;&#xc744; &#xac01;&#xac01; &#xbe48;&#xb3c4;&#xc218;&#xc640; &#xbc31;&#xbd84;&#xc728;(%)&#xb85c; &#xbd84;&#xc11d;&#xd558;&#xc600;&#xb2e4;. 2025&#xb144; &#xd55c; &#xd574; &#xb3d9;&#xc548; &#xc218;&#xb3c4;&#xad8c;&#xc5ed;&#xc5d0;&#xc11c; &#xbc1c;&#xc0dd;&#xd55c; &#xbc95;&#xc815; &#xac10;&#xc5fc;&#xbcd1; &#xc911; &#xc804;&#xc218;&#xac10;&#xc2dc; &#xac10;&#xc5fc;&#xbcd1;&#xc758; &#xbc1c;&#xc0dd; &#xc2e0;&#xace0;&#xc0ac;&#xb840;&#xb294; &#xcd1d; 74,895&#xba85;(&#xd6c4;&#xcc9c;&#xc131;&#xba74;&#xc5ed;&#xacb0;&#xd54d;&#xc99d; &#xc81c;&#xc678;)&#xc73c;&#xb85c; 2024&#xb144;(&#xcd1d; 92,340&#xba85;)&#xbcf4;&#xb2e4; 18.9% &#xac10;&#xc18c;&#xd588;&#xb2e4;. &#xb2e4;&#xbc1c;&#xc0dd; &#xc2e0;&#xace0; &#xac10;&#xc5fc;&#xbcd1;&#xc740; &#xce74;&#xbc14;&#xd398;&#xb134;&#xb0b4;&#xc131;&#xc7a5;&#xb0b4;&#xc138;&#xade0;&#xbaa9;(carbapenem-resistant Enterobacterales, CRE) &#xac10;&#xc5fc;&#xc99d;, &#xc218;&#xb450;, &#xacb0;&#xd575; &#xc21c;&#xc774;&#xba70;, &#xc804;&#xad6d; &#xb300;&#xbe44; &#xc218;&#xb3c4;&#xad8c;&#xc5ed; &#xbc1c;&#xc0dd; &#xbe44;&#xc911;&#xc774; &#xb192;&#xc740; &#xac10;&#xc5fc;&#xbcd1;&#xc740; &#xc5e0;&#xd3ed;&#xc2a4;, &#xb9d0;&#xb77c;&#xb9ac;&#xc544;, &#xb77c;&#xc784;&#xbcd1; &#xc21c;&#xc774;&#xc5c8;&#xb2e4;. &#xb610;&#xd55c; &#xbc1c;&#xc0dd; &#xbe44;&#xc911;&#xc774; &#xb0ae;&#xc740; &#xac10;&#xc5fc;&#xbcd1;&#xc740; &#xcbd4;&#xcbd4;&#xac00;&#xbb34;&#xc2dc;&#xc99d;, &#xc2e0;&#xc99d;&#xd6c4;&#xad70;&#xcd9c;&#xd608;&#xc5f4;, &#xc911;&#xc99d;&#xc5f4;&#xc131;&#xd608;&#xc18c;&#xd310;&#xac10;&#xc18c;&#xc99d;&#xd6c4;&#xad70; &#xc21c;&#xc73c;&#xb85c; &#xb098;&#xd0c0;&#xb0ac;&#xb2e4;. 2025&#xb144; &#xc218;&#xb3c4;&#xad8c;&#xc5ed;&#xc5d0;&#xc11c; &#xc804;&#xb144; &#xb300;&#xbe44; &#xac00;&#xc7a5; &#xc99d;&#xac00;&#xd55c; &#xac10;&#xc5fc;&#xbcd1;&#xc740; &#xc7a5;&#xcd9c;&#xd608;&#xc131;&#xb300;&#xc7a5;&#xade0; &#xac10;&#xc5fc;&#xc99d;, &#xd64d;&#xc5ed;, &#xd050;&#xc5f4; &#xc21c;&#xc774;&#xb2e4;. &#xc804;&#xb144; &#xb300;&#xbe44; &#xac00;&#xc7a5; &#xac10;&#xc18c;&#xd3ed;&#xc774; &#xd070; &#xac10;&#xc5fc;&#xbcd1;&#xc740; &#xbc31;&#xc77c;&#xd574;&#xc600;&#xb2e4;. &#xc218;&#xb3c4;&#xad8c;&#xc5ed;&#xc5d0;&#xc11c; &#xbc1c;&#xc0dd;&#xd558;&#xb294; &#xac10;&#xc5fc;&#xbcd1;&#xc758; &#xd2b9;&#xc131;&#xc740; &#xc758;&#xb8cc;&#xad00;&#xb828;&#xac10;&#xc5fc;&#xbcd1;&#xc778; CRE &#xac10;&#xc5fc;&#xc99d;&#xc758; &#xc9c0;&#xc18d;&#xc801;&#xc778; &#xc99d;&#xac00;, &#xc131;&#xb9e4;&#xac1c;&#xac10;&#xc5fc;&#xbcd1;&#xc778; &#xb9e4;&#xb3c5; &#xbc1c;&#xc0dd; &#xc9d1;&#xc911;, &#xd574;&#xc678;&#xc720;&#xc785; &#xac10;&#xc5fc;&#xbcd1;&#xc758; &#xc218;&#xb3c4;&#xad8c;&#xc5ed; &#xbc1c;&#xc0dd; &#xbe44;&#xc911;&#xc774; &#xb192;&#xb2e4;&#xb294; &#xac83;&#xc774;&#xb2e4;. &#xb610;&#xd55c; &#xb9d0;&#xb77c;&#xb9ac;&#xc544;&#xb294; &#xb9e4;&#xb144; &#xc804;&#xad6d; &#xbc1c;&#xc0dd;&#xc758; &#xc57d; 90%&#xac00; &#xc218;&#xb3c4;&#xad8c;&#xc5ed;&#xc5d0;&#xc11c; &#xbc1c;&#xc0dd;&#xd558;&#xace0; &#xc788;&#xb2e4;. &#xc218;&#xb3c4;&#xad8c;&#xc5ed;&#xc5d0;&#xc11c; &#xbc1c;&#xc0dd;&#xd558;&#xb294; &#xac10;&#xc5fc;&#xbcd1;&#xc758; &#xacbd;&#xd5a5;&#xacfc; &#xd2b9;&#xc131;&#xc744; &#xd30c;&#xc545;&#xd558;&#xace0; &#xac10;&#xc5fc;&#xbcd1; &#xc608;&#xbc29;&#x2027;&#xad00;&#xb9ac; &#xbc0f; &#xb300;&#xbe44;&#x2027;&#xb300;&#xc751; &#xc815;&#xcc45;&#xc744; &#xc218;&#xb9bd;&#xd558;&#xb294; &#xb370; &#xbcf8; &#xc5f0;&#xad6c;&#xb97c; &#xadfc;&#xac70;&#xc790;&#xb8cc;&#xb85c; &#xd65c;&#xc6a9;&#xd560; &#xc218; &#xc788;&#xc744; &#xac83;&#xc774;&#xb2e4;. &#xc218;&#xb3c4;&#xad8c;&#xc13c;&#xd130;&#xb294; &#xc218;&#xb3c4;&#xad8c;&#xc5ed;&#xc758; &#xac10;&#xc5fc;&#xbcd1; &#xbc1c;&#xc0dd; &#xb300;&#xc751;&#xc744; &#xc704;&#xd574; &#xad00;&#xd560; 4&#xac1c; &#xc2dc;&#xb3c4;&#xc640; &#xd611;&#xb825;&#xccb4;&#xacc4;&#xb97c; &#xac15;&#xd654;&#xd558;&#xace0; &#xd604;&#xc7a5; &#xc911;&#xc2ec;&#xc758; &#xc989;&#xac01;&#xc801;&#xc778; &#xb300;&#xc751;&#xc73c;&#xb85c; &#xac10;&#xc5fc;&#xbcd1;&#xc758; &#xc720;&#xc785;&#xc744; &#xcc28;&#xb2e8;&#xd558;&#xace0; &#xcd94;&#xac00; &#xd655;&#xc0b0; &#xbc29;&#xc9c0;&#xc5d0; &#xae30;&#xc5ec;&#xd560; &#xac83;&#xc774;&#xb2e4;.",
+      "authors": [
+        "Kim S",
+        "Choo J",
+        "Kim H"
+      ],
+      "journal": "Public health weekly report",
+      "publicationDate": "11 12, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43022803/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
@@ -115,7 +227,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:04.436Z"
+      "fetchedAt": "2026-11-14T12:35:58.267Z"
     },
     {
       "pmid": "43020238",
@@ -138,7 +250,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:07.372Z"
+      "fetchedAt": "2026-11-14T12:36:05.697Z"
     },
     {
       "pmid": "43015502",
@@ -161,7 +273,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:08.007Z"
+      "fetchedAt": "2026-11-14T12:36:06.324Z"
     },
     {
       "pmid": "43018130",
@@ -184,7 +296,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:14.747Z"
+      "fetchedAt": "2026-11-14T12:36:14.847Z"
     },
     {
       "pmid": "43014413",
@@ -207,7 +319,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:15.998Z"
+      "fetchedAt": "2026-11-14T12:36:16.106Z"
     },
     {
       "pmid": "43018000",
@@ -230,7 +342,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:15.369Z"
+      "fetchedAt": "2026-11-14T12:36:15.482Z"
+    },
+    {
+      "pmid": "43027263",
+      "title": "Untitled",
+      "abstract": "Cervids harbor several Babesia taxa, but their potential to infect cattle remains poorly understood. The present study detected Babesia taxa in wild sika deer in Hokkaido, Japan, and subsequently examined questing ticks collected from cattle pastures and sympatric grazing cattle for their presence. The initial screening of 285 sika deer blood DNA samples using a PCR assay targeting the 18S rRNA of Babesia spp., followed by sequencing, identified two previously reported Babesia taxa: one closely related to Babesia divergens and designated Babesia sp. Sika 1, and another unclassified Babesia taxon designated Babesia sp. Sika 2. A duplex PCR assay based on the obtained 18S rRNA sequences was then used to detect these two taxa in 285 sika deer, 671 questing ticks, and 767 cattle. Babesia sp. Sika 1 was detected in 86/285 (30.2%) deer and 7/367 (1.9%) Ixodes persulcatus ticks, whereas Babesia sp. Sika 2 was detected in 4/285 (1.4%) deer but not in the examined ticks. Neither taxon was detected in any cattle samples. Phylogenetic analyses placed Babesia sp. Sika 1 in a distinct lineage from B. divergens, supporting its recognition as a distinct Babesia taxon. Similarly, Babesia sp. Sika 2 formed a distinct phylogenetic clade in the 18S rRNA analysis. Despite opportunities for exposure through shared pasture environments and I. persulcatus feeding on both hosts, neither taxon was detected in the examined cattle. Further studies are now essential to confirm and extend our findings regarding the taxonomic status and host associations of Babesia sp. Sika 1 and Babesia sp. Sika 2.",
+      "authors": [
+        "Yamamoto I",
+        "Ma Y",
+        "Umemiya-Shirafuji R"
+      ],
+      "journal": "Animals : an open access journal from MDPI",
+      "publicationDate": "Nov 08, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43027263/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-14T12:36:11.839Z"
     },
     {
       "pmid": "43014386",
@@ -253,53 +388,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:00.622Z"
+      "fetchedAt": "2026-11-14T12:35:59.527Z"
     },
     {
-      "pmid": "42995416",
-      "title": "Cardiovascular Manifestations of Lyme Disease.",
-      "abstract": "Lyme disease is a tick-borne zoonosis caused by Borrelia burgdorferi that can involve multiple organ systems, including the cardiovascular (CV) system, noted in ~1-10% of untreated patients. This can produce atrioventricular (AV) or bundle branch block, atrial fibrillation, and myopericarditis in the acute phase, and dilated cardiomyopathy in the chronic phase. Myocardial involvement may lead to ventricular tachyarrhythmias and sudden death. AV block is reported in ~90% of cases, and in 30-60% of cases, it may necessitate cardiac pacing, at least temporarily, as most cases of high-degree AV blocks resolve with antibiotic therapy within 1 week. Occasionally, aortic dissection may occur. Although Lyme carditis, in the form of myocarditis, pericarditis, and less often endocarditis, is generally self-limited with early appropriate therapy, there is also the potential for lasting CV sequelae, such as persistent AV block (noted in 90% of cases), dilated cardiomyopathy and heart failure, and the rare occurrence of coronary artery involvement and aneurysmal changes. Patients with Lyme disease should receive oral tetracycline or penicillin, which can decrease the incidence of late-stage disease; however, some patients may fail early treatment. In cases of aseptic meningitis and radiculoneuritis, IV penicillin will be needed. As Lyme disease has now replaced syphilis as the \"Great Imitator,\" physicians should be at vigilance for the disease, especially in endemic areas, and be familiarized with the particular skin rash of erythema chronicum migrans, an expanding skin lesion with the characteristic \"bull's-eye\" appearance patch with a center of clear skin and a distinct peripheral outer erythematous ring.",
+      "pmid": "43027258",
+      "title": "Untitled",
+      "abstract": "Bartonella species are small, fastidious, Gram-negative intracellular bacteria that are capable of infecting a wide range of mammals, including cats, dogs and humans. Diagnoses of canine, feline, and human bartonellosis by culture, molecular, and serological assays remains challenging. Accurate serodiagnosis of feline bartonellosis is of clinical, epidemiological and zoonotic importance. The utility of Bartonella henselae (Bh) ATP-&#x3b2;, ATP synthase beta subunit, and GroEL, a chaperonin protein, has not previously been reported for diagnosis of feline bartonellosis. The objective of this study was to assess the diagnostic utility of Bh recombinant proteins ATP-&#x3b2; and GroEL using sera samples from Group I: four cats experimentally inoculated with Bh or saline (n = 24); Group II: 34 cats naturally infected with Bh (n = 34); Group III: 33 Bartonella spp. qPCR-negative and IFA-negative control cats (n = 33), and Group IV: 16 Mycoplasma haemofelis qPCR-positive cats (n = 16). Based on the Bh rATP-&#x3b2;, rGroEL, and rATP-&#x3b2; plus rGroEL ELISA results, rGroEL yielded the highest area under the receiver operating characteristic curve (AUC) of 0.84 (95% CI 0.74-0.94), followed by rATP-&#x3b2; plus rGroEL with an AUC of 0.77 (95% CI 0.65-0.89). The sensitivity and specificity of rGroEL were 50% (95% CI 34-66%) and 91% (95% CI 76-97%), respectively, at an OD cutoff value of 0.1, whereas the sensitivity and specificity of rATP-&#x3b2; plus rGroEL ELISA (combination of rATP-&#x3b2; and rGroEL) were 71% (95% CI 54-83%) and 85% (95% CI 69-93%), respectively, at an OD cutoff value of 0.17. Overall agreement between Bh IFA and rGroEL-based ELISA was 70% (95% CI 58-80%), and overall agreement between Bh IFA and rATP-&#x3b2; plus rGroEL-based ELISA was 78% (95% CI 66-86%). The rATP-&#x3b2;-based ELISA had a poorer AUC (0.61 (95% CI 0.47-0.75)), indicating limited clinical utility for the serodiagnosis of Bh infection in cats. These findings suggest that rGroEL and rATP-&#x3b2; plus rGroEL may serve as reliable ELISA antigens for serodiagnosis of Bartonella infection in cats. Limitations of this study include the small sample size, the moderate sensitivity of ELISA, and its incomplete agreement with Bh IFA and PCR results. Future epitope mapping and bioinformatic screening of the antigenic regions of rATP-&#x3b2; and rGroEL may facilitate the development of a faster, more practical, and more cost-effective alternative to the labor-intensive reference IFA for the serodiagnosis of feline bartonellosis.",
       "authors": [
-        "Manolis AA",
-        "Manolis TA",
-        "Vouliotis A"
+        "Neupane P",
+        "Bryant J",
+        "Kingston E"
       ],
-      "journal": "Cardiology in review",
+      "journal": "Animals : an open access journal from MDPI",
       "publicationDate": "Nov 07, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42995416/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43027258/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:05.061Z"
-    },
-    {
-      "pmid": "42994791",
-      "title": "Possible post-infectious sequelae of tick-borne Rickettsia and Ehrlichia infections.",
-      "abstract": "To assess the presence of symptoms and immunological profiles after infection with tick-borne spotted fever rickettsiosis (SFR) or ehrlichiosis. Adults evaluated for acute tick-borne disease completed symptom surveys through 90 days. Cases were classified using standard epidemiological definitions. Participants with alpha-gal sensitization were excluded from the primary analysis. Acute and convalescent cytokine profiles were compared between participants with and without symptoms present at the 90-day timepoint. Among 71 participants, 37 (52.1%) and 33 (46.5%) met criteria for confirmed or probable ehrlichiosis and SFR, respectively; seven met criteria for both. After excluding 12 participants with alpha-gal sensitization, 15 (50.0%) with ehrlichiosis and 13 (50.0%) with SFR reported at least one moderate or severe symptom at 90 days, compared with one of eight (12.5%) participants classified as not a case. Fatigue and musculoskeletal pain were most common. Participants with symptoms present at 90-days showed higher pro-inflammatory and lower anti-inflammatory cytokine levels, but differences were not statistically significant. Post-infectious syndromes after tick-borne disease may not be limited to Lyme disease. These preliminary findings support patient-reported experiences and warrant larger studies to define the prevalence, predictors, pathogenesis, and clinical course of possible persistent symptoms.",
-      "authors": [
-        "Rudrappa P",
-        "Ursery L",
-        "Hatharashinghe A"
-      ],
-      "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
-      "publicationDate": "Nov 06, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42994791/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-13T13:30:05.682Z"
+      "fetchedAt": "2026-11-14T12:36:04.552Z"
     },
     {
       "pmid": "42981383",
@@ -322,7 +434,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:17.280Z"
+      "fetchedAt": "2026-11-14T12:36:17.372Z"
     },
     {
       "pmid": "42987484",
@@ -345,7 +457,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:10.543Z"
+      "fetchedAt": "2026-11-14T12:36:08.845Z"
     },
     {
       "pmid": "42987484",
@@ -368,21 +480,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:16.642Z"
+      "fetchedAt": "2026-11-14T12:36:16.737Z"
     },
     {
-      "pmid": "42969439",
-      "title": "Babesia blood donor screening: A tool for safety and surveillance.",
-      "abstract": "Babesia is a transfusion-transmissible, tick-borne parasite endemic in the northeastern and upper midwestern US. Since 2020, nucleic acid test screening of blood donations has been implemented in endemic areas to reduce transfusion-transmitted babesiosis. American Red Cross blood donations collected between May 2020 and April 2026 in 13 endemic states and Washington, DC, were screened using the FDA-licensed Procleix Babesia transcription-mediated amplification assay. Reactive donations were analyzed by season, geography, donor characteristics, and state-level reactivity rates. Incidence estimates were evaluated using rolling 2-year periods. About 10 million donations were screened, of which 2505 were Babesia-reactive. Overall donor reactivity increased significantly from 0.02% during 2020-2021 to 0.03% during 2021-2026 (p&#x2009;<&#x2009;.001). Significant increases were observed in Maine, New York, and Pennsylvania, and no state demonstrated a significant decline. Donation reactivity exhibited a consistent seasonal pattern, while geographic analyses showed expansion of donor reactivity across the northeastern US, particularly along the eastern seaboard. Incidence increased from 63.2 to 71.0 per 100,000 person-years across the study period, with sustained increases in several states. Among 1638 reinstated donors, 59% returned to donate and 2% tested reactive again, suggesting persistent infection or reinfection. Six years of routine Babesia screening have effectively protected the blood supply while providing valuable surveillance for asymptomatic infection. Rising donor reactivity, expanding geographic distribution, and evidence of persistent or recurrent infection indicate an increasing risk of babesiosis in the United States and support continued screening and surveillance.",
+      "pmid": "43022380",
+      "title": "Untitled",
+      "abstract": "Babesia canis (vector: Dermacentor reticulatus) and Anaplasma phagocytophilum (vector: Ixodes ricinus) are tick-borne pathogens causing babesiosis and granulocytic anaplasmosis, respectively. The study aimed to demonstrate the rising significance of PCR positivity in dogs in Germany in the colder period (October-March) due to climate change. The database of the laboratory Laboklin was retrospectively screened for B. canis and A. phagocytophilum PCR results in dogs in Germany during 2008-2025. In cases of multiple testing in a dog, only the first or the first positive result was included. Multiple logistic regression analysis was performed with calculation of odds ratios. A total of 2290 out of 33,542 dogs (6.8%) tested positive for B. canis and 2499 out of 50,210 (5.0%) tested positive for A. phagocytophilum. Comparing the cold to the warm half of the year, significant differences were demonstrated for B. canis (cold: 1282/14,955, 8.6%; warm: 1008/18,587, 5.4%; P&#x202f;<&#x202f;0.001) and A. phagocytophilum (cold: 377/20,967, 1.3%; warm: 2222/29,243, 7.6%; P&#x202f;<&#x202f;0.001). Babesia canis PCR positivity increased in colder periods (OR&#x202f;=&#x202f;1.121, P&#x202f;=&#x202f;0.042), including a year-round trend, but decreased for A. phagocytophilum (OR&#x202f;=&#x202f;0.328, P&#x202f;<&#x202f;0.001). This is explainable by vector ecology, with D. reticulatus being more cold-tolerant compared to I. ricinus. Nevertheless, both pathogens were detected in the cold season, including the classical winter months, highlighting the importance of year-round tick control.",
       "authors": [
-        "Tonnetti L",
-        "Groves J",
-        "Crawford E"
+        "Sch&#xe4;fer I",
+        "Moritz A",
+        "M&#xfc;ller E"
       ],
-      "journal": "Transfusion",
-      "publicationDate": "Nov 02, 2026",
+      "journal": "Current research in parasitology & vector-borne diseases",
+      "publicationDate": "10 31, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42969439/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43022380/",
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
@@ -391,53 +503,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:17.906Z"
-    },
-    {
-      "pmid": "42966012",
-      "title": "One Health approach to Babesia and Bartonella species: occupational zoonotic infections in veterinary workers and their families.",
-      "abstract": "This study investigated the presence of Babesia, Bartonella, and Borrelia spp infection in an extended veterinary family. Between May 2023 and August 2025, 8 individuals enrolled in an Institutional Review Board-approved observational study. Serological evidence of Bartonella spp exposure and molecular evidence of Babesia, Bartonella, and Borrelia spp infection were assessed. Among other symptoms, at least half of the study participants reported chronic fatigue, headaches, anxiety, depression, and difficulty remembering. On the basis of PCR amplification and DNA sequencing, infection with Babesia odocoilei, Babesia divergens-like MO-1, Babesia gibsoni, or Babesia microti was confirmed in 4 individuals. Three other individuals were PCR positive for Piroplasmida/Apicomplexa DNA. Four individuals were seroreactive to 1 or more Bartonella spp and 6 individuals were Bartonella PCR positive in blood, serum, or enrichment blood cultures. Six individuals had at least 1 Borrelia partition detected by digital PCR; however, efforts in our laboratory to confirm Borrelia digital PCR positivity by DNA sequencing were not successful. Similar to this extended veterinary family, previous studies have documented that veterinarians and veterinary workers may be occupationally at risk for exposure to Bartonella spp. On the basis of the results of this study, veterinary workers may also be at risk for infection with Babesia spp and potentially other Piroplasmida/Apicomplexa organisms. The potential that chronic intravascular or endotheliotropic infections with vector-borne pathogens contributes to multisystem illnesses in veterinary workers deserves future research considerations, which, on a clinical, epidemiological, and microbiological basis, will require sequential lifetime studies.",
-      "authors": [
-        "Breitschwerdt EB",
-        "Maggi RG",
-        "Kaufman D"
-      ],
-      "journal": "Journal of the American Veterinary Medical Association",
-      "publicationDate": "Oct 30, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42966012/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-13T13:30:12.455Z"
-    },
-    {
-      "pmid": "42966012",
-      "title": "One Health approach to Babesia and Bartonella species: occupational zoonotic infections in veterinary workers and their families.",
-      "abstract": "This study investigated the presence of Babesia, Bartonella, and Borrelia spp infection in an extended veterinary family. Between May 2023 and August 2025, 8 individuals enrolled in an Institutional Review Board-approved observational study. Serological evidence of Bartonella spp exposure and molecular evidence of Babesia, Bartonella, and Borrelia spp infection were assessed. Among other symptoms, at least half of the study participants reported chronic fatigue, headaches, anxiety, depression, and difficulty remembering. On the basis of PCR amplification and DNA sequencing, infection with Babesia odocoilei, Babesia divergens-like MO-1, Babesia gibsoni, or Babesia microti was confirmed in 4 individuals. Three other individuals were PCR positive for Piroplasmida/Apicomplexa DNA. Four individuals were seroreactive to 1 or more Bartonella spp and 6 individuals were Bartonella PCR positive in blood, serum, or enrichment blood cultures. Six individuals had at least 1 Borrelia partition detected by digital PCR; however, efforts in our laboratory to confirm Borrelia digital PCR positivity by DNA sequencing were not successful. Similar to this extended veterinary family, previous studies have documented that veterinarians and veterinary workers may be occupationally at risk for exposure to Bartonella spp. On the basis of the results of this study, veterinary workers may also be at risk for infection with Babesia spp and potentially other Piroplasmida/Apicomplexa organisms. The potential that chronic intravascular or endotheliotropic infections with vector-borne pathogens contributes to multisystem illnesses in veterinary workers deserves future research considerations, which, on a clinical, epidemiological, and microbiological basis, will require sequential lifetime studies.",
-      "authors": [
-        "Breitschwerdt EB",
-        "Maggi RG",
-        "Kaufman D"
-      ],
-      "journal": "Journal of the American Veterinary Medical Association",
-      "publicationDate": "Oct 30, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42966012/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-13T13:30:18.535Z"
+      "fetchedAt": "2026-11-14T12:36:14.220Z"
     },
     {
       "pmid": "42966018",
@@ -460,30 +526,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:11.829Z"
-    },
-    {
-      "pmid": "42961242",
-      "title": "Diversity and distribution of Bartonella spp. in domestic animals, wildlife, and ectoparasites in Brazil: a comprehensive review.",
-      "abstract": "Bartonella are intracellular Gram-negative blood-borne bacteria capable of infecting a wide range of hosts, primarily mammals and birds. They are responsible for emerging and re-emerging infectious diseases characterized by persistent intraerythrocytic bacteremia in mammals. Out of 49 species described, 13 presents zoonotic potential. This review aimed to update the current knowledge on the occurrence, distribution, and genetic diversity of Bartonella in domestic animals, wild mammals and birds, and ectoparasites in Brazil. A total of 72 scientific articles published between 2007 and 2026 were included. The available information indicates that the Southeastern and Central-Western regions of Brazil account for most reports of Bartonella in animals and ectoparasites, whereas the Northern and Northeastern regions remain comparatively understudied. Overall, studies investigating Bartonella in Brazil have become increasingly frequent and geographically widespread over the years. Although some investigations rely on single-gene analyses, most employ multi-locus sequence analysis and phylogenetic reconstruction, providing stronger evidence for species identification and diversity. In contrast, relatively few studies have incorporated whole-genome sequencing or comprehensive phenotypic and biochemical characterization through bacterial isolation and blood culture. Future research should prioritize advanced genomic approaches and bacterial isolation to improve our understanding of the diversity, evolution, and epidemiology of Bartonella circulating in Brazil.",
-      "authors": [
-        "Andr&#xe9; MR",
-        "Lee DAB",
-        "Neves LFD"
-      ],
-      "journal": "Revista brasileira de parasitologia veterinaria = Brazilian journal of veterinary parasitology : Orgao Oficial do Colegio Brasileiro de Parasitologia Veterinaria",
-      "publicationDate": "10 26, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42961242/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-13T13:30:13.083Z"
+      "fetchedAt": "2026-11-14T12:36:10.098Z"
     },
     {
       "pmid": "42978018",
@@ -506,7 +549,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:11.174Z"
+      "fetchedAt": "2026-11-14T12:36:09.470Z"
     },
     {
       "pmid": "42999106",
@@ -529,7 +572,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:03.177Z"
+      "fetchedAt": "2026-11-14T12:36:02.040Z"
     },
     {
       "pmid": "43011688",
@@ -552,7 +595,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:08.648Z"
+      "fetchedAt": "2026-11-14T12:36:06.959Z"
     },
     {
       "pmid": "42999270",
@@ -575,7 +618,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:01.907Z"
+      "fetchedAt": "2026-11-14T12:36:00.790Z"
     },
     {
       "pmid": "42999203",
@@ -598,7 +641,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:02.546Z"
+      "fetchedAt": "2026-11-14T12:36:01.416Z"
     },
     {
       "pmid": "43017705",
@@ -621,21 +664,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:29:59.979Z"
+      "fetchedAt": "2026-11-14T12:35:58.901Z"
     },
     {
-      "pmid": "42944131",
-      "title": "Retrospective Serological Survey of Equine Influenza Virus and Piroplasm Parasites in Free-Ranging Wild Equids from Kenya and Tanzania.",
-      "abstract": "Wild equids may act as reservoirs for infectious pathogens affecting domestic equine populations, yet data on exposure to equine infectious anemia virus (EIAV), equine influenza virus (EIV), and equine piroplasmosis agents in African wildlife remain scarce. Our objectives were to retrospectively determine serological evidence of exposure to EIAV, EIV, Theileria equi, and Babesia caballi among Grevy's zebras and rhinoceroses from Kenya and Tanzania. A total of 284 archived serum samples from 215 Grevy's zebras and 69 rhinoceroses were analyzed using commercial ELISAs. Positive EIAV screening tests were retested using a second confirmatory assay. No confirmed EIAV antibodies were detected in zebras or rhinoceroses. Antibodies against EIV were identified in 20/215 zebras (9.3%), all originating from Serengeti National Park. Theileria equi antibodies were detected in 194/206 zebras (94.2%), while Babesia caballi antibodies were detected in 8/206 zebras (3.9%). Rhinoceroses were negative for all pathogens tested. This study provides evidence of widespread exposure of Grevy's zebras to T. equi and limited exposure to EIV in East Africa while failing to identify serologic evidence of EIAV infection in zebras or rhinoceroses. These findings improve understanding of infectious disease ecology at the wildlife-livestock interface and support continued wildlife surveillance programs.",
+      "pmid": "43024115",
+      "title": "Molecular detection and diversity of piroplasmids in cattle from Jiri, Nepal.",
+      "abstract": "Babesia and Theileria species are tick-borne protozoan parasites that cause piroplasmosis in cattle, a disease associated with substantial economic losses in the cattle industry. This study aimed to detect piroplasmid infections in cattle in Nepal, using microscopic and molecular methods. Eighty blood samples were collected from cattle herds at Jiri, Nepal. Blood smears were examined microscopically for the presence of piroplasmids, and samples were assayed using nested PCR (nPCR) targeting the 18&#xa0;S rRNA gene. All nPCR positive samples underwent direct sequencing and representative positive samples were further analyzed through cloning and sequencing. Selected blood samples were used for hematological analysis; and microscopic examination revealed 23.8% (19/80) positivity for piroplasmids, whereas corresponding nPCR detected 77.5% (62/80) positive samples. Direct sequencing identified infections with Babesia bovis and B. bigemina, and with Theileria annulata and T. orientalis. Of 27 selected samples subjected to cloning and sequencing, 23 (85.2%) represented single infections, 3 (11.1%) were mixed infections containing both B. bovis and B. bigemina, while a single sample (0.04%) revealed the presence of Colpoda, a free-living protozoan. Phylogenetic analysis showed that most of the detected sequences clustered into species-specific clades, although one sample formed a distinct branch from the nearby B. bovis clade. There was no significant correlation between the presence of blood parasites and alterations of hematological parameters. This study highlights the importance of combining microscopic and molecular methods for the detection of piroplasmids and provides crucial baseline data on the prevalence and diversity of these parasites in cattle herds in Nepal.",
       "authors": [
-        "Marchi S",
-        "Issel C",
-        "Kanyari P"
+        "Pandey M",
+        "Chaudhary MK",
+        "Dhakal DN"
       ],
-      "journal": "Veterinary sciences",
-      "publicationDate": "Sep 30, 2026",
+      "journal": "Parasitology research",
+      "publicationDate": "Aug 19, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42944131/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43024115/",
       "pathogen": "babesia",
       "pathogenColor": "#2563eb",
       "aiSummary": {
@@ -644,53 +687,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-13T13:30:19.810Z"
-    },
-    {
-      "pmid": "42957733",
-      "title": "A SAGA-like AP2-P-ARP1-GCN5 transcriptional complex targets pathogenesis-associated genes during the blood-stage development of Babesia gibsoni.",
-      "abstract": "Babesiosis is an increasingly recognized tick-borne zoonosis. The asexual blood stage of its causative agent, Babesia, drives pathological damages in the host and can cause severe or fatal human infections. Nevertheless, the transcriptional regulatory mechanisms that control this developmental stage remain poorly characterized. Here, we identified a novel ApiAP2 transcription factor (AP2-P; pathogenesis), which is essential in the blood-stage development of B. gibsoni. Nuclear import of AP2-P is inhibited by ivermectin, which is likely mediated via the IMP&#x3b1;/&#x3b2; pathway. Importantly, AP2-P forms a SAGA-like complex with the histone acetyltransferase GCN5 and a novel AP2-P related protein 1 (ARP1). Conditional knockdown of ARP1 or GCN5 results in reduced parasite growth rates accompanied by alterations in expression profiles and chromatin accessibility of pathogenesis-related genes. ChIP-seq data indicate that the complex associates with both euchromatic regions marked by H3K9ac and heterochromatic regions marked by H3K9me3, and it also targets many pathogenic genes by recognizing specific DNA motif, including those involved in invasion, antigenic variation, drug resistance, and sexual-stage development. Notably, normal genomic distribution pattern of AP2-P likewise depends on ARP1 or GCN5. Collectively, our study suggests a SAGA-like epigenetic module responsible for pathogenesis of Babesia gibsoni during asexual blood stage.",
-      "authors": [
-        "Han Z",
-        "Zheng Y",
-        "Liu W"
-      ],
-      "journal": "Nature communications",
-      "publicationDate": "Sep 29, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42957733/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-13T13:30:19.187Z"
-    },
-    {
-      "pmid": "42944124",
-      "title": "Untitled",
-      "abstract": "Theileria annulata causes tropical theileriosis in cattle and is endemic in Kazakhstan. Although molecular diagnostic methods for this pathogen exist, data on its molecular surveillance and genetic diversity in Kazakhstan remain limited. This study aimed to develop and experimentally validate a species-specific real-time PCR (qPCR) assay for the detection of Theileria annulata and to conduct molecular surveillance and phylogenetic analysis of circulating isolates. A total of 709 cattle blood samples from 10 regions of Kazakhstan were analysed. Species-specific primers and a probe were designed targeting the 18S rRNA gene, and diagnostic performance was evaluated against sequencing as the reference method. Theileria annulata infection was confirmed in 110 of 709 samples (15.51%), with positive samples identified in the Turkistan, West Kazakhstan, Kyzylorda, and Zhambyl regions. The developed assay showed high diagnostic sensitivity (99.09%), specificity (99.67%), and diagnostic efficiency (99.58%), with no cross-reactivity with Theileria orientalis, Theileria parva, Babesia bovis, Babesia bigemina, or Anaplasma marginale. Phylogenetic analysis of partial 28S rRNA sequences confirmed the species identity of the detected isolates and demonstrated their close relationship with previously reported Kazakhstani and Chinese isolates. The developed qPCR assay is suitable for the molecular diagnosis and surveillance of bovine tropical theileriosis in Kazakhstan.",
-      "authors": [
-        "Myrzakhmet A",
-        "Barmak S",
-        "Sultankulova K"
-      ],
-      "journal": "Veterinary sciences",
-      "publicationDate": "Sep 29, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42944124/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-13T13:30:20.441Z"
+      "fetchedAt": "2026-11-14T12:36:12.970Z"
     }
   ]
 }
