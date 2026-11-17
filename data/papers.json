@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T14:06:34.726Z",
+  "generatedAt": "2026-11-17T14:59:42.172Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:24.478Z"
+      "fetchedAt": "2026-11-17T14:59:31.276Z"
     },
     {
       "pmid": "42991458",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:25.097Z"
+      "fetchedAt": "2026-11-17T14:59:31.928Z"
     },
     {
       "pmid": "43011829",
@@ -69,7 +69,52 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:18.067Z"
+      "fetchedAt": "2026-11-17T14:59:25.929Z"
+    },
+    {
+      "pmid": "43039695",
+      "title": "Facial weakness and scapular winging from Lyme disease.",
+      "abstract": "",
+      "authors": [
+        "Newrick L",
+        "Giffin NJ"
+      ],
+      "journal": "Practical neurology",
+      "publicationDate": "Nov 16, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43039695/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-17T14:59:20.909Z"
+    },
+    {
+      "pmid": "43038216",
+      "title": "Trends in Lyme disease incidence in England, 2013 to 2024.",
+      "abstract": "Official Lyme disease incidence figures for England are based on the number of cases with a laboratory-confirmed diagnosis from the national reference laboratory. However, these figures underestimate the true incidence of acute cases since patients can also be diagnosed clinically without the need for laboratory testing. The use of a multiplication factor has been proposed to estimate total Lyme disease incidence from the number of laboratory-confirmed cases. The current multiplication factor is derived from data spanning 1998-2016 and is thought to be outdated, in part due to the introduction of new national Lyme disease management guidance in 2018. The aim of this study was to analyse more recent laboratory and primary care data to identify trends in case numbers and to derive updated estimates of the total annual number of acute Lyme disease cases in England. Data spanning 2013-2024 from the national reference laboratory and a primary care data source were analysed using seasonal time series models. The presence of structural breaks was investigated using the PELT or BinSeg methods, and annual multiplication factors were estimated using a Poisson regression model. No substantial change was found in the number of laboratory-confirmed Lyme cases from 2013 to 2024 in England, whereas the number of cases diagnosed in primary care increased significantly over the same period, with an average of an additional 498 cases per year. This has increased our best estimate of the multiplication factor from 2.35 (95% confidence interval, 1.81-2.88) to 6.20 (6.17-6.24), which is the average for the years 2020-2024. Use of this updated multiplication factor should improve the accuracy of annual symptomatic Lyme disease case estimates for England.",
+      "authors": [
+        "Olver J",
+        "Burdon MG",
+        "Emanuel E"
+      ],
+      "journal": "PloS one",
+      "publicationDate": "11 16, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43038216/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-17T14:59:21.720Z"
     },
     {
       "pmid": "43035312",
@@ -92,7 +137,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:14.592Z"
+      "fetchedAt": "2026-11-17T14:59:22.353Z"
     },
     {
       "pmid": "43025990",
@@ -114,7 +159,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:15.093Z"
+      "fetchedAt": "2026-11-17T14:59:22.853Z"
     },
     {
       "pmid": "43025731",
@@ -136,7 +181,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:15.593Z"
+      "fetchedAt": "2026-11-17T14:59:23.354Z"
     },
     {
       "pmid": "43026010",
@@ -159,7 +204,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:22.013Z"
+      "fetchedAt": "2026-11-17T14:59:28.734Z"
     },
     {
       "pmid": "43025731",
@@ -181,7 +226,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:28.835Z"
+      "fetchedAt": "2026-11-17T14:59:35.969Z"
     },
     {
       "pmid": "43023268",
@@ -204,7 +249,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:30.054Z"
+      "fetchedAt": "2026-11-17T14:59:37.285Z"
     },
     {
       "pmid": "43022803",
@@ -227,7 +272,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:16.213Z"
+      "fetchedAt": "2026-11-17T14:59:23.988Z"
     },
     {
       "pmid": "43020238",
@@ -250,7 +295,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:22.630Z"
+      "fetchedAt": "2026-11-17T14:59:29.374Z"
     },
     {
       "pmid": "43015502",
@@ -273,7 +318,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:23.240Z"
+      "fetchedAt": "2026-11-17T14:59:30.012Z"
     },
     {
       "pmid": "43018130",
@@ -296,7 +341,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:31.273Z"
+      "fetchedAt": "2026-11-17T14:59:38.586Z"
     },
     {
       "pmid": "43014413",
@@ -319,7 +364,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:32.490Z"
+      "fetchedAt": "2026-11-17T14:59:39.878Z"
     },
     {
       "pmid": "43018000",
@@ -342,7 +387,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:31.880Z"
+      "fetchedAt": "2026-11-17T14:59:39.233Z"
     },
     {
       "pmid": "43027263",
@@ -365,7 +410,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:28.334Z"
+      "fetchedAt": "2026-11-17T14:59:35.469Z"
     },
     {
       "pmid": "43014386",
@@ -388,7 +433,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:17.447Z"
+      "fetchedAt": "2026-11-17T14:59:25.275Z"
     },
     {
       "pmid": "43027258",
@@ -411,7 +456,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:21.513Z"
+      "fetchedAt": "2026-11-17T14:59:28.235Z"
     },
     {
       "pmid": "42981383",
@@ -434,7 +479,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:33.725Z"
+      "fetchedAt": "2026-11-17T14:59:41.170Z"
     },
     {
       "pmid": "42987484",
@@ -457,7 +502,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:25.704Z"
+      "fetchedAt": "2026-11-17T14:59:32.572Z"
     },
     {
       "pmid": "42987484",
@@ -480,7 +525,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:33.096Z"
+      "fetchedAt": "2026-11-17T14:59:40.521Z"
     },
     {
       "pmid": "43022380",
@@ -503,7 +548,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:30.658Z"
+      "fetchedAt": "2026-11-17T14:59:37.939Z"
     },
     {
       "pmid": "42966018",
@@ -526,7 +571,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:26.925Z"
+      "fetchedAt": "2026-11-17T14:59:33.870Z"
     },
     {
       "pmid": "42978018",
@@ -549,30 +594,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:26.319Z"
-    },
-    {
-      "pmid": "42999106",
-      "title": "Untitled",
-      "abstract": "The Lyme disease spirochete Borreliella burgdorferi possesses bipolar periplasmic flagella that are essential for its distinctive flat-wave morphology, motility, and infectivity. However, how the molecular architecture of these flagella contributes to spirochetal morphology and motility remains poorly understood. Here, using in situ single-particle cryo-electron microscopy, we determine near-atomic structures of native periplasmic flagellar filaments and reveal two distinct architectures: half-sheathed and unsheathed. We show that the spirochete-specific protein FlaA forms an asymmetric sheath along the convex surface of the conserved FlaB filament core, with sheath assembly restricted to the proximal filament region near the flagellar motor. Atomic models reveal that FlaA anchors to the FlaB core through specific interactions with two surface-exposed loops, while genetic and motility analyses demonstrate distinct roles for these loops in maintaining cell morphology and motility. Structural comparisons reveal that the FlaB core possesses intrinsic curvature and supercoiling, which are substantially amplified by asymmetric FlaA assembly. These findings support a model in which localized FlaA sheath assembly reinforces the proximal filament and potentially modulates its mechanical properties. Together, our results uncover a previously unrecognized mechanism by which asymmetric sheath assembly enhances flagellar supercoiling, providing a molecular basis for understanding the distinctive morphology and motility of spirochetes. The Lyme disease spirochete Borreliella burgdorferi relies on periplasmic flagella for its distinctive morphology and motility, but how filament architecture contributes to these properties remains unclear. Using in situ cryo-electron microscopy, we reveal that the spirochete-specific protein FlaA forms an asymmetric sheath around the FlaB filament core exclusively near the cell poles. FlaA anchors to flexible surface loops of FlaB through specific molecular interactions, while genetic analyses reveal distinct roles for these loops in maintaining cell morphology and motility. Asymmetric FlaA assembly amplifies the intrinsic supercoiling of the FlaB core, potentially modifying filament mechanics near the motor. These findings reveal how localized, asymmetric sheath assembly contributes to the distinctive morphology and motility of spirochetes.",
-      "authors": [
-        "Wang J",
-        "Zhang K",
-        "Guo W"
-      ],
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationDate": "Oct 16, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42999106/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-16T14:06:19.920Z"
+      "fetchedAt": "2026-11-17T14:59:33.225Z"
     },
     {
       "pmid": "43011688",
@@ -595,7 +617,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:23.848Z"
+      "fetchedAt": "2026-11-17T14:59:30.643Z"
     },
     {
       "pmid": "42999270",
@@ -618,30 +640,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:18.691Z"
-    },
-    {
-      "pmid": "42999203",
-      "title": "Untitled",
-      "abstract": "Bacterial flagellar motors are diverse rotary machines that require robust mechanical coupling to transmit torque across components with distinct architectures, yet how such coupling is achieved remains poorly understood. Here, we determine near-atomic in situ structures of the periplasmic flagellar motor in the Lyme disease spirochete Borrelia burgdorferi , revealing how an expanded rotor is mechanically coupled to the conserved rod through symmetry breaking and local remodeling of the rotor-rod interface. Surprisingly, pentameric FrbA forms a split washer-shaped brace around the rotor-rod junction, providing a second layer of mechanical reinforcement. Deletion of frbA destabilizes distal flagellar structures and impairs motility, particularly under increased viscous load. FrbA homologues are broadly distributed across spirochetes, suggesting a conserved mechanism for reinforcing high-torque flagellar motors. Together, these findings reveal how symmetry breaking couples an expanded rotor to a conserved driveshaft, while a molecular split washer reinforces this interface to enable robust torque transmission and motility.",
-      "authors": [
-        "Yue J",
-        "Guo W",
-        "Rahman MK"
-      ],
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationDate": "Oct 15, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42999203/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-16T14:06:19.315Z"
+      "fetchedAt": "2026-11-17T14:59:26.595Z"
     },
     {
       "pmid": "43017705",
@@ -664,7 +663,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:16.831Z"
+      "fetchedAt": "2026-11-17T14:59:24.632Z"
     },
     {
       "pmid": "43024115",
@@ -687,7 +686,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-16T14:06:29.445Z"
+      "fetchedAt": "2026-11-17T14:59:36.636Z"
     }
   ]
 }
