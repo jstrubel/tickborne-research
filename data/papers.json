@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T14:59:42.172Z",
+  "generatedAt": "2026-11-18T14:40:48.320Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -23,7 +23,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:31.276Z"
+      "fetchedAt": "2026-11-18T14:40:39.038Z"
     },
     {
       "pmid": "42991458",
@@ -46,7 +46,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:31.928Z"
+      "fetchedAt": "2026-11-18T14:40:39.656Z"
     },
     {
       "pmid": "43011829",
@@ -69,7 +69,52 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:25.929Z"
+      "fetchedAt": "2026-11-18T14:40:32.513Z"
+    },
+    {
+      "pmid": "43046274",
+      "title": "Current Status and Epidemiologic Perspectives on Mite-, Flea-, and Louse-Borne Diseases in Korea.",
+      "abstract": "This narrative review summarizes the epidemiology and public health relevance of mite-, flea-, and louse-borne infections in Korea. We combined English- and Korean-language literature with national surveillance data. Annual and monthly notifications of scrub typhus and murine typhus were summarized for 2001-2024, and mean annual regional incidence was assessed for 2015-2024 using population statistics. National surveillance recorded 149,303 scrub typhus cases and 660 murine typhus cases during 2001-2024. Scrub typhus showed a pronounced autumn peak and higher incidence in southern and southwestern regions. Murine typhus showed a recent increase in annual case notifications, reaching 60 cases in 2024, with heterogeneous regional patterns. Bartonella henselae infection has been documented in Korea, but its burden remains uncertain. Epidemic typhus and louse-borne relapsing fever have not been officially reported for several decades, although reemergence in vulnerable populations remains possible. Mite-, flea-, and louse-borne infections remain neglected components of the febrile illness landscape in Korea. Improved diagnostic awareness, strengthened surveillance, and continued collaboration are needed to better define their burden and to detect potential reemergence.",
+      "authors": [
+        "Im JH",
+        "Lee SJ",
+        "Baek JH"
+      ],
+      "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+      "publicationDate": "Nov 17, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43046274/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-18T14:40:34.765Z"
+    },
+    {
+      "pmid": "43044679",
+      "title": "CRISPR-Cas Systems in Protozoan Parasites: Genome Editing, Functional Genomics, Gene Regulation and Emerging Applications.",
+      "abstract": "Protozoan parasites possess complex genomes, unusual DNA-repair mechanisms, multiple developmental stages, and, in several species, intracellular or vector-dependent life cycles that complicate functional genetic studies. CRISPR-Cas9 has become a central tool for functional genomics in these organisms, enabling targeted gene disruption, replacement, tagging, nucleotide modification and genome-wide functional screening. However, editing efficiency and outcomes vary substantially among parasite species and depend not only on Cas9-mediated double-strand break formation but also on target accessibility, guide design, delivery method, parasite stage, DNA-repair capacity, donor availability, selection and the biological cost of the induced lesion. This review focuses primarily on experimentally established Cas9-mediated genome editing in Plasmodium, Leishmania, Toxoplasma gondii, Trypanosoma, Babesia, Theileria and Cryptosporidium. We compare plasmid-based and transient expression, ribonucleoprotein (RNP) delivery, electroporation/nucleofection, stage-specific delivery, guide and donor design, selection strategies, editing outcomes, and molecular and functional validation. Particular emphasis is placed on homology-directed repair (HDR), canonical non-homologous end joining (NHEJ), microhomology-mediated end joining (MMEJ) and single-strand annealing (SSA), which determine whether editing results in indels, precise sequence replacement, tagging or larger genomic deletions. Species-specific differences are illustrated by efficient NHEJ-mediated disruption in Toxoplasma, donor-dependent repair in Plasmodium and Cryptosporidium, SSA-associated repair in Leishmania, efficient homologous recombination in trypanosomatids, precise editing in Babesia, and stage-specific delivery constraints in Theileria. The review further examines the progression from single-gene editing to marker-free manipulation, base editing, conditional approaches and genome-wide functional screens. Cas12a, CRISPRi/a, prime editing and related systems are discussed as emerging extensions. Overall, this repair- and delivery-centred framework explains why CRISPR editing differs among protozoan parasites and identifies the experimentally validated limitations that currently shape their genome-engineering potential.",
+      "authors": [
+        "Ganguly N",
+        "Thakre BJ"
+      ],
+      "journal": "Molecular and biochemical parasitology",
+      "publicationDate": "Nov 17, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43044679/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-18T14:40:41.792Z"
     },
     {
       "pmid": "43039695",
@@ -91,7 +136,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:20.909Z"
+      "fetchedAt": "2026-11-18T14:40:27.657Z"
     },
     {
       "pmid": "43038216",
@@ -114,7 +159,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:21.720Z"
+      "fetchedAt": "2026-11-18T14:40:28.359Z"
     },
     {
       "pmid": "43035312",
@@ -137,7 +182,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:22.353Z"
+      "fetchedAt": "2026-11-18T14:40:28.991Z"
     },
     {
       "pmid": "43025990",
@@ -159,7 +204,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:22.853Z"
+      "fetchedAt": "2026-11-18T14:40:29.491Z"
     },
     {
       "pmid": "43025731",
@@ -181,7 +226,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:23.354Z"
+      "fetchedAt": "2026-11-18T14:40:29.992Z"
     },
     {
       "pmid": "43026010",
@@ -204,7 +249,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:28.734Z"
+      "fetchedAt": "2026-11-18T14:40:36.521Z"
     },
     {
       "pmid": "43025731",
@@ -226,7 +271,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:35.969Z"
+      "fetchedAt": "2026-11-18T14:40:43.537Z"
     },
     {
       "pmid": "43023268",
@@ -249,7 +294,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:37.285Z"
+      "fetchedAt": "2026-11-18T14:40:44.164Z"
     },
     {
       "pmid": "43022803",
@@ -272,7 +317,28 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:23.988Z"
+      "fetchedAt": "2026-11-18T14:40:30.638Z"
+    },
+    {
+      "pmid": "43041965",
+      "title": "Vector-Borne Infections, PANS, and Autoimmune Encephalitis: A Series of Five Cases.",
+      "abstract": "Autoimmune encephalitis is increasingly recognized as a central mechanism underlying many infection-associated neuropsychiatric syndromes. Pediatric acute-onset neuropsychiatric syndrome (PANS), a subset of autoimmune encephalitis, is defined as the abrupt onset of obsessive-compulsive disorder (OCD) and/or severe food restriction accompanied by concurrent mood, behavioral, and cognitive disturbances. In this case series, five pediatric patients developed clinical features consistent with autoimmune encephalitis and PANS following infection with vector-borne pathogens. These cases illustrate that vector-borne infections are frequently polymicrobial and can precipitate significant neuropsychiatric symptoms, including severe mood dysregulation and thought disturbances. When children and adolescents present with neuropsychiatric symptoms, clinicians should consider vector-borne infectious etiologies in the differential diagnosis.",
+      "authors": [
+        "Kinderlehrer DA"
+      ],
+      "journal": "International medical case reports journal",
+      "publicationDate": "11 12, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43041965/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-18T14:40:35.400Z"
     },
     {
       "pmid": "43020238",
@@ -295,7 +361,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:29.374Z"
+      "fetchedAt": "2026-11-18T14:40:37.164Z"
     },
     {
       "pmid": "43015502",
@@ -318,7 +384,28 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:30.012Z"
+      "fetchedAt": "2026-11-18T14:40:37.786Z"
+    },
+    {
+      "pmid": "43041965",
+      "title": "Vector-Borne Infections, PANS, and Autoimmune Encephalitis: A Series of Five Cases.",
+      "abstract": "Autoimmune encephalitis is increasingly recognized as a central mechanism underlying many infection-associated neuropsychiatric syndromes. Pediatric acute-onset neuropsychiatric syndrome (PANS), a subset of autoimmune encephalitis, is defined as the abrupt onset of obsessive-compulsive disorder (OCD) and/or severe food restriction accompanied by concurrent mood, behavioral, and cognitive disturbances. In this case series, five pediatric patients developed clinical features consistent with autoimmune encephalitis and PANS following infection with vector-borne pathogens. These cases illustrate that vector-borne infections are frequently polymicrobial and can precipitate significant neuropsychiatric symptoms, including severe mood dysregulation and thought disturbances. When children and adolescents present with neuropsychiatric symptoms, clinicians should consider vector-borne infectious etiologies in the differential diagnosis.",
+      "authors": [
+        "Kinderlehrer DA"
+      ],
+      "journal": "International medical case reports journal",
+      "publicationDate": "11 12, 2026",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43041965/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-18T14:40:42.411Z"
     },
     {
       "pmid": "43018130",
@@ -341,7 +428,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:38.586Z"
+      "fetchedAt": "2026-11-18T14:40:45.424Z"
     },
     {
       "pmid": "43014413",
@@ -364,7 +451,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:39.878Z"
+      "fetchedAt": "2026-11-18T14:40:46.684Z"
     },
     {
       "pmid": "43018000",
@@ -387,7 +474,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:39.233Z"
+      "fetchedAt": "2026-11-18T14:40:46.045Z"
     },
     {
       "pmid": "43027263",
@@ -410,7 +497,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:35.469Z"
+      "fetchedAt": "2026-11-18T14:40:43.037Z"
     },
     {
       "pmid": "43014386",
@@ -433,7 +520,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:25.275Z"
+      "fetchedAt": "2026-11-18T14:40:31.888Z"
     },
     {
       "pmid": "43027258",
@@ -456,30 +543,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:28.235Z"
-    },
-    {
-      "pmid": "42981383",
-      "title": "Iron sourcing strategies and adaptive protein responses to iron deprivation in the intraerythrocytic parasite Babesia divergens.",
-      "abstract": "Iron is indispensable for the survival and pathogenicity of Babesia parasites, yet the mechanisms underlying its acquisition remain largely unresolved. In contrast to other apicomplexan parasites, tick-borne Babesia species rapidly lose the parasitophorous vacuole following erythrocyte invasion and do not form hemozoin, suggesting the evolution of distinct strategies for iron metabolism. Here, we demonstrate that Babesia divergens utilizes a sequential, multi-route iron acquisition system to meet its metabolic demands within host erythrocytes. Kinetic uptake analyses reveal a pronounced preference for ferrous iron (Fe2+), which is imported through an active, energy-dependent process supported by extracellular ferric reductase activity that converts host-derived ferric iron (Fe3+) into a bioavailable form prior to uptake. Using immunogold transmission electron microscopy, we provide evidence for the active internalization of host transferrin and show that parasite proliferation is dose-dependently inhibited by apo-transferrin, establishing iron as a limiting factor for parasite growth. Quantitative proteomic profiling revealed a limited, stage-specific response to deferoxamine-induced iron deprivation. Three proteins showed statistically significant changes in abundance in free merozoites: the conserved multipass membrane protein Bdiv_019230 increased, whereas the hypothetical protein Bdiv_002300 and the putative serine hydroxymethyltransferase Bdiv_027330 decreased. No proteins reached the statistical significance threshold in intraerythrocytic parasites. These results identify a small set of statistically supported candidates for investigating the response of extracellular B. divergens merozoites to iron-restricted conditions.",
-      "authors": [
-        "Levytska V",
-        "Mach J",
-        "Robbertse L"
-      ],
-      "journal": "PLoS neglected tropical diseases",
-      "publicationDate": "Nov 04, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42981383/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-17T14:59:41.170Z"
+      "fetchedAt": "2026-11-18T14:40:36.021Z"
     },
     {
       "pmid": "42987484",
@@ -502,7 +566,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:32.572Z"
+      "fetchedAt": "2026-11-18T14:40:40.311Z"
     },
     {
       "pmid": "42987484",
@@ -525,7 +589,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:40.521Z"
+      "fetchedAt": "2026-11-18T14:40:47.320Z"
     },
     {
       "pmid": "43022380",
@@ -548,53 +612,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:37.939Z"
-    },
-    {
-      "pmid": "42966018",
-      "title": "Bacterial diversity associated with Streblidae flies parasitizing cave-dwelling bats from northeastern Brazil.",
-      "abstract": "Bats (Chiroptera) are highly diverse mammals that play key ecological roles and harbor a wide range of microorganisms, yet the microbiome of their ectoparasitic flies remains poorly understood. This study characterized and compared the bacterial microbiomes associated with two bat-ectoparasite systems, Pteronotus gymnonotus-Trichobius johnsonae and Desmodus rotundus-Trichobius parasiticus, from cave-dwelling bat populations in northeastern Brazil using 16S rRNA gene sequencing. Sixty-eight bat fly samples were successfully sequenced, and 67 were retained for downstream ecological analyses after quality filtering. Bacterial communities were dominated by members of the classes Gammaproteobacteria and Alphaproteobacteria, with Arsenophonus, Bartonella, and unresolved endosymbiont-associated taxa among the most abundant bacterial groups. Alpha-diversity patterns varied according to the metric considered: observed ASV richness was influenced by bat fly species, sex, and their interaction, Shannon diversity differed according to streblid fly species and sex, and Faith's phylogenetic diversity differed between bat fly sexes. Notably, male T. johnsonae exhibited greater observed ASV richness than females, whereas no significant sex difference was detected in T. parasiticus. Beta-diversity analyses consistently revealed differences in bacterial community composition between the two bat-ectoparasite systems, while the influence of sex was system-dependent, with significant differentiation between T. johnsonae males and females but not between sexes of T. parasiticus in phylogenetically informed analyses. Differential abundance analysis further identified Romboutsia, Bartonella, Bacteroides, and an unclassified Pseudomonadota genus as discriminatory taxa among groups. Overall, these findings reveal distinct bacterial diversity and composition patterns between the two bat-ectoparasite systems and indicate that sex-associated microbiome variation is not uniform across bat fly species.",
-      "authors": [
-        "de Mello VVC",
-        "Funnicelli MIG",
-        "Barbier E"
-      ],
-      "journal": "Comparative immunology, microbiology and infectious diseases",
-      "publicationDate": "Oct 26, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42966018/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-17T14:59:33.870Z"
-    },
-    {
-      "pmid": "42978018",
-      "title": "Ecological niche partitioning and urbanization-driven restructuring of flea-borne pathogen communities in stray carnivores of Peninsular Malaysia: discovery of uncharacterised Bartonella lineages.",
-      "abstract": "Flea-borne bacteria are emerging zoonotic pathogens of increasing public health importance, yet their ecological distribution, community structure, and genetic diversity across contrasting landscapes in Southeast Asia remain poorly understood. This study investigated flea infestation, flea-borne bacterial pathogens, and their ecological associations in stray cats and dogs across urban, peri-urban, and rural landscapes of Peninsular Malaysia. A total of 296 stray cats and dogs were examined for flea infestation, and all recovered fleas (n&#x2009;=&#x2009;636) were identified morphologically and screened individually for Bartonella spp., Rickettsia spp., and Orientia tsutsugamushi using polymerase chain reaction (PCR) assays followed by Sanger sequencing and phylogenetic analysis. Risk factors associated with flea infestation, Bartonella spp. and Rickettsia spp. occurrence were evaluated using generalized linear models (GLMs), generalized linear mixed-effects models (GLMMs), and Firth's penalized logistic regression, respectively. Pathogen community structure was assessed using alpha diversity indices, non-metric multidimensional scaling (NMDS), permutational multivariate analysis of variance (PERMANOVA), and tripartite ecological network analysis. Overall flea infestation prevalence was 32.09% (95/296), with infestation significantly higher in cats (39.44%) than dogs (13.25%) (&#x3c7;2&#x2009;=&#x2009;10.672, df&#x2009;=&#x2009;1, p&#x2009;=&#x2009;0.001). All 636 fleas exhibited complete host-associated segregation, with Ctenocephalides felis (n&#x2009;=&#x2009;485) occurring exclusively on cats and C. orientis (n&#x2009;=&#x2009;151) exclusively on dogs. Flea-borne pathogens were detected in 71.86% (457/636) of fleas, comprising Bartonella henselae, B. clarridgeiae, B. koehlerae, several uncharacterized Bartonella lineages, Rickettsia felis, and R. asembonensis. Urban landscapes were associated with significantly higher Bartonella prevalence in C. felis (70.05%), whereas C. orientis was overwhelmingly dominated by R. asembonensis (94.04%). Ecological analyses demonstrated significant landscape-associated variation in pathogen community composition among C. felis populations but not C. orientis. Phylogenetic analysis identified a distinct, well-supported clade of previously uncharacterized Bartonella lineages (bootstrap&#x2009;=&#x2009;100%). No O. tsutsugamushi was detected in any flea sample. Flea-borne pathogen communities in Peninsular Malaysia are structured by strong host-vector associations and ecological landscape, with peri-urban environments supporting greater pathogen diversity and urban landscapes demonstrated higher detection of Bartonella in C. felis. The discovery of previously uncharacterized Bartonella lineages expands the known diversity of flea-associated Bartonella in Malaysia and highlights the importance of integrating molecular epidemiology with community ecology to improve surveillance of emerging flea-borne zoonoses.",
-      "authors": [
-        "Alison JT",
-        "Taufik AS",
-        "Jahfar AI"
-      ],
-      "journal": "Parasites & vectors",
-      "publicationDate": "Oct 22, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42978018/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-17T14:59:33.225Z"
+      "fetchedAt": "2026-11-18T14:40:44.791Z"
     },
     {
       "pmid": "43011688",
@@ -617,7 +635,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:30.643Z"
+      "fetchedAt": "2026-11-18T14:40:38.413Z"
     },
     {
       "pmid": "42999270",
@@ -640,7 +658,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:26.595Z"
+      "fetchedAt": "2026-11-18T14:40:33.155Z"
     },
     {
       "pmid": "43017705",
@@ -663,30 +681,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-17T14:59:24.632Z"
-    },
-    {
-      "pmid": "43024115",
-      "title": "Molecular detection and diversity of piroplasmids in cattle from Jiri, Nepal.",
-      "abstract": "Babesia and Theileria species are tick-borne protozoan parasites that cause piroplasmosis in cattle, a disease associated with substantial economic losses in the cattle industry. This study aimed to detect piroplasmid infections in cattle in Nepal, using microscopic and molecular methods. Eighty blood samples were collected from cattle herds at Jiri, Nepal. Blood smears were examined microscopically for the presence of piroplasmids, and samples were assayed using nested PCR (nPCR) targeting the 18&#xa0;S rRNA gene. All nPCR positive samples underwent direct sequencing and representative positive samples were further analyzed through cloning and sequencing. Selected blood samples were used for hematological analysis; and microscopic examination revealed 23.8% (19/80) positivity for piroplasmids, whereas corresponding nPCR detected 77.5% (62/80) positive samples. Direct sequencing identified infections with Babesia bovis and B. bigemina, and with Theileria annulata and T. orientalis. Of 27 selected samples subjected to cloning and sequencing, 23 (85.2%) represented single infections, 3 (11.1%) were mixed infections containing both B. bovis and B. bigemina, while a single sample (0.04%) revealed the presence of Colpoda, a free-living protozoan. Phylogenetic analysis showed that most of the detected sequences clustered into species-specific clades, although one sample formed a distinct branch from the nearby B. bovis clade. There was no significant correlation between the presence of blood parasites and alterations of hematological parameters. This study highlights the importance of combining microscopic and molecular methods for the detection of piroplasmids and provides crucial baseline data on the prevalence and diversity of these parasites in cattle herds in Nepal.",
-      "authors": [
-        "Pandey M",
-        "Chaudhary MK",
-        "Dhakal DN"
-      ],
-      "journal": "Parasitology research",
-      "publicationDate": "Aug 19, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43024115/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-17T14:59:36.636Z"
+      "fetchedAt": "2026-11-18T14:40:31.268Z"
     }
   ]
 }
