@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-11-18T14:40:48.320Z",
+  "generatedAt": "2026-11-19T14:47:07.153Z",
   "totalPapers": 30,
   "papers": [
+    {
+      "pmid": "43047671",
+      "title": "Transient hypoparathyroidism and symptomatic hypocalcemia complicating babesiosis.",
+      "abstract": "Babesiosis, caused by Babesia microti, is a tick-borne intraerythrocytic infection with diverse manifestations, but endocrine complications are rarely reported. We describe a 60-year-old man who presented with fever, chills, and cognitive symptoms and was diagnosed with babesiosis by peripheral smear, serology, and polymerase chain reaction. Despite improvement with atovaquone and azithromycin, he developed confusion, paresthesia, and fatigue, prompting further investigation. Laboratory testing revealed hypocalcemia (total calcium, 6.8&#x2005;mg/dL [SI: 1.7&#x2005;mmol/L]; reference range, 8.4-10.4&#x2005;mg/dL [SI: 2.10-2.60&#x2005;mmol/L]); ionized calcium, 3.8&#x2005;mg/dL (SI: 0.95&#x2005;mmol/L; reference range, 4.7-5.5&#x2005;mg/dL [SI: 1.17-1.37&#x2005;mmol/L]), a low parathyroid hormone concentration of 9&#x2005;pg/mL (SI: 9&#x2005;ng/L; reference range, 18-88&#x2005;pg/mL [SI: 1.9-9.3&#x2005;pmol/L]), and hyperphosphatemia, with phosphate concentration of 5.7&#x2005;mg/dL (SI: 1.84&#x2005;mmol/L; reference range, 2.5-4.5&#x2005;mg/dL [SI: 0.81-1.45&#x2005;mmol/L]), consistent with hypoparathyroidism, with normal magnesium and vitamin D levels. Other etiologies were excluded. He was treated with intravenous calcium followed by oral calcium and calcitriol, resulting in symptomatic and biochemical improvement. Serial monitoring demonstrated gradual recovery of parathyroid function, allowing discontinuation of calcitriol. At follow-up, calcium, phosphate, and parathyroid hormone normalized, and symptoms resolved. This case describes transient hypoparathyroidism associated with babesiosis, with possible cytokine- or immune-mediated mechanisms.",
+      "authors": [
+        "Amer B",
+        "Phillips B"
+      ],
+      "journal": "JCEM case reports",
+      "publicationDate": "Jan 17, 2027",
+      "articleType": "Case Reports",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43047671/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-19T14:47:01.154Z"
+    },
     {
       "pmid": "42999876",
       "title": "Untitled",
@@ -23,7 +45,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:39.038Z"
+      "fetchedAt": "2026-11-19T14:46:58.166Z"
     },
     {
       "pmid": "42991458",
@@ -46,21 +68,66 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:39.656Z"
+      "fetchedAt": "2026-11-19T14:46:58.816Z"
     },
     {
-      "pmid": "43011829",
-      "title": "Things We Do for No Reason-Polymerase Chain Reaction for Lyme Disease Diagnostic Testing.",
-      "abstract": "Borrelia burgdorferi polymerase chain reaction (PCR) testing demonstrated a low positivity rate of 1.9% (17/885), minimal impact on clinical decision-making, and considerable healthcare cost expenditures in a Lyme disease endemic area. These findings reinforce adherence to guideline-recommended serologic testing and support diagnostic stewardship initiatives to limit unnecessary PCR utilization.",
+      "pmid": "43052621",
+      "title": "Molecular evidence of vector/blood borne and hemotropic bacteria in dogs and cats from El Salvador, Central America.",
+      "abstract": "Latin America's high biodiversity, together with socioeconomic and ecological conditions, favors the persistence of vectors and vector-borne bacterial pathogens in domestic animals. Data on vector-borne pathogens in domestic dogs and cats in Central America remain limited, and reports from El Salvador are scarce. This study aimed to investigate the occurrence of Bartonella spp., Anaplasma spp., Ehrlichia spp., and hemotropic Mycoplasma spp. in domestic dogs and cats from the metropolitan area of San Salvador, El Salvador. For this purpose, blood samples were collected from 269 dogs and 59 cats in veterinary clinics. Four feline (6.78%; 95% CI: 2.67-16.18%) and one canine (0.37%; 95% CI: 0.07-2.08%) samples were positive for Bartonella spp. by a quantitative real-time TaqMan based PCR (qPCR) based on the NADH dehydrogenase gamma subunit (nuoG) gene. In a TaqMan-based multiplex qPCR targeting the gene encoding the 60-kDa heat shock protein (groEL gene), whereas 19 canine (7.06%; 95% CI: 4.57-10.77%) and our feline (6.78%; 95% CI: 2.67-16.18%) samples were positive for Ehrlichia spp., eight canine (2.97%; 95% CI: 1.51-5.76%) and one feline (1.69%; 95% CI: 0.30-9.00%) samples were positive for Anaplasma spp. Five feline (8.47%; 95% CI: 3.67-18.35%) and three canine (1.12%; 95% CI: 0.38-3.23%) samples were positive in a SYBRGreen-based qPCR targeting the 16&#xa0;S rRNA gene of hemotropic Mycoplasma spp. Sequencing and phylogenetic analyses allowed the identification of Bartonella henselae in four (one dog and three cat samples) of the five Bartonella-positive animals, and 'Candidatus Mycoplasma haemominutum' in three out of five hemoplasma-positive cats analyzed. In dogs, hemoplasma species could not be determined due to the lack of sequencing data. The Anaplasma spp. and Ehrlichia spp. positive samples did not yield amplicons in the conventional PCR assays for sequencing, precluding molecular identification at the species level. To the best of our knowledge, this is the first molecular detection of Bartonella spp. and hemoplasmas in domestic dogs and cats from El Salvador and the first molecular evidence of Anaplasma spp. and Ehrlichia spp. in domestic cats in the country.",
       "authors": [
-        "Kufel WD",
-        "Zimmer AA",
-        "Mahapatra R"
+        "Alab&#xed; C&#xf3;rdova AS",
+        "Rivera MHR",
+        "Calchi AC"
       ],
-      "journal": "Open forum infectious diseases",
-      "publicationDate": "Nov 30, 2026",
+      "journal": "Veterinary research communications",
+      "publicationDate": "Nov 19, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43011829/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43052621/",
+      "pathogen": "bartonella",
+      "pathogenColor": "#db2777",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-19T14:46:53.149Z"
+    },
+    {
+      "pmid": "43049102",
+      "title": "Looking beyond the tip of the iceberg: Powassan virus infections among children with Lyme disease.",
+      "abstract": "",
+      "authors": [
+        "Handel AS",
+        "Mackow ER"
+      ],
+      "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "publicationDate": "Nov 18, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43049102/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
+      "aiSummary": {
+        "whatTheyFound": "This paper investigates aspects of tick-borne infections.",
+        "whyItMatters": "Read the full abstract for clinical details.",
+        "limitations": "AI summary unavailable.",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-19T14:46:46.029Z"
+    },
+    {
+      "pmid": "43048867",
+      "title": "Prevalence of Powassan Virus Infection in Children with Suspected Lyme Disease.",
+      "abstract": "Both Lyme disease and Powassan virus (POWV) are transmitted by the bite of the Ixodes tick. While severe POWV encephalitis cases are uncommon in children, milder infections may be underdiagnosed. We performed a case-control study nested within a prospective cohort of children < 21 years evaluated for Lyme disease at one of eight Pedi Lyme Net emergency departments. We selected children with early or early-disseminated Lyme disease (n=305) with age, sex, center and symptom matched clinical mimics (n=295). Using biobanked research specimens, we performed POWV two-tier serology with confirmatory focus neutralization testing (FNT) and a reverse transcriptase polymerase chain reaction (RT-PCR) test. We defined a POWV infection with a positive two-tier serology or RT-PCR test. We compared the prevalence of POWV between children with Lyme disease and matched mimics. Of the 600 included children, the median age was 9 years (interquartile range 6-14 years) and 377 (63%) were male. POWV infection was more common in the children with Lyme disease (8.5%, 95% confidence interval (CI) 5.4-11.7%) compared to matched mimics (0.7%, 95% CI 0.1-2.4%; difference 7.9%, 95% CI 4.6-11.1; adjusted odds ratio 5.0, 95% CI 1.2-21.9). Of the 28 children with a positive POWV two-tier serology test, 11 (39%) had a positive FNT test. None of the RT-PCR tests were positive (0%, 95% CI 0-0.7%). A substantial minority of children with Lyme disease had serologic evidence of POWV co-infection compared with matched clinical mimics. Clinically unrecognized POWV infections were more common than previously acknowledged.",
+      "authors": [
+        "Hadley SM",
+        "Woll CJ",
+        "Lee W"
+      ],
+      "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "publicationDate": "Nov 18, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43048867/",
       "pathogen": "lyme",
       "pathogenColor": "#059669",
       "aiSummary": {
@@ -69,7 +136,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:32.513Z"
+      "fetchedAt": "2026-11-19T14:46:46.757Z"
+    },
+    {
+      "pmid": "43051342",
+      "title": "Molecular detection and therapeutic management of Babesia gibsoni and Ehrlichia canis co-infection in dogs along with characterisation of the pathogens.",
+      "abstract": "Tick-borne hemoparasitic infections constitute an important cause of clinical morbidity in dogs, particularly in endemic regions where vector exposure facilitates concurrent transmission of multiple pathogens. This study aimed to molecularly detect and characterise Babesia gibsoni and Ehrlichia canis co-infection in dogs, assess associated clinico-hemato-biochemical alterations, and evaluate the therapeutic efficacy of artesunate-atovaquone-doxycycline (AAD) regimen. A total of 184 clinically suspected dogs were screened by internally controlled multiplex PCR, and positive cases were further confirmed by species-specific real-time quantitative PCR (qPCR) and sequencing. The prevalence of B. gibsoni and E. canis co-infection was 7.6% (14/184). Eight infected dogs were treated with AAD protocol and the relative abundance of parasite target DNA was assessed on days 0, 10, 28, and 90 using relative quantification (RQ) qPCR targeting B. gibsoni 18S rRNA and E. canis VirB9 gene that has been normalized to canine &#x3b2;-actin by the 2-&#x394;&#x394;Ct method. Infected dogs exhibited normocytic-normochromic anaemia, thrombocytopenia, hypoproteinaemia, hyperglobulinaemia, hyperbilirubinemia, azotaemia, high serum alkaline phosphatase and aspartate transaminase level whereas, mean creatinine level were found within normal physiological range. Following AAD therapy, dogs showed rapid clinical recovery, with significant improvement in hemato-biochemical parameters by day 90. Significant reduction in parasite DNA load was noted, reflected by rising Ct values and progressively declining log RQ values for both pathogens. These findings indicated that the AAD regimen showed potential effectiveness against canine B. gibsoni and E. canis co-infection, however this preliminary clinical observation may be validated through further controlled trials.",
+      "authors": [
+        "Pati M",
+        "Biswal S",
+        "Mishra SR"
+      ],
+      "journal": "Acta tropica",
+      "publicationDate": "Nov 18, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43051342/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-19T14:47:00.498Z"
     },
     {
       "pmid": "43046274",
@@ -92,7 +182,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:34.765Z"
+      "fetchedAt": "2026-11-19T14:46:53.801Z"
     },
     {
       "pmid": "43044679",
@@ -114,7 +204,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:41.792Z"
+      "fetchedAt": "2026-11-19T14:47:01.782Z"
     },
     {
       "pmid": "43039695",
@@ -136,7 +226,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:27.657Z"
+      "fetchedAt": "2026-11-19T14:46:47.900Z"
     },
     {
       "pmid": "43038216",
@@ -159,7 +249,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:28.359Z"
+      "fetchedAt": "2026-11-19T14:46:48.539Z"
     },
     {
       "pmid": "43035312",
@@ -182,7 +272,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:28.991Z"
+      "fetchedAt": "2026-11-19T14:46:49.197Z"
     },
     {
       "pmid": "43025990",
@@ -204,7 +294,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:29.491Z"
+      "fetchedAt": "2026-11-19T14:46:49.698Z"
     },
     {
       "pmid": "43025731",
@@ -226,7 +316,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:29.992Z"
+      "fetchedAt": "2026-11-19T14:46:50.198Z"
     },
     {
       "pmid": "43026010",
@@ -249,7 +339,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:36.521Z"
+      "fetchedAt": "2026-11-19T14:46:55.593Z"
     },
     {
       "pmid": "43025731",
@@ -271,7 +361,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:43.537Z"
+      "fetchedAt": "2026-11-19T14:47:03.573Z"
     },
     {
       "pmid": "43023268",
@@ -294,7 +384,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:44.164Z"
+      "fetchedAt": "2026-11-19T14:47:04.233Z"
     },
     {
       "pmid": "43022803",
@@ -317,7 +407,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:30.638Z"
+      "fetchedAt": "2026-11-19T14:46:50.831Z"
     },
     {
       "pmid": "43041965",
@@ -338,7 +428,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:35.400Z"
+      "fetchedAt": "2026-11-19T14:46:54.457Z"
     },
     {
       "pmid": "43020238",
@@ -361,7 +451,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:37.164Z"
+      "fetchedAt": "2026-11-19T14:46:56.225Z"
     },
     {
       "pmid": "43015502",
@@ -384,7 +474,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:37.786Z"
+      "fetchedAt": "2026-11-19T14:46:56.877Z"
     },
     {
       "pmid": "43041965",
@@ -405,7 +495,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:42.411Z"
+      "fetchedAt": "2026-11-19T14:47:02.416Z"
     },
     {
       "pmid": "43018130",
@@ -428,30 +518,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:45.424Z"
-    },
-    {
-      "pmid": "43014413",
-      "title": "Nationwide molecular survey of Babesia and Theileria DNA in wild rodents and mites collected from rodents in Korea.",
-      "abstract": "Piroplasm parasites of the genera Babesia and Theileria are widely distributed in wildlife and are maintained through complex host-vector transmission systems. Rodents play important roles as reservoir hosts for various arthropod-borne pathogens; however, comparative investigations integrating multiple host compartments and host-associated ectoparasites remain limited. In this study, we conducted a nationwide molecular survey of Babesia and Theileria species in wild rodents and mites collected from rodents in Korea. Rodent blood and liver tissues, together with mite pools, were examined using PCR-based detection methods, and spatial and seasonal variation in pathogen detection patterns was evaluated. Babesia microti was detected in both rodent blood and liver tissues, with higher positivity in blood and marked spatial and seasonal heterogeneity. The higher positivity observed in blood was consistent with the intraerythrocytic biology of B. microti, although differences in analytical sensitivity between sample types were not evaluated. Theileria capreoli DNA was detected exclusively at low frequency in mite pools, whereas Theileria luwenshuni DNA was detected at low frequency in both rodents and mite pools. Because mites are not established biological vectors of these Theileria species, detections in mite pools were interpreted as molecular occurrence rather than evidence of transmission or vector competence. Significant regional and seasonal variation was observed in blood and mite samples; however, overall detection frequencies were low, warranting cautious ecological interpretation. This nationwide, multi-compartment assessment highlights the ecological complexity of piroplasm circulation in wildlife systems and underscores the importance of integrated surveillance approaches when interpreting parasite DNA detection in arthropod assemblages.",
-      "authors": [
-        "Kim B",
-        "Lee YJ",
-        "Woo HM"
-      ],
-      "journal": "Parasites, hosts and diseases",
-      "publicationDate": "Nov 12, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43014413/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-18T14:40:46.684Z"
+      "fetchedAt": "2026-11-19T14:47:05.520Z"
     },
     {
       "pmid": "43018000",
@@ -474,7 +541,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:46.045Z"
+      "fetchedAt": "2026-11-19T14:47:06.153Z"
     },
     {
       "pmid": "43027263",
@@ -497,30 +564,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:43.037Z"
-    },
-    {
-      "pmid": "43014386",
-      "title": "A Case Report of Meningitis due to Borrelia Species in Arizona.",
-      "abstract": "Lyme disease is most prevalent in the Northeast and Midwest regions of the United States, as well as northern California; however, cases have been reported in nonendemic areas, including the Southwestern United States. Atypical presentations or underreporting can cause delay in diagnosis. We present the case of a 22-year-old previously healthy man, who presented to our emergency department in metropolitan Phoenix with five days of headache, fever, meningismus, and photophobia, and later developed focal neurologic deficits consistent with Lyme meningitis. Cerebrospinal fluid was notable for lymphocytic pleocytosis, and Western blot for Borrelia burgdorferi Immunoglobulin-M antibodies was positive, which led us to Lyme meningitis as the unifying diagnosis. He was treated with intravenous ceftriaxone and his symptoms resolved. This case highlights the importance of considering this pathology in nonendemic areas.",
-      "authors": [
-        "Austin S",
-        "Tarzia T",
-        "Saunders G"
-      ],
-      "journal": "Clinical practice and cases in emergency medicine",
-      "publicationDate": "Nov 7, 2026",
-      "articleType": "Case Reports",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43014386/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-18T14:40:31.888Z"
+      "fetchedAt": "2026-11-19T14:47:03.073Z"
     },
     {
       "pmid": "43027258",
@@ -543,53 +587,29 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:36.021Z"
+      "fetchedAt": "2026-11-19T14:46:55.094Z"
     },
     {
-      "pmid": "42987484",
-      "title": "Detection of vector-borne organisms in domestic cats in the United States and Canada (2019 - 2025) with analysis of Hepatozoon variants.",
-      "abstract": "Published large-scale vector-borne organism (VBO) PCR prevalence studies in domestic cats are limited. The prevalence of VBOs in feline blood samples submitted for PCR testing by a veterinary diagnostic laboratory between January 2, 2019, and December 23, 2025 (n&#x202f;=&#x202f;7581) was determined. Feline blood samples were tested for Anaplasma, Apicomplexa, Babesia, Bartonella, Cytauxzoon, Ehrlichia, hemotropic Mycoplasma, and Rickettsia. VBOs were detected in 1373/7581 (18.1%) blood samples, with Mycoplasma haemominutum (8.87%) and Bartonella henselae (5.99%) being the most prevalent. Hepatozoon spp. were identified in 40 (0.58%) cats, prompting further genetic and epidemiologic characterization. Sequence analysis of a 182-bp fragment of the Hepatozoon 18S rRNA gene from 40 PCR-positive cats identified seven haplotypes with the highest sequence similarities to Hepatozoon silvestris, Hepatozoon felis, and bobcat-associated Hepatozoon spp. Phylogenetic analysis resolved the variants into major groups clustering with H. silvestris, H. felis, and nondomestic felid-associated Hepatozoon spp. Most Hepatozoon-positive cats originated from the Northeast and Mid-Atlantic regions of the United States (34/40; 85.0%), of which seven infections (7/40; 17.5%) involved cats undergoing blood donor screening. Overall, PCR testing confirmed infection with a VBO in approximately one in five cats tested in the U.S and Canada. Hepatozoon infections were more common than previously recognized, underscoring the value of Hepatozoon-specific PCR in feline VBO diagnostic testing.",
+      "pmid": "43048103",
+      "title": "Participant-Reported Use of Human-Encountered Tick-Testing Results in Healthcare Settings: A Cross-sectional Survey.",
+      "abstract": "The rising incidence and expanding geographic distribution of tick-borne diseases in the United States have led to innovative approaches to surveillance and risk assessment. Human-encountered tick-testing programs provide submitters with tick identification and pathogen-screening results, although clinical guidelines advise against using tick pathogen results to direct patient management. We conducted a cross-sectional survey of 11 936 individuals who submitted ticks to the SUNY Upstate Tick Testing Program during 2019-2021. Of 2576 respondents (22.6%), 2560 answered the healthcare-use question; 824 (32.2%) reported using the result when seeking medical help. Among these respondents, 398 reported that a healthcare provider performed diagnostic testing, and 476 perceived that medication was prescribed based on the tick-testing result. Because the survey relied on participant self-report and did not capture symptoms, timing, medication type, clinical indication, or provider rationale, it cannot determine whether tick-testing results caused or improved clinical decisions. The findings nevertheless indicate that respondents bring these results into healthcare interactions. Communication accompanying tick-testing reports should emphasize that detection in a submitted tick does not establish human infection and that such results should not replace established clinical assessment or diagnostic testing.",
       "authors": [
-        "Martinez ME",
-        "Clarke SB",
-        "Wilson JM"
+        "Crooker J",
+        "Thangamani S"
       ],
-      "journal": "Veterinary parasitology",
+      "journal": "Open forum infectious diseases",
       "publicationDate": "Nov 02, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42987484/",
-      "pathogen": "bartonella",
-      "pathogenColor": "#db2777",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43048103/",
+      "pathogen": "lyme",
+      "pathogenColor": "#059669",
       "aiSummary": {
         "whatTheyFound": "",
         "whyItMatters": "",
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:40.311Z"
-    },
-    {
-      "pmid": "42987484",
-      "title": "Detection of vector-borne organisms in domestic cats in the United States and Canada (2019 - 2025) with analysis of Hepatozoon variants.",
-      "abstract": "Published large-scale vector-borne organism (VBO) PCR prevalence studies in domestic cats are limited. The prevalence of VBOs in feline blood samples submitted for PCR testing by a veterinary diagnostic laboratory between January 2, 2019, and December 23, 2025 (n&#x202f;=&#x202f;7581) was determined. Feline blood samples were tested for Anaplasma, Apicomplexa, Babesia, Bartonella, Cytauxzoon, Ehrlichia, hemotropic Mycoplasma, and Rickettsia. VBOs were detected in 1373/7581 (18.1%) blood samples, with Mycoplasma haemominutum (8.87%) and Bartonella henselae (5.99%) being the most prevalent. Hepatozoon spp. were identified in 40 (0.58%) cats, prompting further genetic and epidemiologic characterization. Sequence analysis of a 182-bp fragment of the Hepatozoon 18S rRNA gene from 40 PCR-positive cats identified seven haplotypes with the highest sequence similarities to Hepatozoon silvestris, Hepatozoon felis, and bobcat-associated Hepatozoon spp. Phylogenetic analysis resolved the variants into major groups clustering with H. silvestris, H. felis, and nondomestic felid-associated Hepatozoon spp. Most Hepatozoon-positive cats originated from the Northeast and Mid-Atlantic regions of the United States (34/40; 85.0%), of which seven infections (7/40; 17.5%) involved cats undergoing blood donor screening. Overall, PCR testing confirmed infection with a VBO in approximately one in five cats tested in the U.S and Canada. Hepatozoon infections were more common than previously recognized, underscoring the value of Hepatozoon-specific PCR in feline VBO diagnostic testing.",
-      "authors": [
-        "Martinez ME",
-        "Clarke SB",
-        "Wilson JM"
-      ],
-      "journal": "Veterinary parasitology",
-      "publicationDate": "Nov 02, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42987484/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-18T14:40:47.320Z"
+      "fetchedAt": "2026-11-19T14:46:47.401Z"
     },
     {
       "pmid": "43022380",
@@ -612,7 +632,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:44.791Z"
+      "fetchedAt": "2026-11-19T14:47:04.879Z"
     },
     {
       "pmid": "43011688",
@@ -635,30 +655,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:38.413Z"
-    },
-    {
-      "pmid": "42999270",
-      "title": "A molecular clutch governs stator engagement and flagellar torque.",
-      "abstract": "Motile bacteria must continuously adjust their motility to navigate and colonize diverse environments, including mammalian hosts, yet the underlying mechanisms remain poorly understood. Here, using in situ single-particle cryo-electron microscopy, we determine near-atomic structures of the flagellar motor in the Lyme disease spirochete Borrelia burgdorferi and uncover a novel mechanism for controlling torque generation. We identify a distinct neutral state in which individual torque-generating MotA 5 B 2 stator complexes remain incorporated in the motor but adopt an extended, tilted conformation disengaged from the rotor. Two conserved flagellar proteins, FliL and FlcA, form a transmembrane scaffold that retains 16 stator complexes, while FapA, a newly identified multidomain flagellar protein, binds the cytoplasmic base of the stator complex and stabilizes its rotor-disengaged conformation. Strikingly, rotor-engaged and rotor-disengaged stators coexist within individual motors, demonstrating that stator retention and torque engagement are separable states. Our findings establish a motor-retained neutral stator state and reveal a molecular-clutch mechanism that independently controls the engagement of individual stator units with the rotor, enabling rapid and precise regulation of flagellar torque and motility.",
-      "authors": [
-        "Guo W",
-        "Yue J",
-        "Zhang K"
-      ],
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationDate": "Oct 15, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42999270/",
-      "pathogen": "lyme",
-      "pathogenColor": "#059669",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-18T14:40:33.155Z"
+      "fetchedAt": "2026-11-19T14:46:57.530Z"
     },
     {
       "pmid": "43017705",
@@ -681,7 +678,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-18T14:40:31.268Z"
+      "fetchedAt": "2026-11-19T14:46:51.469Z"
     }
   ]
 }
