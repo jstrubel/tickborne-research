@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:28:32.053Z",
+  "generatedAt": "2026-11-21T13:47:42.409Z",
   "totalPapers": 30,
   "papers": [
     {
@@ -22,7 +22,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:26.691Z"
+      "fetchedAt": "2026-11-21T13:47:38.167Z"
     },
     {
       "pmid": "42999876",
@@ -45,21 +45,21 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:24.238Z"
+      "fetchedAt": "2026-11-21T13:47:34.357Z"
     },
     {
-      "pmid": "42991458",
-      "title": "Coinfection patterns and associations of tick-borne pathogens in natural foci of severe fever with thrombocytopenia syndrome: A One Health approach.",
-      "abstract": "Tick-borne pathogens (TBPs) circulate in complex ecological systems involving vectors, animal hosts, and humans. Coinfections have been shown to influence clinical outcomes and may complicate pathogen associations, yet current research remains limited. We adopted a One Health approach in Taizhou City, a severe fever with thrombocytopenia syndrome (SFTS) endemic area, by collecting 485 community residents, 90 confirmed SFTS patients, 1081 ticks, and 471 small mammals. Five TBPs, including Anaplasma spp., Bartonella spp., Coxiella spp., Ehrlichia spp., and spotted fever group rickettsiae (SFGR), were detected using indirect immunofluorescence assay or polymerase chain reaction. We subsequently analyzed pathogen prevalence and coinfection patterns, assessed pathogen-pathogen associations, and evaluated cross-host correlations at the township level. All five TBPs were detected across ticks, small mammals, and humans, with prevalence varying substantially. Human IgG showed diverse co-seropositivity, while coinfections in ticks and small mammals were limited. Significant pathogen-pathogen associations were observed: Anaplasma spp./Ehrlichia spp. and Ehrlichia spp./SFGR in humans, and Anaplasma spp./Coxiella spp. in small mammals. Cross-host correlations included positive associations of SFGR in ticks with community residents, Bartonella spp. in small mammals with community residents, and significant links of Anaplasma spp./Ehrlichia spp. and Anaplasma spp./SFGR between ticks and community residents. Multiple TBPs co-circulate in this SFTS epidemic area, following distinct exposure routes involving ticks and small mammals. Anaplasma spp., Ehrlichia spp., and SFGR are tick-borne, while Bartonella spp. is more associated with small mammals. IgG co-seropositivity in humans likely reflects repeated or long-term exposures rather than a single tick bite. These findings suggest that effective prevention should consider human activity patterns and the role of small mammals in sustaining pathogen circulation, while a One Health approach integrating humans, animals, and vectors can guide the development of more targeted control strategies.",
+      "pmid": "43063209",
+      "title": "A novel 17-plex multi-pathogen detection for rapid and accurate diagnosis of tick-borne diseases.",
+      "abstract": "In recent years, anthropogenic ecological disruption has escalated tick-borne zoonoses; ticks transmit taxonomically diverse pathogens with overlapping clinical signs, challenging precise diagnosis and increasing risk of simultaneous detection in pooled samples. Despite advancements, current sequencing technologies, such as Next-Generation Sequencing (NGS), Polymerase Chain Reaction (PCR) assays, and antibody-based detection methods, are hampered by limitations including extended processing times and limited detection throughput. These constraints significantly hinder their effectiveness in high-throughput pathogen screening for animal or patient samples. To address these challenges, we developed an innovative multi-detection method based on the Multi-analyte Suspension Assay (MASA), enabling rapid and accurate diagnosis of a comprehensive panel of 17 vector-borne pathogens. This 17-plex panel comprises Rickettsia spp., Anaplasma phagocytophilum, Borrelia recurrentis, Babesia spp., Borrelia burgdorferi, Rickettsia prowazekii, Rickettsia heilongjiangensis, Orientia tsutsugamushi, Coxiella burnetii, Leptospira, Bartonella spp., Candidatus Ehrlichia erytraense, Hantaan Virus (HTNV), Seoul Virus (SEOV), Crimean-Congo Hemorrhagic Fever Virus (CCHFV), Severe Fever with Thrombocytopenia Syndrome Virus (SFTSV), and Tick-Borne Encephalitis Virus (TBEV). By combining this novel method with traditional techniques, including nested PCR and Real-Time Quantitative Reverse Transcription PCR (qRT-PCR), we achieved accurate detection of pathogens such as Rickettsia spp., Anaplasma phagocytophilum, and SFTSV in tick samples. Notably, the technique revealed the co-existence of multiple pathogens within the same sample group, highlighting its ability in identifying co-detection of pathogens. Additionally, in suspected cases of tick-borne pathogen infection in febrile patients, the method quickly identified positive results for SFTSV and Rickettsia spp. These preliminary results suggest the potential of this method as a promising screening tool for clinical diagnostics, although larger-scale validation is warranted. This method provides a preliminary technical candidate approach for the development of more sensitive field-deployable detection tools.",
       "authors": [
-        "Zhang Z",
-        "Chen B",
-        "Zhao Y"
+        "Fu J",
+        "Fu L",
+        "Chen Q"
       ],
-      "journal": "One health (Amsterdam, Netherlands)",
-      "publicationDate": "Dec 17, 2026",
+      "journal": "PLoS neglected tropical diseases",
+      "publicationDate": "Nov 20, 2026",
       "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42991458/",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43063209/",
       "pathogen": "bartonella",
       "pathogenColor": "#db2777",
       "aiSummary": {
@@ -68,7 +68,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:24.789Z"
+      "fetchedAt": "2026-11-21T13:47:29.441Z"
+    },
+    {
+      "pmid": "43063209",
+      "title": "A novel 17-plex multi-pathogen detection for rapid and accurate diagnosis of tick-borne diseases.",
+      "abstract": "In recent years, anthropogenic ecological disruption has escalated tick-borne zoonoses; ticks transmit taxonomically diverse pathogens with overlapping clinical signs, challenging precise diagnosis and increasing risk of simultaneous detection in pooled samples. Despite advancements, current sequencing technologies, such as Next-Generation Sequencing (NGS), Polymerase Chain Reaction (PCR) assays, and antibody-based detection methods, are hampered by limitations including extended processing times and limited detection throughput. These constraints significantly hinder their effectiveness in high-throughput pathogen screening for animal or patient samples. To address these challenges, we developed an innovative multi-detection method based on the Multi-analyte Suspension Assay (MASA), enabling rapid and accurate diagnosis of a comprehensive panel of 17 vector-borne pathogens. This 17-plex panel comprises Rickettsia spp., Anaplasma phagocytophilum, Borrelia recurrentis, Babesia spp., Borrelia burgdorferi, Rickettsia prowazekii, Rickettsia heilongjiangensis, Orientia tsutsugamushi, Coxiella burnetii, Leptospira, Bartonella spp., Candidatus Ehrlichia erytraense, Hantaan Virus (HTNV), Seoul Virus (SEOV), Crimean-Congo Hemorrhagic Fever Virus (CCHFV), Severe Fever with Thrombocytopenia Syndrome Virus (SFTSV), and Tick-Borne Encephalitis Virus (TBEV). By combining this novel method with traditional techniques, including nested PCR and Real-Time Quantitative Reverse Transcription PCR (qRT-PCR), we achieved accurate detection of pathogens such as Rickettsia spp., Anaplasma phagocytophilum, and SFTSV in tick samples. Notably, the technique revealed the co-existence of multiple pathogens within the same sample group, highlighting its ability in identifying co-detection of pathogens. Additionally, in suspected cases of tick-borne pathogen infection in febrile patients, the method quickly identified positive results for SFTSV and Rickettsia spp. These preliminary results suggest the potential of this method as a promising screening tool for clinical diagnostics, although larger-scale validation is warranted. This method provides a preliminary technical candidate approach for the development of more sensitive field-deployable detection tools.",
+      "authors": [
+        "Fu J",
+        "Fu L",
+        "Chen Q"
+      ],
+      "journal": "PLoS neglected tropical diseases",
+      "publicationDate": "Nov 20, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43063209/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-21T13:47:37.061Z"
     },
     {
       "pmid": "43052621",
@@ -91,7 +114,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:19.846Z"
+      "fetchedAt": "2026-11-21T13:47:29.989Z"
     },
     {
       "pmid": "43049102",
@@ -113,7 +136,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:13.580Z"
+      "fetchedAt": "2026-11-21T13:47:23.170Z"
     },
     {
       "pmid": "43048867",
@@ -136,7 +159,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:14.185Z"
+      "fetchedAt": "2026-11-21T13:47:23.774Z"
     },
     {
       "pmid": "43051342",
@@ -159,7 +182,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:26.139Z"
+      "fetchedAt": "2026-11-21T13:47:37.617Z"
     },
     {
       "pmid": "43046274",
@@ -182,7 +205,30 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:20.409Z"
+      "fetchedAt": "2026-11-21T13:47:30.541Z"
+    },
+    {
+      "pmid": "43063573",
+      "title": "Tafenoquine-associated serum redox metabolic remodeling during Babesia microti infection in mice.",
+      "abstract": "Babesiosis is an important tick-borne parasitic disease with limited therapeutic options. Tafenoquine exhibits potent antibabesial activity, but the metabolic basis underlying its antibabesial activity remains unclear. Here, we investigated metabolic alterations associated with tafenoquine treatment during Babesia microti infection, with a focus on redox regulation. BALB/c mice infected with B. microti were treated with tafenoquine, and serum metabolites were profiled using widely targeted metabolomics. Differential metabolic changes were identified by multivariate and univariate analyses, and redox-related alterations were further evaluated together with biochemical measurements of antioxidant defense and oxidative damage markers. Serum metabolic profiles differed between tafenoquine-treated and untreated infected mice, particularly during the acute infection stage. Redox-related metabolic remodeling was characterized by alterations in metabolites involved in cysteine and methionine metabolism, glutathione metabolism, taurine and related metabolism, and the tricarboxylic acid cycle. Following tafenoquine treatment, superoxide dismutase and glutathione peroxidase activities in serum were lower, whereas malondialdehyde levels were higher, consistent with lipid peroxidation. Together, these metabolomic and biochemical findings are consistent with substantial redox metabolic remodeling associated with tafenoquine treatment during B. microti infection.",
+      "authors": [
+        "Wang Q",
+        "Wang H",
+        "Fang X"
+      ],
+      "journal": "International journal for parasitology. Drugs and drug resistance",
+      "publicationDate": "Nov 17, 2026",
+      "articleType": "Journal Article",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43063573/",
+      "pathogen": "babesia",
+      "pathogenColor": "#2563eb",
+      "aiSummary": {
+        "whatTheyFound": "",
+        "whyItMatters": "",
+        "limitations": "",
+        "raw": ""
+      },
+      "fetchedAt": "2026-11-21T13:47:36.510Z"
     },
     {
       "pmid": "43044679",
@@ -204,7 +250,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:27.241Z"
+      "fetchedAt": "2026-11-21T13:47:38.714Z"
     },
     {
       "pmid": "43039695",
@@ -226,7 +272,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:15.240Z"
+      "fetchedAt": "2026-11-21T13:47:24.821Z"
     },
     {
       "pmid": "43038216",
@@ -249,7 +295,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:15.802Z"
+      "fetchedAt": "2026-11-21T13:47:25.373Z"
     },
     {
       "pmid": "43035312",
@@ -272,7 +318,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:16.355Z"
+      "fetchedAt": "2026-11-21T13:47:25.921Z"
     },
     {
       "pmid": "43025990",
@@ -294,7 +340,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:16.854Z"
+      "fetchedAt": "2026-11-21T13:47:26.421Z"
     },
     {
       "pmid": "43025731",
@@ -316,7 +362,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:17.354Z"
+      "fetchedAt": "2026-11-21T13:47:26.922Z"
     },
     {
       "pmid": "43026010",
@@ -339,7 +385,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:22.022Z"
+      "fetchedAt": "2026-11-21T13:47:32.146Z"
     },
     {
       "pmid": "43025731",
@@ -361,7 +407,7 @@
         "limitations": "AI summary unavailable.",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:28.832Z"
+      "fetchedAt": "2026-11-21T13:47:40.311Z"
     },
     {
       "pmid": "43023268",
@@ -384,7 +430,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:29.385Z"
+      "fetchedAt": "2026-11-21T13:47:40.854Z"
     },
     {
       "pmid": "43022803",
@@ -407,7 +453,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:17.907Z"
+      "fetchedAt": "2026-11-21T13:47:27.472Z"
     },
     {
       "pmid": "43041965",
@@ -428,7 +474,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:20.962Z"
+      "fetchedAt": "2026-11-21T13:47:31.089Z"
     },
     {
       "pmid": "43020238",
@@ -451,7 +497,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:22.573Z"
+      "fetchedAt": "2026-11-21T13:47:32.693Z"
     },
     {
       "pmid": "43015502",
@@ -474,7 +520,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:23.124Z"
+      "fetchedAt": "2026-11-21T13:47:33.241Z"
     },
     {
       "pmid": "43041965",
@@ -495,53 +541,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:27.785Z"
-    },
-    {
-      "pmid": "43018130",
-      "title": "Untitled",
-      "abstract": "The management of moderate to severe systemic lupus erythematosus (SLE) has advanced considerably with the introduction of B-cell-targeted therapies. Several emerging tick-borne diseases (eTBDs) have gained increasing attention as causes of febrile illness with potentially serious complications in predominantly immunocompromised, B-cell-depleted individuals. Since the occurrence of eTBDs remains insufficiently studied in SLE, we aimed to determine whether such infections remain undetected among patients living in a tick-endemic region of Southeastern Sweden. Biobanked sera (n&#xa0;=&#xa0;143) collected during 2015-2024 from 48 SLE patients receiving rituximab or belimumab in Region &#xd6;sterg&#xf6;tland were included. As comparators, samples from patients with quiescent disease on hydroxychloroquine treatment only (n&#xa0;=&#xa0;50) were analysed. All samples were investigated by real-time polymerase chain reaction assays for the presence of the eTBD pathogens Neoehrlichia mikurensis, Borrelia burgdorferi sensu lato, Borrelia miyamotoi, Anaplasma phagocytophilum, Spiroplasma ixodetis, and Babesia spp. No pathogen-specific DNA for the examined eTBDs was detected in serum samples from the included patients. Evidence suggests that B-cell-targeted therapies may raise eTBD risk; however, none of the individuals with SLE included herein was found to be infected, despite the documented presence of these pathogens in Southeastern Sweden. Our findings contrast with those from Norwegian immunocompromised patients, but are in line with data from the Danish nationwide Rheumatological Database, including patients with arthritis receiving tumour necrosis factor inhibitors. Hypothetically, higher doses of glucocorticoids impair B-cell function and increase the risk of eTBD further. Nevertheless, routine eTBD screening of patients with SLE in Southeastern Sweden is not supported by our data.",
-      "authors": [
-        "&#xd6;lfvingsson E",
-        "Lager M",
-        "Henningsson AJ"
-      ],
-      "journal": "Scandinavian journal of rheumatology",
-      "publicationDate": "Nov 12, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43018130/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-20T14:28:30.491Z"
-    },
-    {
-      "pmid": "43018000",
-      "title": "Molecular detection of selected tick-borne agents and genetic diversity of Theileria parva in African buffaloes from Mozambique.",
-      "abstract": "The African buffalo (Syncerus caffer) is an important reservoir of tick-borne pathogens and may contribute to pathogen transmission at wildlife-livestock interfaces. This study investigated the occurrence of Ehrlichia spp., Coxiella burnetii, Babesia spp., Theileria parva and the Theileria orientalis complex in 87 African buffaloes from the Marromeu Reserve, Mozambique, using molecular assays. In addition, the genetic diversity of T. parva was assessed based on distinct molecular markers. Theileria parva DNA was detected in 35/87 (40.2%) samples. Novel p104 and p67 haplotypes not previously reported in African buffaloes or cattle were detected among the sampled animals. The detected p67 sequences were distributed among groups 1, 2, and 3, encompassing different allele types. No sample was positive for Ehrlichia spp., E. ruminantium, T. orientalis complex, Babesia bigemina, Babesia bovis, or C. burnetii. These findings demonstrate a high molecular occurrence and substantial genetic diversity of T. parva, reinforcing the role of African buffaloes as key reservoirs of the causative agent of Corridor Disease.",
-      "authors": [
-        "Secato CT",
-        "Teixeira MMG",
-        "Calchi AC"
-      ],
-      "journal": "Revista brasileira de parasitologia veterinaria = Brazilian journal of veterinary parasitology : Orgao Oficial do Colegio Brasileiro de Parasitologia Veterinaria",
-      "publicationDate": "11 09, 2026",
-      "articleType": "Journal Article",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43018000/",
-      "pathogen": "babesia",
-      "pathogenColor": "#2563eb",
-      "aiSummary": {
-        "whatTheyFound": "",
-        "whyItMatters": "",
-        "limitations": "",
-        "raw": ""
-      },
-      "fetchedAt": "2026-11-20T14:28:31.052Z"
+      "fetchedAt": "2026-11-21T13:47:39.265Z"
     },
     {
       "pmid": "43027263",
@@ -564,7 +564,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:28.334Z"
+      "fetchedAt": "2026-11-21T13:47:39.811Z"
     },
     {
       "pmid": "43027258",
@@ -587,7 +587,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:21.523Z"
+      "fetchedAt": "2026-11-21T13:47:31.645Z"
     },
     {
       "pmid": "43048103",
@@ -609,7 +609,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:14.740Z"
+      "fetchedAt": "2026-11-21T13:47:24.320Z"
     },
     {
       "pmid": "43022380",
@@ -632,7 +632,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:29.933Z"
+      "fetchedAt": "2026-11-21T13:47:41.407Z"
     },
     {
       "pmid": "43011688",
@@ -655,7 +655,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:23.678Z"
+      "fetchedAt": "2026-11-21T13:47:33.809Z"
     },
     {
       "pmid": "43017705",
@@ -678,7 +678,7 @@
         "limitations": "",
         "raw": ""
       },
-      "fetchedAt": "2026-11-20T14:28:18.457Z"
+      "fetchedAt": "2026-11-21T13:47:28.026Z"
     }
   ]
 }
